@@ -1,0 +1,4 @@
+---
+title: "La Barbería"
+url: /toronto/la-barberia/
+---

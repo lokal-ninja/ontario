@@ -1,0 +1,4 @@
+---
+title: "Life of Manek"
+url: /toronto/life-of-manek/
+---

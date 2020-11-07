@@ -1,0 +1,4 @@
+---
+title: "Bread & Roses"
+url: /toronto/bread-and-roses/
+---

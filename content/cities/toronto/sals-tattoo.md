@@ -1,0 +1,4 @@
+---
+title: "Sal's Tattoo"
+url: /toronto/sals-tattoo/
+---
