@@ -1,6 +1,6 @@
 ---
 title: St-Eugène
 url: /st-eugene/
-latitude: 45.499255500000004
-longitude: -74.46502770000001
+latitude: 45.4993117
+longitude: -74.4651271
 ---
