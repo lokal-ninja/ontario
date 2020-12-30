@@ -1,0 +1,4 @@
+---
+title: "Cannabis Bazaar"
+url: /gananoque/cannabis-bazaar/
+---
