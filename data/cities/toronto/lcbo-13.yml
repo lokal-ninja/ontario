@@ -1,12 +1,11 @@
-id: 22372262
-type: way
-shop: alcohol
-latitude: 43.6807803
-longitude: -79.3907032
-postcode: "M4W 3Y9"
+id: 6476781728
+type: node
+latitude: 43.642440300000004
+longitude: -79.3806144
+postcode: "M5J 0A3"
 city: Toronto
-street: "Scrivener Square"
-housenumber: 10
+street: "York Street"
+housenumber: 15
 phone: ""
-opening_hours: ""
-website: "https://www.lcbo.com/"
+opening_hours: "Mo-Sa 09:30-21:00, Su 11:00-18:00"
+website: ""

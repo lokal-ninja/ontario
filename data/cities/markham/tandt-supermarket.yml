@@ -1,6 +1,5 @@
 id: 683617071
 type: node
-shop: supermarket
 latitude: 43.8221949
 longitude: -79.3265803
 postcode: "L3R 5Y2"
@@ -8,5 +7,5 @@ city: Markham
 street: "Warden Avenue"
 housenumber: 7070
 phone: "+1-905-470-8113"
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Su 08:00-00:00"
+website: "https://www.tntsupermarket.com/"

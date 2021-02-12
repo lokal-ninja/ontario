@@ -1,4 +1,5 @@
 ---
 title: "Metro Dry Cleaners"
 url: /toronto/metro-dry-cleaners/
+shop: laundry
 ---

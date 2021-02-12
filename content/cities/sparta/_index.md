@@ -1,6 +1,6 @@
 ---
 title: Sparta
 url: /sparta/
-latitude: 42.702410900000004
-longitude: -81.0785281
+latitude: 42.7025017
+longitude: -81.07873400000001
 ---

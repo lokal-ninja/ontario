@@ -1,12 +1,11 @@
 id: 7720999120
 type: node
-shop: storage rental
 latitude: 43.7526996
 longitude: -79.34761130000001
 postcode: "M3B 3R5"
 city: Toronto
 street: "Don Mills Road"
 housenumber: 1450
-phone: "(647) 559-2712"
-opening_hours: "Monday-Friday 9:00:AM - 6:00:PM, Saturday 9:00:AM - 5:00:PM, Sunday 11:00:AM - 3:00:PM"
+phone: "+1-647-559-2712"
+opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su 11:00-15:00"
 website: "https://bluebirdstorage.ca/facilities/toronto-don-mills/"

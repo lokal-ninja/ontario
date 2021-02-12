@@ -1,12 +1,11 @@
-id: 2871321826
-type: node
-shop: alcohol
-latitude: 43.6120679
-longitude: -79.6016793
-postcode: "L4Y 2N6"
+id: 77743178
+type: way
+latitude: 43.5643101
+longitude: -79.57124610000001
+postcode: ""
 city: Mississauga
-street: "Bloor Street"
-housenumber: 1125
+street: "Lakeshore Road East"
+housenumber: 420
 phone: ""
-opening_hours: "Mo-Fr 10:00-21:00; Sa 09:30-21:00; Su 12:00-17:00"
-website: "http://www.thebeerstore.ca/locations/bloorrunningbrook"
+opening_hours: ""
+website: "http://www.thebeerstore.ca/"

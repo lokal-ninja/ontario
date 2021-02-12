@@ -1,12 +1,11 @@
-id: 247364804
-type: way
-shop: furniture
-latitude: 43.4333692
-longitude: -80.56158400000001
-postcode: "N2N 0B1"
+id: 4286143070
+type: node
+latitude: 43.4085491
+longitude: -80.3987592
+postcode: "N2P 2E9"
 city: Kitchener
-street: "The Boardwalk"
-housenumber: 125
-phone: ""
+street: "King Street East"
+housenumber: 4283
+phone: "+1-519-653-1099"
 opening_hours: ""
-website: "https://www.thebrick.com/pages/store-waterloo-brick"
+website: "https://www.thebrick.com/"
