@@ -7,5 +7,5 @@ city: Hamilton
 street: "Main Street East"
 housenumber: 1249
 phone: ""
-opening_hours: "Tues, Wed, Saturday 10:00-17:00, Fri 12:00-20:00"
+opening_hours: "Tu,We,Sa 10:00-17:00; Fr 12:00-20:00"
 website: ""

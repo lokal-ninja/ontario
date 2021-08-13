@@ -1,6 +1,6 @@
 ---
 title: Concord
 url: /concord/
-latitude: 43.800671300000005
-longitude: -79.4990762
+latitude: 43.8003622
+longitude: -79.4993876
 ---

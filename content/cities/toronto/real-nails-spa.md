@@ -1,5 +1,5 @@
 ---
 title: "Real Nails Spa"
 url: /toronto/real-nails-spa/
-shop: vacant
+shop: beauty
 ---

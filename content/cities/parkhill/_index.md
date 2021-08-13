@@ -1,6 +1,6 @@
 ---
 title: Parkhill
 url: /parkhill/
-latitude: 43.1622968
-longitude: -81.6841742
+latitude: 43.1622799
+longitude: -81.6842168
 ---
