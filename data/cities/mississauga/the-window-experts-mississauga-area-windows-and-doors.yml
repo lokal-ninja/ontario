@@ -7,5 +7,5 @@ city: Mississauga
 street: "Matheson Blvd"
 housenumber: 200
 phone: "647-503-4514"
-opening_hours: "Mo:Fr : 8a.m.–7p.m; Saturday 9a.m.–5p.m."
+opening_hours: "Mo,Fr 08:00-19:00; Sa 09:00-17:00"
 website: "https://thewindowexperts.ca/windows-and-doors-mississauga/"

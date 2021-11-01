@@ -1,11 +1,11 @@
-id: 255346193
-type: way
-latitude: 43.2356989
-longitude: -79.8765211
-postcode: "L9C 5R8"
+id: 6655761595
+type: node
+latitude: 43.2583014
+longitude: -79.8728116
+postcode: "L8P 1A1"
 city: Hamilton
-street: "Upper James Street"
-housenumber: 657
-phone: ""
-opening_hours: "10:00-22:00"
-website: ""
+street: "King Street West"
+housenumber: 2
+phone: "+19055297414"
+opening_hours: "Mo-Sa 10:00-20:00; Su 12:00-17:00"
+website: "https://www.lcbo.com/"
