@@ -1,5 +1,5 @@
 ---
-title: "Habitat For Humanity ReStore"
+title: "Habitat for Humanity ReStore"
 url: /kingston/habitat-for-humanity-restore/
-shop: doityourself
+shop: charity
 ---

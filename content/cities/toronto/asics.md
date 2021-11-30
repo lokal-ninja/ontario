@@ -1,5 +1,5 @@
 ---
-title: "Asics"
+title: "ASICS"
 url: /toronto/asics/
-shop: clothes
+shop: shoes
 ---

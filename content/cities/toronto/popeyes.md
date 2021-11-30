@@ -1,5 +1,5 @@
 ---
-title: "Popeye’s"
+title: "Popeye's"
 url: /toronto/popeyes/
-shop: herbalist
+shop: nutrition supplements
 ---
