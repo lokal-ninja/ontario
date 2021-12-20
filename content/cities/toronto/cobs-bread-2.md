@@ -1,5 +1,5 @@
 ---
-title: "Cobs Bread"
+title: "COBS Bread"
 url: /toronto/cobs-bread-2/
 shop: bakery
 ---
