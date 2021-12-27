@@ -1,6 +1,6 @@
 ---
 title: Casselman
 url: /casselman/
-latitude: 45.313529
-longitude: -75.086746
+latitude: 45.305
+longitude: -75.073
 ---

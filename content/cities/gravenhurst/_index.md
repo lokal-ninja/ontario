@@ -1,6 +1,6 @@
 ---
 title: Gravenhurst
 url: /gravenhurst/
-latitude: 44.917410000000004
-longitude: -79.373131
+latitude: 44.908
+longitude: -79.371
 ---

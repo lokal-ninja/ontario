@@ -1,5 +1,5 @@
 ---
 title: "Bright Vision Optical"
 url: /mississauga/bright-vision-optical/
-shop: optician
+shop: Optiker
 ---

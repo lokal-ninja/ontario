@@ -1,6 +1,6 @@
 ---
 title: Blessington
 url: /blessington/
-latitude: 
-longitude: 
+latitude: 44.263
+longitude: -77.264
 ---

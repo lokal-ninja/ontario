@@ -1,5 +1,5 @@
 ---
 title: "Float Mississauga"
 url: /mississauga/float-mississauga/
-shop: beauty
+shop: Kosmetik
 ---

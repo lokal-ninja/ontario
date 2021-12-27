@@ -1,6 +1,6 @@
 ---
 title: Scugog
 url: /scugog/
-latitude: 
-longitude: 
+latitude: 44.092
+longitude: -78.94
 ---

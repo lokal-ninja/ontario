@@ -1,5 +1,5 @@
 ---
 title: "Dash Vapes"
 url: /barrie/dash-vapes/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

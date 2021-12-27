@@ -1,5 +1,5 @@
 ---
 title: "Food Depot Supermarket"
 url: /scarborough/food-depot-supermarket/
-shop: supermarket
+shop: Supermarkt
 ---

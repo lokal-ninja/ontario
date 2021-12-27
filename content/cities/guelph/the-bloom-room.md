@@ -1,5 +1,5 @@
 ---
 title: "The Bloom Room"
 url: /guelph/the-bloom-room/
-shop: florist
+shop: Blumen
 ---

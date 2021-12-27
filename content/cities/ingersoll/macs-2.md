@@ -1,5 +1,5 @@
 ---
 title: "Mac's"
 url: /ingersoll/macs-2/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Oakville
 url: /oakville/
-latitude: 
-longitude: 
+latitude: 43.394
+longitude: -79.711
 ---

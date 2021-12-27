@@ -1,6 +1,6 @@
 ---
 title: Welland
 url: /welland/
-latitude: 42.9922181
-longitude: -79.2484192
+latitude: 42.985
+longitude: -79.24
 ---

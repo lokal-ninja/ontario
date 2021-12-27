@@ -1,5 +1,5 @@
 ---
 title: "Marianne Style!"
 url: /smiths-falls/marianne-style/
-shop: clothes
+shop: Kleidung
 ---

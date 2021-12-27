@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /scarborough/dsw/
-shop: shoes
+shop: Schuhe
 ---

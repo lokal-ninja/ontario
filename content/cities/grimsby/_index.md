@@ -1,6 +1,6 @@
 ---
 title: Grimsby
 url: /grimsby/
-latitude: 43.1932094
-longitude: -79.5606922
+latitude: 43.201
+longitude: -79.572
 ---

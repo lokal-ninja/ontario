@@ -1,6 +1,6 @@
 ---
 title: Thorold
 url: /thorold/
-latitude: 43.1249127
-longitude: -79.20059350000001
+latitude: 43.123
+longitude: -79.199
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cinderella's Boutique"
 url: /arthur/cinderellas-boutique/
-shop: clothes
+shop: Kleidung
 ---

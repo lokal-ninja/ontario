@@ -1,5 +1,5 @@
 ---
 title: "Madani"
 url: /richmond-hill-oak-ridges/madani/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,6 +1,6 @@
 ---
 title: Brooklin
 url: /brooklin/
-latitude: 43.9587134
-longitude: -78.96005430000001
+latitude: 43.957
+longitude: -78.961
 ---

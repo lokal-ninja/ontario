@@ -1,5 +1,5 @@
 ---
 title: "Avio Flowers"
 url: /north-york/avio-flowers/
-shop: florist
+shop: Blumen
 ---

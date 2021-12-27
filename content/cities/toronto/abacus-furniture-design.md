@@ -1,5 +1,5 @@
 ---
 title: "ABACUS Furniture Design"
 url: /toronto/abacus-furniture-design/
-shop: furniture
+shop: Möbel
 ---

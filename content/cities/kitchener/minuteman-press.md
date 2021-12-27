@@ -1,5 +1,5 @@
 ---
 title: "Minuteman Press"
 url: /kitchener/minuteman-press/
-shop: copyshop
+shop: Kopieren
 ---

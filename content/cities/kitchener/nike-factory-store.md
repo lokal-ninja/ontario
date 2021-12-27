@@ -1,5 +1,5 @@
 ---
 title: "Nike Factory Store"
 url: /kitchener/nike-factory-store/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,6 +1,6 @@
 ---
 title: MacTier
 url: /mactier/
-latitude: 45.1362642
-longitude: -79.7692236
+latitude: 45.133
+longitude: -79.77
 ---

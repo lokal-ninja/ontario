@@ -1,5 +1,5 @@
 ---
 title: "FrameWorks"
 url: /kingston/frameworks/
-shop: frame
+shop: Rahmen
 ---

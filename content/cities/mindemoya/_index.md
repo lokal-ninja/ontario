@@ -1,6 +1,6 @@
 ---
 title: Mindemoya
 url: /mindemoya/
-latitude: 
-longitude: 
+latitude: 45.732
+longitude: -82.167
 ---

@@ -1,6 +1,6 @@
 ---
 title: Kenabeek
 url: /kenabeek/
-latitude: 47.638721200000006
-longitude: -79.9745978
+latitude: 47.639
+longitude: -79.995
 ---

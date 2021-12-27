@@ -1,5 +1,5 @@
 ---
 title: "African Caribbean Groceries"
 url: /etobicoke/african-caribbean-groceries/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

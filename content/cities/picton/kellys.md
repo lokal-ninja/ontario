@@ -1,5 +1,5 @@
 ---
 title: "Kelly's"
 url: /picton/kellys/
-shop: gift
+shop: Andenken
 ---

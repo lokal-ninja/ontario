@@ -1,5 +1,5 @@
 ---
 title: "Uniqlo"
 url: /toronto/uniqlo/
-shop: clothes
+shop: Kleidung
 ---

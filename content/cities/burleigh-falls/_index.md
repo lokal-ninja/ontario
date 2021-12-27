@@ -1,6 +1,6 @@
 ---
 title: Burleigh Falls
 url: /burleigh-falls/
-latitude: 44.5580152
-longitude: -78.2061501
+latitude: 44.578
+longitude: -78.181
 ---

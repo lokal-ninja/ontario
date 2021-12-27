@@ -1,5 +1,5 @@
 ---
 title: "Psyche"
 url: /toronto/psyche/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PureTrim"
 url: /windsor/puretrim/
-shop: nutrition supplements
+shop: Nahrungsergänzung
 ---

@@ -1,6 +1,6 @@
 ---
 title: Pike Bay
 url: /pike-bay/
-latitude: 
-longitude: 
+latitude: 44.869
+longitude: -81.322
 ---

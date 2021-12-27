@@ -1,5 +1,5 @@
 ---
 title: "Home Hardware"
 url: /east-york/home-hardware/
-shop: hardware
+shop: Eisenwaren
 ---

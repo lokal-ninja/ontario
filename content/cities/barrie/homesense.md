@@ -1,5 +1,5 @@
 ---
 title: "HomeSense"
 url: /barrie/homesense/
-shop: interior decoration
+shop: Raumausstattung
 ---

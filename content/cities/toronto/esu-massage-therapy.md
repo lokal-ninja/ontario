@@ -1,5 +1,5 @@
 ---
 title: "Esu Massage Therapy"
 url: /toronto/esu-massage-therapy/
-shop: massage
+shop: Massage
 ---

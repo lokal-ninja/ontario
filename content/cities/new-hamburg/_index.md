@@ -1,6 +1,6 @@
 ---
 title: New Hamburg
 url: /new-hamburg/
-latitude: 43.3784216
-longitude: -80.70977160000001
+latitude: 43.378
+longitude: -80.709
 ---

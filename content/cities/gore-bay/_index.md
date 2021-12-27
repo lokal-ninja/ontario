@@ -1,6 +1,6 @@
 ---
 title: Gore Bay
 url: /gore-bay/
-latitude: 
-longitude: 
+latitude: 45.916
+longitude: -82.464
 ---

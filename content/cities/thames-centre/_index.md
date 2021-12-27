@@ -1,6 +1,6 @@
 ---
 title: Thames Centre
 url: /thames-centre/
-latitude: 
-longitude: 
+latitude: 43.024
+longitude: -81.112
 ---

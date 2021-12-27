@@ -1,5 +1,5 @@
 ---
 title: "Esso"
 url: /brantford/esso/
-shop: convenience
+shop: Lebensmittel
 ---

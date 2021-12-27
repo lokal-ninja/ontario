@@ -1,6 +1,6 @@
 ---
 title: Cambray
 url: /cambray/
-latitude: 
-longitude: 
+latitude: 44.411
+longitude: -78.833
 ---

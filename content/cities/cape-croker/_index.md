@@ -1,6 +1,6 @@
 ---
 title: Cape Croker
 url: /cape-croker/
-latitude: 
-longitude: 
+latitude: 44.888
+longitude: -81.034
 ---

@@ -1,6 +1,6 @@
 ---
 title: North Bay
 url: /north-bay/
-latitude: 
-longitude: 
+latitude: 46.328
+longitude: -79.466
 ---

@@ -1,6 +1,6 @@
 ---
 title: Lucan
 url: /lucan/
-latitude: 43.187814800000005
-longitude: -81.4031356
+latitude: 43.189
+longitude: -81.404
 ---

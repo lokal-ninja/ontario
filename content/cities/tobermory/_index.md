@@ -1,6 +1,6 @@
 ---
 title: Tobermory
 url: /tobermory/
-latitude: 
-longitude: 
+latitude: 45.231
+longitude: -81.631
 ---

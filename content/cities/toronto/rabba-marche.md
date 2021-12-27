@@ -1,5 +1,5 @@
 ---
 title: "Rabba Marché"
 url: /toronto/rabba-marche/
-shop: convenience
+shop: Lebensmittel
 ---

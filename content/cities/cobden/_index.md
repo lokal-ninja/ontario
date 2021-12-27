@@ -1,6 +1,6 @@
 ---
 title: Cobden
 url: /cobden/
-latitude: 45.6276233
-longitude: -76.87903850000001
+latitude: 45.627
+longitude: -76.883
 ---

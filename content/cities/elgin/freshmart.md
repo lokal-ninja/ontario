@@ -1,5 +1,5 @@
 ---
 title: "Freshmart"
 url: /elgin/freshmart/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SnackExpress"
 url: /keswick/snackexpress/
-shop: convenience
+shop: Lebensmittel
 ---

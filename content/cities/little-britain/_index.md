@@ -1,6 +1,6 @@
 ---
 title: Little Britain
 url: /little-britain/
-latitude: 46.500477200000006
-longitude: -81.0130659
+latitude: 44.285
+longitude: -78.859
 ---

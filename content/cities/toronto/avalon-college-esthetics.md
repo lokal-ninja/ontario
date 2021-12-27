@@ -1,5 +1,5 @@
 ---
 title: "Avalon College Esthetics"
 url: /toronto/avalon-college-esthetics/
-shop: beauty
+shop: Kosmetik
 ---

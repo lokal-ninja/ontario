@@ -1,5 +1,5 @@
 ---
 title: "Vaughan Mills"
 url: /vaughan/vaughan-mills/
-shop: mall
+shop: Einkaufszentrum
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bridgenorth
 url: /bridgenorth/
-latitude: 44.3793451
-longitude: -78.3849347
+latitude: 44.379
+longitude: -78.385
 ---

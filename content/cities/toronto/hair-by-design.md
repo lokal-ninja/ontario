@@ -1,5 +1,5 @@
 ---
 title: "Hair by Design"
 url: /toronto/hair-by-design/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,6 +1,6 @@
 ---
 title: Beardmore
 url: /beardmore/
-latitude: 49.5998657
-longitude: -87.95768170000001
+latitude: 49.601
+longitude: -87.96
 ---

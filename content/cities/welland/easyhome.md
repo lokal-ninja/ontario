@@ -1,5 +1,5 @@
 ---
 title: "Easyhome"
 url: /welland/easyhome/
-shop: furniture
+shop: Möbel
 ---

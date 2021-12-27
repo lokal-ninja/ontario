@@ -1,5 +1,5 @@
 ---
 title: "Peter's Electronic Repair"
 url: /pembroke/peters-electronic-repair/
-shop: electronics
+shop: Elektronik
 ---

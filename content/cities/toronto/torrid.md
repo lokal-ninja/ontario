@@ -1,5 +1,5 @@
 ---
 title: "Torrid"
 url: /toronto/torrid/
-shop: clothes
+shop: Kleidung
 ---

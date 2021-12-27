@@ -1,6 +1,6 @@
 ---
 title: Oshwekan
 url: /oshwekan/
-latitude: 
-longitude: 
+latitude: 43.022
+longitude: -80.047
 ---

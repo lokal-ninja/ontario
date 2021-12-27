@@ -1,6 +1,6 @@
 ---
 title: Dunchurch
 url: /dunchurch/
-latitude: 45.6456056
-longitude: -79.8545193
+latitude: 45.644
+longitude: -79.857
 ---

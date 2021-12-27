@@ -1,6 +1,6 @@
 ---
 title: Cookstown
 url: /cookstown/
-latitude: 44.1897548
-longitude: -79.7017017
+latitude: 44.197
+longitude: -79.652
 ---

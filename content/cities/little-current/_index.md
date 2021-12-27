@@ -1,6 +1,6 @@
 ---
 title: Little Current
 url: /little-current/
-latitude: 45.9800486
-longitude: -81.9267993
+latitude: 45.978
+longitude: -81.921
 ---

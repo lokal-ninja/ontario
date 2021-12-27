@@ -1,5 +1,5 @@
 ---
 title: "Clouds and Coils"
 url: /brampton/clouds-and-coils/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

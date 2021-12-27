@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /mississauga/costco/
-shop: wholesale
+shop: Großhandel
 ---

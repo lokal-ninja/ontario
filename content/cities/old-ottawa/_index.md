@@ -1,6 +1,6 @@
 ---
 title: (Old) Ottawa
 url: /old-ottawa/
-latitude: 
-longitude: 
+latitude: 45.43
+longitude: -75.639
 ---

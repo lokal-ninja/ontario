@@ -1,5 +1,5 @@
 ---
 title: "Altered States Comics"
 url: /mississauga/altered-states-comics/
-shop: books
+shop: Bücher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Foodland"
 url: /thornbury/foodland/
-shop: supermarket
+shop: Supermarkt
 ---

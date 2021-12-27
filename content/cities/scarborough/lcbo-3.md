@@ -1,5 +1,5 @@
 ---
 title: "LCBO"
 url: /scarborough/lcbo-3/
-shop: alcohol
+shop: Spirituosen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Summer House"
 url: /barrie/summer-house/
-shop: furniture
+shop: Möbel
 ---

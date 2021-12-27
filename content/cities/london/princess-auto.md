@@ -1,5 +1,5 @@
 ---
 title: "Princess Auto"
 url: /london/princess-auto/
-shop: hardware
+shop: Eisenwaren
 ---

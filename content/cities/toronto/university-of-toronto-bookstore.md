@@ -1,5 +1,5 @@
 ---
 title: "University of Toronto Bookstore"
 url: /toronto/university-of-toronto-bookstore/
-shop: books
+shop: Bücher
 ---

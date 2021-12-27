@@ -1,6 +1,6 @@
 ---
 title: Norfolk County
 url: /norfolk-county/
-latitude: 
-longitude: 
+latitude: 42.83
+longitude: -80.336
 ---

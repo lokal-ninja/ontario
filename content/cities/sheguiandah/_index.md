@@ -1,6 +1,6 @@
 ---
 title: Sheguiandah
 url: /sheguiandah/
-latitude: 45.8950216
-longitude: -81.91993690000001
+latitude: 45.889
+longitude: -81.922
 ---

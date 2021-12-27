@@ -1,6 +1,6 @@
 ---
 title: Etoicoke
 url: /etoicoke/
-latitude: 
-longitude: 
+latitude: 43.615
+longitude: -79.557
 ---

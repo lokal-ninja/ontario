@@ -1,6 +1,6 @@
 ---
 title: Township of Mulmur
 url: /township-of-mulmur/
-latitude: 
-longitude: 
+latitude: 44.143
+longitude: -80.032
 ---

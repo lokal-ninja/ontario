@@ -1,6 +1,6 @@
 ---
 title: Christian Island
 url: /christian-island/
-latitude: 
-longitude: 
+latitude: 44.822
+longitude: -80.173
 ---

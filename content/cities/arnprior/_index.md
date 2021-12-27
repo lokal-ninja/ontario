@@ -1,6 +1,6 @@
 ---
 title: Arnprior
 url: /arnprior/
-latitude: 
-longitude: 
+latitude: 45.435
+longitude: -76.355
 ---

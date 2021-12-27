@@ -1,6 +1,6 @@
 ---
 title: Windham Centre
 url: /windham-centre/
-latitude: 42.915547800000006
-longitude: -80.42095330000001
+latitude: 42.892
+longitude: -80.33
 ---

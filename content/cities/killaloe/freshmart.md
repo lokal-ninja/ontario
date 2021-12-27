@@ -1,5 +1,5 @@
 ---
 title: "Freshmart"
 url: /killaloe/freshmart/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,6 +1,6 @@
 ---
 title: Manitowaning
 url: /manitowaning/
-latitude: 45.742986
-longitude: -81.810439
+latitude: 45.744
+longitude: -81.807
 ---

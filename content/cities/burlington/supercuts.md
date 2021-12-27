@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /burlington/supercuts/
-shop: hairdresser
+shop: Friseur
 ---

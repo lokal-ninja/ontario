@@ -1,5 +1,5 @@
 ---
 title: "Pretty Nails"
 url: /etobicoke/pretty-nails/
-shop: beauty
+shop: Kosmetik
 ---

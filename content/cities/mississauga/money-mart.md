@@ -1,5 +1,5 @@
 ---
 title: "Money Mart"
 url: /mississauga/money-mart/
-shop: shop
+shop: Allgemein
 ---

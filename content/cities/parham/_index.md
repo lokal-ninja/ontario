@@ -1,6 +1,6 @@
 ---
 title: Parham
 url: /parham/
-latitude: 
-longitude: 
+latitude: 44.656
+longitude: -76.713
 ---

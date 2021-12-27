@@ -1,5 +1,5 @@
 ---
 title: "Mac's"
 url: /mount-brydges/macs/
-shop: convenience
+shop: Lebensmittel
 ---

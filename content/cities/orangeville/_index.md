@@ -1,6 +1,6 @@
 ---
 title: Orangeville
 url: /orangeville/
-latitude: 43.9193171
-longitude: -80.0973754
+latitude: 43.932
+longitude: -80.1
 ---

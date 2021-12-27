@@ -1,6 +1,6 @@
 ---
 title: Barrie
 url: /barrie/
-latitude: 
-longitude: 
+latitude: 44.357
+longitude: -79.717
 ---

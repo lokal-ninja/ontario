@@ -1,6 +1,6 @@
 ---
 title: Morrisburg
 url: /morrisburg/
-latitude: 44.8977043
-longitude: -75.18295450000001
+latitude: 44.903
+longitude: -75.177
 ---

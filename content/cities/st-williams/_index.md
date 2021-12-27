@@ -1,6 +1,6 @@
 ---
 title: St. Williams
 url: /st-williams/
-latitude: 42.667320600000004
-longitude: -80.4151301
+latitude: 42.671
+longitude: -80.391
 ---

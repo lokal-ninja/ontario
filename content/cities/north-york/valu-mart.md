@@ -1,5 +1,5 @@
 ---
 title: "Valu-mart"
 url: /north-york/valu-mart/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ezriders"
 url: /toronto/ezriders/
-shop: motorcycle
+shop: Motorrad
 ---

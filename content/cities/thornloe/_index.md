@@ -1,6 +1,6 @@
 ---
 title: Thornloe
 url: /thornloe/
-latitude: 47.6675948
-longitude: -79.7600853
+latitude: 47.668
+longitude: -79.739
 ---

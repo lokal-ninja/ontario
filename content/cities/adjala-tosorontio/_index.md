@@ -1,6 +1,6 @@
 ---
 title: Adjala-Tosorontio
 url: /adjala-tosorontio/
-latitude: 
-longitude: 
+latitude: 44.141
+longitude: -79.914
 ---

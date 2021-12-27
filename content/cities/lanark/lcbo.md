@@ -1,5 +1,5 @@
 ---
 title: "LCBO"
 url: /lanark/lcbo/
-shop: alcohol
+shop: Spirituosen
 ---

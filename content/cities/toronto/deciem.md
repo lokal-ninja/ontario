@@ -1,5 +1,5 @@
 ---
 title: "Deciem"
 url: /toronto/deciem/
-shop: beauty
+shop: Kosmetik
 ---

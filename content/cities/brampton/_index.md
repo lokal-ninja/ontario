@@ -1,6 +1,6 @@
 ---
 title: Brampton
 url: /brampton/
-latitude: 43.6858146
-longitude: -79.7599337
+latitude: 43.686
+longitude: -79.763
 ---

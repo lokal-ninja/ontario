@@ -1,5 +1,5 @@
 ---
 title: "Flea Market"
 url: /smiths-falls/flea-market/
-shop: antiques
+shop: Antiquitäten
 ---

@@ -1,6 +1,6 @@
 ---
 title: Etobicoke, Toronto
 url: /etobicoke-toronto/
-latitude: 
-longitude: 
+latitude: 43.599
+longitude: -79.513
 ---

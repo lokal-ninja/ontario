@@ -1,6 +1,6 @@
 ---
 title: Elmvale
 url: /elmvale/
-latitude: 45.3968931
-longitude: -75.63064460000001
+latitude: 44.584
+longitude: -79.866
 ---

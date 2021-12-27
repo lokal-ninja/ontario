@@ -1,5 +1,5 @@
 ---
 title: "Mint"
 url: /toronto/mint/
-shop: beauty
+shop: Kosmetik
 ---

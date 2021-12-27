@@ -1,5 +1,5 @@
 ---
 title: "FreshCo"
 url: /welland/freshco/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,6 +1,6 @@
 ---
 title: Kawartha Lakes
 url: /kawartha-lakes/
-latitude: 44.359682500000005
-longitude: -78.7421729
+latitude: 44.614
+longitude: -78.858
 ---

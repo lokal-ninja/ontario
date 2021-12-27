@@ -1,6 +1,6 @@
 ---
 title: Wiarton
 url: /wiarton/
-latitude: 44.743827100000004
-longitude: -81.14081540000001
+latitude: 44.733
+longitude: -81.14
 ---

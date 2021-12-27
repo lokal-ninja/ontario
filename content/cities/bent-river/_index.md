@@ -1,6 +1,6 @@
 ---
 title: Bent River
 url: /bent-river/
-latitude: 
-longitude: 
+latitude: 45.22
+longitude: -79.533
 ---

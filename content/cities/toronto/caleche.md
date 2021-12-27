@@ -1,5 +1,5 @@
 ---
 title: "Caleche"
 url: /toronto/caleche/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "LCBO"
 url: /mississauga/lcbo-2/
-shop: alcohol
+shop: Spirituosen
 ---

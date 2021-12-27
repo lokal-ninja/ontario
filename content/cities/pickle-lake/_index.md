@@ -1,6 +1,6 @@
 ---
 title: Pickle Lake
 url: /pickle-lake/
-latitude: 51.464814200000006
-longitude: -90.1925284
+latitude: 51.467
+longitude: -90.197
 ---

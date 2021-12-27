@@ -1,5 +1,5 @@
 ---
 title: "Wilfred"
 url: /toronto/wilfred/
-shop: clothes
+shop: Kleidung
 ---

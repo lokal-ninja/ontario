@@ -1,5 +1,5 @@
 ---
 title: "SAIL"
 url: /etobicoke/sail/
-shop: outdoor
+shop: Outdoor
 ---

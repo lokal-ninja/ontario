@@ -1,6 +1,6 @@
 ---
 title: Torontoitalian
 url: /torontoitalian/
-latitude: 
-longitude: 
+latitude: 43.67
+longitude: -79.393
 ---

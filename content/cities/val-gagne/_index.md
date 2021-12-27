@@ -1,6 +1,6 @@
 ---
 title: Val Gagne
 url: /val-gagne/
-latitude: 
-longitude: 
+latitude: 48.603
+longitude: -80.639
 ---

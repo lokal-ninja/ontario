@@ -1,6 +1,6 @@
 ---
 title: Harrowsmith
 url: /harrowsmith/
-latitude: 44.4040881
-longitude: -76.6655313
+latitude: 44.405
+longitude: -76.662
 ---

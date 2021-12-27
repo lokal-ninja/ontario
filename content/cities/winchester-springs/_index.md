@@ -1,6 +1,6 @@
 ---
 title: Winchester Springs
 url: /winchester-springs/
-latitude: 45.032330300000005
-longitude: -75.29345760000001
+latitude: 45.032
+longitude: -75.294
 ---

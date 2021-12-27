@@ -1,6 +1,6 @@
 ---
 title: Minesing
 url: /minesing/
-latitude: 44.4429839
-longitude: -79.84237250000001
+latitude: 44.445
+longitude: -79.842
 ---

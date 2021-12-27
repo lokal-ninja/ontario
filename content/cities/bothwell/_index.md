@@ -1,6 +1,6 @@
 ---
 title: Bothwell
 url: /bothwell/
-latitude: 42.6309355
-longitude: -81.8707447
+latitude: 42.577
+longitude: -81.866
 ---

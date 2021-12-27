@@ -1,5 +1,5 @@
 ---
 title: "Cyclemotive"
 url: /toronto/cyclemotive/
-shop: bicycle
+shop: Fahrrad
 ---

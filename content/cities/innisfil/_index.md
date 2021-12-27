@@ -1,6 +1,6 @@
 ---
 title: Innisfil
 url: /innisfil/
-latitude: 
-longitude: 
+latitude: 44.302
+longitude: -79.682
 ---

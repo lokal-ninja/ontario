@@ -1,5 +1,5 @@
 ---
 title: "Barberella"
 url: /toronto/barberella/
-shop: hairdresser
+shop: Friseur
 ---

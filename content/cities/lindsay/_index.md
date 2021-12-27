@@ -1,6 +1,6 @@
 ---
 title: Lindsay
 url: /lindsay/
-latitude: 
-longitude: 
+latitude: 44.356
+longitude: -78.755
 ---

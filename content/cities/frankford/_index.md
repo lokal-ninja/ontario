@@ -1,6 +1,6 @@
 ---
 title: Frankford
 url: /frankford/
-latitude: 44.2025428
-longitude: -77.5948898
+latitude: 44.267
+longitude: -77.622
 ---

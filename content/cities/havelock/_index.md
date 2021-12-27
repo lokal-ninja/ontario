@@ -1,6 +1,6 @@
 ---
 title: Havelock
 url: /havelock/
-latitude: 44.4332227
-longitude: -77.8872927
+latitude: 44.438
+longitude: -77.894
 ---

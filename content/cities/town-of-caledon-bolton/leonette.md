@@ -1,5 +1,5 @@
 ---
 title: "Leonette"
 url: /town-of-caledon-bolton/leonette/
-shop: clothes
+shop: Kleidung
 ---

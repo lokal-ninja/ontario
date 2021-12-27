@@ -1,6 +1,6 @@
 ---
 title: Magnetawan
 url: /magnetawan/
-latitude: 45.665196300000005
-longitude: -79.6438541
+latitude: 45.686
+longitude: -79.662
 ---

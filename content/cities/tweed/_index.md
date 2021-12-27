@@ -1,6 +1,6 @@
 ---
 title: Tweed
 url: /tweed/
-latitude: 
-longitude: 
+latitude: 44.474
+longitude: -77.309
 ---

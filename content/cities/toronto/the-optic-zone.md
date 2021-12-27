@@ -1,5 +1,5 @@
 ---
 title: "The Optic Zone"
 url: /toronto/the-optic-zone/
-shop: optician
+shop: Optiker
 ---

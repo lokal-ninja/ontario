@@ -1,5 +1,5 @@
 ---
 title: "Melonhead"
 url: /aurora/melonhead/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fitness Avenue"
 url: /barrie/fitness-avenue/
-shop: sports
+shop: Sport
 ---

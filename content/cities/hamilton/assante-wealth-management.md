@@ -1,5 +1,5 @@
 ---
 title: "Assante Wealth Management"
 url: /hamilton/assante-wealth-management/
-shop: shop
+shop: Allgemein
 ---

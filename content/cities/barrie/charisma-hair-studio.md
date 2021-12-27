@@ -1,5 +1,5 @@
 ---
 title: "Charisma Hair Studio"
 url: /barrie/charisma-hair-studio/
-shop: hairdresser
+shop: Friseur
 ---

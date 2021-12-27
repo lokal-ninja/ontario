@@ -1,5 +1,5 @@
 ---
 title: "Talize"
 url: /barrie/talize/
-shop: charity
+shop: Gebrauchtwaren
 ---

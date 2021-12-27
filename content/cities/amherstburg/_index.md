@@ -1,6 +1,6 @@
 ---
 title: Amherstburg
 url: /amherstburg/
-latitude: 42.1013315
-longitude: -83.1086458
+latitude: 42.165
+longitude: -82.996
 ---

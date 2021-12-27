@@ -1,6 +1,6 @@
 ---
 title: Grand Valley
 url: /grand-valley/
-latitude: 43.8991217
-longitude: -80.3152465
+latitude: 43.132
+longitude: -79.209
 ---

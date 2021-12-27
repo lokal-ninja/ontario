@@ -1,6 +1,6 @@
 ---
 title: Nestleton Station
 url: /nestleton-station/
-latitude: 
-longitude: 
+latitude: 44.137
+longitude: -78.81
 ---

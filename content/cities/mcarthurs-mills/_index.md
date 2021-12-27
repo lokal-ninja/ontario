@@ -1,6 +1,6 @@
 ---
 title: McArthurs Mills
 url: /mcarthurs-mills/
-latitude: 
-longitude: 
+latitude: 45.127
+longitude: -77.577
 ---

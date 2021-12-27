@@ -1,6 +1,6 @@
 ---
 title: Township of Russell
 url: /township-of-russell/
-latitude: 
-longitude: 
+latitude: 45.256
+longitude: -75.397
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sobeys Express"
 url: /toronto/sobeys-express/
-shop: supermarket
+shop: Supermarkt
 ---

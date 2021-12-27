@@ -1,6 +1,6 @@
 ---
 title: Norland
 url: /norland/
-latitude: 44.7275039
-longitude: -78.81152230000001
+latitude: 44.731
+longitude: -78.819
 ---

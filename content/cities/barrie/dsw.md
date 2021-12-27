@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /barrie/dsw/
-shop: shoes
+shop: Schuhe
 ---

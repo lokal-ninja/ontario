@@ -1,5 +1,5 @@
 ---
 title: "Stone Store"
 url: /guelph/stone-store/
-shop: supermarket
+shop: Supermarkt
 ---

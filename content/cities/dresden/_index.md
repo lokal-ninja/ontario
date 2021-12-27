@@ -1,6 +1,6 @@
 ---
 title: Dresden
 url: /dresden/
-latitude: 42.5909853
-longitude: -82.1795314
+latitude: 42.6
+longitude: -82.179
 ---

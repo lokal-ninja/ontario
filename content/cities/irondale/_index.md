@@ -1,6 +1,6 @@
 ---
 title: Irondale
 url: /irondale/
-latitude: 44.8759013
-longitude: -78.5232316
+latitude: 44.876
+longitude: -78.525
 ---

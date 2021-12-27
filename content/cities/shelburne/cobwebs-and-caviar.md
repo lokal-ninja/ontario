@@ -1,5 +1,5 @@
 ---
 title: "Cobwebs and Caviar"
 url: /shelburne/cobwebs-and-caviar/
-shop: gift
+shop: Andenken
 ---

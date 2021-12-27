@@ -1,5 +1,5 @@
 ---
 title: "The Village Barbershop"
 url: /toronto/the-village-barbershop/
-shop: hairdresser
+shop: Friseur
 ---

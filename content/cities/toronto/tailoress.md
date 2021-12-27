@@ -1,5 +1,5 @@
 ---
 title: "Tailoress"
 url: /toronto/tailoress/
-shop: tailor
+shop: Schneiderei
 ---

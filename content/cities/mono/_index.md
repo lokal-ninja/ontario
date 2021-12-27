@@ -1,6 +1,6 @@
 ---
 title: Mono
 url: /mono/
-latitude: 
-longitude: 
+latitude: 43.939
+longitude: -80.135
 ---

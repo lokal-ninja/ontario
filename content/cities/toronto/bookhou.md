@@ -1,5 +1,5 @@
 ---
 title: "Bookhou"
 url: /toronto/bookhou/
-shop: gift
+shop: Andenken
 ---

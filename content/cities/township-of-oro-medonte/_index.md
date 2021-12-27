@@ -1,6 +1,6 @@
 ---
 title: Township of Oro-Medonte
 url: /township-of-oro-medonte/
-latitude: 
-longitude: 
+latitude: 44.504
+longitude: -79.484
 ---

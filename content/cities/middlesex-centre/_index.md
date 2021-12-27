@@ -1,6 +1,6 @@
 ---
 title: Middlesex Centre
 url: /middlesex-centre/
-latitude: 
-longitude: 
+latitude: 42.908
+longitude: -81.42
 ---

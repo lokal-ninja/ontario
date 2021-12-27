@@ -1,5 +1,5 @@
 ---
 title: "Nader"
 url: /mississauga/nader/
-shop: supermarket
+shop: Supermarkt
 ---

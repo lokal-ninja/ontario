@@ -1,5 +1,5 @@
 ---
 title: "Penningtons"
 url: /hamilton/penningtons/
-shop: clothes
+shop: Kleidung
 ---

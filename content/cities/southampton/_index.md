@@ -1,6 +1,6 @@
 ---
 title: Southampton
 url: /southampton/
-latitude: 44.4957386
-longitude: -81.3715844
+latitude: 44.491
+longitude: -81.376
 ---

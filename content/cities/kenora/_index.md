@@ -1,6 +1,6 @@
 ---
 title: Kenora
 url: /kenora/
-latitude: 54.0245941
-longitude: -89.1618188
+latitude: 49.747
+longitude: -94.48
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Canadian Tire"
 url: /cochrane/canadian-tire/
-shop: doityourself
+shop: Baumarkt
 ---

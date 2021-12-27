@@ -1,5 +1,5 @@
 ---
 title: "Army Issue"
 url: /mississauga/army-issue/
-shop: military
+shop: Militär
 ---

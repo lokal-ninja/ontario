@@ -1,5 +1,5 @@
 ---
 title: "TP Spa Nails"
 url: /etobicoke/tp-spa-nails/
-shop: beauty
+shop: Kosmetik
 ---

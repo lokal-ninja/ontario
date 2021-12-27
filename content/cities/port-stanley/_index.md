@@ -1,6 +1,6 @@
 ---
 title: Port Stanley
 url: /port-stanley/
-latitude: 42.6660437
-longitude: -81.2121712
+latitude: 42.666
+longitude: -81.213
 ---

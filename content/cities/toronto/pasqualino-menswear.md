@@ -1,5 +1,5 @@
 ---
 title: "Pasqualino Menswear"
 url: /toronto/pasqualino-menswear/
-shop: clothes
+shop: Kleidung
 ---

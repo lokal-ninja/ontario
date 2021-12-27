@@ -1,6 +1,6 @@
 ---
 title: Flesherton
 url: /flesherton/
-latitude: 44.2610602
-longitude: -80.54574960000001
+latitude: 44.266
+longitude: -80.555
 ---

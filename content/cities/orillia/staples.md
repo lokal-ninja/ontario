@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /orillia/staples/
-shop: office supplies
+shop: Schreibwaren
 ---

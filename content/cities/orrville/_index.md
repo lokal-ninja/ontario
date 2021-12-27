@@ -1,6 +1,6 @@
 ---
 title: Orrville
 url: /orrville/
-latitude: 45.381059900000004
-longitude: -79.7783776
+latitude: 45.378
+longitude: -79.79
 ---

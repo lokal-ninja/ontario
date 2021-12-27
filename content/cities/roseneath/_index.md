@@ -1,6 +1,6 @@
 ---
 title: Roseneath
 url: /roseneath/
-latitude: 44.1934388
-longitude: -78.0573032
+latitude: 44.187
+longitude: -78.062
 ---

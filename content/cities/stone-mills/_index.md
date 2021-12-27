@@ -1,6 +1,6 @@
 ---
 title: Stone Mills
 url: /stone-mills/
-latitude: 
-longitude: 
+latitude: 44.311
+longitude: -76.938
 ---

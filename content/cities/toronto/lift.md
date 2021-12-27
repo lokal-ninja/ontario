@@ -1,5 +1,5 @@
 ---
 title: "Lift"
 url: /toronto/lift/
-shop: chemist
+shop: Drogerie
 ---

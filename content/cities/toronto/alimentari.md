@@ -1,5 +1,5 @@
 ---
 title: "Alimentari"
 url: /toronto/alimentari/
-shop: deli
+shop: Feinkost
 ---

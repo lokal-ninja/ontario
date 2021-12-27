@@ -1,6 +1,6 @@
 ---
 title: Fisherville
 url: /fisherville/
-latitude: 42.881433
-longitude: -79.903744
+latitude: 42.882
+longitude: -79.904
 ---

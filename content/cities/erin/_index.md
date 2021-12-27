@@ -1,6 +1,6 @@
 ---
 title: Erin
 url: /erin/
-latitude: 43.77506
-longitude: -80.070076
+latitude: 43.77
+longitude: -80.063
 ---

@@ -1,5 +1,5 @@
 ---
 title: "EasyHome"
 url: /london/easyhome/
-shop: furniture
+shop: Möbel
 ---

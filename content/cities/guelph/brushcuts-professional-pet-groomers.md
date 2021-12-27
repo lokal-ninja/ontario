@@ -1,5 +1,5 @@
 ---
 title: "Brushcuts Professional Pet Groomers"
 url: /guelph/brushcuts-professional-pet-groomers/
-shop: pet
+shop: Tiere
 ---

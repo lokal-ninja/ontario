@@ -1,5 +1,5 @@
 ---
 title: "Super Green Convenience"
 url: /amherstburg/super-green-convenience/
-shop: convenience
+shop: Lebensmittel
 ---

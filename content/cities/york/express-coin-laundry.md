@@ -1,5 +1,5 @@
 ---
 title: "Express Coin Laundry"
 url: /york/express-coin-laundry/
-shop: laundry
+shop: Wäscherei
 ---

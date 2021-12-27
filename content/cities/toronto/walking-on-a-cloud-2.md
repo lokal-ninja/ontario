@@ -1,5 +1,5 @@
 ---
 title: "Walking on a Cloud"
 url: /toronto/walking-on-a-cloud-2/
-shop: shoes
+shop: Schuhe
 ---

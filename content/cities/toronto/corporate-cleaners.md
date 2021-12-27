@@ -1,5 +1,5 @@
 ---
 title: "Corporate Cleaners"
 url: /toronto/corporate-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

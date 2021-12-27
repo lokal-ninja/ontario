@@ -1,6 +1,6 @@
 ---
 title: Peterbrough
 url: /peterbrough/
-latitude: 
-longitude: 
+latitude: 44.303
+longitude: -78.324
 ---

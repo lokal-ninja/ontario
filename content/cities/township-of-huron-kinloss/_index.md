@@ -1,6 +1,6 @@
 ---
 title: Township of Huron-Kinloss
 url: /township-of-huron-kinloss/
-latitude: 
-longitude: 
+latitude: 44.093
+longitude: -81.68
 ---

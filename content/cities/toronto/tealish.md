@@ -1,5 +1,5 @@
 ---
 title: "Tealish"
 url: /toronto/tealish/
-shop: tea
+shop: Tee
 ---

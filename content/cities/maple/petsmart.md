@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /maple/petsmart/
-shop: pet
+shop: Tiere
 ---

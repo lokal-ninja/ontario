@@ -1,5 +1,5 @@
 ---
 title: "i.D. Eyewear"
 url: /toronto/i-d-eyewear/
-shop: vacant
+shop: Leerstehend
 ---

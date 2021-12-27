@@ -1,5 +1,5 @@
 ---
 title: "Mandala"
 url: /toronto/mandala/
-shop: convenience
+shop: Lebensmittel
 ---

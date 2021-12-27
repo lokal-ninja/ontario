@@ -1,6 +1,6 @@
 ---
 title: Emo
 url: /emo/
-latitude: 
-longitude: 
+latitude: 48.633
+longitude: -93.834
 ---

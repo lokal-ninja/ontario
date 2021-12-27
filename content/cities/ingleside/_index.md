@@ -1,6 +1,6 @@
 ---
 title: Ingleside
 url: /ingleside/
-latitude: 44.9954941
-longitude: -74.98674270000001
+latitude: 44.994
+longitude: -74.992
 ---

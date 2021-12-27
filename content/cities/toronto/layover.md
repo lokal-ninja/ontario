@@ -1,5 +1,5 @@
 ---
 title: "Layover"
 url: /toronto/layover/
-shop: clothes
+shop: Kleidung
 ---

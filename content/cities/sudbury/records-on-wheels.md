@@ -1,5 +1,5 @@
 ---
 title: "Records on Wheels"
 url: /sudbury/records-on-wheels/
-shop: music
+shop: Musik
 ---

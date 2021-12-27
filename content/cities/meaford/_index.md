@@ -1,6 +1,6 @@
 ---
 title: Meaford
 url: /meaford/
-latitude: 44.6069298
-longitude: -80.5916531
+latitude: 44.591
+longitude: -80.57
 ---

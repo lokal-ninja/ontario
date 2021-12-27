@@ -1,5 +1,5 @@
 ---
 title: "Food Basics"
 url: /north-york/food-basics/
-shop: supermarket
+shop: Supermarkt
 ---

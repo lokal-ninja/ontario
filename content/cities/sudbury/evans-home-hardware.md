@@ -1,5 +1,5 @@
 ---
 title: "Evans' Home Hardware"
 url: /sudbury/evans-home-hardware/
-shop: doityourself
+shop: Baumarkt
 ---

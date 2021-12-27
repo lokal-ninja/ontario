@@ -1,5 +1,5 @@
 ---
 title: "LCBO"
 url: /clarington/lcbo/
-shop: alcohol
+shop: Spirituosen
 ---

@@ -1,6 +1,6 @@
 ---
 title: Williamsford (Township of Chatsworth)
 url: /williamsford-township-of-chatsworth/
-latitude: 
-longitude: 
+latitude: 44.379
+longitude: -80.872
 ---

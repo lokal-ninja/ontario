@@ -1,5 +1,5 @@
 ---
 title: "Mendocino"
 url: /toronto/mendocino/
-shop: clothes
+shop: Kleidung
 ---

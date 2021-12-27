@@ -1,5 +1,5 @@
 ---
 title: "Esso"
 url: /emo/esso/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Feed It Forward"
 url: /toronto/feed-it-forward/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

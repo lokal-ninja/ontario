@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /etobicoke/dollarama/
-shop: variety store
+shop: Kramladen
 ---

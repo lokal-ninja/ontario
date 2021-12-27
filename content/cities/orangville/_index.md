@@ -1,6 +1,6 @@
 ---
 title: Orangville
 url: /orangville/
-latitude: 
-longitude: 
+latitude: 43.904
+longitude: -80.12
 ---

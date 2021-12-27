@@ -1,5 +1,5 @@
 ---
 title: "Chevrolet"
 url: /smiths-falls/chevrolet/
-shop: car
+shop: Autohaus
 ---

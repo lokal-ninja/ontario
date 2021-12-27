@@ -1,5 +1,5 @@
 ---
 title: "Peachy Cleaners"
 url: /toronto/peachy-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

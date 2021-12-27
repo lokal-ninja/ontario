@@ -1,5 +1,5 @@
 ---
 title: "Forest Hill Photos"
 url: /toronto/forest-hill-photos/
-shop: shop
+shop: Allgemein
 ---

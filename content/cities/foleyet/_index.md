@@ -1,6 +1,6 @@
 ---
 title: Foleyet
 url: /foleyet/
-latitude: 48.244486
-longitude: -82.4420815
+latitude: 48.245
+longitude: -82.441
 ---

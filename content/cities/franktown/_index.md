@@ -1,6 +1,6 @@
 ---
 title: Franktown
 url: /franktown/
-latitude: 45.0406281
-longitude: -76.060592
+latitude: 45.039
+longitude: -76.059
 ---

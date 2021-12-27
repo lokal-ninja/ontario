@@ -1,6 +1,6 @@
 ---
 title: Selwyn
 url: /selwyn/
-latitude: 
-longitude: 
+latitude: 44.468
+longitude: -78.319
 ---

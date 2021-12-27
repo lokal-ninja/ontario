@@ -1,5 +1,5 @@
 ---
 title: "Q-Lab"
 url: /toronto/q-lab/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

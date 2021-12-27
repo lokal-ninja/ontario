@@ -1,6 +1,6 @@
 ---
 title: Holt
 url: /holt/
-latitude: 44.122995100000004
-longitude: -79.34399950000001
+latitude: 44.124
+longitude: -79.344
 ---

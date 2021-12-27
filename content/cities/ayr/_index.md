@@ -1,6 +1,6 @@
 ---
 title: Ayr
 url: /ayr/
-latitude: 43.2855122
-longitude: -80.45070120000001
+latitude: 43.305
+longitude: -80.471
 ---

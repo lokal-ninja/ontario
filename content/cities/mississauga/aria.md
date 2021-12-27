@@ -1,5 +1,5 @@
 ---
 title: "Aria"
 url: /mississauga/aria/
-shop: beauty
+shop: Kosmetik
 ---

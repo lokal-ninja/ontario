@@ -1,5 +1,5 @@
 ---
 title: "Winners"
 url: /timmins/winners/
-shop: clothes
+shop: Kleidung
 ---

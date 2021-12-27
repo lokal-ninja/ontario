@@ -1,6 +1,6 @@
 ---
 title: Paisley
 url: /paisley/
-latitude: 44.306184300000005
-longitude: -81.2727991
+latitude: 44.314
+longitude: -81.275
 ---

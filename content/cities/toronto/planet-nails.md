@@ -1,5 +1,5 @@
 ---
 title: "Planet Nails"
 url: /toronto/planet-nails/
-shop: beauty
+shop: Kosmetik
 ---

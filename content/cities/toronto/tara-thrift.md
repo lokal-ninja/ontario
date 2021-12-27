@@ -1,5 +1,5 @@
 ---
 title: "Tara Thrift"
 url: /toronto/tara-thrift/
-shop: charity
+shop: Gebrauchtwaren
 ---

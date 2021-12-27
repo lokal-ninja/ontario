@@ -1,5 +1,5 @@
 ---
 title: "Bow"
 url: /toronto/bow/
-shop: hairdresser
+shop: Friseur
 ---

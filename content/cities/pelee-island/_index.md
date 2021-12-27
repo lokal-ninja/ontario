@@ -1,6 +1,6 @@
 ---
 title: Pelee Island
 url: /pelee-island/
-latitude: 
-longitude: 
+latitude: 41.762
+longitude: -82.689
 ---

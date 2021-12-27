@@ -1,6 +1,6 @@
 ---
 title: Hawkestone
 url: /hawkestone/
-latitude: 44.497137200000004
-longitude: -79.46743640000001
+latitude: 44.532
+longitude: -79.433
 ---

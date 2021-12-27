@@ -1,5 +1,5 @@
 ---
 title: "Salomon"
 url: /toronto/salomon/
-shop: shoes
+shop: Schuhe
 ---

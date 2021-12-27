@@ -1,6 +1,6 @@
 ---
 title: Bracebridge
 url: /bracebridge/
-latitude: 45.041508
-longitude: -79.310989
+latitude: 45.018
+longitude: -79.315
 ---

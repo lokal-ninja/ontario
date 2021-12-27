@@ -1,6 +1,6 @@
 ---
 title: Desbarats
 url: /desbarats/
-latitude: 46.346326000000005
-longitude: -83.92291370000001
+latitude: 46.337
+longitude: -84.012
 ---

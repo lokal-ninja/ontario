@@ -1,5 +1,5 @@
 ---
 title: "Reader's Choice"
 url: /orangeville/readers-choice/
-shop: books
+shop: Bücher
 ---

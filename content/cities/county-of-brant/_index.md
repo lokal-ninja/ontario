@@ -1,6 +1,6 @@
 ---
 title: County of Brant
 url: /county-of-brant/
-latitude: 
-longitude: 
+latitude: 43.23
+longitude: -80.284
 ---

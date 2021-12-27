@@ -1,5 +1,5 @@
 ---
 title: "Shadowbox"
 url: /mississauga/shadowbox/
-shop: frame
+shop: Rahmen
 ---

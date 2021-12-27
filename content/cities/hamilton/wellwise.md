@@ -1,5 +1,5 @@
 ---
 title: "Wellwise"
 url: /hamilton/wellwise/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Wawa
 url: /wawa/
-latitude: 47.9929283
-longitude: -84.7740199
+latitude: 47.991
+longitude: -84.773
 ---

@@ -1,6 +1,6 @@
 ---
 title: Brussels
 url: /brussels/
-latitude: 43.7433035
-longitude: -81.25053510000001
+latitude: 43.744
+longitude: -81.25
 ---

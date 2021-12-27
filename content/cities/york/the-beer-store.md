@@ -1,5 +1,5 @@
 ---
 title: "The Beer Store"
 url: /york/the-beer-store/
-shop: alcohol
+shop: Spirituosen
 ---

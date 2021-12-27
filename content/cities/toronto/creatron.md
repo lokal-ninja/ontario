@@ -1,5 +1,5 @@
 ---
 title: "Creatron"
 url: /toronto/creatron/
-shop: electronics
+shop: Elektronik
 ---

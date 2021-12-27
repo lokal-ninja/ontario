@@ -1,6 +1,6 @@
 ---
 title: Delaware
 url: /delaware/
-latitude: 42.908128600000005
-longitude: -81.4209222
+latitude: 42.909
+longitude: -81.407
 ---

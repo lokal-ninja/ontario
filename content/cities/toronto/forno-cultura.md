@@ -1,5 +1,5 @@
 ---
 title: "Forno Cultura"
 url: /toronto/forno-cultura/
-shop: bakery
+shop: Bäckerei
 ---

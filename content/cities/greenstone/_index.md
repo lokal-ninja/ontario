@@ -1,6 +1,6 @@
 ---
 title: Greenstone
 url: /greenstone/
-latitude: 
-longitude: 
+latitude: 49.694
+longitude: -86.963
 ---

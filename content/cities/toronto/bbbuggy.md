@@ -1,5 +1,5 @@
 ---
 title: "bbbuggy"
 url: /toronto/bbbuggy/
-shop: shop
+shop: Allgemein
 ---

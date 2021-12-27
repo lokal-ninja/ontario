@@ -1,5 +1,5 @@
 ---
 title: "Head-On Cleaners and Tailors"
 url: /richmond-hill/head-on-cleaners-and-tailors/
-shop: laundry
+shop: Wäscherei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hyundai"
 url: /smiths-falls/hyundai/
-shop: car
+shop: Autohaus
 ---

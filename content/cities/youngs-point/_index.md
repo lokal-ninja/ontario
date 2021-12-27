@@ -1,6 +1,6 @@
 ---
 title: Youngs Point
 url: /youngs-point/
-latitude: 
-longitude: 
+latitude: 44.507
+longitude: -78.216
 ---

@@ -1,6 +1,6 @@
 ---
 title: Whitney
 url: /whitney/
-latitude: 45.4931252
-longitude: -78.2386365
+latitude: 45.493
+longitude: -78.239
 ---

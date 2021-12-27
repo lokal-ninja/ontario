@@ -1,5 +1,5 @@
 ---
 title: "Starsky"
 url: /mississauga/starsky/
-shop: supermarket
+shop: Supermarkt
 ---

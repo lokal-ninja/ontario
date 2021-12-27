@@ -1,5 +1,5 @@
 ---
 title: "Washland Coin Laundry"
 url: /east-york/washland-coin-laundry/
-shop: laundry
+shop: Wäscherei
 ---

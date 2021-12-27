@@ -1,6 +1,6 @@
 ---
 title: Uptergrove
 url: /uptergrove/
-latitude: 
-longitude: 
+latitude: 44.6
+longitude: -79.321
 ---

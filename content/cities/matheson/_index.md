@@ -1,6 +1,6 @@
 ---
 title: Matheson
 url: /matheson/
-latitude: 48.5354964
-longitude: -80.464681
+latitude: 48.532
+longitude: -80.463
 ---

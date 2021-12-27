@@ -1,5 +1,5 @@
 ---
 title: "Davisville Kitchens"
 url: /toronto/davisville-kitchens/
-shop: kitchen
+shop: Küchen
 ---

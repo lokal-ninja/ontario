@@ -1,5 +1,5 @@
 ---
 title: "Wilton Lawn Equipment"
 url: /toronto/wilton-lawn-equipment/
-shop: hardware
+shop: Eisenwaren
 ---

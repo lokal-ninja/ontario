@@ -1,5 +1,5 @@
 ---
 title: "UnideLuxe"
 url: /toronto/unideluxe/
-shop: pawnbroker
+shop: Leiher
 ---

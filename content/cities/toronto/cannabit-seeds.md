@@ -1,5 +1,5 @@
 ---
 title: "Cannabit Seeds"
 url: /toronto/cannabit-seeds/
-shop: garden centre
+shop: Garten-Center
 ---

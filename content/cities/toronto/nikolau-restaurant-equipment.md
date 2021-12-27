@@ -1,5 +1,5 @@
 ---
 title: "Nikolau Restaurant Equipment"
 url: /toronto/nikolau-restaurant-equipment/
-shop: houseware
+shop: Haushaltsartikel
 ---

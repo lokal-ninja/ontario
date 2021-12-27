@@ -1,5 +1,5 @@
 ---
 title: "Everything Vape"
 url: /toronto/everything-vape/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

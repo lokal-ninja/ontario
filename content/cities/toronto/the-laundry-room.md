@@ -1,5 +1,5 @@
 ---
 title: "The Laundry Room"
 url: /toronto/the-laundry-room/
-shop: laundry
+shop: Wäscherei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "LCBO"
 url: /st-catharines/lcbo-3/
-shop: alcohol
+shop: Spirituosen
 ---

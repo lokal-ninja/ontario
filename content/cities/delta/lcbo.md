@@ -1,5 +1,5 @@
 ---
 title: "LCBO"
 url: /delta/lcbo/
-shop: alcohol
+shop: Spirituosen
 ---

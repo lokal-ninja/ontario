@@ -1,6 +1,6 @@
 ---
 title: Breslau
 url: /breslau/
-latitude: 43.4749611
-longitude: -80.4127316
+latitude: 43.478
+longitude: -80.415
 ---

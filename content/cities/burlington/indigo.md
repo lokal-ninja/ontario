@@ -1,5 +1,5 @@
 ---
 title: "Indigo"
 url: /burlington/indigo/
-shop: books
+shop: Bücher
 ---

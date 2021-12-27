@@ -1,6 +1,6 @@
 ---
 title: Nipissing
 url: /nipissing/
-latitude: 46.1990313
-longitude: -78.9738324
+latitude: 46.089
+longitude: -79.512
 ---

@@ -1,6 +1,6 @@
 ---
 title: Oxdrift
 url: /oxdrift/
-latitude: 49.8150703
-longitude: -92.98159340000001
+latitude: 49.815
+longitude: -92.982
 ---

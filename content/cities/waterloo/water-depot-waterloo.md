@@ -1,5 +1,5 @@
 ---
 title: "Water Depot Waterloo"
 url: /waterloo/water-depot-waterloo/
-shop: hardware
+shop: Eisenwaren
 ---

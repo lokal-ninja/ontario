@@ -1,6 +1,6 @@
 ---
 title: Kashecewan
 url: /kashecewan/
-latitude: 
-longitude: 
+latitude: 52.293
+longitude: -81.643
 ---

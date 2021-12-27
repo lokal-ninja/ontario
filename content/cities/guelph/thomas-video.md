@@ -1,5 +1,5 @@
 ---
 title: "Thomas Video"
 url: /guelph/thomas-video/
-shop: video
+shop: Videothek
 ---

@@ -1,6 +1,6 @@
 ---
 title: Sturgeon Falls
 url: /sturgeon-falls/
-latitude: 46.3653409
-longitude: -79.9321566
+latitude: 46.367
+longitude: -79.916
 ---

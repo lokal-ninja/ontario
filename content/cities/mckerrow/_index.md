@@ -1,6 +1,6 @@
 ---
 title: McKerrow
 url: /mckerrow/
-latitude: 
-longitude: 
+latitude: 46.287
+longitude: -81.778
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Toronto Bike Repair"
 url: /toronto/toronto-bike-repair/
-shop: bicycle
+shop: Fahrrad
 ---

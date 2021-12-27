@@ -1,5 +1,5 @@
 ---
 title: "KushKlub"
 url: /toronto/kushklub/
-shop: vacant
+shop: Leerstehend
 ---

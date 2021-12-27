@@ -1,5 +1,5 @@
 ---
 title: "Oops! Express"
 url: /smiths-falls/oops-express/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Winners"
 url: /mississauga/winners/
-shop: clothes
+shop: Kleidung
 ---

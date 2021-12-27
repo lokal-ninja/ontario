@@ -1,5 +1,5 @@
 ---
 title: "Antojitos"
 url: /mississauga/antojitos/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Truckpoint"
 url: /brampton/truckpoint/
-shop: car
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Canadian Car Care"
 url: /etobicoke/canadian-car-care/
-shop: hardware
+shop: Eisenwaren
 ---

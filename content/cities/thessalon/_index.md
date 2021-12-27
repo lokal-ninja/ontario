@@ -1,6 +1,6 @@
 ---
 title: Thessalon
 url: /thessalon/
-latitude: 46.263831100000004
-longitude: -83.5483478
+latitude: 46.851
+longitude: -83.324
 ---

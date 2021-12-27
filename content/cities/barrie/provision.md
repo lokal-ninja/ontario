@@ -1,5 +1,5 @@
 ---
 title: "Provision"
 url: /barrie/provision/
-shop: optician
+shop: Optiker
 ---

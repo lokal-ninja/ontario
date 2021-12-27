@@ -1,5 +1,5 @@
 ---
 title: "Algonquin Outfitters - Opeongo Store"
 url: /dwight/algonquin-outfitters-opeongo-store/
-shop: outdoor
+shop: Outdoor
 ---

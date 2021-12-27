@@ -1,5 +1,5 @@
 ---
 title: "Sarang"
 url: /toronto/sarang/
-shop: beauty
+shop: Kosmetik
 ---

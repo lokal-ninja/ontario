@@ -1,5 +1,5 @@
 ---
 title: "Venezia Bakery"
 url: /toronto/venezia-bakery/
-shop: bakery
+shop: Bäckerei
 ---

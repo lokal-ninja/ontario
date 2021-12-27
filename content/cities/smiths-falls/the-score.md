@@ -1,5 +1,5 @@
 ---
 title: "The Score"
 url: /smiths-falls/the-score/
-shop: charity
+shop: Gebrauchtwaren
 ---

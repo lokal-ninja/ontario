@@ -1,6 +1,6 @@
 ---
 title: North Augusta
 url: /north-augusta/
-latitude: 44.761258100000006
-longitude: -75.738843
+latitude: 44.761
+longitude: -75.739
 ---

@@ -1,5 +1,5 @@
 ---
 title: "L.A. Tan"
 url: /thornhill/l-a-tan/
-shop: beauty
+shop: Kosmetik
 ---

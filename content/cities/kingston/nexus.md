@@ -1,5 +1,5 @@
 ---
 title: "Nexus"
 url: /kingston/nexus/
-shop: games
+shop: Spiele
 ---

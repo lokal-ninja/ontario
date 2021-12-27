@@ -1,6 +1,6 @@
 ---
 title: Muncey
 url: /muncey/
-latitude: 42.8201443
-longitude: -81.4403008
+latitude: 42.828
+longitude: -81.427
 ---

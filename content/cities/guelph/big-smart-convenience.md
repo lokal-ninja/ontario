@@ -1,5 +1,5 @@
 ---
 title: "Big Smart Convenience"
 url: /guelph/big-smart-convenience/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Lambton Shores
 url: /lambton-shores/
-latitude: 
-longitude: 
+latitude: 43.097
+longitude: -82
 ---

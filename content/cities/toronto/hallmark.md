@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /toronto/hallmark/
-shop: gift
+shop: Andenken
 ---

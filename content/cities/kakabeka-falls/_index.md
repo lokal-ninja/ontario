@@ -1,6 +1,6 @@
 ---
 title: Kakabeka Falls
 url: /kakabeka-falls/
-latitude: 
-longitude: 
+latitude: 48.401
+longitude: -89.609
 ---

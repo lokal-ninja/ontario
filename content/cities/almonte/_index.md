@@ -1,6 +1,6 @@
 ---
 title: Almonte
 url: /almonte/
-latitude: 45.226049
-longitude: -76.19452770000001
+latitude: 45.222
+longitude: -76.188
 ---

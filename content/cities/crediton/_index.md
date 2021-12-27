@@ -1,6 +1,6 @@
 ---
 title: Crediton
 url: /crediton/
-latitude: 43.299030300000005
-longitude: -81.5480284
+latitude: 43.3
+longitude: -81.538
 ---

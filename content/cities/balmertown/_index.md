@@ -1,6 +1,6 @@
 ---
 title: Balmertown
 url: /balmertown/
-latitude: 
-longitude: 
+latitude: 51.057
+longitude: -93.746
 ---

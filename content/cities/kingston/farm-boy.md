@@ -1,5 +1,5 @@
 ---
 title: "Farm Boy"
 url: /kingston/farm-boy/
-shop: supermarket
+shop: Supermarkt
 ---

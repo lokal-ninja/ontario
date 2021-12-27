@@ -1,5 +1,5 @@
 ---
 title: "Frank and Oak"
 url: /toronto/frank-and-oak/
-shop: clothes
+shop: Kleidung
 ---

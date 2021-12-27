@@ -1,6 +1,6 @@
 ---
 title: Wahta
 url: /wahta/
-latitude: 
-longitude: 
+latitude: 44.988
+longitude: -79.716
 ---

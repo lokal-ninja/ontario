@@ -1,5 +1,5 @@
 ---
 title: "Bluebird Self Storage"
 url: /mississauga/bluebird-self-storage-3/
-shop: storage rental
+shop: Mieten
 ---

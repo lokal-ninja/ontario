@@ -1,6 +1,6 @@
 ---
 title: Kemptville
 url: /kemptville/
-latitude: 45.0154164
-longitude: -75.64456700000001
+latitude: 45.03
+longitude: -75.629
 ---

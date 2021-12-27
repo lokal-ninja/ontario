@@ -1,5 +1,5 @@
 ---
 title: "Pan Chancho Bakery"
 url: /kingston/pan-chancho-bakery/
-shop: bakery
+shop: Bäckerei
 ---

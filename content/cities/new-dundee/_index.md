@@ -1,6 +1,6 @@
 ---
 title: New Dundee
 url: /new-dundee/
-latitude: 43.349476200000005
-longitude: -80.5361027
+latitude: 43.35
+longitude: -80.533
 ---

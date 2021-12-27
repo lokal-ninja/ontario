@@ -1,5 +1,5 @@
 ---
 title: "Macelleria Potenza"
 url: /etobicoke/macelleria-potenza/
-shop: butcher
+shop: Metzgerei
 ---

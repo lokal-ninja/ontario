@@ -1,5 +1,5 @@
 ---
 title: "Breeze Salon"
 url: /toronto/breeze-salon/
-shop: beauty
+shop: Kosmetik
 ---

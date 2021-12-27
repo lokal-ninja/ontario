@@ -1,6 +1,6 @@
 ---
 title: Halton Hills
 url: /halton-hills/
-latitude: 43.64701
-longitude: -80.017604
+latitude: 43.654
+longitude: -79.908
 ---

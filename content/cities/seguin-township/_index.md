@@ -1,6 +1,6 @@
 ---
 title: Seguin Township
 url: /seguin-township/
-latitude: 
-longitude: 
+latitude: 45.289
+longitude: -79.851
 ---

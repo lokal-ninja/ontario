@@ -1,5 +1,5 @@
 ---
 title: "Noah's"
 url: /toronto/noahs/
-shop: herbalist
+shop: Kräuter
 ---

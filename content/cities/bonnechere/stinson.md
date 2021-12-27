@@ -1,5 +1,5 @@
 ---
 title: "Stinson"
 url: /bonnechere/stinson/
-shop: convenience
+shop: Lebensmittel
 ---

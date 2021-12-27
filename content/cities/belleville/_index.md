@@ -1,6 +1,6 @@
 ---
 title: Belleville
 url: /belleville/
-latitude: 44.1633264
-longitude: -77.38525560000001
+latitude: 44.168
+longitude: -77.385
 ---

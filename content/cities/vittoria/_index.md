@@ -1,6 +1,6 @@
 ---
 title: Vittoria
 url: /vittoria/
-latitude: 42.7624226
-longitude: -80.323385
+latitude: 42.748
+longitude: -80.324
 ---

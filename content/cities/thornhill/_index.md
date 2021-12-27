@@ -1,6 +1,6 @@
 ---
 title: Thornhill
 url: /thornhill/
-latitude: 43.8161477
-longitude: -79.4245925
+latitude: 43.816
+longitude: -79.452
 ---

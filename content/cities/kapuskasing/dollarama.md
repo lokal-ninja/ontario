@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /kapuskasing/dollarama/
-shop: variety store
+shop: Kramladen
 ---

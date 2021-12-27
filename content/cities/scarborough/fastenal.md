@@ -1,5 +1,5 @@
 ---
 title: "Fastenal"
 url: /scarborough/fastenal/
-shop: trade
+shop: Baustoffe
 ---

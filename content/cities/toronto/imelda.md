@@ -1,5 +1,5 @@
 ---
 title: "Imelda"
 url: /toronto/imelda/
-shop: boutique
+shop: Modehaus
 ---

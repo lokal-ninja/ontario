@@ -1,5 +1,5 @@
 ---
 title: "The Crappie Store"
 url: /dresden/the-crappie-store/
-shop: outdoor
+shop: Outdoor
 ---

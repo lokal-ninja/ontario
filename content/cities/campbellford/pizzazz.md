@@ -1,5 +1,5 @@
 ---
 title: "Pizzazz"
 url: /campbellford/pizzazz/
-shop: antiques
+shop: Antiquitäten
 ---

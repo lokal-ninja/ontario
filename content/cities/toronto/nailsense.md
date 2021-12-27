@@ -1,5 +1,5 @@
 ---
 title: "Nailsense"
 url: /toronto/nailsense/
-shop: beauty
+shop: Kosmetik
 ---

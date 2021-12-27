@@ -1,5 +1,5 @@
 ---
 title: "Tim's Mini Mart"
 url: /etobicoke/tims-mini-mart/
-shop: convenience
+shop: Lebensmittel
 ---

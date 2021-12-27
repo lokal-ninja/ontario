@@ -1,5 +1,5 @@
 ---
 title: "Arax Jewellers"
 url: /east-york/arax-jewellers/
-shop: jewelry
+shop: Schmuck
 ---

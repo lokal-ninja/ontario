@@ -1,6 +1,6 @@
 ---
 title: Wellandport
 url: /wellandport/
-latitude: 
-longitude: 
+latitude: 43.009
+longitude: -79.466
 ---

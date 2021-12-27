@@ -1,6 +1,6 @@
 ---
 title: Tillsonburg
 url: /tillsonburg/
-latitude: 42.859494000000005
-longitude: -80.72650150000001
+latitude: 42.86
+longitude: -80.727
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Erskine Tuck Shop"
 url: /toronto/erskine-tuck-shop/
-shop: convenience
+shop: Lebensmittel
 ---

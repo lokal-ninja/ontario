@@ -1,5 +1,5 @@
 ---
 title: "LCBO"
 url: /embrun/lcbo/
-shop: alcohol
+shop: Spirituosen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Casalife"
 url: /toronto/casalife/
-shop: furniture
+shop: Möbel
 ---

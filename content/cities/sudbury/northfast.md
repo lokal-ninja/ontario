@@ -1,5 +1,5 @@
 ---
 title: "Northfast"
 url: /sudbury/northfast/
-shop: doityourself
+shop: Baumarkt
 ---

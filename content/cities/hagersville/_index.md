@@ -1,6 +1,6 @@
 ---
 title: Hagersville
 url: /hagersville/
-latitude: 42.961976
-longitude: -80.0517133
+latitude: 42.99
+longitude: -80.022
 ---

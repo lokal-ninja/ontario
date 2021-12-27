@@ -1,6 +1,6 @@
 ---
 title: Arva
 url: /arva/
-latitude: 43.050475600000006
-longitude: -81.2948873
+latitude: 43.05
+longitude: -81.294
 ---

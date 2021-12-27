@@ -1,6 +1,6 @@
 ---
 title: Leamington
 url: /leamington/
-latitude: 42.046708800000005
-longitude: -82.60032120000001
+latitude: 42.053
+longitude: -82.602
 ---

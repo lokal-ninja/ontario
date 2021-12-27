@@ -1,5 +1,5 @@
 ---
 title: "Foodland"
 url: /cayuga/foodland/
-shop: supermarket
+shop: Supermarkt
 ---

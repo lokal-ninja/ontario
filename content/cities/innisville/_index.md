@@ -1,6 +1,6 @@
 ---
 title: Innisville
 url: /innisville/
-latitude: 
-longitude: 
+latitude: 45.06
+longitude: -76.249
 ---

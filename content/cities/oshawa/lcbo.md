@@ -1,5 +1,5 @@
 ---
 title: "LCBO"
 url: /oshawa/lcbo/
-shop: alcohol
+shop: Spirituosen
 ---

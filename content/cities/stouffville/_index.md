@@ -1,6 +1,6 @@
 ---
 title: Stouffville
 url: /stouffville/
-latitude: 43.9717581
-longitude: -79.2454446
+latitude: 43.967
+longitude: -79.266
 ---

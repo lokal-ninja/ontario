@@ -1,6 +1,6 @@
 ---
 title: Pickering
 url: /pickering/
-latitude: 
-longitude: 
+latitude: 43.831
+longitude: -79.096
 ---

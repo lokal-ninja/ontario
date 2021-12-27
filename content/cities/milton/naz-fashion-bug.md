@@ -1,5 +1,5 @@
 ---
 title: "Naz Fashion Bug"
 url: /milton/naz-fashion-bug/
-shop: clothes
+shop: Kleidung
 ---

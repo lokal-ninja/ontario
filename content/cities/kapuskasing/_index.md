@@ -1,6 +1,6 @@
 ---
 title: Kapuskasing
 url: /kapuskasing/
-latitude: 49.416667000000004
-longitude: -82.433333
+latitude: 49.397
+longitude: -82.369
 ---
