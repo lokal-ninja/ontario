@@ -1,5 +1,5 @@
 ---
 title: "EB Games"
 url: /barrie/eb-games/
-shop: Videospiele
+shop: video games
 ---

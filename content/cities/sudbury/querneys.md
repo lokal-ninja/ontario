@@ -1,5 +1,5 @@
 ---
 title: "Querney's"
 url: /sudbury/querneys/
-shop: Schreibwaren
+shop: office supplies
 ---

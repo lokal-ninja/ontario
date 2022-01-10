@@ -1,5 +1,5 @@
 ---
 title: "Zehrs"
 url: /waterloo/zehrs/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Bargain! Shop"
 url: /oshawa/the-bargain-shop/
-shop: Kramladen
+shop: variety store
 ---

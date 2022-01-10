@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /newmarket/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

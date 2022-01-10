@@ -1,5 +1,5 @@
 ---
 title: "Beauty Buzz Studio"
 url: /toronto/beauty-buzz-studio/
-shop: Massage
+shop: massage
 ---

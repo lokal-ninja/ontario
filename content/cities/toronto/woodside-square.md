@@ -1,5 +1,5 @@
 ---
 title: "Woodside Square"
 url: /toronto/woodside-square/
-shop: Einkaufszentrum
+shop: mall
 ---

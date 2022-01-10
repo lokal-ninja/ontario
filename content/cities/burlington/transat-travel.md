@@ -1,5 +1,5 @@
 ---
 title: "Transat Travel"
 url: /burlington/transat-travel/
-shop: Reisebüro
+shop: travel agency
 ---

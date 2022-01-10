@@ -1,5 +1,5 @@
 ---
 title: "Style Optical"
 url: /toronto/style-optical/
-shop: Optiker
+shop: optician
 ---

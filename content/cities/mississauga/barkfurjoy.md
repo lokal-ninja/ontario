@@ -1,5 +1,5 @@
 ---
 title: "Barkfurjoy"
 url: /mississauga/barkfurjoy/
-shop: Tiere
+shop: pet
 ---

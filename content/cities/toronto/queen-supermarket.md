@@ -1,5 +1,5 @@
 ---
 title: "Queen Supermarket"
 url: /toronto/queen-supermarket/
-shop: Lebensmittel
+shop: convenience
 ---

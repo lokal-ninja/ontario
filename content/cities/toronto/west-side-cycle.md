@@ -1,5 +1,5 @@
 ---
 title: "West Side Cycle"
 url: /toronto/west-side-cycle/
-shop: Fahrrad
+shop: bicycle
 ---

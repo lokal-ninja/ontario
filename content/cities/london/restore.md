@@ -1,5 +1,5 @@
 ---
 title: "Restore"
 url: /london/restore/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tototire"
 url: /concord/tototire/
-shop: Reifen
+shop: tyres
 ---

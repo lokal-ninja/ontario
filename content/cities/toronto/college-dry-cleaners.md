@@ -1,5 +1,5 @@
 ---
 title: "College Dry Cleaners"
 url: /toronto/college-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

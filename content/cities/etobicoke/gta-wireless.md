@@ -1,5 +1,5 @@
 ---
 title: "GTA wireless"
 url: /etobicoke/gta-wireless/
-shop: Handy
+shop: mobile phone
 ---

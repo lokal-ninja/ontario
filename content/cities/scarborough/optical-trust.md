@@ -1,5 +1,5 @@
 ---
 title: "Optical Trust"
 url: /scarborough/optical-trust/
-shop: Optiker
+shop: optician
 ---

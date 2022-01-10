@@ -1,5 +1,5 @@
 ---
 title: "Alliston Meat Delicatessen"
 url: /mississauga/alliston-meat-delicatessen/
-shop: Feinkost
+shop: deli
 ---

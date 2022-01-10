@@ -1,5 +1,5 @@
 ---
 title: "Paperworks"
 url: /espanola/paperworks/
-shop: Schreibwaren
+shop: office supplies
 ---

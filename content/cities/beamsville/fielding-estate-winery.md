@@ -1,5 +1,5 @@
 ---
 title: "Fielding Estate Winery"
 url: /beamsville/fielding-estate-winery/
-shop: Wein
+shop: wine
 ---

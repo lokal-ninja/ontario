@@ -1,5 +1,5 @@
 ---
 title: "Mary Maxim"
 url: /paris/mary-maxim/
-shop: Sport
+shop: sports
 ---

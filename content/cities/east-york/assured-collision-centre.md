@@ -1,5 +1,5 @@
 ---
 title: "Assured Collision Centre"
 url: /east-york/assured-collision-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

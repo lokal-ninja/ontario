@@ -1,5 +1,5 @@
 ---
 title: "Blumen"
 url: /orangeville/blumen/
-shop: Andenken
+shop: gift
 ---

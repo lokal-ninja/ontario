@@ -1,5 +1,5 @@
 ---
 title: "LCBO Agency"
 url: /pelee-island/lcbo-agency/
-shop: Spirituosen
+shop: alcohol
 ---

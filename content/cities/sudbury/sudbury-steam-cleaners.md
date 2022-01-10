@@ -1,5 +1,5 @@
 ---
 title: "Sudbury Steam Cleaners"
 url: /sudbury/sudbury-steam-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

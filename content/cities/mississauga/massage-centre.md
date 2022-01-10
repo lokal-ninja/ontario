@@ -1,5 +1,5 @@
 ---
 title: "Massage Centre"
 url: /mississauga/massage-centre/
-shop: Massage
+shop: massage
 ---

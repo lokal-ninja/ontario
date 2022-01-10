@@ -1,5 +1,5 @@
 ---
 title: "Nissan"
 url: /hamilton/nissan/
-shop: Autohaus
+shop: car
 ---

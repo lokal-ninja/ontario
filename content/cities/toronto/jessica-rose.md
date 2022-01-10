@@ -1,5 +1,5 @@
 ---
 title: "Jessica Rose"
 url: /toronto/jessica-rose/
-shop: Kleidung
+shop: clothes
 ---

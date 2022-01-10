@@ -1,5 +1,5 @@
 ---
 title: "Foodland"
 url: /scugog/foodland/
-shop: Supermarkt
+shop: supermarket
 ---

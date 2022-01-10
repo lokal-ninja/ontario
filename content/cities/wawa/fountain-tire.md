@@ -1,5 +1,5 @@
 ---
 title: "Fountain Tire"
 url: /wawa/fountain-tire/
-shop: Autowerkstatt
+shop: car repair
 ---

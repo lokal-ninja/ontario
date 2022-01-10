@@ -1,5 +1,5 @@
 ---
 title: "Longos"
 url: /markham/longos-2/
-shop: Supermarkt
+shop: supermarket
 ---

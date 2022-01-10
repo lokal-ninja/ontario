@@ -1,5 +1,5 @@
 ---
 title: "Pampered Pets"
 url: /smiths-falls/pampered-pets/
-shop: Tiersalon
+shop: pet grooming
 ---

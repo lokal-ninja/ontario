@@ -1,5 +1,5 @@
 ---
 title: "Lewis Family"
 url: /toronto/lewis-family/
-shop: Tattoo
+shop: tattoo
 ---

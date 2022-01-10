@@ -1,5 +1,5 @@
 ---
 title: "Main Phase"
 url: /wallaceburg/main-phase/
-shop: Spiele
+shop: games
 ---

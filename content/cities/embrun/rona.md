@@ -1,5 +1,5 @@
 ---
 title: "Rona"
 url: /embrun/rona/
-shop: Baumarkt
+shop: doityourself
 ---

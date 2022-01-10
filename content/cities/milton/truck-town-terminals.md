@@ -1,5 +1,5 @@
 ---
 title: "Truck Town Terminals"
 url: /milton/truck-town-terminals/
-shop: Autoteile
+shop: car parts
 ---

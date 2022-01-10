@@ -1,5 +1,5 @@
 ---
 title: "Armed"
 url: /toronto/armed/
-shop: Schmuck
+shop: jewelry
 ---

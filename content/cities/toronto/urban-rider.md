@@ -1,5 +1,5 @@
 ---
 title: "Urban Rider"
 url: /toronto/urban-rider/
-shop: Kleidung
+shop: clothes
 ---

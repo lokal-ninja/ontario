@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /london/dollarama/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vaporium"
 url: /mississauga/vaporium/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

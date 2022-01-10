@@ -1,5 +1,5 @@
 ---
 title: "Rito's Misterr Transmission"
 url: /kitchener/ritos-misterr-transmission/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mac's"
 url: /carleton-place/macs/
-shop: Lebensmittel
+shop: convenience
 ---

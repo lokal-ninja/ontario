@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /uxbridge/walmart/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kathy's Confectionary"
 url: /sudbury/kathys-confectionary/
-shop: Lebensmittel
+shop: convenience
 ---

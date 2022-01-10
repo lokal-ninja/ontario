@@ -1,5 +1,5 @@
 ---
 title: "Cupcakes"
 url: /hamilton/cupcakes/
-shop: Bäckerei
+shop: bakery
 ---

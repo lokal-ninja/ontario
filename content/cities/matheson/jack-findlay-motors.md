@@ -1,5 +1,5 @@
 ---
 title: "Jack Findlay Motors"
 url: /matheson/jack-findlay-motors/
-shop: Autohaus
+shop: car
 ---

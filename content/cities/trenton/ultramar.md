@@ -1,5 +1,5 @@
 ---
 title: "Ultramar"
 url: /trenton/ultramar/
-shop: Lebensmittel
+shop: convenience
 ---

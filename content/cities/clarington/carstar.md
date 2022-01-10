@@ -1,5 +1,5 @@
 ---
 title: "Carstar"
 url: /clarington/carstar/
-shop: Autowerkstatt
+shop: car repair
 ---

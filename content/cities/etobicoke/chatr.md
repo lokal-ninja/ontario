@@ -1,5 +1,5 @@
 ---
 title: "Chatr"
 url: /etobicoke/chatr/
-shop: Handy
+shop: mobile phone
 ---

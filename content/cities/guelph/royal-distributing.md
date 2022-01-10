@@ -1,5 +1,5 @@
 ---
 title: "Royal Distributing"
 url: /guelph/royal-distributing/
-shop: Autoteile
+shop: car parts
 ---

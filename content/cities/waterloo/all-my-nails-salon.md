@@ -1,5 +1,5 @@
 ---
 title: "All My Nails Salon"
 url: /waterloo/all-my-nails-salon/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brimell Toyota"
 url: /toronto/brimell-toyota/
-shop: Autohaus
+shop: car
 ---

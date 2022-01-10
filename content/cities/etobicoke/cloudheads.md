@@ -1,5 +1,5 @@
 ---
 title: "Cloudheads"
 url: /etobicoke/cloudheads/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Vault"
 url: /milton/the-vault/
-shop: Schmuck
+shop: jewelry
 ---

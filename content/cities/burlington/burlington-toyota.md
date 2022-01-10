@@ -1,5 +1,5 @@
 ---
 title: "Burlington Toyota"
 url: /burlington/burlington-toyota/
-shop: Autohaus
+shop: car
 ---

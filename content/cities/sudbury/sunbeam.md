@@ -1,5 +1,5 @@
 ---
 title: "Sunbeam"
 url: /sudbury/sunbeam/
-shop: Metzgerei
+shop: butcher
 ---

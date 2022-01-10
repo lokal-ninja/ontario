@@ -1,5 +1,5 @@
 ---
 title: "Deja Vu Cafe"
 url: /ajax/deja-vu-cafe/
-shop: Leerstehend
+shop: vacant
 ---

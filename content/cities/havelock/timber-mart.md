@@ -1,5 +1,5 @@
 ---
 title: "Timber Mart"
 url: /havelock/timber-mart/
-shop: Baumarkt
+shop: doityourself
 ---

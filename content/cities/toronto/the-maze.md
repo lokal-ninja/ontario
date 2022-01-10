@@ -1,5 +1,5 @@
 ---
 title: "The Maze"
 url: /toronto/the-maze/
-shop: Friseur
+shop: hairdresser
 ---

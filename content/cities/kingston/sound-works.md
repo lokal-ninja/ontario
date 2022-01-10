@@ -1,5 +1,5 @@
 ---
 title: "Sound Works"
 url: /kingston/sound-works/
-shop: Elektronik
+shop: electronics
 ---

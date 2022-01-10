@@ -1,5 +1,5 @@
 ---
 title: "Salon Gabriel"
 url: /toronto/salon-gabriel/
-shop: Friseur
+shop: hairdresser
 ---

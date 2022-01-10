@@ -1,5 +1,5 @@
 ---
 title: "BB Auto Repair"
 url: /toronto/bb-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

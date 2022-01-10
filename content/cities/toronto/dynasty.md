@@ -1,5 +1,5 @@
 ---
 title: "Dynasty"
 url: /toronto/dynasty/
-shop: Raumausstattung
+shop: interior decoration
 ---

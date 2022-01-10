@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /oshawa/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

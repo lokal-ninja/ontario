@@ -1,5 +1,5 @@
 ---
 title: "Liv Bella Tanning"
 url: /burlington/liv-bella-tanning/
-shop: Kosmetik
+shop: beauty
 ---

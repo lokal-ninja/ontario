@@ -1,5 +1,5 @@
 ---
 title: "Anice"
 url: /toronto/anice/
-shop: Schmuck
+shop: jewelry
 ---

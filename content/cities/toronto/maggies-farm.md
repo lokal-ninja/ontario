@@ -1,5 +1,5 @@
 ---
 title: "Maggie's Farm"
 url: /toronto/maggies-farm/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Laurel Richards Hair"
 url: /ajax/laurel-richards-hair/
-shop: Friseur
+shop: hairdresser
 ---

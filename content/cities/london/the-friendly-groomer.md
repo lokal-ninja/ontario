@@ -1,5 +1,5 @@
 ---
 title: "The Friendly Groomer"
 url: /london/the-friendly-groomer/
-shop: Tiere
+shop: pet
 ---

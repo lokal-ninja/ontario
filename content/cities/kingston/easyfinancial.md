@@ -1,5 +1,5 @@
 ---
 title: "easyfinancial"
 url: /kingston/easyfinancial/
-shop: Leiher
+shop: pawnbroker
 ---

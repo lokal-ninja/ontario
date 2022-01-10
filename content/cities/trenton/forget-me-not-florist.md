@@ -1,5 +1,5 @@
 ---
 title: "Forget-Me-Not Florist"
 url: /trenton/forget-me-not-florist/
-shop: Blumen
+shop: florist
 ---

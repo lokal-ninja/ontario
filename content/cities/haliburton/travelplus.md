@@ -1,5 +1,5 @@
 ---
 title: "TravelPlus"
 url: /haliburton/travelplus/
-shop: Reisebüro
+shop: travel agency
 ---

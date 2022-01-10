@@ -1,5 +1,5 @@
 ---
 title: "National Sports"
 url: /waterloo/national-sports/
-shop: Sport
+shop: sports
 ---

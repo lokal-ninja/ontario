@@ -1,5 +1,5 @@
 ---
 title: "Jako Auto Repairs"
 url: /timmins/jako-auto-repairs/
-shop: Autowerkstatt
+shop: car repair
 ---

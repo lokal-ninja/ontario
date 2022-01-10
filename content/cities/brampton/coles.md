@@ -1,5 +1,5 @@
 ---
 title: "Coles"
 url: /brampton/coles/
-shop: Bücher
+shop: books
 ---

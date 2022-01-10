@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /orangeville/dollarama/
-shop: Kramladen
+shop: variety store
 ---

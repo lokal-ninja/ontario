@@ -1,5 +1,5 @@
 ---
 title: "Type Books"
 url: /toronto/type-books-2/
-shop: Bücher
+shop: books
 ---

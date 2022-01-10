@@ -1,5 +1,5 @@
 ---
 title: "Ontario Home Health"
 url: /stratford/ontario-home-health/
-shop: Sanitätshaus
+shop: medical supply
 ---

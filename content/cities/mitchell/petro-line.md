@@ -1,5 +1,5 @@
 ---
 title: "Petro Line"
 url: /mitchell/petro-line/
-shop: Lebensmittel
+shop: convenience
 ---

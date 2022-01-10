@@ -1,5 +1,5 @@
 ---
 title: "Bighouse Cuts"
 url: /milton/bighouse-cuts/
-shop: Friseur
+shop: hairdresser
 ---

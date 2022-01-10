@@ -1,5 +1,5 @@
 ---
 title: "Alternative Arts"
 url: /toronto/alternative-arts/
-shop: Rahmen
+shop: frame
 ---

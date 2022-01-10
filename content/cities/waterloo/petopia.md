@@ -1,5 +1,5 @@
 ---
 title: "PETOPIA"
 url: /waterloo/petopia/
-shop: Tiere
+shop: pet
 ---

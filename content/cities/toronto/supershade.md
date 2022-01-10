@@ -1,5 +1,5 @@
 ---
 title: "Supershade"
 url: /toronto/supershade/
-shop: Jalousien
+shop: window blind
 ---

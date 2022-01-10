@@ -1,5 +1,5 @@
 ---
 title: "Origo Books"
 url: /toronto/origo-books/
-shop: Leerstehend
+shop: vacant
 ---

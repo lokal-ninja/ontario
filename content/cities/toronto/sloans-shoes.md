@@ -1,5 +1,5 @@
 ---
 title: "Sloan's Shoes"
 url: /toronto/sloans-shoes/
-shop: Schuhe
+shop: shoes
 ---

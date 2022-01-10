@@ -1,5 +1,5 @@
 ---
 title: "Eddie Bauer"
 url: /toronto/eddie-bauer/
-shop: Kleidung
+shop: clothes
 ---

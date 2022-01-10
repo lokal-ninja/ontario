@@ -1,5 +1,5 @@
 ---
 title: "Van Herpt Volvo"
 url: /kingston/van-herpt-volvo/
-shop: Autohaus
+shop: car
 ---

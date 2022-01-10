@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /pickering/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

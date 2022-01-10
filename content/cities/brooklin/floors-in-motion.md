@@ -1,5 +1,5 @@
 ---
 title: "Floors in Motion"
 url: /brooklin/floors-in-motion/
-shop: Fußböden
+shop: flooring
 ---

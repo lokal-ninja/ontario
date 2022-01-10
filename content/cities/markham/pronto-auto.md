@@ -1,5 +1,5 @@
 ---
 title: "Pronto Auto"
 url: /markham/pronto-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

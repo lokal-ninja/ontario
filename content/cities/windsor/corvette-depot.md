@@ -1,5 +1,5 @@
 ---
 title: "Corvette Depot"
 url: /windsor/corvette-depot/
-shop: Autowerkstatt
+shop: car repair
 ---

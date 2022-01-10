@@ -1,5 +1,5 @@
 ---
 title: "International News"
 url: /toronto/international-news/
-shop: Lebensmittel
+shop: convenience
 ---

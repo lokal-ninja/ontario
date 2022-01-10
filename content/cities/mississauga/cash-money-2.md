@@ -1,5 +1,5 @@
 ---
 title: "Cash Money"
 url: /mississauga/cash-money-2/
-shop: Allgemein
+shop: shop
 ---

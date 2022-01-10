@@ -1,5 +1,5 @@
 ---
 title: "Gyro Hyundai"
 url: /toronto/gyro-hyundai/
-shop: Autohaus
+shop: car
 ---

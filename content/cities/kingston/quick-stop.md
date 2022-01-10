@@ -1,5 +1,5 @@
 ---
 title: "Quick Stop"
 url: /kingston/quick-stop/
-shop: Lebensmittel
+shop: convenience
 ---

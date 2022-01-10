@@ -1,5 +1,5 @@
 ---
 title: "Eastgate Variety"
 url: /hamilton/eastgate-variety/
-shop: Lebensmittel
+shop: convenience
 ---

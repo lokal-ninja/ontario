@@ -1,5 +1,5 @@
 ---
 title: "Publik Variety"
 url: /toronto/publik-variety/
-shop: Lebensmittel
+shop: convenience
 ---

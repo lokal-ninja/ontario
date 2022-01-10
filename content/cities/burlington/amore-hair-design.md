@@ -1,5 +1,5 @@
 ---
 title: "Amore Hair Design"
 url: /burlington/amore-hair-design/
-shop: Friseur
+shop: hairdresser
 ---

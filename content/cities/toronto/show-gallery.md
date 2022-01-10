@@ -1,5 +1,5 @@
 ---
 title: "Show Gallery"
 url: /toronto/show-gallery/
-shop: Kunst
+shop: art
 ---

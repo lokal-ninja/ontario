@@ -1,5 +1,5 @@
 ---
 title: "Popbox MicroMarket"
 url: /toronto/popbox-micromarket/
-shop: Supermarkt
+shop: supermarket
 ---

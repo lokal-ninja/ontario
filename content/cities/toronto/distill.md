@@ -1,5 +1,5 @@
 ---
 title: "Distill"
 url: /toronto/distill/
-shop: Kunst
+shop: art
 ---

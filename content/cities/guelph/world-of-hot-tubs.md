@@ -1,5 +1,5 @@
 ---
 title: "World of Hot Tubs"
 url: /guelph/world-of-hot-tubs/
-shop: Pool
+shop: swimming pool
 ---

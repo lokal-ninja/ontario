@@ -1,5 +1,5 @@
 ---
 title: "The Creemore Apothecary"
 url: /creemore/the-creemore-apothecary/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BRIKA"
 url: /toronto/brika/
-shop: Möbel
+shop: furniture
 ---

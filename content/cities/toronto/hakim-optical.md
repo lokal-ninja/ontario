@@ -1,5 +1,5 @@
 ---
 title: "Hakim Optical"
 url: /toronto/hakim-optical/
-shop: Optiker
+shop: optician
 ---

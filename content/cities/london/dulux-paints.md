@@ -1,5 +1,5 @@
 ---
 title: "Dulux Paints"
 url: /london/dulux-paints/
-shop: Farben
+shop: paint
 ---

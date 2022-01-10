@@ -1,5 +1,5 @@
 ---
 title: "Starbucks"
 url: /toronto/starbucks/
-shop: Leerstehend
+shop: vacant
 ---

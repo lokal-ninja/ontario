@@ -1,5 +1,5 @@
 ---
 title: "Farooquey Sales and Service"
 url: /toronto/farooquey-sales-and-service/
-shop: Autowerkstatt
+shop: car repair
 ---

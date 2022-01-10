@@ -1,5 +1,5 @@
 ---
 title: "Jerry Zister's Autopro"
 url: /kitchener/jerry-zisters-autopro/
-shop: Autowerkstatt
+shop: car repair
 ---

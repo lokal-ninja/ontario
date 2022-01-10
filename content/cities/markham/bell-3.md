@@ -1,5 +1,5 @@
 ---
 title: "Bell"
 url: /markham/bell-3/
-shop: Handy
+shop: mobile phone
 ---

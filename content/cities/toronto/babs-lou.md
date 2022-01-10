@@ -1,5 +1,5 @@
 ---
 title: "babs + lou"
 url: /toronto/babs-lou/
-shop: Kosmetik
+shop: beauty
 ---

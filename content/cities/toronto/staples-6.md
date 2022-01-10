@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /toronto/staples-6/
-shop: Schreibwaren
+shop: office supplies
 ---

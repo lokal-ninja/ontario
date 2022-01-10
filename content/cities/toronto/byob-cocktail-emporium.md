@@ -1,5 +1,5 @@
 ---
 title: "BYOB Cocktail Emporium"
 url: /toronto/byob-cocktail-emporium/
-shop: Allgemein
+shop: shop
 ---

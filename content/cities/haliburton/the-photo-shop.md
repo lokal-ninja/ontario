@@ -1,5 +1,5 @@
 ---
 title: "The Photo Shop"
 url: /haliburton/the-photo-shop/
-shop: Foto
+shop: photo
 ---

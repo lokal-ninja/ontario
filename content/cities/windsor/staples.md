@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /windsor/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

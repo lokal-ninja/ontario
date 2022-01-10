@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /mississauga/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

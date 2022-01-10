@@ -1,5 +1,5 @@
 ---
 title: "Virgo Beauty Salon"
 url: /toronto/virgo-beauty-salon/
-shop: Kosmetik
+shop: beauty
 ---

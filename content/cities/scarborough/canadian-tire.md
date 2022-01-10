@@ -1,5 +1,5 @@
 ---
 title: "Canadian Tire"
 url: /scarborough/canadian-tire/
-shop: Warenhaus
+shop: department store
 ---

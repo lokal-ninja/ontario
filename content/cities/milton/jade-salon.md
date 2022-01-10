@@ -1,5 +1,5 @@
 ---
 title: "Jade Salon"
 url: /milton/jade-salon/
-shop: Kosmetik
+shop: beauty
 ---

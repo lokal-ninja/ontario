@@ -1,5 +1,5 @@
 ---
 title: "Blitz Hair Studio"
 url: /barrie/blitz-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

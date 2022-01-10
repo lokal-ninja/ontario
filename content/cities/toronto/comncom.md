@@ -1,5 +1,5 @@
 ---
 title: "ComNCom"
 url: /toronto/comncom/
-shop: Computer
+shop: computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Danforth Jewellers"
 url: /toronto/danforth-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

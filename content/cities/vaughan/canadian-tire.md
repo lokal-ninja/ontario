@@ -1,5 +1,5 @@
 ---
 title: "Canadian Tire"
 url: /vaughan/canadian-tire/
-shop: Warenhaus
+shop: department store
 ---

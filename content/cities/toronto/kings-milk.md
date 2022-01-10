@@ -1,5 +1,5 @@
 ---
 title: "King's Milk"
 url: /toronto/kings-milk/
-shop: Lebensmittel
+shop: convenience
 ---

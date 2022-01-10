@@ -1,5 +1,5 @@
 ---
 title: "Naked Beauty Bar"
 url: /toronto/naked-beauty-bar/
-shop: Kosmetik
+shop: beauty
 ---

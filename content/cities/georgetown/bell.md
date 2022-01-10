@@ -1,5 +1,5 @@
 ---
 title: "Bell"
 url: /georgetown/bell/
-shop: Handy
+shop: mobile phone
 ---

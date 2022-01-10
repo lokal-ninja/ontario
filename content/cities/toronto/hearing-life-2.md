@@ -1,5 +1,5 @@
 ---
 title: "Hearing Life"
 url: /toronto/hearing-life-2/
-shop: Hörgeräte
+shop: hearing aids
 ---

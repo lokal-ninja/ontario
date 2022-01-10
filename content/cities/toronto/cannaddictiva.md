@@ -1,5 +1,5 @@
 ---
 title: "Cannaddictiva"
 url: /toronto/cannaddictiva/
-shop: Hanf
+shop: cannabis
 ---

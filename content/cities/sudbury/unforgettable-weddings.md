@@ -1,5 +1,5 @@
 ---
 title: "Unforgettable Weddings"
 url: /sudbury/unforgettable-weddings/
-shop: Kleidung
+shop: clothes
 ---

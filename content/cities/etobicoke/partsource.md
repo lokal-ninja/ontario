@@ -1,5 +1,5 @@
 ---
 title: "PartSource"
 url: /etobicoke/partsource/
-shop: Autoteile
+shop: car parts
 ---

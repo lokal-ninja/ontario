@@ -1,5 +1,5 @@
 ---
 title: "Organic Garage"
 url: /toronto/organic-garage/
-shop: Supermarkt
+shop: supermarket
 ---

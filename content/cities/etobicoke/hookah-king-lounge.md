@@ -1,5 +1,5 @@
 ---
 title: "Hookah King Lounge"
 url: /etobicoke/hookah-king-lounge/
-shop: Leerstehend
+shop: vacant
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Square One"
 url: /mississauga/square-one/
-shop: Einkaufszentrum
+shop: mall
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /mississauga/dollarama/
-shop: Kramladen
+shop: variety store
 ---

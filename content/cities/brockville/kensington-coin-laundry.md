@@ -1,5 +1,5 @@
 ---
 title: "Kensington Coin Laundry"
 url: /brockville/kensington-coin-laundry/
-shop: Wäscherei
+shop: laundry
 ---

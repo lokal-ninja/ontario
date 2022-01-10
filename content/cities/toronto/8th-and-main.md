@@ -1,5 +1,5 @@
 ---
 title: "8th and Main"
 url: /toronto/8th-and-main/
-shop: Kleidung
+shop: clothes
 ---

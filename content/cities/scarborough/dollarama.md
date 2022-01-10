@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /scarborough/dollarama/
-shop: Kramladen
+shop: variety store
 ---

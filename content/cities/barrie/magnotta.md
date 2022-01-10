@@ -1,5 +1,5 @@
 ---
 title: "Magnotta"
 url: /barrie/magnotta/
-shop: Wein
+shop: wine
 ---

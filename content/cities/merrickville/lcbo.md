@@ -1,5 +1,5 @@
 ---
 title: "LCBO"
 url: /merrickville/lcbo/
-shop: Spirituosen
+shop: alcohol
 ---

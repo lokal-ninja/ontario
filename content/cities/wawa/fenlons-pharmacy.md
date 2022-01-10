@@ -1,5 +1,5 @@
 ---
 title: "Fenlon's Pharmacy"
 url: /wawa/fenlons-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

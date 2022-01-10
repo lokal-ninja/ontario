@@ -1,5 +1,5 @@
 ---
 title: "Anbu Tatoo Studio"
 url: /toronto/anbu-tatoo-studio/
-shop: Tattoo
+shop: tattoo
 ---

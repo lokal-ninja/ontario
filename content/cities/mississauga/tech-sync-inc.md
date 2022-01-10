@@ -1,5 +1,5 @@
 ---
 title: "Tech-Sync Inc."
 url: /mississauga/tech-sync-inc/
-shop: Handy
+shop: mobile phone
 ---

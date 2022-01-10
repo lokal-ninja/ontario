@@ -1,5 +1,5 @@
 ---
 title: "Roy Nichols Chevrolet"
 url: /clarington/roy-nichols-chevrolet/
-shop: Autohaus
+shop: car
 ---

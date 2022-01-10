@@ -1,5 +1,5 @@
 ---
 title: "Select"
 url: /etobicoke/select/
-shop: Lebensmittel
+shop: convenience
 ---

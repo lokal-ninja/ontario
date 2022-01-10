@@ -1,5 +1,5 @@
 ---
 title: "Curbside Cycle"
 url: /toronto/curbside-cycle/
-shop: Fahrrad
+shop: bicycle
 ---

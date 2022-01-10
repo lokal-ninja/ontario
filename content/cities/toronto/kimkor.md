@@ -1,5 +1,5 @@
 ---
 title: "Kimkor"
 url: /toronto/kimkor/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cindys"
 url: /haliburton/cindys/
-shop: Kleidung
+shop: clothes
 ---

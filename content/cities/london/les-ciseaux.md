@@ -1,5 +1,5 @@
 ---
 title: "Les Ciseaux"
 url: /london/les-ciseaux/
-shop: Friseur
+shop: hairdresser
 ---

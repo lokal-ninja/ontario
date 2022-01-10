@@ -1,5 +1,5 @@
 ---
 title: "Farm Boy"
 url: /etobicoke/farm-boy/
-shop: Supermarkt
+shop: supermarket
 ---

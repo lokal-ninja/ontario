@@ -1,5 +1,5 @@
 ---
 title: "Popeye's Supplements"
 url: /scarborough/popeyes-supplements/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

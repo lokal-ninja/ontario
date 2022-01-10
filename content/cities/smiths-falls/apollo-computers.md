@@ -1,5 +1,5 @@
 ---
 title: "Apollo Computers"
 url: /smiths-falls/apollo-computers/
-shop: Computer
+shop: computer
 ---

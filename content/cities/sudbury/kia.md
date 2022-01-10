@@ -1,5 +1,5 @@
 ---
 title: "Kia"
 url: /sudbury/kia/
-shop: Autohaus
+shop: car
 ---

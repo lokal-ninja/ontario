@@ -1,5 +1,5 @@
 ---
 title: "Newfoundland"
 url: /toronto/newfoundland/
-shop: Andenken
+shop: gift
 ---

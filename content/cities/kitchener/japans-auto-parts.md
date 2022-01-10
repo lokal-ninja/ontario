@@ -1,5 +1,5 @@
 ---
 title: "Japan's Auto Parts"
 url: /kitchener/japans-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

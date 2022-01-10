@@ -1,5 +1,5 @@
 ---
 title: "Grooves"
 url: /london/grooves/
-shop: Instrumente
+shop: musical instrument
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Betz Pools"
 url: /stouffville/betz-pools/
-shop: Outdoor
+shop: outdoor
 ---

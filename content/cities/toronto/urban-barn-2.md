@@ -1,5 +1,5 @@
 ---
 title: "Urban Barn"
 url: /toronto/urban-barn-2/
-shop: Raumausstattung
+shop: interior decoration
 ---

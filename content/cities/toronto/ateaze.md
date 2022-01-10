@@ -1,5 +1,5 @@
 ---
 title: "Ateaze"
 url: /toronto/ateaze/
-shop: Kleidung
+shop: clothes
 ---

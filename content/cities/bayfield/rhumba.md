@@ -1,5 +1,5 @@
 ---
 title: "Rhumba"
 url: /bayfield/rhumba/
-shop: Kleidung
+shop: clothes
 ---

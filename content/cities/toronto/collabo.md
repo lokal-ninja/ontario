@@ -1,5 +1,5 @@
 ---
 title: "Collabo"
 url: /toronto/collabo/
-shop: Modehaus
+shop: boutique
 ---

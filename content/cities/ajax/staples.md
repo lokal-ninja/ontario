@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /ajax/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "StorageMart"
 url: /toronto/storagemart/
-shop: Mieten
+shop: storage rental
 ---

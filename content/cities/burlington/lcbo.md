@@ -1,5 +1,5 @@
 ---
 title: "LCBO"
 url: /burlington/lcbo/
-shop: Spirituosen
+shop: alcohol
 ---

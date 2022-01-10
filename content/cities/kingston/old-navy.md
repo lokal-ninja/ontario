@@ -1,5 +1,5 @@
 ---
 title: "Old Navy"
 url: /kingston/old-navy/
-shop: Kleidung
+shop: clothes
 ---

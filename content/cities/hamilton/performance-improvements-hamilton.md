@@ -1,5 +1,5 @@
 ---
 title: "Performance Improvements Hamilton"
 url: /hamilton/performance-improvements-hamilton/
-shop: Autoteile
+shop: car parts
 ---

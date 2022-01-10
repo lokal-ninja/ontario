@@ -1,5 +1,5 @@
 ---
 title: "Panther Hobbies"
 url: /mississauga/panther-hobbies/
-shop: Sport
+shop: sports
 ---

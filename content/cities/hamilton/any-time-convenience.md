@@ -1,5 +1,5 @@
 ---
 title: "Any Time Convenience"
 url: /hamilton/any-time-convenience/
-shop: Lebensmittel
+shop: convenience
 ---

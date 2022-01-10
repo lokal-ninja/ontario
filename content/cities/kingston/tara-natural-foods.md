@@ -1,5 +1,5 @@
 ---
 title: "Tara Natural Foods"
 url: /kingston/tara-natural-foods/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

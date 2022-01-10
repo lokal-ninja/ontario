@@ -1,5 +1,5 @@
 ---
 title: "Cadmen"
 url: /mississauga/cadmen/
-shop: Friseur
+shop: hairdresser
 ---

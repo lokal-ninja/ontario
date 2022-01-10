@@ -1,5 +1,5 @@
 ---
 title: "TechMax"
 url: /mississauga/techmax/
-shop: Autowerkstatt
+shop: car repair
 ---

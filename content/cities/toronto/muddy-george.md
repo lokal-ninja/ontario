@@ -1,5 +1,5 @@
 ---
 title: "Muddy George"
 url: /toronto/muddy-george/
-shop: Kleidung
+shop: clothes
 ---

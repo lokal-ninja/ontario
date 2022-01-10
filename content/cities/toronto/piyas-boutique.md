@@ -1,5 +1,5 @@
 ---
 title: "Piya's Boutique"
 url: /toronto/piyas-boutique/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kemptville Travel"
 url: /toronto/kemptville-travel/
-shop: Reisebüro
+shop: travel agency
 ---

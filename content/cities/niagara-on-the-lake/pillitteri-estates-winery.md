@@ -1,5 +1,5 @@
 ---
 title: "Pillitteri Estates Winery"
 url: /niagara-on-the-lake/pillitteri-estates-winery/
-shop: Wein
+shop: wine
 ---

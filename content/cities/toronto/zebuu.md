@@ -1,5 +1,5 @@
 ---
 title: "Zebuu"
 url: /toronto/zebuu/
-shop: Raumausstattung
+shop: interior decoration
 ---

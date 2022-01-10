@@ -1,5 +1,5 @@
 ---
 title: "Unionville Floral Shoppe"
 url: /unionville/unionville-floral-shoppe/
-shop: Blumen
+shop: florist
 ---

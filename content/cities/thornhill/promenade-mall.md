@@ -1,5 +1,5 @@
 ---
 title: "Promenade Mall"
 url: /thornhill/promenade-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

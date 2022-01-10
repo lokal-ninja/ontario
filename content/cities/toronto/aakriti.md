@@ -1,5 +1,5 @@
 ---
 title: "Aakriti"
 url: /toronto/aakriti/
-shop: Kosmetik
+shop: beauty
 ---

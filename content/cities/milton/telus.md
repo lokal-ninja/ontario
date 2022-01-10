@@ -1,5 +1,5 @@
 ---
 title: "Telus"
 url: /milton/telus/
-shop: Handy
+shop: mobile phone
 ---

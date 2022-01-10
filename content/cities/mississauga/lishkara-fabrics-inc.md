@@ -1,5 +1,5 @@
 ---
 title: "Lishkara Fabrics Inc."
 url: /mississauga/lishkara-fabrics-inc/
-shop: Baumarkt
+shop: doityourself
 ---

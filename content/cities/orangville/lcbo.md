@@ -1,5 +1,5 @@
 ---
 title: "LCBO"
 url: /orangville/lcbo/
-shop: Spirituosen
+shop: alcohol
 ---

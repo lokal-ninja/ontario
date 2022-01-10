@@ -1,5 +1,5 @@
 ---
 title: "carbon computing"
 url: /toronto/carbon-computing/
-shop: Computer
+shop: computer
 ---

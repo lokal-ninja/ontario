@@ -1,5 +1,5 @@
 ---
 title: "Brouwer Service Centre"
 url: /moorefield/brouwer-service-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

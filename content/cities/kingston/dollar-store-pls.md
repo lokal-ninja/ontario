@@ -1,5 +1,5 @@
 ---
 title: "Dollar Store Pls"
 url: /kingston/dollar-store-pls/
-shop: Kramladen
+shop: variety store
 ---

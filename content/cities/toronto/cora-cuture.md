@@ -1,5 +1,5 @@
 ---
 title: "Cora Cuture"
 url: /toronto/cora-cuture/
-shop: Kleidung
+shop: clothes
 ---

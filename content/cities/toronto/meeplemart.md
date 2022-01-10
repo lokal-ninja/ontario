@@ -1,5 +1,5 @@
 ---
 title: "Meeplemart"
 url: /toronto/meeplemart/
-shop: Sport
+shop: sports
 ---

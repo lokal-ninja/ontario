@@ -1,5 +1,5 @@
 ---
 title: "Euro Decor"
 url: /mississauga/euro-decor/
-shop: Möbel
+shop: furniture
 ---

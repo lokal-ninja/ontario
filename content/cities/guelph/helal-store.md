@@ -1,5 +1,5 @@
 ---
 title: "Helal Store"
 url: /guelph/helal-store/
-shop: Supermarkt
+shop: supermarket
 ---

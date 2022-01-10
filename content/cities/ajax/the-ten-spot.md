@@ -1,5 +1,5 @@
 ---
 title: "The Ten Spot"
 url: /ajax/the-ten-spot/
-shop: Kosmetik
+shop: beauty
 ---

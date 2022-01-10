@@ -1,5 +1,5 @@
 ---
 title: "Bestco Food Mart"
 url: /etobicoke/bestco-food-mart/
-shop: Supermarkt
+shop: supermarket
 ---

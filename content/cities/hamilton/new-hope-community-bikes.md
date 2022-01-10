@@ -1,5 +1,5 @@
 ---
 title: "New Hope Community Bikes"
 url: /hamilton/new-hope-community-bikes/
-shop: Fahrrad
+shop: bicycle
 ---

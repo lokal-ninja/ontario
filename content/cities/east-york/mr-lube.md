@@ -1,5 +1,5 @@
 ---
 title: "Mr. Lube"
 url: /east-york/mr-lube/
-shop: Autowerkstatt
+shop: car repair
 ---

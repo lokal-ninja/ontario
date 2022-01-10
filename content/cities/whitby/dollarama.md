@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /whitby/dollarama/
-shop: Kramladen
+shop: variety store
 ---

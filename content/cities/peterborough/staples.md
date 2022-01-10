@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /peterborough/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

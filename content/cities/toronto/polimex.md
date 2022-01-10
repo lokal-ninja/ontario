@@ -1,5 +1,5 @@
 ---
 title: "Polimex"
 url: /toronto/polimex/
-shop: Reisebüro
+shop: travel agency
 ---

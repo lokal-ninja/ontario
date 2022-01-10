@@ -1,5 +1,5 @@
 ---
 title: "CanPol Travel Agency"
 url: /london/canpol-travel-agency/
-shop: Reisebüro
+shop: travel agency
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mark's Milk"
 url: /etobicoke/marks-milk/
-shop: Lebensmittel
+shop: convenience
 ---

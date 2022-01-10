@@ -1,5 +1,5 @@
 ---
 title: "Cell Tech"
 url: /toronto/cell-tech/
-shop: Handy
+shop: mobile phone
 ---

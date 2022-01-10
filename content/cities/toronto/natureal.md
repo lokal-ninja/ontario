@@ -1,5 +1,5 @@
 ---
 title: "Natureal"
 url: /toronto/natureal/
-shop: Kleidung
+shop: clothes
 ---

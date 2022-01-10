@@ -1,5 +1,5 @@
 ---
 title: "Pet Valu"
 url: /sault-ste-marie/pet-valu/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Al's Gas Variety"
 url: /kettle-point/als-gas-variety/
-shop: Lebensmittel
+shop: convenience
 ---

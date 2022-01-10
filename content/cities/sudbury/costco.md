@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /sudbury/costco/
-shop: Großhandel
+shop: wholesale
 ---

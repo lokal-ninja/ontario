@@ -1,5 +1,5 @@
 ---
 title: "Stinson"
 url: /petawawa/stinson/
-shop: Autowerkstatt
+shop: car repair
 ---

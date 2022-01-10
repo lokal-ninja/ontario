@@ -1,5 +1,5 @@
 ---
 title: "Adonis"
 url: /scarborough/adonis/
-shop: Supermarkt
+shop: supermarket
 ---

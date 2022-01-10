@@ -1,5 +1,5 @@
 ---
 title: "Kenworth Ontario"
 url: /vars/kenworth-ontario/
-shop: Autowerkstatt
+shop: car repair
 ---

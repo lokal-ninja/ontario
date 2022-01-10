@@ -1,5 +1,5 @@
 ---
 title: "Go Place"
 url: /markham/go-place/
-shop: Allgemein
+shop: shop
 ---

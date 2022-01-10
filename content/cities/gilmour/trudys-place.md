@@ -1,5 +1,5 @@
 ---
 title: "Trudy's Place"
 url: /gilmour/trudys-place/
-shop: Lebensmittel
+shop: convenience
 ---

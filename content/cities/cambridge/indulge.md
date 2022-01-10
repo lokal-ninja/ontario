@@ -1,5 +1,5 @@
 ---
 title: "Indulge"
 url: /cambridge/indulge/
-shop: Eisprodukte
+shop: ice cream
 ---

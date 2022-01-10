@@ -1,5 +1,5 @@
 ---
 title: "Black Market"
 url: /toronto/black-market/
-shop: Kleidung
+shop: clothes
 ---

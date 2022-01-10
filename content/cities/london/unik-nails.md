@@ -1,5 +1,5 @@
 ---
 title: "Unik Nails"
 url: /london/unik-nails/
-shop: Kosmetik
+shop: beauty
 ---

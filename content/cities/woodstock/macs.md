@@ -1,5 +1,5 @@
 ---
 title: "Mac's"
 url: /woodstock/macs/
-shop: Lebensmittel
+shop: convenience
 ---

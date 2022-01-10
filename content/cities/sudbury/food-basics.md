@@ -1,5 +1,5 @@
 ---
 title: "Food Basics"
 url: /sudbury/food-basics/
-shop: Supermarkt
+shop: supermarket
 ---

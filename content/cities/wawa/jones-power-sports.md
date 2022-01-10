@@ -1,5 +1,5 @@
 ---
 title: "Jones Power Sports"
 url: /wawa/jones-power-sports/
-shop: Quad
+shop: atv
 ---

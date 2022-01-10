@@ -1,5 +1,5 @@
 ---
 title: "Bellwoods Brewery Bottle Shop"
 url: /toronto/bellwoods-brewery-bottle-shop/
-shop: Spirituosen
+shop: alcohol
 ---

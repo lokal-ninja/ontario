@@ -1,5 +1,5 @@
 ---
 title: "Aborigen Handcrafts"
 url: /toronto/aborigen-handcrafts/
-shop: Basteln
+shop: craft
 ---

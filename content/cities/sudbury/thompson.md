@@ -1,5 +1,5 @@
 ---
 title: "Thompson"
 url: /sudbury/thompson/
-shop: Autohaus
+shop: car
 ---

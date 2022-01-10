@@ -1,5 +1,5 @@
 ---
 title: "Ideal Supply"
 url: /mount-forest/ideal-supply/
-shop: Autoteile
+shop: car parts
 ---

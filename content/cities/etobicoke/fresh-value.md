@@ -1,5 +1,5 @@
 ---
 title: "Fresh Value"
 url: /etobicoke/fresh-value/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Leylands British Foods"
 url: /hamilton/leylands-british-foods/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eyeglass Gallery"
 url: /burlington/eyeglass-gallery/
-shop: Optiker
+shop: optician
 ---

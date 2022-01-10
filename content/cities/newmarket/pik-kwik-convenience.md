@@ -1,5 +1,5 @@
 ---
 title: "Pik-Kwik Convenience"
 url: /newmarket/pik-kwik-convenience/
-shop: Lebensmittel
+shop: convenience
 ---

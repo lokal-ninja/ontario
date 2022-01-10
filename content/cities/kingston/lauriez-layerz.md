@@ -1,5 +1,5 @@
 ---
 title: "Laurie'z Layerz"
 url: /kingston/lauriez-layerz/
-shop: Friseur
+shop: hairdresser
 ---

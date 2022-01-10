@@ -1,5 +1,5 @@
 ---
 title: "Stopciati Gallery"
 url: /sudbury/stopciati-gallery/
-shop: Kunst
+shop: art
 ---

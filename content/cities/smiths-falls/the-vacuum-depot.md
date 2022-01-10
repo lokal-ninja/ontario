@@ -1,5 +1,5 @@
 ---
 title: "The Vacuum Depot"
 url: /smiths-falls/the-vacuum-depot/
-shop: Haushaltsgeräte
+shop: appliance
 ---

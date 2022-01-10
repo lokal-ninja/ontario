@@ -1,5 +1,5 @@
 ---
 title: "Leggat Kia"
 url: /burlington/leggat-kia/
-shop: Autohaus
+shop: car
 ---

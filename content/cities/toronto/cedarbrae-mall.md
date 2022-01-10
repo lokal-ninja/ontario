@@ -1,5 +1,5 @@
 ---
 title: "Cedarbrae Mall"
 url: /toronto/cedarbrae-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

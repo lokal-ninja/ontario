@@ -1,5 +1,5 @@
 ---
 title: "Wellesley Optical"
 url: /wellesley/wellesley-optical/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Red Maple Auto Centre"
 url: /richmond-hill/red-maple-auto-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

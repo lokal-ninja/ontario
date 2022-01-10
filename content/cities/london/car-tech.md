@@ -1,5 +1,5 @@
 ---
 title: "Car Tech"
 url: /london/car-tech/
-shop: Autowerkstatt
+shop: car repair
 ---

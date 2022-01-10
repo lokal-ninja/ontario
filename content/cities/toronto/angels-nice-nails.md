@@ -1,5 +1,5 @@
 ---
 title: "Angel's Nice Nails"
 url: /toronto/angels-nice-nails/
-shop: Kosmetik
+shop: beauty
 ---

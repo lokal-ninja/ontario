@@ -1,5 +1,5 @@
 ---
 title: "Portions"
 url: /guelph/portions/
-shop: Bioladen
+shop: health food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mac's"
 url: /sudbury/macs/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maya"
 url: /maple/maya/
-shop: Kosmetik
+shop: beauty
 ---

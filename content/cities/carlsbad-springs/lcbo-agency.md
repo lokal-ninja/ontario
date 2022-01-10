@@ -1,5 +1,5 @@
 ---
 title: "LCBO Agency"
 url: /carlsbad-springs/lcbo-agency/
-shop: Spirituosen
+shop: alcohol
 ---

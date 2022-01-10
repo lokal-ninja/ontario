@@ -1,5 +1,5 @@
 ---
 title: "Family Honda"
 url: /brampton/family-honda/
-shop: Autohaus
+shop: car
 ---

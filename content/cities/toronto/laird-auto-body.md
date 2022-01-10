@@ -1,5 +1,5 @@
 ---
 title: "Laird Auto Body"
 url: /toronto/laird-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

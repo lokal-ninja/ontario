@@ -1,5 +1,5 @@
 ---
 title: "High Park Cleaners"
 url: /toronto/high-park-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

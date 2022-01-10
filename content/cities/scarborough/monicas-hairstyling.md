@@ -1,5 +1,5 @@
 ---
 title: "Monica's Hairstyling"
 url: /scarborough/monicas-hairstyling/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Moore Park Cleaners"
 url: /toronto/moore-park-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

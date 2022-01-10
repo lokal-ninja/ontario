@@ -1,5 +1,5 @@
 ---
 title: "Wrights Variety GOCO"
 url: /paris/wrights-variety-goco/
-shop: Lebensmittel
+shop: convenience
 ---

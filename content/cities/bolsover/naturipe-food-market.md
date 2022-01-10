@@ -1,5 +1,5 @@
 ---
 title: "Naturipe Food Market"
 url: /bolsover/naturipe-food-market/
-shop: Lebensmittel
+shop: convenience
 ---

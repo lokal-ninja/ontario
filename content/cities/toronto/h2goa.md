@@ -1,5 +1,5 @@
 ---
 title: "H2GOA"
 url: /toronto/h2goa/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Longo's"
 url: /oakville/longos-2/
-shop: Supermarkt
+shop: supermarket
 ---

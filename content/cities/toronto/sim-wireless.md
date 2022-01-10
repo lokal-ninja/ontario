@@ -1,5 +1,5 @@
 ---
 title: "SIM Wireless"
 url: /toronto/sim-wireless/
-shop: Handy
+shop: mobile phone
 ---

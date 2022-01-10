@@ -1,5 +1,5 @@
 ---
 title: "Trixie"
 url: /toronto/trixie/
-shop: Kleidung
+shop: clothes
 ---

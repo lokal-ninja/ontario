@@ -1,5 +1,5 @@
 ---
 title: "Just Incredible!"
 url: /mississauga/just-incredible/
-shop: Friseur
+shop: hairdresser
 ---

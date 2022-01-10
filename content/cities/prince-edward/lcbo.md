@@ -1,5 +1,5 @@
 ---
 title: "LCBO"
 url: /prince-edward/lcbo/
-shop: Spirituosen
+shop: alcohol
 ---

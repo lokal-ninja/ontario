@@ -1,5 +1,5 @@
 ---
 title: "Foods for Life"
 url: /toronto/foods-for-life/
-shop: Gesundheit
+shop: health
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /timmins/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

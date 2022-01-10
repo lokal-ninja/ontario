@@ -1,5 +1,5 @@
 ---
 title: "Gib-San Pools"
 url: /toronto/gib-san-pools/
-shop: Pool
+shop: swimming pool
 ---

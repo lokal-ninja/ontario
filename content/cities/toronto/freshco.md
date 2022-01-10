@@ -1,5 +1,5 @@
 ---
 title: "FreshCo"
 url: /toronto/freshco/
-shop: Supermarkt
+shop: supermarket
 ---

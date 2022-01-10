@@ -1,5 +1,5 @@
 ---
 title: "Sentesy Solid Woodwork"
 url: /perth/sentesy-solid-woodwork/
-shop: Möbel
+shop: furniture
 ---

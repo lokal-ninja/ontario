@@ -1,5 +1,5 @@
 ---
 title: "King West Eye Care"
 url: /toronto/king-west-eye-care/
-shop: Optiker
+shop: optician
 ---

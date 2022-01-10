@@ -1,5 +1,5 @@
 ---
 title: "Food Basics"
 url: /windsor/food-basics-2/
-shop: Supermarkt
+shop: supermarket
 ---

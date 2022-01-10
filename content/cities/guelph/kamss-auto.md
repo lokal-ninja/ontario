@@ -1,5 +1,5 @@
 ---
 title: "Kams's Auto"
 url: /guelph/kamss-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

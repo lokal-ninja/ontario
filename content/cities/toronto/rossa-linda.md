@@ -1,5 +1,5 @@
 ---
 title: "Rossa Linda"
 url: /toronto/rossa-linda/
-shop: Kleidung
+shop: clothes
 ---

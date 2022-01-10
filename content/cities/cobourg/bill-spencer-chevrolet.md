@@ -1,5 +1,5 @@
 ---
 title: "Bill Spencer Chevrolet"
 url: /cobourg/bill-spencer-chevrolet/
-shop: Autohaus
+shop: car
 ---

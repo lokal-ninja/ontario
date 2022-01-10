@@ -1,5 +1,5 @@
 ---
 title: "Weathervane"
 url: /erin/weathervane/
-shop: Andenken
+shop: gift
 ---

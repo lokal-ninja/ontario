@@ -1,5 +1,5 @@
 ---
 title: "Lids"
 url: /toronto/lids/
-shop: Kleidung
+shop: clothes
 ---

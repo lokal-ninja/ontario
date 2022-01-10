@@ -1,5 +1,5 @@
 ---
 title: "Onirak Fashion"
 url: /toronto/onirak-fashion/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dar Halal Meat Market"
 url: /etobicoke/dar-halal-meat-market/
-shop: Metzgerei
+shop: butcher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HD Office Supplies"
 url: /smiths-falls/hd-office-supplies/
-shop: Schreibwaren
+shop: office supplies
 ---

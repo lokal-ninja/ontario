@@ -1,5 +1,5 @@
 ---
 title: "Fortnight"
 url: /toronto/fortnight/
-shop: Kleidung
+shop: clothes
 ---

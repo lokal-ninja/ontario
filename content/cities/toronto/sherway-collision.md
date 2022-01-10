@@ -1,5 +1,5 @@
 ---
 title: "Sherway Collision"
 url: /toronto/sherway-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BMO"
 url: /toronto/bmo/
-shop: Leerstehend
+shop: vacant
 ---

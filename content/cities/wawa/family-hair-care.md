@@ -1,5 +1,5 @@
 ---
 title: "Family Hair Care"
 url: /wawa/family-hair-care/
-shop: Friseur
+shop: hairdresser
 ---

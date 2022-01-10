@@ -1,5 +1,5 @@
 ---
 title: "Kim's Variety"
 url: /kitchener/kims-variety/
-shop: Lebensmittel
+shop: convenience
 ---

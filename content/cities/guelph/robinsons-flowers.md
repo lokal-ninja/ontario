@@ -1,5 +1,5 @@
 ---
 title: "Robinson's Flowers"
 url: /guelph/robinsons-flowers/
-shop: Blumen
+shop: florist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fringe"
 url: /toronto/fringe/
-shop: Friseur
+shop: hairdresser
 ---

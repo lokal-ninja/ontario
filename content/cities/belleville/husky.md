@@ -1,5 +1,5 @@
 ---
 title: "Husky"
 url: /belleville/husky/
-shop: Lebensmittel
+shop: convenience
 ---

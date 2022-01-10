@@ -1,5 +1,5 @@
 ---
 title: "Allen Gallery"
 url: /toronto/allen-gallery/
-shop: Kunst
+shop: art
 ---

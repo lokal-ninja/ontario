@@ -1,5 +1,5 @@
 ---
 title: "Global Pet Foods"
 url: /guelph/global-pet-foods/
-shop: Tiere
+shop: pet
 ---

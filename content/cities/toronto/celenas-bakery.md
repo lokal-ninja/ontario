@@ -1,5 +1,5 @@
 ---
 title: "Celena's Bakery"
 url: /toronto/celenas-bakery/
-shop: Bäckerei
+shop: bakery
 ---

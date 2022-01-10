@@ -1,5 +1,5 @@
 ---
 title: "CashMoney"
 url: /toronto/cashmoney/
-shop: Leiher
+shop: pawnbroker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cellteck"
 url: /scarborough/cellteck/
-shop: Handy
+shop: mobile phone
 ---

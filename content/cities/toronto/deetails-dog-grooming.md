@@ -1,5 +1,5 @@
 ---
 title: "Dee'tails Dog Grooming"
 url: /toronto/deetails-dog-grooming/
-shop: Tiersalon
+shop: pet grooming
 ---

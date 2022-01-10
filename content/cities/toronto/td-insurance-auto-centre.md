@@ -1,5 +1,5 @@
 ---
 title: "TD Insurance Auto Centre"
 url: /toronto/td-insurance-auto-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "VdeV"
 url: /toronto/vdev/
-shop: Möbel
+shop: furniture
 ---

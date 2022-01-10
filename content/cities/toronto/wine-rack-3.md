@@ -1,5 +1,5 @@
 ---
 title: "Wine Rack"
 url: /toronto/wine-rack-3/
-shop: Wein
+shop: wine
 ---

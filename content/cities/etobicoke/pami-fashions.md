@@ -1,5 +1,5 @@
 ---
 title: "Pami Fashions"
 url: /etobicoke/pami-fashions/
-shop: Kleidung
+shop: clothes
 ---

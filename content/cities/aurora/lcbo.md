@@ -1,5 +1,5 @@
 ---
 title: "LCBO"
 url: /aurora/lcbo/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Val's Variety"
 url: /geraldton/vals-variety/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Biway Zone"
 url: /toronto/biway-zone/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "EB Games"
 url: /toronto/eb-games-2/
-shop: Videospiele
+shop: video games
 ---

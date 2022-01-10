@@ -1,5 +1,5 @@
 ---
 title: "Factory Finish Customs"
 url: /napanee/factory-finish-customs/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Husky"
 url: /kitchener/husky/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Grocery Outlet"
 url: /whitby/the-grocery-outlet/
-shop: Supermarkt
+shop: supermarket
 ---

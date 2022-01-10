@@ -1,5 +1,5 @@
 ---
 title: "Honest Auto Service"
 url: /cottam/honest-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

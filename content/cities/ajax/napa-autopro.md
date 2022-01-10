@@ -1,5 +1,5 @@
 ---
 title: "NAPA Autopro"
 url: /ajax/napa-autopro/
-shop: Autoteile
+shop: car parts
 ---

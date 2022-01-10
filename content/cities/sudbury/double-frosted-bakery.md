@@ -1,5 +1,5 @@
 ---
 title: "Double Frosted Bakery"
 url: /sudbury/double-frosted-bakery/
-shop: Bäckerei
+shop: bakery
 ---

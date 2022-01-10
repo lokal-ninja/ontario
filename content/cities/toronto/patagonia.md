@@ -1,5 +1,5 @@
 ---
 title: "Patagonia"
 url: /toronto/patagonia/
-shop: Kleidung
+shop: clothes
 ---

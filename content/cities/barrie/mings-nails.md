@@ -1,5 +1,5 @@
 ---
 title: "Ming's Nails"
 url: /barrie/mings-nails/
-shop: Kosmetik
+shop: beauty
 ---

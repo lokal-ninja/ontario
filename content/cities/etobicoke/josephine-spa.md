@@ -1,5 +1,5 @@
 ---
 title: "Josephine Spa"
 url: /etobicoke/josephine-spa/
-shop: Massage
+shop: massage
 ---

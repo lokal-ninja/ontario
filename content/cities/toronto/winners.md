@@ -1,5 +1,5 @@
 ---
 title: "Winners"
 url: /toronto/winners/
-shop: Kleidung
+shop: clothes
 ---

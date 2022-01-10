@@ -1,5 +1,5 @@
 ---
 title: "Unity Automotive"
 url: /toronto/unity-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

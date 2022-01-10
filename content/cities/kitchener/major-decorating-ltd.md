@@ -1,5 +1,5 @@
 ---
 title: "Major Decorating Ltd"
 url: /kitchener/major-decorating-ltd/
-shop: Küchen
+shop: kitchen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /vaughan/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

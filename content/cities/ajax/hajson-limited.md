@@ -1,5 +1,5 @@
 ---
 title: "Hajson Limited"
 url: /ajax/hajson-limited/
-shop: Autowerkstatt
+shop: car repair
 ---

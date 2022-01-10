@@ -1,5 +1,5 @@
 ---
 title: "Compu Mobile"
 url: /milton/compu-mobile/
-shop: Handy
+shop: mobile phone
 ---

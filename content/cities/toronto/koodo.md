@@ -1,5 +1,5 @@
 ---
 title: "Koodo"
 url: /toronto/koodo/
-shop: Handy
+shop: mobile phone
 ---

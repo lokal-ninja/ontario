@@ -1,5 +1,5 @@
 ---
 title: "Papa John's Bakery"
 url: /mississauga/papa-johns-bakery/
-shop: Bäckerei
+shop: bakery
 ---

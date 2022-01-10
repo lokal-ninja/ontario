@@ -1,5 +1,5 @@
 ---
 title: "Dale Downie Nissan"
 url: /london/dale-downie-nissan/
-shop: Autohaus
+shop: car
 ---

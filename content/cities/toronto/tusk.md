@@ -1,5 +1,5 @@
 ---
 title: "Tusk"
 url: /toronto/tusk/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Home Hardware"
 url: /norfolk-county/home-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

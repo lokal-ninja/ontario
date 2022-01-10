@@ -1,5 +1,5 @@
 ---
 title: "H E Brown"
 url: /north-bay/h-e-brown/
-shop: Autoteile
+shop: car parts
 ---

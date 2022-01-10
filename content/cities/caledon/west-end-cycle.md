@@ -1,5 +1,5 @@
 ---
 title: "West End Cycle"
 url: /caledon/west-end-cycle/
-shop: Motorrad
+shop: motorcycle
 ---

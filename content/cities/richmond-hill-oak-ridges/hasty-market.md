@@ -1,5 +1,5 @@
 ---
 title: "Hasty Market"
 url: /richmond-hill-oak-ridges/hasty-market/
-shop: Lebensmittel
+shop: convenience
 ---

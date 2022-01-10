@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /niagara-falls/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

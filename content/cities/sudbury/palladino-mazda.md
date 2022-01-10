@@ -1,5 +1,5 @@
 ---
 title: "Palladino Mazda"
 url: /sudbury/palladino-mazda/
-shop: Autohaus
+shop: car
 ---

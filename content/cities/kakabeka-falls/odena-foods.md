@@ -1,5 +1,5 @@
 ---
 title: "Odena Foods"
 url: /kakabeka-falls/odena-foods/
-shop: Supermarkt
+shop: supermarket
 ---

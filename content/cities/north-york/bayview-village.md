@@ -1,5 +1,5 @@
 ---
 title: "Bayview Village"
 url: /north-york/bayview-village/
-shop: Einkaufszentrum
+shop: mall
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lilliput Hats"
 url: /toronto/lilliput-hats/
-shop: Kleidung
+shop: clothes
 ---

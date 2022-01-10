@@ -1,5 +1,5 @@
 ---
 title: "JKL"
 url: /oshawa/jkl/
-shop: Autowerkstatt
+shop: car repair
 ---

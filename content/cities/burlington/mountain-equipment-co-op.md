@@ -1,5 +1,5 @@
 ---
 title: "Mountain Equipment Co-Op"
 url: /burlington/mountain-equipment-co-op/
-shop: Outdoor
+shop: outdoor
 ---

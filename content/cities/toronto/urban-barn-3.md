@@ -1,5 +1,5 @@
 ---
 title: "Urban Barn"
 url: /toronto/urban-barn-3/
-shop: Möbel
+shop: furniture
 ---

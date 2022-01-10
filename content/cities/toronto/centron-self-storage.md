@@ -1,5 +1,5 @@
 ---
 title: "Centron Self Storage"
 url: /toronto/centron-self-storage/
-shop: Mieten
+shop: storage rental
 ---

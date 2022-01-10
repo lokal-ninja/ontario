@@ -1,5 +1,5 @@
 ---
 title: "Duty Free Shop"
 url: /fort-erie/duty-free-shop/
-shop: Allgemein
+shop: shop
 ---

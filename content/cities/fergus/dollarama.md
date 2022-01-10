@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /fergus/dollarama/
-shop: Kramladen
+shop: variety store
 ---

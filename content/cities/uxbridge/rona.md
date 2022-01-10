@@ -1,5 +1,5 @@
 ---
 title: "Rona"
 url: /uxbridge/rona/
-shop: Baumarkt
+shop: doityourself
 ---

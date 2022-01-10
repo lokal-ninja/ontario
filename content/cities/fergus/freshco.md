@@ -1,5 +1,5 @@
 ---
 title: "FreshCo"
 url: /fergus/freshco/
-shop: Supermarkt
+shop: supermarket
 ---

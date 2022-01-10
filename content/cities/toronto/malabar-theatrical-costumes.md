@@ -1,5 +1,5 @@
 ---
 title: "Malabar Theatrical Costumes"
 url: /toronto/malabar-theatrical-costumes/
-shop: Kleidung
+shop: clothes
 ---

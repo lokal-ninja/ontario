@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercentre"
 url: /etobicoke/walmart-supercentre-2/
-shop: Supermarkt
+shop: supermarket
 ---

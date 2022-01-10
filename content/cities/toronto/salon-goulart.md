@@ -1,5 +1,5 @@
 ---
 title: "Salon Goulart"
 url: /toronto/salon-goulart/
-shop: Kosmetik
+shop: beauty
 ---

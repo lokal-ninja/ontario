@@ -1,5 +1,5 @@
 ---
 title: "Al Premium Food Mart"
 url: /scarborough/al-premium-food-mart/
-shop: Supermarkt
+shop: supermarket
 ---

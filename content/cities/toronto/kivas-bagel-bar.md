@@ -1,5 +1,5 @@
 ---
 title: "Kiva's Bagel Bar"
 url: /toronto/kivas-bagel-bar/
-shop: Bäckerei
+shop: bakery
 ---

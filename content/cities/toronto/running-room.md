@@ -1,5 +1,5 @@
 ---
 title: "Running Room"
 url: /toronto/running-room/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shoe Per"
 url: /guelph/shoe-per/
-shop: Schuhe
+shop: shoes
 ---

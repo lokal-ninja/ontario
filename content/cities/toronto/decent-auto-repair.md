@@ -1,5 +1,5 @@
 ---
 title: "Decent Auto Repair"
 url: /toronto/decent-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

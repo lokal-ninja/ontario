@@ -1,5 +1,5 @@
 ---
 title: "Sterling"
 url: /kingston/sterling/
-shop: Schmuck
+shop: jewelry
 ---

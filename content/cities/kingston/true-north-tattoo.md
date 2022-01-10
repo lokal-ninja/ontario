@@ -1,5 +1,5 @@
 ---
 title: "True North Tattoo"
 url: /kingston/true-north-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

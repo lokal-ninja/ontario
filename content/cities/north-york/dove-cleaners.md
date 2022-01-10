@@ -1,5 +1,5 @@
 ---
 title: "Dove Cleaners"
 url: /north-york/dove-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

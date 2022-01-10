@@ -1,5 +1,5 @@
 ---
 title: "Howard Buy Sell"
 url: /smiths-falls/howard-buy-sell/
-shop: Leiher
+shop: pawnbroker
 ---

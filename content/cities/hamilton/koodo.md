@@ -1,5 +1,5 @@
 ---
 title: "Koodo"
 url: /hamilton/koodo/
-shop: Handy
+shop: mobile phone
 ---

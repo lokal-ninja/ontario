@@ -1,5 +1,5 @@
 ---
 title: "Pura Vida Nutrition Store"
 url: /town-of-renfrew/pura-vida-nutrition-store/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

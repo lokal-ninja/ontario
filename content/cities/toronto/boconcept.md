@@ -1,5 +1,5 @@
 ---
 title: "BoConcept"
 url: /toronto/boconcept/
-shop: Möbel
+shop: furniture
 ---

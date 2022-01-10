@@ -1,5 +1,5 @@
 ---
 title: "Valu-mart"
 url: /toronto/valu-mart-2/
-shop: Supermarkt
+shop: supermarket
 ---

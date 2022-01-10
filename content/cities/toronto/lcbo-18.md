@@ -1,5 +1,5 @@
 ---
 title: "LCBO"
 url: /toronto/lcbo-18/
-shop: Spirituosen
+shop: alcohol
 ---

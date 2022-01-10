@@ -1,5 +1,5 @@
 ---
 title: "alagallarie.com"
 url: /niagara-on-the-lake/alagallarie-com/
-shop: Autowerkstatt
+shop: car repair
 ---

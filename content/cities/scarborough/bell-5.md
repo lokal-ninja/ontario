@@ -1,5 +1,5 @@
 ---
 title: "Bell"
 url: /scarborough/bell-5/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Plymouth Variety"
 url: /east-york/plymouth-variety/
-shop: Lebensmittel
+shop: convenience
 ---

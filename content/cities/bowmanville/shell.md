@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /bowmanville/shell/
-shop: Lebensmittel
+shop: convenience
 ---

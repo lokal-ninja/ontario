@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /alliston/dollarama/
-shop: Kramladen
+shop: variety store
 ---

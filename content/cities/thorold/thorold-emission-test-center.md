@@ -1,5 +1,5 @@
 ---
 title: "Thorold Emission Test Center"
 url: /thorold/thorold-emission-test-center/
-shop: Autowerkstatt
+shop: car repair
 ---

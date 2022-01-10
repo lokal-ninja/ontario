@@ -1,5 +1,5 @@
 ---
 title: "Coachworks Automotive"
 url: /milton/coachworks-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

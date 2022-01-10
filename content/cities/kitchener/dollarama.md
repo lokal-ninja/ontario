@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /kitchener/dollarama/
-shop: Kramladen
+shop: variety store
 ---

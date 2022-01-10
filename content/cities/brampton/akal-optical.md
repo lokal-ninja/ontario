@@ -1,5 +1,5 @@
 ---
 title: "Akal Optical"
 url: /brampton/akal-optical/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gruv"
 url: /stratford/gruv/
-shop: Kleidung
+shop: clothes
 ---

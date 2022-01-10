@@ -1,5 +1,5 @@
 ---
 title: "PJ Knickerbockers"
 url: /markdale/pj-knickerbockers/
-shop: Spielzeug
+shop: toys
 ---

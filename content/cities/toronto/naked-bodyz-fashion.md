@@ -1,5 +1,5 @@
 ---
 title: "Naked Bodyz Fashion"
 url: /toronto/naked-bodyz-fashion/
-shop: Kleidung
+shop: clothes
 ---

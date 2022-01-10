@@ -1,5 +1,5 @@
 ---
 title: "Bell"
 url: /mississauga/bell/
-shop: Handy
+shop: mobile phone
 ---

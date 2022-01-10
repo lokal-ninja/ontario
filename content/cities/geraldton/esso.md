@@ -1,5 +1,5 @@
 ---
 title: "Esso"
 url: /geraldton/esso/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tisha's"
 url: /cambridge/tishas/
-shop: Allgemein
+shop: shop
 ---

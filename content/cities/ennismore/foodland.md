@@ -1,5 +1,5 @@
 ---
 title: "Foodland"
 url: /ennismore/foodland/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Charbonneau`s Grocery"
 url: /calabogie/charbonneau-s-grocery/
-shop: Dorfladen
+shop: general
 ---

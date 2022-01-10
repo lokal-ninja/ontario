@@ -1,5 +1,5 @@
 ---
 title: "York Dollar and More"
 url: /toronto/york-dollar-and-more/
-shop: Kramladen
+shop: variety store
 ---

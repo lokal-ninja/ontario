@@ -1,5 +1,5 @@
 ---
 title: "Steamworks Baths Toronto"
 url: /toronto/steamworks-baths-toronto/
-shop: Massage
+shop: massage
 ---

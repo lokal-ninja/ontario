@@ -1,5 +1,5 @@
 ---
 title: "Ecco"
 url: /toronto/ecco/
-shop: Schuhe
+shop: shoes
 ---

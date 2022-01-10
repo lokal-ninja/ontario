@@ -1,5 +1,5 @@
 ---
 title: "Pearl Convenience"
 url: /brampton/pearl-convenience/
-shop: Lebensmittel
+shop: convenience
 ---

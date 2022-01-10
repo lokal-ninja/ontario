@@ -1,5 +1,5 @@
 ---
 title: "Lu-La"
 url: /toronto/lu-la/
-shop: Leerstehend
+shop: vacant
 ---

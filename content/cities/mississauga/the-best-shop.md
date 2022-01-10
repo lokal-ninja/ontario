@@ -1,5 +1,5 @@
 ---
 title: "The Best Shop"
 url: /mississauga/the-best-shop/
-shop: Warenhaus
+shop: department store
 ---

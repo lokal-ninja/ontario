@@ -1,5 +1,5 @@
 ---
 title: "LaCell Tech"
 url: /windsor/lacell-tech/
-shop: Handy
+shop: mobile phone
 ---

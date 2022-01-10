@@ -1,5 +1,5 @@
 ---
 title: "Stuart Jackson Gallery"
 url: /toronto/stuart-jackson-gallery/
-shop: Antiquitäten
+shop: antiques
 ---

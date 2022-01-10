@@ -1,5 +1,5 @@
 ---
 title: "Aktiv Motors"
 url: /oakville/aktiv-motors/
-shop: Autohaus
+shop: car
 ---

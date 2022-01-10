@@ -1,5 +1,5 @@
 ---
 title: "Lube Express"
 url: /etobicoke/lube-express/
-shop: Autowerkstatt
+shop: car repair
 ---

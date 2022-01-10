@@ -1,5 +1,5 @@
 ---
 title: "Handy Variety"
 url: /toronto/handy-variety/
-shop: Lebensmittel
+shop: convenience
 ---

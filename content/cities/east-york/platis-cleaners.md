@@ -1,5 +1,5 @@
 ---
 title: "Platis Cleaners"
 url: /east-york/platis-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

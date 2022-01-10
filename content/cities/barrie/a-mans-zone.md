@@ -1,5 +1,5 @@
 ---
 title: "A Man's Zone"
 url: /barrie/a-mans-zone/
-shop: Kosmetik
+shop: beauty
 ---

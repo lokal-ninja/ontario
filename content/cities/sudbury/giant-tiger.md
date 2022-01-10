@@ -1,5 +1,5 @@
 ---
 title: "Giant Tiger"
 url: /sudbury/giant-tiger/
-shop: Warenhaus
+shop: department store
 ---

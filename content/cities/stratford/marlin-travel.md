@@ -1,5 +1,5 @@
 ---
 title: "Marlin Travel"
 url: /stratford/marlin-travel/
-shop: Reisebüro
+shop: travel agency
 ---

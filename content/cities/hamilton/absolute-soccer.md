@@ -1,5 +1,5 @@
 ---
 title: "Absolute Soccer"
 url: /hamilton/absolute-soccer/
-shop: Sport
+shop: sports
 ---

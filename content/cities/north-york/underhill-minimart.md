@@ -1,5 +1,5 @@
 ---
 title: "Underhill Minimart"
 url: /north-york/underhill-minimart/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /guelph/costco/
-shop: Supermarkt
+shop: supermarket
 ---

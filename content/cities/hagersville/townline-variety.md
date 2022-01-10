@@ -1,5 +1,5 @@
 ---
 title: "Townline Variety"
 url: /hagersville/townline-variety/
-shop: Lebensmittel
+shop: convenience
 ---

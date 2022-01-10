@@ -1,5 +1,5 @@
 ---
 title: "Sweet Thrills"
 url: /toronto/sweet-thrills/
-shop: Süßwaren
+shop: confectionery
 ---

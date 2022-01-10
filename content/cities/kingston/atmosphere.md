@@ -1,5 +1,5 @@
 ---
 title: "Atmosphere"
 url: /kingston/atmosphere/
-shop: Kleidung
+shop: clothes
 ---

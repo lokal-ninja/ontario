@@ -1,5 +1,5 @@
 ---
 title: "Foodland"
 url: /smithville/foodland/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Alley"
 url: /aurora/the-alley/
-shop: Tee
+shop: tea
 ---

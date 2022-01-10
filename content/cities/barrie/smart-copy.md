@@ -1,5 +1,5 @@
 ---
 title: "Smart Copy"
 url: /barrie/smart-copy/
-shop: Kopieren
+shop: copyshop
 ---

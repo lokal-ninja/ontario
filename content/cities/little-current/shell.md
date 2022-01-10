@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /little-current/shell/
-shop: Autowerkstatt
+shop: car repair
 ---

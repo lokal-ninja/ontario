@@ -1,5 +1,5 @@
 ---
 title: "afterglo"
 url: /toronto/afterglo/
-shop: Gerberei
+shop: tanning
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /burlington/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

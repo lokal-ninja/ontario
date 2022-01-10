@@ -1,5 +1,5 @@
 ---
 title: "printandpaper.com"
 url: /toronto/printandpaper-com/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AlignTEK"
 url: /etobicoke/aligntek/
-shop: Autowerkstatt
+shop: car repair
 ---

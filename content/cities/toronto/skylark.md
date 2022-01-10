@@ -1,5 +1,5 @@
 ---
 title: "Skylark"
 url: /toronto/skylark/
-shop: Hörgeräte
+shop: hearing aids
 ---

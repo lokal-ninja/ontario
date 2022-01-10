@@ -1,5 +1,5 @@
 ---
 title: "Chris' Independent Grocer"
 url: /sudbury/chris-independent-grocer/
-shop: Supermarkt
+shop: supermarket
 ---

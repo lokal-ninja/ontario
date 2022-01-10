@@ -1,5 +1,5 @@
 ---
 title: "Northern Store"
 url: /wawa/northern-store/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Family Fruit and Flower"
 url: /toronto/family-fruit-and-flower/
-shop: Gemüse & Obst
+shop: greengrocer
 ---

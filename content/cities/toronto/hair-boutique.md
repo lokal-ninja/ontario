@@ -1,5 +1,5 @@
 ---
 title: "Hair Boutique"
 url: /toronto/hair-boutique/
-shop: Friseur
+shop: hairdresser
 ---

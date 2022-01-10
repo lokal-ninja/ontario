@@ -1,5 +1,5 @@
 ---
 title: "Miriam Jewellers"
 url: /mississauga/miriam-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

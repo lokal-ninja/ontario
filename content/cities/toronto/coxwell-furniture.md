@@ -1,5 +1,5 @@
 ---
 title: "Coxwell Furniture"
 url: /toronto/coxwell-furniture/
-shop: Möbel
+shop: furniture
 ---

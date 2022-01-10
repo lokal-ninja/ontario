@@ -1,5 +1,5 @@
 ---
 title: "The Studio"
 url: /thornhill/the-studio/
-shop: Friseur
+shop: hairdresser
 ---

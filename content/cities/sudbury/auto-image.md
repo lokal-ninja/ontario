@@ -1,5 +1,5 @@
 ---
 title: "Auto Image"
 url: /sudbury/auto-image/
-shop: Autowerkstatt
+shop: car repair
 ---

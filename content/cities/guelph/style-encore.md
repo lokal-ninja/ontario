@@ -1,5 +1,5 @@
 ---
 title: "Style Encore"
 url: /guelph/style-encore/
-shop: Kleidung
+shop: clothes
 ---

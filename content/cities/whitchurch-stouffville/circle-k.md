@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /whitchurch-stouffville/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

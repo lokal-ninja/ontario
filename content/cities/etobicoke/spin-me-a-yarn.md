@@ -1,5 +1,5 @@
 ---
 title: "Spin Me a Yarn"
 url: /etobicoke/spin-me-a-yarn/
-shop: Nähzubehör
+shop: sewing
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Petro-Canada"
 url: /toronto/petro-canada/
-shop: Lebensmittel
+shop: convenience
 ---

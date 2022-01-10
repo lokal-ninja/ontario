@@ -1,5 +1,5 @@
 ---
 title: "ABC Storage"
 url: /kingston/abc-storage/
-shop: Mieten
+shop: storage rental
 ---

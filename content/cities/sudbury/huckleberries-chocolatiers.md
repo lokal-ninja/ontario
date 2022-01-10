@@ -1,5 +1,5 @@
 ---
 title: "Huckleberries Chocolatiers"
 url: /sudbury/huckleberries-chocolatiers/
-shop: Schokolade
+shop: chocolate
 ---

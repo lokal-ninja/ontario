@@ -1,5 +1,5 @@
 ---
 title: "Brechin Esso"
 url: /brechin/brechin-esso/
-shop: Lebensmittel
+shop: convenience
 ---

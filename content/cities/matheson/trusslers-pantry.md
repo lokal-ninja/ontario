@@ -1,5 +1,5 @@
 ---
 title: "Trussler's Pantry"
 url: /matheson/trusslers-pantry/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Len's Mill"
 url: /london/lens-mill/
-shop: Textil
+shop: fabric
 ---

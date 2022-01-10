@@ -1,5 +1,5 @@
 ---
 title: "UNDR"
 url: /kingston/undr/
-shop: Leerstehend
+shop: vacant
 ---

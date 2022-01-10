@@ -1,5 +1,5 @@
 ---
 title: "Bigs Milk"
 url: /mississauga/bigs-milk/
-shop: Lebensmittel
+shop: convenience
 ---

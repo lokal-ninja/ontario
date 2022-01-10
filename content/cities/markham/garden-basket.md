@@ -1,5 +1,5 @@
 ---
 title: "Garden Basket"
 url: /markham/garden-basket/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Thorncrest Ford"
 url: /etobicoke/thorncrest-ford/
-shop: Autohaus
+shop: car
 ---

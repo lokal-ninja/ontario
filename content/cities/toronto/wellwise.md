@@ -1,5 +1,5 @@
 ---
 title: "WELLWISE"
 url: /toronto/wellwise/
-shop: Sanitätshaus
+shop: medical supply
 ---

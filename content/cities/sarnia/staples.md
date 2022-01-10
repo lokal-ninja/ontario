@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /sarnia/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

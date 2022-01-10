@@ -1,5 +1,5 @@
 ---
 title: "Masonville Corner Store"
 url: /shelburne/masonville-corner-store/
-shop: Lebensmittel
+shop: convenience
 ---

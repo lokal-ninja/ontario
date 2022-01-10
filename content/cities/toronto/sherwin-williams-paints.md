@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams Paints"
 url: /toronto/sherwin-williams-paints/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Planet X"
 url: /toronto/planet-x/
-shop: Spielzeug
+shop: toys
 ---

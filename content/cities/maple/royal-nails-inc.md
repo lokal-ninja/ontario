@@ -1,5 +1,5 @@
 ---
 title: "Royal Nails Inc."
 url: /maple/royal-nails-inc/
-shop: Kosmetik
+shop: beauty
 ---

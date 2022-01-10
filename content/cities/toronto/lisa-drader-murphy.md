@@ -1,5 +1,5 @@
 ---
 title: "Lisa Drader-Murphy"
 url: /toronto/lisa-drader-murphy/
-shop: Modehaus
+shop: boutique
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rendezvous Hair Salon"
 url: /etobicoke/rendezvous-hair-salon/
-shop: Friseur
+shop: hairdresser
 ---

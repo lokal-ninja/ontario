@@ -1,5 +1,5 @@
 ---
 title: "Osweken Speedway Variety"
 url: /ohsweken/osweken-speedway-variety/
-shop: Lebensmittel
+shop: convenience
 ---

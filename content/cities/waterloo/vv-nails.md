@@ -1,5 +1,5 @@
 ---
 title: "VV Nails"
 url: /waterloo/vv-nails/
-shop: Kosmetik
+shop: beauty
 ---

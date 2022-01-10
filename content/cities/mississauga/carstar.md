@@ -1,5 +1,5 @@
 ---
 title: "Carstar"
 url: /mississauga/carstar/
-shop: Autowerkstatt
+shop: car repair
 ---

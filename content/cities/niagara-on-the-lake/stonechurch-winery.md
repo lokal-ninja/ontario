@@ -1,5 +1,5 @@
 ---
 title: "Stonechurch Winery"
 url: /niagara-on-the-lake/stonechurch-winery/
-shop: Wein
+shop: wine
 ---

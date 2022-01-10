@@ -1,5 +1,5 @@
 ---
 title: "Farm Boy"
 url: /waterloo/farm-boy/
-shop: Supermarkt
+shop: supermarket
 ---

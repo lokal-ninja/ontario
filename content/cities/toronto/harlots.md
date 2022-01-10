@@ -1,5 +1,5 @@
 ---
 title: "Harlots"
 url: /toronto/harlots/
-shop: Friseur
+shop: hairdresser
 ---

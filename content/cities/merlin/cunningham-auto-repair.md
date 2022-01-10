@@ -1,5 +1,5 @@
 ---
 title: "Cunningham Auto Repair"
 url: /merlin/cunningham-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

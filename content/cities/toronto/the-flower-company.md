@@ -1,5 +1,5 @@
 ---
 title: "The Flower Company"
 url: /toronto/the-flower-company/
-shop: Friseur
+shop: hairdresser
 ---

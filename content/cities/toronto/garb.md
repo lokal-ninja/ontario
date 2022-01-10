@@ -1,5 +1,5 @@
 ---
 title: "Garb"
 url: /toronto/garb/
-shop: Gebrauchtwaren
+shop: charity
 ---

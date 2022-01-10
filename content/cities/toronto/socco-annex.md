@@ -1,5 +1,5 @@
 ---
 title: "Socco Annex"
 url: /toronto/socco-annex/
-shop: Raumausstattung
+shop: interior decoration
 ---

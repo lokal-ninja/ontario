@@ -1,5 +1,5 @@
 ---
 title: "Platinum Boutique"
 url: /chatham/platinum-boutique/
-shop: Modehaus
+shop: boutique
 ---

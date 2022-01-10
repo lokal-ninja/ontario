@@ -1,5 +1,5 @@
 ---
 title: "Alex Furs"
 url: /toronto/alex-furs/
-shop: Kleidung
+shop: clothes
 ---

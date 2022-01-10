@@ -1,5 +1,5 @@
 ---
 title: "Xclusive Elements"
 url: /st-jacobs/xclusive-elements/
-shop: Kleidung
+shop: clothes
 ---

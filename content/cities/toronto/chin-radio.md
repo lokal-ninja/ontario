@@ -1,5 +1,5 @@
 ---
 title: "CHIN Radio"
 url: /toronto/chin-radio/
-shop: Musik
+shop: music
 ---
