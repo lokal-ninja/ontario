@@ -1,5 +1,5 @@
 ---
-title: "gong cha"
+title: "Gong Cha"
 url: /scarborough/gong-cha/
 shop: tea
 ---
