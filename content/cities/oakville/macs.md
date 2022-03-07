@@ -1,5 +1,5 @@
 ---
 title: "Mac's"
-url: /woodstock/macs/
+url: /oakville/macs/
 shop: convenience
 ---
