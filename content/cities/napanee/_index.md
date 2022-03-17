@@ -1,6 +1,6 @@
 ---
 title: Napanee
 url: /napanee/
-latitude: 44.261
-longitude: -76.961
+latitude: 44.269
+longitude: -76.964
 ---
