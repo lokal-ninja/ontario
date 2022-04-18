@@ -1,5 +1,5 @@
 ---
 title: "Rabba"
-url: /toronto/rabba/
+url: /toronto/rabba-5/
 shop: supermarket
 ---
