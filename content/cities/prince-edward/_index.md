@@ -1,6 +1,6 @@
 ---
 title: Prince Edward
 url: /prince-edward/
-latitude: 43.952
-longitude: -77.339
+latitude: 44.005
+longitude: -77.148
 ---

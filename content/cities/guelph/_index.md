@@ -1,6 +1,6 @@
 ---
 title: Guelph
 url: /guelph/
-latitude: 43.526
-longitude: -80.285
+latitude: 43.548
+longitude: -80.253
 ---
