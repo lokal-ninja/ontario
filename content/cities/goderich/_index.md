@@ -1,6 +1,6 @@
 ---
 title: Goderich
 url: /goderich/
-latitude: 43.732
-longitude: -81.688
+latitude: 43.711
+longitude: -81.662
 ---
