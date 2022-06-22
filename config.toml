@@ -1,4 +1,4 @@
-baseURL = "https://ca.shoogle.net/ontario"
+baseURL = "https://ca.shoogle.net/ontario/"
 languageCode = "en-US"
 title = "Ontario"
 theme = "ln-base"
