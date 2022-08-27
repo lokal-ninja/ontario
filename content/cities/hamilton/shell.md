@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /flamborough/shell/
+url: /hamilton/shell/
 shop: convenience
 ---
