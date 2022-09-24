@@ -1,6 +1,6 @@
 ---
 title: Angus
 url: /angus/
-latitude: 44.329
-longitude: -79.89
+latitude: 44.315
+longitude: -79.884
 ---
