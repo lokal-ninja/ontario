@@ -1,6 +1,6 @@
 ---
 title: Spanish
 url: /spanish/
-latitude: 46.194
-longitude: -82.342
+latitude: 46.195
+longitude: -82.341
 ---
