@@ -1,6 +1,6 @@
 ---
 title: Vaughan
 url: /vaughan/
-latitude: 43.846
-longitude: -79.461
+latitude: 43.826
+longitude: -79.537
 ---

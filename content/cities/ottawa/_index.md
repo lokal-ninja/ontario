@@ -1,6 +1,6 @@
 ---
 title: Ottawa
 url: /ottawa/
-latitude: 45.423
-longitude: -75.696
+latitude: 45.36
+longitude: -75.739
 ---
