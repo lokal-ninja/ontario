@@ -7,5 +7,5 @@ city: Angus
 street: "Massey Street"
 housenumber: 3
 phone: "+1 7054241890"
-opening_hours: "Monday08:00 am - 9:00 pm Tuesday08:00 am - 9:00 pm Wednesday08:00 am - 9:00 pm Thursday08:00 am - 9:00 pm Friday08:00 am - 9:00 pm Saturday09:00 am - 6:00 pm Sunday09:00 am - 6:00 pm"
+opening_hours: "Mo-Fr 08:00-21:00; Sa,Su 09:00-18:00"
 website: "https://www.gianttiger.com/"
