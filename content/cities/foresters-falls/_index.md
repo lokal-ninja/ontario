@@ -1,6 +1,6 @@
 ---
 title: Foresters Falls
 url: /foresters-falls/
-latitude: 45.677
-longitude: -76.782
+latitude: 45.623
+longitude: -76.711
 ---
