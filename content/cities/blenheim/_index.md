@@ -1,6 +1,6 @@
 ---
 title: Blenheim
 url: /blenheim/
-latitude: 42.336
-longitude: -81.998
+latitude: 42.334
+longitude: -81.999
 ---

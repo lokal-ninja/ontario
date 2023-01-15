@@ -1,5 +1,5 @@
 ---
 title: "Romni Wools"
 url: /toronto/romni-wools/
-shop: sewing
+shop: wool
 ---
