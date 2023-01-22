@@ -1,6 +1,6 @@
 ---
 title: Fort Frances
 url: /fort-frances/
-latitude: 48.608
-longitude: -93.437
+latitude: 48.613
+longitude: -93.368
 ---
