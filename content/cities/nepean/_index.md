@@ -1,6 +1,6 @@
 ---
 title: Nepean
 url: /nepean/
-latitude: 45.33
-longitude: -75.723
+latitude: 45.36
+longitude: -75.739
 ---
