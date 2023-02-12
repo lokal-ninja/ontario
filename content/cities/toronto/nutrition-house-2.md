@@ -1,5 +1,5 @@
 ---
 title: "Nutrition House"
-url: /toronto/nutrition-house-2/
+url: /toronto/nutrition-house/
 shop: health food
 ---

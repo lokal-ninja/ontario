@@ -1,5 +1,5 @@
 ---
 title: "Sport Chek"
-url: /toronto/sport-chek-2/
+url: /toronto/sport-chek/
 shop: sports
 ---

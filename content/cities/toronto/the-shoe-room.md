@@ -1,5 +1,5 @@
 ---
 title: "The Shoe Room"
 url: /toronto/the-shoe-room/
-shop: boutique
+shop: clothes
 ---

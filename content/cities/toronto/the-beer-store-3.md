@@ -1,5 +1,5 @@
 ---
 title: "The Beer Store"
-url: /toronto/the-beer-store-3/
+url: /toronto/the-beer-store/
 shop: alcohol
 ---

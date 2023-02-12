@@ -1,5 +1,5 @@
 ---
 title: "No Frills"
-url: /toronto/no-frills-3/
+url: /toronto/no-frills/
 shop: supermarket
 ---

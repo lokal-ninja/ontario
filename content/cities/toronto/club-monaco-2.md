@@ -1,5 +1,5 @@
 ---
 title: "Club Monaco"
-url: /toronto/club-monaco-2/
+url: /toronto/club-monaco/
 shop: clothes
 ---

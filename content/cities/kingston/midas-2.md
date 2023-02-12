@@ -1,5 +1,5 @@
 ---
 title: "Midas"
-url: /kingston/midas-2/
+url: /kingston/midas/
 shop: car repair
 ---

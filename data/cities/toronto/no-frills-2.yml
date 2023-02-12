@@ -1,11 +1,11 @@
-id: 3288802961
-type: node
-latitude: 43.67161
-longitude: -79.37811
-postcode: "M4W 3J6"
+id: 32651959
+type: way
+latitude: 43.73373
+longitude: -79.26684
+postcode: ""
 city: Toronto
-street: "Bloor Street East"
-housenumber: 345
+street: ""
+housenumber: 
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:30; Sa-Su 08:00-20:00"
+opening_hours: ""
 website: ""

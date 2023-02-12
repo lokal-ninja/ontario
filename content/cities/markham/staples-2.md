@@ -1,5 +1,5 @@
 ---
 title: "Staples"
-url: /markham/staples-2/
+url: /markham/staples/
 shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "LCBO"
-url: /kingston/lcbo-4/
+url: /kingston/lcbo/
 shop: alcohol
 ---

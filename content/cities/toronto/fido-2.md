@@ -1,5 +1,5 @@
 ---
 title: "Fido"
-url: /toronto/fido-2/
+url: /toronto/fido/
 shop: mobile phone
 ---

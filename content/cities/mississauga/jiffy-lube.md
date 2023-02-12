@@ -1,5 +1,5 @@
 ---
-title: "jiffy lube"
+title: "Jiffy Lube"
 url: /mississauga/jiffy-lube/
 shop: car repair
 ---

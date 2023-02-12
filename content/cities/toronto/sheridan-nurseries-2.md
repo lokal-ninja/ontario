@@ -1,5 +1,5 @@
 ---
 title: "Sheridan Nurseries"
-url: /toronto/sheridan-nurseries-2/
+url: /toronto/sheridan-nurseries/
 shop: garden centre
 ---

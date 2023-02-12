@@ -1,11 +1,11 @@
-id: 392157110
-type: node
-latitude: 43.70399
-longitude: -79.37471
-postcode: "M4G 3B4"
+id: 101132480
+type: way
+latitude: 43.79702
+longitude: -79.20495
+postcode: ""
 city: Toronto
-street: "Bayview Avenue"
-housenumber: 1524
+street: ""
+housenumber: 
 phone: ""
 opening_hours: ""
-website: "https://lcbo.com/lcbo-ear/jsp/storeinfo.jsp?STORE=650&language=EN"
+website: "https://www.lcbo.com/"

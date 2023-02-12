@@ -1,5 +1,5 @@
 ---
 title: "LCBO"
-url: /toronto/lcbo-3/
+url: /toronto/lcbo/
 shop: alcohol
 ---

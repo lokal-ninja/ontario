@@ -1,11 +1,11 @@
-id: 4253506981
-type: node
-latitude: 43.66347
-longitude: -79.36738
+id: 170242327
+type: way
+latitude: 43.79866
+longitude: -79.14139
 postcode: ""
 city: Toronto
-street: "Parliament Street"
-housenumber: 449
+street: ""
+housenumber: 
 phone: ""
-opening_hours: "Mo-Fr 08:00-09:00, Sa,Su 08:00-08:00"
+opening_hours: ""
 website: ""

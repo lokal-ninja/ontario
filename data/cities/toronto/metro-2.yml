@@ -1,11 +1,11 @@
-id: 392512380
-type: node
-latitude: 43.70705
-longitude: -79.39943
-postcode: "M4P 1E4"
+id: 33541951
+type: way
+latitude: 43.74324
+longitude: -79.21611
+postcode: ""
 city: Toronto
-street: "Yonge Street"
-housenumber: 2300
-phone: "+1-416-483-7340"
-opening_hours: "Mo-Su 8:00-22:00"
+street: ""
+housenumber: 
+phone: ""
+opening_hours: "24/7"
 website: ""
