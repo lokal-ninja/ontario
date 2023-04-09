@@ -1,6 +1,6 @@
 ---
-title: Campbellcroft
+title: campbellcroft
 url: /campbellcroft/
-latitude: 44.057
-longitude: -78.404
+latitude: 44.056
+longitude: -78.413
 ---
