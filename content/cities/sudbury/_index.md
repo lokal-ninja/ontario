@@ -1,6 +1,6 @@
 ---
 title: Sudbury
 url: /sudbury/
-latitude: 46.492
-longitude: -80.994
+latitude: 46.493
+longitude: -80.995
 ---
