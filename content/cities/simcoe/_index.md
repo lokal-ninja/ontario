@@ -1,6 +1,6 @@
 ---
 title: Simcoe
 url: /simcoe/
-latitude: 42.845
-longitude: -80.317
+latitude: 42.833
+longitude: -80.377
 ---

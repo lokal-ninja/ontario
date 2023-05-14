@@ -1,5 +1,5 @@
 ---
 title: "Esso"
 url: /toronto/esso/
-shop: convenience
+shop: vacant
 ---
