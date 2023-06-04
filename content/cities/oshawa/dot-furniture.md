@@ -1,5 +1,5 @@
 ---
 title: "DOT Furniture"
-url: /milton/dot-furniture/
+url: /oshawa/dot-furniture/
 shop: furniture
 ---
