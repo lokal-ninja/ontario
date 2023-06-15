@@ -1,6 +1,6 @@
 ---
 title: Val Caron
 url: /val-caron/
-latitude: 46.611
-longitude: -81.008
+latitude: 46.609
+longitude: -81.007
 ---
