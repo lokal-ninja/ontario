@@ -1,6 +1,6 @@
 ---
 title: Clarington
 url: /clarington/
-latitude: 43.88
-longitude: -78.772
+latitude: 43.902
+longitude: -78.67
 ---
