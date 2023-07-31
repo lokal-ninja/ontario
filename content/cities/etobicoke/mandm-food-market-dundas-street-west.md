@@ -1,5 +1,5 @@
 ---
 title: "M&M Food Market"
 url: /etobicoke/mandm-food-market/
-shop: butcher
+shop: frozen food
 ---
