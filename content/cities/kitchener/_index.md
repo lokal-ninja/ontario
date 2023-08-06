@@ -1,6 +1,6 @@
 ---
 title: Kitchener
 url: /kitchener/
-latitude: 43.45
-longitude: -80.489
+latitude: 43.454
+longitude: -80.495
 ---
