@@ -1,5 +1,5 @@
 ---
 title: "Small-Mart"
 url: /stratford/small-mart/
-shop: toys
+shop: variety store
 ---
