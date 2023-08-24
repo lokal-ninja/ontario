@@ -7,5 +7,5 @@ city: Waterloo
 street: "Erb Street West"
 housenumber: 930
 phone: "+1-226-215-1150"
-opening_hours: "Mo-Fr 09:00-20:30, Sa 09:00-18:30, Su 09:00-18:00"
+opening_hours: "Mo-Fr 09:00-20:30; Sa 09:00-18:00; Su 09:00-18:00"
 website: "https://www.costco.ca/"

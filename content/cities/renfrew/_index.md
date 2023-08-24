@@ -1,6 +1,6 @@
 ---
 title: Renfrew
 url: /renfrew/
-latitude: 45.47
-longitude: -76.681
+latitude: 45.457
+longitude: -76.737
 ---
