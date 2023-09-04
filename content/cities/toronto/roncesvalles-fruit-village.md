@@ -1,5 +1,5 @@
 ---
 title: "Roncesvalles Fruit Village"
 url: /toronto/roncesvalles-fruit-village/
-shop: supermarket
+shop: greengrocer
 ---

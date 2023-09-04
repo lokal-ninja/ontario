@@ -1,6 +1,6 @@
 ---
 title: Bancroft
 url: /bancroft/
-latitude: 45.056
+latitude: 45.057
 longitude: -77.853
 ---
