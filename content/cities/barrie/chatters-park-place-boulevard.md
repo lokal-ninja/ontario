@@ -1,5 +1,5 @@
 ---
 title: "Chatters"
-url: /barrie/chatters/
+url: /barrie/chatters-park-place-boulevard/
 shop: hairdresser
 ---

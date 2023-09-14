@@ -1,5 +1,5 @@
 ---
 title: "Mac's"
-url: /thunder-bay/macs/
+url: /thunder-bay/macs-may-street-north/
 shop: convenience
 ---

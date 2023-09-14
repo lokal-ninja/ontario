@@ -1,5 +1,5 @@
 ---
 title: "HomeSense"
-url: /vaughan/homesense/
+url: /vaughan/homesense-weston-road/
 shop: interior decoration
 ---

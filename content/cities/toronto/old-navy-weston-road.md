@@ -1,5 +1,5 @@
 ---
 title: "Old Navy"
-url: /toronto/old-navy/
+url: /toronto/old-navy-weston-road/
 shop: clothes
 ---

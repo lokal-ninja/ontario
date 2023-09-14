@@ -1,5 +1,5 @@
 ---
 title: "Simons"
-url: /mississauga/simons/
+url: /mississauga/simons-city-centre-drive/
 shop: department store
 ---

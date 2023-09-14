@@ -1,5 +1,5 @@
 ---
 title: "Sleep Country"
-url: /toronto/sleep-country/
+url: /toronto/sleep-country-bay-street/
 shop: bed
 ---

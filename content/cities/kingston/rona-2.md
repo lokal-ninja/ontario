@@ -1,5 +1,5 @@
 ---
 title: "Rona"
-url: /kingston/rona/
+url: /kingston/rona-2/
 shop: doityourself
 ---

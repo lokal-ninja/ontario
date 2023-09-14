@@ -1,5 +1,5 @@
 ---
 title: "L'Occitane"
-url: /toronto/loccitane/
+url: /toronto/loccitane-queen-street-west/
 shop: beauty
 ---

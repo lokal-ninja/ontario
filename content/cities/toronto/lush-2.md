@@ -1,5 +1,5 @@
 ---
 title: "Lush"
-url: /toronto/lush/
+url: /toronto/lush-2/
 shop: beauty
 ---

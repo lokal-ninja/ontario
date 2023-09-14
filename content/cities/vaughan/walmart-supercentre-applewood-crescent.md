@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercentre"
-url: /vaughan/walmart-supercentre/
+url: /vaughan/walmart-supercentre-applewood-crescent/
 shop: supermarket
 ---

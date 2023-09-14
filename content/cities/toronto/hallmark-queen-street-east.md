@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
-url: /toronto/hallmark/
+url: /toronto/hallmark-queen-street-east/
 shop: gift
 ---

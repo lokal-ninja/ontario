@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
-url: /etobicoke/dollarama/
+url: /etobicoke/dollarama-rexdale-boulevard/
 shop: variety store
 ---

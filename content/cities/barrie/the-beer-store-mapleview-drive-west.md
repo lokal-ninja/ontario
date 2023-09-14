@@ -1,5 +1,5 @@
 ---
 title: "The Beer Store"
-url: /barrie/the-beer-store/
+url: /barrie/the-beer-store-mapleview-drive-west/
 shop: alcohol
 ---

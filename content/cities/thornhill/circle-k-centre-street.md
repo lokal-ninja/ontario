@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /thornhill/circle-k/
+url: /thornhill/circle-k-centre-street/
 shop: convenience
 ---

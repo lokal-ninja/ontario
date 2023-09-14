@@ -1,5 +1,5 @@
 ---
 title: "Money Mart"
-url: /mississauga/money-mart/
+url: /mississauga/money-mart-lakeshore-road-west/
 shop: pawnbroker
 ---

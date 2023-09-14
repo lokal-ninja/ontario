@@ -1,5 +1,5 @@
 ---
 title: "Staples"
-url: /toronto/staples/
+url: /toronto/staples-eglinton-avenue-east/
 shop: office supplies
 ---

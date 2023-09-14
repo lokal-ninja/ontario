@@ -1,5 +1,5 @@
 ---
 title: "Staples"
-url: /ajax/staples/
+url: /ajax/staples-harwood-avenue-south/
 shop: office supplies
 ---

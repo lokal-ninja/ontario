@@ -1,5 +1,5 @@
 ---
 title: "No Frills"
-url: /kingston/no-frills/
+url: /kingston/no-frills-2/
 shop: supermarket
 ---

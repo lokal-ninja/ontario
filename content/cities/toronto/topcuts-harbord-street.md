@@ -1,5 +1,5 @@
 ---
 title: "Topcuts"
-url: /toronto/topcuts/
+url: /toronto/topcuts-harbord-street/
 shop: hairdresser
 ---

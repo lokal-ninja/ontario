@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
-url: /brampton/lowes/
+url: /brampton/lowes-kennedy-road-south/
 shop: doityourself
 ---

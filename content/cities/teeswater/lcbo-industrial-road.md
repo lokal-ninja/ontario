@@ -1,5 +1,5 @@
 ---
 title: "LCBO"
-url: /teeswater/lcbo/
+url: /teeswater/lcbo-industrial-road/
 shop: alcohol
 ---

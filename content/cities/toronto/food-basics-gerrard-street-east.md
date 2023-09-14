@@ -1,5 +1,5 @@
 ---
 title: "Food Basics"
-url: /toronto/food-basics/
+url: /toronto/food-basics-gerrard-street-east/
 shop: supermarket
 ---

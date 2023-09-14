@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
-url: /maple/dollarama/
+url: /maple/dollarama-rutherford-road/
 shop: variety store
 ---

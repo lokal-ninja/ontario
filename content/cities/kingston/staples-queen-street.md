@@ -1,5 +1,5 @@
 ---
 title: "Staples"
-url: /kingston/staples/
+url: /kingston/staples-queen-street/
 shop: office supplies
 ---

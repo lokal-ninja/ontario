@@ -1,5 +1,5 @@
 ---
 title: "The Cannabist Shop"
-url: /guelph/the-cannabist-shop/
+url: /guelph/the-cannabist-shop-macdonell-street/
 shop: cannabis
 ---

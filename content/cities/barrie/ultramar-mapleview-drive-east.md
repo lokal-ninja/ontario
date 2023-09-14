@@ -1,5 +1,5 @@
 ---
 title: "Ultramar"
-url: /barrie/ultramar/
+url: /barrie/ultramar-mapleview-drive-east/
 shop: convenience
 ---

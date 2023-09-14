@@ -1,5 +1,5 @@
 ---
 title: "Staples"
-url: /toronto/staples/
+url: /toronto/staples-yonge-street/
 shop: vacant
 ---

@@ -1,5 +1,5 @@
 ---
 title: "LCBO"
-url: /etobicoke/lcbo/
+url: /etobicoke/lcbo-lloyd-manor-road/
 shop: alcohol
 ---

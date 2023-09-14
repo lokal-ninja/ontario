@@ -1,5 +1,5 @@
 ---
 title: "Telus"
-url: /toronto/telus/
+url: /toronto/telus-hanna-avenue/
 shop: mobile phone
 ---

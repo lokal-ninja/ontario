@@ -1,5 +1,5 @@
 ---
 title: "Staples"
-url: /toronto/staples/
+url: /toronto/staples-university-avenue/
 shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Neighbours"
-url: /vaughan/neighbours/
+url: /vaughan/neighbours-keele-street/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
-url: /mississauga/dollarama/
+url: /mississauga/dollarama-southdown-road/
 shop: variety store
 ---

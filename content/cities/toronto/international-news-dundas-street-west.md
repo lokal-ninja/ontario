@@ -1,5 +1,5 @@
 ---
 title: "International News"
-url: /toronto/international-news/
+url: /toronto/international-news-dundas-street-west/
 shop: convenience
 ---

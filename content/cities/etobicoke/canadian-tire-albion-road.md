@@ -1,5 +1,5 @@
 ---
 title: "Canadian Tire"
-url: /etobicoke/canadian-tire/
+url: /etobicoke/canadian-tire-albion-road/
 shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Type Books"
-url: /toronto/type-books/
+url: /toronto/type-books-spadina-road/
 shop: books
 ---

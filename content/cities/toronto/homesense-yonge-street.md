@@ -1,5 +1,5 @@
 ---
 title: "HomeSense"
-url: /toronto/homesense/
+url: /toronto/homesense-yonge-street/
 shop: interior decoration
 ---

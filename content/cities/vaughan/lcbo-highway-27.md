@@ -1,5 +1,5 @@
 ---
 title: "LCBO"
-url: /vaughan/lcbo/
+url: /vaughan/lcbo-highway-27/
 shop: alcohol
 ---

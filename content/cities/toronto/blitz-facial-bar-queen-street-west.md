@@ -1,5 +1,5 @@
 ---
 title: "Blitz Facial Bar"
-url: /toronto/blitz-facial-bar/
+url: /toronto/blitz-facial-bar-queen-street-west/
 shop: beauty
 ---

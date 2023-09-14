@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /barrie/circle-k/
+url: /barrie/circle-k-st-vincent-street/
 shop: convenience
 ---

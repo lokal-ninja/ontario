@@ -1,5 +1,5 @@
 ---
 title: "LCBO"
-url: /markham/lcbo/
+url: /markham/lcbo-bullock-drive/
 shop: alcohol
 ---

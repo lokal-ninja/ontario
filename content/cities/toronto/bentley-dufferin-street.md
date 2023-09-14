@@ -1,5 +1,5 @@
 ---
 title: "Bentley"
-url: /toronto/bentley/
+url: /toronto/bentley-dufferin-street/
 shop: bag
 ---

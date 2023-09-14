@@ -1,5 +1,5 @@
 ---
 title: "Sobeys"
-url: /toronto/sobeys/
+url: /toronto/sobeys-broadview-avenue/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "LCBO"
-url: /scarborough/lcbo/
+url: /scarborough/lcbo-brimley-road/
 shop: alcohol
 ---

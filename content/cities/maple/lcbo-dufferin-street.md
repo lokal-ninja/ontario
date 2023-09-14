@@ -1,5 +1,5 @@
 ---
 title: "LCBO"
-url: /maple/lcbo/
+url: /maple/lcbo-dufferin-street/
 shop: alcohol
 ---

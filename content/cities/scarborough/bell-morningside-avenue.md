@@ -1,5 +1,5 @@
 ---
 title: "Bell"
-url: /scarborough/bell/
+url: /scarborough/bell-morningside-avenue/
 shop: mobile phone
 ---

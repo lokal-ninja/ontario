@@ -1,5 +1,5 @@
 ---
 title: "Staples"
-url: /oakville/staples/
+url: /oakville/staples-winston-churchill-boulevard/
 shop: office supplies
 ---

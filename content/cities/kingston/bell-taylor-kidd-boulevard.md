@@ -1,5 +1,5 @@
 ---
 title: "Bell"
-url: /kingston/bell/
+url: /kingston/bell-taylor-kidd-boulevard/
 shop: mobile phone
 ---

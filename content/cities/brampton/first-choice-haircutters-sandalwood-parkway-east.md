@@ -1,5 +1,5 @@
 ---
 title: "First Choice Haircutters"
-url: /brampton/first-choice-haircutters/
+url: /brampton/first-choice-haircutters-sandalwood-parkway-east/
 shop: hairdresser
 ---

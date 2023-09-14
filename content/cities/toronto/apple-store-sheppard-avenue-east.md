@@ -1,5 +1,5 @@
 ---
 title: "Apple Store"
-url: /toronto/apple-store/
+url: /toronto/apple-store-sheppard-avenue-east/
 shop: electronics
 ---

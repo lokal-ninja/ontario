@@ -1,5 +1,5 @@
 ---
 title: "Toys R Us"
-url: /barrie/toys-r-us/
+url: /barrie/toys-r-us-bayfield-street/
 shop: toys
 ---

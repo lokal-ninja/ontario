@@ -1,5 +1,5 @@
 ---
 title: "Staples"
-url: /london/staples/
+url: /london/staples-dundas-street-east/
 shop: office supplies
 ---

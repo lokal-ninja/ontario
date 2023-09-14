@@ -1,5 +1,5 @@
 ---
 title: "Nadège Patisserie"
-url: /toronto/nadege-patisserie/
+url: /toronto/nadege-patisserie-queen-street-west/
 shop: confectionery
 ---

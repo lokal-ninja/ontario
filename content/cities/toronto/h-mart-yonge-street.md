@@ -1,5 +1,5 @@
 ---
 title: "H Mart"
-url: /toronto/h-mart/
+url: /toronto/h-mart-yonge-street/
 shop: supermarket
 ---

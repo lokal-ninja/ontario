@@ -1,5 +1,5 @@
 ---
 title: "Sunripe"
-url: /london/sunripe/
+url: /london/sunripe-fanshawe-park-road/
 shop: supermarket
 ---

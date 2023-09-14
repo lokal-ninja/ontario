@@ -1,5 +1,5 @@
 ---
 title: "Nails Attraction"
-url: /toronto/nails-attraction/
+url: /toronto/nails-attraction-yonge-street/
 shop: beauty
 ---

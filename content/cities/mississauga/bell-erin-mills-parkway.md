@@ -1,5 +1,5 @@
 ---
 title: "Bell"
-url: /mississauga/bell/
+url: /mississauga/bell-erin-mills-parkway/
 shop: mobile phone
 ---

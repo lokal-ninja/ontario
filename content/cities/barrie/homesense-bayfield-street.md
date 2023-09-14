@@ -1,5 +1,5 @@
 ---
 title: "HomeSense"
-url: /barrie/homesense/
+url: /barrie/homesense-bayfield-street/
 shop: interior decoration
 ---

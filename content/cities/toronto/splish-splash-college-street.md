@@ -1,5 +1,5 @@
 ---
 title: "Splish Splash"
-url: /toronto/splish-splash/
+url: /toronto/splish-splash-college-street/
 shop: laundry
 ---

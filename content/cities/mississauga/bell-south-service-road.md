@@ -1,5 +1,5 @@
 ---
 title: "Bell"
-url: /mississauga/bell/
+url: /mississauga/bell-south-service-road/
 shop: mobile phone
 ---

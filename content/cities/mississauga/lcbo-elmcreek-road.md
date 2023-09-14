@@ -1,5 +1,5 @@
 ---
 title: "LCBO"
-url: /mississauga/lcbo/
+url: /mississauga/lcbo-elmcreek-road/
 shop: alcohol
 ---

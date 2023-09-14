@@ -1,5 +1,5 @@
 ---
 title: "Repair and Run"
-url: /toronto/repair-and-run/
+url: /toronto/repair-and-run-queen-street-west/
 shop: shop
 ---

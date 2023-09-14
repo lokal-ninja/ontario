@@ -1,5 +1,5 @@
 ---
 title: "Indigo"
-url: /toronto/indigo/
+url: /toronto/indigo-yonge-street/
 shop: books
 ---

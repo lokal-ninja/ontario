@@ -1,5 +1,5 @@
 ---
 title: "Mr. Lube"
-url: /north-york/mr-lube/
+url: /north-york/mr-lube-victoria-park-avenue/
 shop: car repair
 ---

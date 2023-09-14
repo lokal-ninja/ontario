@@ -1,5 +1,5 @@
 ---
 title: "Costco"
-url: /vaughan/costco/
+url: /vaughan/costco-new-huntington-road/
 shop: wholesale
 ---

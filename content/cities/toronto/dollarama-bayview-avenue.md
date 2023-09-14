@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
-url: /toronto/dollarama/
+url: /toronto/dollarama-bayview-avenue/
 shop: variety store
 ---

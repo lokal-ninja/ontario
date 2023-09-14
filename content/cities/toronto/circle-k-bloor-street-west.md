@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /toronto/circle-k/
+url: /toronto/circle-k-bloor-street-west/
 shop: convenience
 ---

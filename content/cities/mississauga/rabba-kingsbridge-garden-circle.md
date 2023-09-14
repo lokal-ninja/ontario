@@ -1,5 +1,5 @@
 ---
 title: "Rabba"
-url: /mississauga/rabba/
+url: /mississauga/rabba-kingsbridge-garden-circle/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Global Pet Foods"
-url: /toronto/global-pet-foods/
+url: /toronto/global-pet-foods-hanna-avenue/
 shop: pet
 ---

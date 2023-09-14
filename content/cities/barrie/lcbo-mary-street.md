@@ -1,5 +1,5 @@
 ---
 title: "LCBO"
-url: /barrie/lcbo/
+url: /barrie/lcbo-mary-street/
 shop: alcohol
 ---

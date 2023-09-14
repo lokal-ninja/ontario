@@ -1,5 +1,5 @@
 ---
 title: "Koodo"
-url: /toronto/koodo/
+url: /toronto/koodo-hanna-avenue/
 shop: mobile phone
 ---

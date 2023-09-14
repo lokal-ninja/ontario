@@ -1,5 +1,5 @@
 ---
 title: "Staples"
-url: /windsor/staples/
+url: /windsor/staples-ouellette-avenue/
 shop: office supplies
 ---

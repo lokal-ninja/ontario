@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
-url: /kingston/dollarama/
+url: /kingston/dollarama-gardiners-road/
 shop: variety store
 ---

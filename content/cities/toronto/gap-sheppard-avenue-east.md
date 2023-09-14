@@ -1,5 +1,5 @@
 ---
 title: "Gap"
-url: /toronto/gap/
+url: /toronto/gap-sheppard-avenue-east/
 shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "LCBO"
-url: /etobicoke/lcbo/
+url: /etobicoke/lcbo-lake-shore-boulevard-west/
 shop: alcohol
 ---

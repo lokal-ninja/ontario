@@ -1,5 +1,5 @@
 ---
 title: "Metro"
-url: /mississauga/metro/
+url: /mississauga/metro-2/
 shop: supermarket
 ---

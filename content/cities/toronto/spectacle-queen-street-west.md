@@ -1,5 +1,5 @@
 ---
 title: "Spectacle"
-url: /toronto/spectacle/
+url: /toronto/spectacle-queen-street-west/
 shop: optician
 ---

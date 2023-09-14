@@ -1,5 +1,5 @@
 ---
 title: "Rabba"
-url: /mississauga/rabba/
+url: /mississauga/rabba-living-arts-drive/
 shop: supermarket
 ---

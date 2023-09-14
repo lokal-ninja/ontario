@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
-url: /barrie/dollarama/
+url: /barrie/dollarama-yonge-street/
 shop: variety store
 ---

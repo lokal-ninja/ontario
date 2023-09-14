@@ -1,5 +1,5 @@
 ---
 title: "Farm Boy"
-url: /toronto/farm-boy/
+url: /toronto/farm-boy-queens-quay-west/
 shop: supermarket
 ---

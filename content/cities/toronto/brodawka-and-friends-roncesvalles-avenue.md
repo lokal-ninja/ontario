@@ -1,5 +1,5 @@
 ---
 title: "Brodawka & Friends"
-url: /toronto/brodawka-and-friends/
+url: /toronto/brodawka-and-friends-roncesvalles-avenue/
 shop: shoes
 ---

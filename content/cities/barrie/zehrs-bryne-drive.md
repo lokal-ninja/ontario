@@ -1,5 +1,5 @@
 ---
 title: "Zehrs"
-url: /barrie/zehrs/
+url: /barrie/zehrs-bryne-drive/
 shop: supermarket
 ---

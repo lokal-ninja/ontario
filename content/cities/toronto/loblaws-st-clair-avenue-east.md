@@ -1,5 +1,5 @@
 ---
 title: "Loblaws"
-url: /toronto/loblaws/
+url: /toronto/loblaws-st-clair-avenue-east/
 shop: supermarket
 ---

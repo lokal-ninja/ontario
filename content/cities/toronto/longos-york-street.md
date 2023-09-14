@@ -1,5 +1,5 @@
 ---
 title: "Longo's"
-url: /toronto/longos/
+url: /toronto/longos-york-street/
 shop: supermarket
 ---
