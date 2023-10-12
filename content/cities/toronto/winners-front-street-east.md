@@ -1,5 +1,5 @@
 ---
 title: "Winners"
-url: /toronto/winners-yonge-street/
+url: /toronto/winners-front-street-east/
 shop: department store
 ---

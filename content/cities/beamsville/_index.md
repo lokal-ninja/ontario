@@ -1,6 +1,6 @@
 ---
 title: Beamsville
 url: /beamsville/
-latitude: 43.164
-longitude: -79.5
+latitude: 43.152
+longitude: -79.496
 ---
