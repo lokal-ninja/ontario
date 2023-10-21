@@ -1,5 +1,5 @@
 ---
 title: "Krazy Binz"
-url: /stratford/krazy-binz/
+url: /london/krazy-binz/
 shop: variety store
 ---
