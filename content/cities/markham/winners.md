@@ -1,5 +1,5 @@
 ---
 title: "Winners"
 url: /markham/winners/
-shop: clothes
+shop: department store
 ---
