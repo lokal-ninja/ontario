@@ -1,5 +1,5 @@
 ---
 title: "Winners"
 url: /toronto/winners-laird-drive/
-shop: clothes
+shop: department store
 ---
