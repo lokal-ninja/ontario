@@ -1,5 +1,5 @@
 ---
 title: "SAIL"
 url: /vaughan/sail/
-shop: outdoor
+shop: vacant
 ---
