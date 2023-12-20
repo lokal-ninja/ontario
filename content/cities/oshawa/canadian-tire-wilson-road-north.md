@@ -1,5 +1,5 @@
 ---
 title: "Canadian Tire"
-url: /mississauga/canadian-tire-mavis-road/
+url: /oshawa/canadian-tire-wilson-road-north/
 shop: department store
 ---

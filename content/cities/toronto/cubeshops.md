@@ -1,5 +1,5 @@
 ---
 title: "Cubeshops"
 url: /toronto/cubeshops/
-shop: shop
+shop: office supplies
 ---
