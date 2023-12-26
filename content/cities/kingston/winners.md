@@ -1,5 +1,5 @@
 ---
 title: "Winners"
 url: /kingston/winners/
-shop: clothes
+shop: department store
 ---
