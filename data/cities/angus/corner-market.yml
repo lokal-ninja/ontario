@@ -7,5 +7,5 @@ city: Angus
 street: "King Street"
 housenumber: 17
 phone: "(705) 530-9604"
-opening_hours: "Monday – Thursday 9:00 AM – 7:00 PM  Friday 9:00 AM – 8:00 PM  Saturday 9:00 AM – 7:00 PM  Sunday 9:00 AM – 6:00 PM"
+opening_hours: "Mo-Th 09:00-19:00; Fr 09:00-20:00; Sa 09:00-19:00; Su 09:00-18:00"
 website: "https://www.cornermarketbarrie.ca/"
