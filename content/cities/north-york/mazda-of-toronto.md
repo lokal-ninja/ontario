@@ -1,5 +1,5 @@
 ---
 title: "Mazda of Toronto"
-url: /toronto/mazda-of-toronto/
+url: /north-york/mazda-of-toronto/
 shop: car
 ---
