@@ -1,5 +1,5 @@
 ---
 title: "NAPA Autocare Centre"
 url: /barrie/napa-autocare-centre/
-shop: car parts
+shop: car repair
 ---
