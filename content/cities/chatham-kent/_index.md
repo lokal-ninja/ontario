@@ -1,6 +1,6 @@
 ---
 title: Chatham-Kent
 url: /chatham-kent/
-latitude: 42.414
-longitude: -82.181
+latitude: 42.411
+longitude: -82.206
 ---
