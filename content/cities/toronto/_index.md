@@ -1,6 +1,6 @@
 ---
 title: Toronto
 url: /toronto/
-latitude: 43.667
-longitude: -79.401
+latitude: 43.656
+longitude: -79.383
 ---
