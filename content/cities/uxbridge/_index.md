@@ -1,6 +1,6 @@
 ---
 title: Uxbridge
 url: /uxbridge/
-latitude: 44.109
-longitude: -79.124
+latitude: 44.093
+longitude: -79.131
 ---
