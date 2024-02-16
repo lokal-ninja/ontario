@@ -1,5 +1,5 @@
 ---
-title: "On The Run"
+title: "On the Run"
 url: /dundalk/on-the-run/
 shop: convenience
 ---
