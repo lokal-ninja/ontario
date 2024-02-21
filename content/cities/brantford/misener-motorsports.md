@@ -1,5 +1,5 @@
 ---
 title: "Misener Motorsports"
 url: /brantford/misener-motorsports/
-shop: car
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bell"
-url: /oakville/bell-leighland-avenue/
+url: /oakville/bell-hampshire-gate/
 shop: mobile phone
 ---

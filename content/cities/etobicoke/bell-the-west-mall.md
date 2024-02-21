@@ -1,5 +1,5 @@
 ---
 title: "Bell"
-url: /etobicoke/bell-the-east-mall/
+url: /etobicoke/bell-the-west-mall/
 shop: mobile phone
 ---
