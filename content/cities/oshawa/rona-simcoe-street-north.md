@@ -1,5 +1,5 @@
 ---
 title: "Rona"
-url: /oshawa/rona-wilson-road-north/
+url: /oshawa/rona-simcoe-street-north/
 shop: doityourself
 ---
