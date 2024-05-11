@@ -1,5 +1,5 @@
 ---
 title: "Bell"
-url: /markham/bell-steeles-avenue-east/
+url: /markham/bell-woodbine-avenue/
 shop: mobile phone
 ---

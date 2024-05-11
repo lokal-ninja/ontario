@@ -1,5 +1,5 @@
 ---
 title: "Canadian Tire"
-url: /vaughan/canadian-tire-rutherford-road/
+url: /vaughan/canadian-tire-highway-7-west/
 shop: department store
 ---
