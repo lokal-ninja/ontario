@@ -1,5 +1,5 @@
 ---
 title: "Mac's"
-url: /barrie/macs-anne-street-north/
+url: /barrie/macs-2/
 shop: convenience
 ---
