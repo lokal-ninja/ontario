@@ -1,6 +1,6 @@
 ---
 title: Owen Sound
 url: /owen-sound/
-latitude: 44.561
-longitude: -80.972
+latitude: 44.565
+longitude: -80.943
 ---
