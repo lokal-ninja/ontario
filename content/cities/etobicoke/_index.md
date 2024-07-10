@@ -1,6 +1,6 @@
 ---
 title: Etobicoke
 url: /etobicoke/
-latitude: 43.742
-longitude: -79.606
+latitude: 43.623
+longitude: -79.481
 ---
