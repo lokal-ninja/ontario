@@ -7,5 +7,5 @@ city: Angus
 street: "King Street"
 housenumber: 17
 phone: "+1 (705) 424-5601"
-opening_hours: "Mo-Th,Sa 10:00-20:00; Fr 10:00-21:00; Su 11:00-18:00"
-website: "https://www.thebeerstore.ca/locations/angus/"
+opening_hours: "Mo-Th 10:00-20:00; Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-18:00"
+website: "https://www.thebeerstore.ca/locations/angus"
