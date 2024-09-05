@@ -1,5 +1,5 @@
 ---
 title: "LCBO"
 url: /port-hope/lcbo/
-shop: alcohol
+shop: Spirituosen
 ---

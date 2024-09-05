@@ -1,5 +1,5 @@
 ---
 title: "Swarovski"
 url: /toronto/swarovski/
-shop: jewelry
+shop: Schmuck
 ---

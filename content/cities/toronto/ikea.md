@@ -1,5 +1,5 @@
 ---
 title: "IKEA"
 url: /toronto/ikea/
-shop: furniture
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Correnti Cigars"
 url: /toronto/correnti-cigars/
-shop: tobacco
+shop: Tabak
 ---

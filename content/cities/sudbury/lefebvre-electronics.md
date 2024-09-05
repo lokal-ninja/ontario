@@ -1,5 +1,5 @@
 ---
 title: "Lefebvre Electronics"
 url: /sudbury/lefebvre-electronics/
-shop: electronics
+shop: Elektronik
 ---

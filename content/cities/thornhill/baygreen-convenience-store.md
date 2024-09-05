@@ -1,5 +1,5 @@
 ---
 title: "Baygreen Convenience Store"
 url: /thornhill/baygreen-convenience-store/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Farida's Salon"
 url: /mississauga/faridas-salon/
-shop: hairdresser
+shop: Friseur
 ---

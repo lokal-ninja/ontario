@@ -1,5 +1,5 @@
 ---
 title: "Kleenmaster Cleaners"
 url: /richmond-hill/kleenmaster-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

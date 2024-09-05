@@ -1,5 +1,5 @@
 ---
 title: "Picard's"
 url: /arva/picards/
-shop: confectionery
+shop: Süßwaren
 ---

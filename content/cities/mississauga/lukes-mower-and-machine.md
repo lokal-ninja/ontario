@@ -1,5 +1,5 @@
 ---
 title: "Luke's Mower and Machine"
 url: /mississauga/lukes-mower-and-machine/
-shop: groundskeeping
+shop: Platzpflege
 ---

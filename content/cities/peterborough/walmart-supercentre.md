@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercentre"
 url: /peterborough/walmart-supercentre/
-shop: supermarket
+shop: Supermarkt
 ---

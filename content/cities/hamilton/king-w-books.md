@@ -1,5 +1,5 @@
 ---
 title: "King W. Books"
 url: /hamilton/king-w-books/
-shop: books
+shop: Bücher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chaarmz"
 url: /mississauga/chaarmz/
-shop: shop
+shop: Allgemein
 ---

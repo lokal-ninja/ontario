@@ -1,5 +1,5 @@
 ---
 title: "Hair to Date"
 url: /markham/hair-to-date/
-shop: hairdresser
+shop: Friseur
 ---

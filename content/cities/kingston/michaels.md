@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /kingston/michaels/
-shop: craft
+shop: Basteln
 ---

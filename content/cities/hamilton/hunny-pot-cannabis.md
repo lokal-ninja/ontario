@@ -1,5 +1,5 @@
 ---
 title: "Hunny Pot Cannabis"
 url: /hamilton/hunny-pot-cannabis/
-shop: cannabis
+shop: Hanf
 ---

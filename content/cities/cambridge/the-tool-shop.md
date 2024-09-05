@@ -1,5 +1,5 @@
 ---
 title: "The Tool Shop"
 url: /cambridge/the-tool-shop/
-shop: shop
+shop: Allgemein
 ---

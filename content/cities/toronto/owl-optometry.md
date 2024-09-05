@@ -1,5 +1,5 @@
 ---
 title: "Owl Optometry"
 url: /toronto/owl-optometry/
-shop: optician
+shop: Optiker
 ---

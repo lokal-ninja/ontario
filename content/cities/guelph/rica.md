@@ -1,5 +1,5 @@
 ---
 title: "Rica"
 url: /guelph/rica/
-shop: art
+shop: Kunst
 ---

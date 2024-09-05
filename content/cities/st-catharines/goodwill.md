@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /st-catharines/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

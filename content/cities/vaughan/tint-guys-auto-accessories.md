@@ -1,5 +1,5 @@
 ---
 title: "Tint Guys Auto Accessories"
 url: /vaughan/tint-guys-auto-accessories/
-shop: car repair
+shop: Autowerkstatt
 ---

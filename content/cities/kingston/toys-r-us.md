@@ -1,5 +1,5 @@
 ---
 title: "Toys R Us"
 url: /kingston/toys-r-us/
-shop: toys
+shop: Spielzeug
 ---

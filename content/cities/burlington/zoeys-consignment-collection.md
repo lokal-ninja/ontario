@@ -1,5 +1,5 @@
 ---
 title: "Zoey's Consignment Collection"
 url: /burlington/zoeys-consignment-collection/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tartistry"
 url: /etobicoke/tartistry/
-shop: bakery
+shop: Bäckerei
 ---

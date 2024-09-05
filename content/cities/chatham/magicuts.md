@@ -1,5 +1,5 @@
 ---
 title: "Magicuts"
 url: /chatham/magicuts/
-shop: hairdresser
+shop: Friseur
 ---

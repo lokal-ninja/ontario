@@ -1,5 +1,5 @@
 ---
 title: "Petro-Canada"
 url: /north-york/petro-canada/
-shop: vacant
+shop: Leerstehend
 ---

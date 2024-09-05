@@ -1,5 +1,5 @@
 ---
 title: "Rabba"
 url: /toronto/rabba-dundas-street-west/
-shop: supermarket
+shop: Supermarkt
 ---

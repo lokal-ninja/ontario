@@ -1,5 +1,5 @@
 ---
 title: "J Supply Co."
 url: /windsor/j-supply-co/
-shop: cannabis
+shop: Hanf
 ---

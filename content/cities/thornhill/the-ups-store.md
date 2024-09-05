@@ -1,5 +1,5 @@
 ---
 title: "The UPS Store"
 url: /thornhill/the-ups-store/
-shop: copyshop
+shop: Kopieren
 ---

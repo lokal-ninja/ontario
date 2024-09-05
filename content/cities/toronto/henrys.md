@@ -1,5 +1,5 @@
 ---
 title: "Henry's"
 url: /toronto/henrys/
-shop: photo
+shop: Foto
 ---

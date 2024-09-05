@@ -1,5 +1,5 @@
 ---
 title: "LCBO"
 url: /york/lcbo/
-shop: alcohol
+shop: Spirituosen
 ---

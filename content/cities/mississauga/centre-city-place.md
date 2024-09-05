@@ -1,5 +1,5 @@
 ---
 title: "Centre City Place"
 url: /mississauga/centre-city-place/
-shop: mall
+shop: Einkaufszentrum
 ---

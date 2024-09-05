@@ -1,5 +1,5 @@
 ---
 title: "The Sconery"
 url: /kitchener/the-sconery/
-shop: bakery
+shop: Bäckerei
 ---

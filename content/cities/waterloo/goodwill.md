@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /waterloo/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

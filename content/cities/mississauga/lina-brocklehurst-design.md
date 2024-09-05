@@ -1,5 +1,5 @@
 ---
 title: "Lina Brocklehurst Design"
 url: /mississauga/lina-brocklehurst-design/
-shop: hairdresser
+shop: Friseur
 ---

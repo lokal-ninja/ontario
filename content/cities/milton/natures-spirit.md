@@ -1,5 +1,5 @@
 ---
 title: "Nature's Spirit"
 url: /milton/natures-spirit/
-shop: gift
+shop: Andenken
 ---

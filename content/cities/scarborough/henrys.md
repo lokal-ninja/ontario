@@ -1,5 +1,5 @@
 ---
 title: "Henry's"
 url: /scarborough/henrys/
-shop: camera
+shop: Kamera
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Consign Your Curves"
 url: /guelph/consign-your-curves/
-shop: clothes
+shop: Kleidung
 ---

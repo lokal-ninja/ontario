@@ -1,5 +1,5 @@
 ---
 title: "Produce Depot"
 url: /ottawa/produce-depot/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

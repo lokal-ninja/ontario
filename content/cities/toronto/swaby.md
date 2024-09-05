@@ -1,5 +1,5 @@
 ---
 title: "Swaby"
 url: /toronto/swaby/
-shop: clothes
+shop: Kleidung
 ---

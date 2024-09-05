@@ -1,5 +1,5 @@
 ---
 title: "Paradise Barbershop"
 url: /guelph/paradise-barbershop/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Laxmi Ma Religious Store"
 url: /etobicoke/laxmi-ma-religious-store/
-shop: gift
+shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "VIP Cleaners"
 url: /thornhill/vip-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

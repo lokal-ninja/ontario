@@ -1,5 +1,5 @@
 ---
 title: "Cheapies"
 url: /hamilton/cheapies/
-shop: music
+shop: Musik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ko Fruit Market"
 url: /toronto/ko-fruit-market/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

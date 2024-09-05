@@ -1,5 +1,5 @@
 ---
 title: "Love Shop"
 url: /niagara-falls/love-shop/
-shop: erotic
+shop: Erotik
 ---

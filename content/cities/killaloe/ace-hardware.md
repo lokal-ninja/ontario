@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /killaloe/ace-hardware/
-shop: doityourself
+shop: Baumarkt
 ---

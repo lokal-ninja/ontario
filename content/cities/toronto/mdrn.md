@@ -1,5 +1,5 @@
 ---
 title: "MDRN"
 url: /toronto/mdrn/
-shop: hairdresser
+shop: Friseur
 ---

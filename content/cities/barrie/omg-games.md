@@ -1,5 +1,5 @@
 ---
 title: "OMG Games"
 url: /barrie/omg-games/
-shop: toys
+shop: Spielzeug
 ---

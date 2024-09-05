@@ -1,5 +1,5 @@
 ---
 title: "The Thrift Shop"
 url: /tobermory/the-thrift-shop/
-shop: charity
+shop: Gebrauchtwaren
 ---

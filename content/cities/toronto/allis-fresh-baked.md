@@ -1,5 +1,5 @@
 ---
 title: "Alli's Fresh Baked"
 url: /toronto/allis-fresh-baked/
-shop: bakery
+shop: Bäckerei
 ---

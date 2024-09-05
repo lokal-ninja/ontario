@@ -1,5 +1,5 @@
 ---
 title: "Gore Convenience"
 url: /brampton/gore-convenience/
-shop: convenience
+shop: Lebensmittel
 ---

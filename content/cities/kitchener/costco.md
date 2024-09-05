@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /kitchener/costco/
-shop: wholesale
+shop: Großhandel
 ---

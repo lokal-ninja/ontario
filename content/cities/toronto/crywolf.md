@@ -1,5 +1,5 @@
 ---
 title: "Crywolf"
 url: /toronto/crywolf/
-shop: clothes
+shop: Kleidung
 ---

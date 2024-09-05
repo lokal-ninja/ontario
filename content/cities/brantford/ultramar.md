@@ -1,5 +1,5 @@
 ---
 title: "Ultramar"
 url: /brantford/ultramar/
-shop: convenience
+shop: Lebensmittel
 ---

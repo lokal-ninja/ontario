@@ -1,5 +1,5 @@
 ---
 title: "epoca"
 url: /toronto/epoca/
-shop: hairdresser
+shop: Friseur
 ---

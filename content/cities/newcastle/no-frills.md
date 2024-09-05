@@ -1,5 +1,5 @@
 ---
 title: "No Frills"
 url: /newcastle/no-frills/
-shop: supermarket
+shop: Supermarkt
 ---

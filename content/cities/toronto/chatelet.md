@@ -1,5 +1,5 @@
 ---
 title: "Châtelet"
 url: /toronto/chatelet/
-shop: interior decoration
+shop: Raumausstattung
 ---

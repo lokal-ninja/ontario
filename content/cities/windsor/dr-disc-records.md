@@ -1,5 +1,5 @@
 ---
 title: "Dr. Disc Records"
 url: /windsor/dr-disc-records/
-shop: music
+shop: Musik
 ---

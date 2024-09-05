@@ -1,5 +1,5 @@
 ---
 title: "Cyclemania"
 url: /toronto/cyclemania/
-shop: bicycle
+shop: Fahrrad
 ---

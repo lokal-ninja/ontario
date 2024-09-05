@@ -1,5 +1,5 @@
 ---
 title: "New Sudbury Centre"
 url: /sudbury/new-sudbury-centre/
-shop: mall
+shop: Einkaufszentrum
 ---

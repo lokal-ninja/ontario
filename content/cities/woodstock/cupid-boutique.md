@@ -1,5 +1,5 @@
 ---
 title: "Cupid Boutique"
 url: /woodstock/cupid-boutique/
-shop: erotic
+shop: Erotik
 ---

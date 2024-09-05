@@ -1,5 +1,5 @@
 ---
 title: "Kolkid"
 url: /toronto/kolkid/
-shop: toys
+shop: Spielzeug
 ---

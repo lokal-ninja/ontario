@@ -1,5 +1,5 @@
 ---
 title: "Pat's No Frills"
 url: /geraldton/pats-no-frills/
-shop: supermarket
+shop: Supermarkt
 ---

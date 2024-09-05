@@ -1,5 +1,5 @@
 ---
 title: "Nadege"
 url: /toronto/nadege/
-shop: bakery
+shop: Bäckerei
 ---

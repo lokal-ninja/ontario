@@ -1,5 +1,5 @@
 ---
 title: "Capo Salerno"
 url: /toronto/capo-salerno/
-shop: clothes
+shop: Kleidung
 ---

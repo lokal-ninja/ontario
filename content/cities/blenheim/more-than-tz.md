@@ -1,5 +1,5 @@
 ---
 title: "More Than TZ"
 url: /blenheim/more-than-tz/
-shop: clothes
+shop: Kleidung
 ---

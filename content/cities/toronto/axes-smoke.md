@@ -1,5 +1,5 @@
 ---
 title: "Axes Smoke"
 url: /toronto/axes-smoke/
-shop: cannabis
+shop: Hanf
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bowmanville Mall"
 url: /bowmanville/bowmanville-mall/
-shop: mall
+shop: Einkaufszentrum
 ---

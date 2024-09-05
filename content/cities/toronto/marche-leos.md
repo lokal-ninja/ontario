@@ -1,5 +1,5 @@
 ---
 title: "Marché Leo’s"
 url: /toronto/marche-leos/
-shop: supermarket
+shop: Supermarkt
 ---

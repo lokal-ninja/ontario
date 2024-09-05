@@ -1,5 +1,5 @@
 ---
 title: "Spiritleaf"
 url: /brampton/spiritleaf/
-shop: cannabis
+shop: Hanf
 ---

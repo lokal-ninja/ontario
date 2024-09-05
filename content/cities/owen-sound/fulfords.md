@@ -1,5 +1,5 @@
 ---
 title: "Fulfords"
 url: /owen-sound/fulfords/
-shop: doityourself
+shop: Baumarkt
 ---

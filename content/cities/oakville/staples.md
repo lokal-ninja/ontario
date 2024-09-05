@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /oakville/staples/
-shop: office supplies
+shop: Schreibwaren
 ---

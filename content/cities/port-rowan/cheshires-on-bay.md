@@ -1,5 +1,5 @@
 ---
 title: "Cheshires on Bay"
 url: /port-rowan/cheshires-on-bay/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Julie Nails"
 url: /east-york/julie-nails/
-shop: beauty
+shop: Kosmetik
 ---

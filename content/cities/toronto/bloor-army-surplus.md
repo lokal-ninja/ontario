@@ -1,5 +1,5 @@
 ---
 title: "Bloor Army Surplus"
 url: /toronto/bloor-army-surplus/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Foodland"
 url: /haliburton/foodland/
-shop: supermarket
+shop: Supermarkt
 ---

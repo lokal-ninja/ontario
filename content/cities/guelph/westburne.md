@@ -1,5 +1,5 @@
 ---
 title: "Westburne"
 url: /guelph/westburne/
-shop: hardware
+shop: Eisenwaren
 ---

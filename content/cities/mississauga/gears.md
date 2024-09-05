@@ -1,5 +1,5 @@
 ---
 title: "Gears"
 url: /mississauga/gears/
-shop: bicycle
+shop: Fahrrad
 ---

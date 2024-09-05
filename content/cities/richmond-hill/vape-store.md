@@ -1,5 +1,5 @@
 ---
 title: "Vape Store"
 url: /richmond-hill/vape-store/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

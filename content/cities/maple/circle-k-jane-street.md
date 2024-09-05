@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /maple/circle-k-jane-street/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "easyfinancial"
 url: /mississauga/easyfinancial/
-shop: pawnbroker
+shop: Leiher
 ---

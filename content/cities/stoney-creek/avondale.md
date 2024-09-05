@@ -1,5 +1,5 @@
 ---
 title: "Avondale"
 url: /stoney-creek/avondale/
-shop: convenience
+shop: Lebensmittel
 ---

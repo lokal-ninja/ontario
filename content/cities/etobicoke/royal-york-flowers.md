@@ -1,5 +1,5 @@
 ---
 title: "Royal York Flowers"
 url: /etobicoke/royal-york-flowers/
-shop: florist
+shop: Blumen
 ---

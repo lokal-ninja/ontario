@@ -1,5 +1,5 @@
 ---
 title: "Husky"
 url: /newmarket/husky/
-shop: convenience
+shop: Lebensmittel
 ---

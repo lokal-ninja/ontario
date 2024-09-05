@@ -1,5 +1,5 @@
 ---
 title: "Pedi N Nails"
 url: /oshawa/pedi-n-nails/
-shop: beauty
+shop: Kosmetik
 ---

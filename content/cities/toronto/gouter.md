@@ -1,5 +1,5 @@
 ---
 title: "Goûter"
 url: /toronto/gouter/
-shop: pastry
+shop: Konditorei
 ---

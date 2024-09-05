@@ -1,5 +1,5 @@
 ---
 title: "Noah's"
 url: /toronto/noahs-yonge-street/
-shop: herbalist
+shop: Kräuter
 ---

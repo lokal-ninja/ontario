@@ -1,5 +1,5 @@
 ---
 title: "Zehrs"
 url: /barrie/zehrs/
-shop: supermarket
+shop: Supermarkt
 ---

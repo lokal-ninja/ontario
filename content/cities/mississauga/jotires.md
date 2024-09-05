@@ -1,5 +1,5 @@
 ---
 title: "JoTires"
 url: /mississauga/jotires/
-shop: tyres
+shop: Reifen
 ---

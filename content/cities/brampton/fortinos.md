@@ -1,5 +1,5 @@
 ---
 title: "Fortinos"
 url: /brampton/fortinos/
-shop: supermarket
+shop: Supermarkt
 ---

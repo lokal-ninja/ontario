@@ -1,5 +1,5 @@
 ---
 title: "CityLights"
 url: /london/citylights/
-shop: books
+shop: Bücher
 ---

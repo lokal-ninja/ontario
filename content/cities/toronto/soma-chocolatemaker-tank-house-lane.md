@@ -1,5 +1,5 @@
 ---
 title: "Soma Chocolatemaker"
 url: /toronto/soma-chocolatemaker-tank-house-lane/
-shop: chocolate
+shop: Schokolade
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mark's"
 url: /timmins/marks/
-shop: clothes
+shop: Kleidung
 ---

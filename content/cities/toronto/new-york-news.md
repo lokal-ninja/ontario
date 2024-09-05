@@ -1,5 +1,5 @@
 ---
 title: "New York News"
 url: /toronto/new-york-news/
-shop: convenience
+shop: Lebensmittel
 ---

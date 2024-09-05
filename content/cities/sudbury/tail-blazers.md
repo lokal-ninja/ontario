@@ -1,5 +1,5 @@
 ---
 title: "Tail Blazers"
 url: /sudbury/tail-blazers/
-shop: pet
+shop: Tiere
 ---

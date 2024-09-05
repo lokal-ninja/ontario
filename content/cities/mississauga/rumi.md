@@ -1,5 +1,5 @@
 ---
 title: "Rumi"
 url: /mississauga/rumi/
-shop: art
+shop: Kunst
 ---

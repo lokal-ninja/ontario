@@ -1,5 +1,5 @@
 ---
 title: "East West Futons"
 url: /toronto/east-west-futons/
-shop: bed
+shop: Betten
 ---

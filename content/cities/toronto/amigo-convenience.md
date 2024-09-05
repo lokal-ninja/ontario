@@ -1,5 +1,5 @@
 ---
 title: "Amigo Convenience"
 url: /toronto/amigo-convenience/
-shop: convenience
+shop: Lebensmittel
 ---

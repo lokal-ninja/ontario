@@ -1,5 +1,5 @@
 ---
 title: "Dive World"
 url: /etobicoke/dive-world/
-shop: diving
+shop: Tauchen
 ---

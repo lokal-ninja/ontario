@@ -1,5 +1,5 @@
 ---
 title: "Carquest"
 url: /cochrane/carquest/
-shop: car parts
+shop: Autoteile
 ---

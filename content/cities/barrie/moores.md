@@ -1,5 +1,5 @@
 ---
 title: "Moores"
 url: /barrie/moores/
-shop: clothes
+shop: Kleidung
 ---

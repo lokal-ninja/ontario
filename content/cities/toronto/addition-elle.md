@@ -1,5 +1,5 @@
 ---
 title: "Addition Elle"
 url: /toronto/addition-elle/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Painters Burlington"
 url: /burlington/painters-burlington/
-shop: supermarket
+shop: Supermarkt
 ---

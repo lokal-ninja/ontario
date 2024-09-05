@@ -1,5 +1,5 @@
 ---
 title: "Motion"
 url: /chatham/motion/
-shop: charity
+shop: Gebrauchtwaren
 ---

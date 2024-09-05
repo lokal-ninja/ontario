@@ -1,5 +1,5 @@
 ---
 title: "Whiskers"
 url: /sudbury/whiskers/
-shop: pet
+shop: Tiere
 ---

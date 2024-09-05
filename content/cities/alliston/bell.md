@@ -1,5 +1,5 @@
 ---
 title: "Bell"
 url: /alliston/bell/
-shop: mobile phone
+shop: Handy
 ---

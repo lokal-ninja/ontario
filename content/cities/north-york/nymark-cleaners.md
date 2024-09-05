@@ -1,5 +1,5 @@
 ---
 title: "Nymark Cleaners"
 url: /north-york/nymark-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

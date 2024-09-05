@@ -1,5 +1,5 @@
 ---
 title: "Geologic"
 url: /toronto/geologic/
-shop: gift
+shop: Andenken
 ---

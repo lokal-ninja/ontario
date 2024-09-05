@@ -1,5 +1,5 @@
 ---
 title: "LCBO"
 url: /stratford/lcbo/
-shop: alcohol
+shop: Spirituosen
 ---

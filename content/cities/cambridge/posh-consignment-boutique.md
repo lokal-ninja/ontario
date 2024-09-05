@@ -1,5 +1,5 @@
 ---
 title: "Posh Consignment Boutique"
 url: /cambridge/posh-consignment-boutique/
-shop: clothes
+shop: Kleidung
 ---

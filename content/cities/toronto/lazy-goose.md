@@ -1,5 +1,5 @@
 ---
 title: "Lazy Goose"
 url: /toronto/lazy-goose/
-shop: clothes
+shop: Kleidung
 ---

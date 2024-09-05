@@ -1,5 +1,5 @@
 ---
 title: "The Spice Trader"
 url: /toronto/the-spice-trader/
-shop: deli
+shop: Feinkost
 ---

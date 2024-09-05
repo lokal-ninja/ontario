@@ -1,5 +1,5 @@
 ---
 title: "Trenz"
 url: /cambridge/trenz/
-shop: clothes
+shop: Kleidung
 ---

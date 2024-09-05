@@ -1,5 +1,5 @@
 ---
 title: "LCBO"
 url: /markham/lcbo/
-shop: alcohol
+shop: Spirituosen
 ---

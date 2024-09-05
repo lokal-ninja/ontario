@@ -1,5 +1,5 @@
 ---
 title: "Petalk"
 url: /waterloo/petalk/
-shop: pet
+shop: Tiere
 ---

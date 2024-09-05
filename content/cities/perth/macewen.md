@@ -1,5 +1,5 @@
 ---
 title: "MacEwen"
 url: /perth/macewen/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BonLook"
 url: /toronto/bonlook/
-shop: optician
+shop: Optiker
 ---

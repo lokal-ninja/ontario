@@ -1,5 +1,5 @@
 ---
 title: "Andy's Repair Center"
 url: /clarington/andys-repair-center-port-darlington-road/
-shop: car repair
+shop: Autowerkstatt
 ---

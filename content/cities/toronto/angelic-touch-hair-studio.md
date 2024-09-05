@@ -1,5 +1,5 @@
 ---
 title: "Angelic Touch Hair Studio"
 url: /toronto/angelic-touch-hair-studio/
-shop: hairdresser
+shop: Friseur
 ---

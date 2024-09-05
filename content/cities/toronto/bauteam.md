@@ -1,5 +1,5 @@
 ---
 title: "Bauteam"
 url: /toronto/bauteam/
-shop: kitchen
+shop: Küchen
 ---

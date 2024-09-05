@@ -1,5 +1,5 @@
 ---
 title: "Reitmans"
 url: /toronto/reitmans/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Waxon"
 url: /maple/waxon/
-shop: beauty
+shop: Kosmetik
 ---

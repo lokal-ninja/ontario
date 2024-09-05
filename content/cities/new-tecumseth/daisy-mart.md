@@ -1,5 +1,5 @@
 ---
 title: "Daisy Mart"
 url: /new-tecumseth/daisy-mart/
-shop: convenience
+shop: Lebensmittel
 ---

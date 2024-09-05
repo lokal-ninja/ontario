@@ -1,5 +1,5 @@
 ---
 title: "Jiva"
 url: /toronto/jiva/
-shop: beauty
+shop: Kosmetik
 ---

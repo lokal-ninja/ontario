@@ -1,5 +1,5 @@
 ---
 title: "Blooming Flower Bar"
 url: /toronto/blooming-flower-bar/
-shop: florist
+shop: Blumen
 ---

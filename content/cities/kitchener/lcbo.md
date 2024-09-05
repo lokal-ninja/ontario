@@ -1,5 +1,5 @@
 ---
 title: "LCBO"
 url: /kitchener/lcbo/
-shop: alcohol
+shop: Spirituosen
 ---

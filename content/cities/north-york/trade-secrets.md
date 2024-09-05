@@ -1,5 +1,5 @@
 ---
 title: "Trade Secrets"
 url: /north-york/trade-secrets/
-shop: beauty
+shop: Kosmetik
 ---

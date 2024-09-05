@@ -1,5 +1,5 @@
 ---
 title: "Humber Valet Cleaners"
 url: /king-city/humber-valet-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

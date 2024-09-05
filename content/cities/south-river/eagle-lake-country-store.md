@@ -1,5 +1,5 @@
 ---
 title: "Eagle Lake Country Store"
 url: /south-river/eagle-lake-country-store/
-shop: convenience
+shop: Lebensmittel
 ---

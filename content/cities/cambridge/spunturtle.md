@@ -1,5 +1,5 @@
 ---
 title: "Spunturtle"
 url: /cambridge/spunturtle/
-shop: clothes
+shop: Kleidung
 ---

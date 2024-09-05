@@ -1,5 +1,5 @@
 ---
 title: "The Patch"
 url: /guelph/the-patch/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GoformTires"
 url: /toronto/goformtires/
-shop: tyres
+shop: Reifen
 ---

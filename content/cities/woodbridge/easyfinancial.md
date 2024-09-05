@@ -1,5 +1,5 @@
 ---
 title: "easyfinancial"
 url: /woodbridge/easyfinancial/
-shop: pawnbroker
+shop: Leiher
 ---

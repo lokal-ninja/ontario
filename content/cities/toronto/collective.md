@@ -1,5 +1,5 @@
 ---
 title: "Collective"
 url: /toronto/collective/
-shop: toys
+shop: Spielzeug
 ---

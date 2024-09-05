@@ -1,5 +1,5 @@
 ---
 title: "Pluck Tea Inc"
 url: /east-york/pluck-tea-inc/
-shop: tea
+shop: Tee
 ---

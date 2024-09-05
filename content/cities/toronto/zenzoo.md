@@ -1,5 +1,5 @@
 ---
 title: "ZenZoo"
 url: /toronto/zenzoo/
-shop: tobacco
+shop: Tabak
 ---

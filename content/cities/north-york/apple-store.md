@@ -1,5 +1,5 @@
 ---
 title: "Apple Store"
 url: /north-york/apple-store/
-shop: electronics
+shop: Elektronik
 ---

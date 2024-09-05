@@ -1,5 +1,5 @@
 ---
 title: "Esso"
 url: /kingston/esso/
-shop: convenience
+shop: Lebensmittel
 ---

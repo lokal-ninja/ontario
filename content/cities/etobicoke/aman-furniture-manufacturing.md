@@ -1,5 +1,5 @@
 ---
 title: "Aman Furniture Manufacturing"
 url: /etobicoke/aman-furniture-manufacturing/
-shop: furniture
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carry Maternity"
 url: /toronto/carry-maternity/
-shop: clothes
+shop: Kleidung
 ---

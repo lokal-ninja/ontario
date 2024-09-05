@@ -1,5 +1,5 @@
 ---
 title: "Wholesome Canine"
 url: /toronto/wholesome-canine/
-shop: pet
+shop: Tiere
 ---

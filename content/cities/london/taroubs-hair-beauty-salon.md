@@ -1,5 +1,5 @@
 ---
 title: "Taroub's Hair Beauty Salon"
 url: /london/taroubs-hair-beauty-salon/
-shop: hairdresser
+shop: Friseur
 ---

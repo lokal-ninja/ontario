@@ -1,5 +1,5 @@
 ---
 title: "Cinnaholic"
 url: /london/cinnaholic/
-shop: bakery
+shop: Bäckerei
 ---

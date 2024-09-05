@@ -1,5 +1,5 @@
 ---
 title: "Sports Swappers"
 url: /hamilton/sports-swappers/
-shop: sports
+shop: Sport
 ---

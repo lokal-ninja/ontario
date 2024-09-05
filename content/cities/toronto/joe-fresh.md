@@ -1,5 +1,5 @@
 ---
 title: "Joe Fresh"
 url: /toronto/joe-fresh/
-shop: clothes
+shop: Kleidung
 ---

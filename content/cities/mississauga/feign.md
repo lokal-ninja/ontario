@@ -1,5 +1,5 @@
 ---
 title: "Feign"
 url: /mississauga/feign/
-shop: clothes
+shop: Kleidung
 ---

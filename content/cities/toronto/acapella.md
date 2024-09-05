@@ -1,5 +1,5 @@
 ---
 title: "Acapella"
 url: /toronto/acapella/
-shop: clothes
+shop: Kleidung
 ---

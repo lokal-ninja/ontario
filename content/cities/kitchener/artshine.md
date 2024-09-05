@@ -1,5 +1,5 @@
 ---
 title: "Artshine"
 url: /kitchener/artshine/
-shop: craft
+shop: Basteln
 ---

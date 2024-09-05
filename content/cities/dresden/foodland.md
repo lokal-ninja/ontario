@@ -1,5 +1,5 @@
 ---
 title: "Foodland"
 url: /dresden/foodland/
-shop: supermarket
+shop: Supermarkt
 ---

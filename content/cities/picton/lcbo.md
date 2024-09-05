@@ -1,5 +1,5 @@
 ---
 title: "LCBO"
 url: /picton/lcbo/
-shop: alcohol
+shop: Spirituosen
 ---

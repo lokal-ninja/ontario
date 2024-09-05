@@ -1,5 +1,5 @@
 ---
 title: "The Smokin' Cigar Inc."
 url: /toronto/the-smokin-cigar-inc/
-shop: tobacco
+shop: Tabak
 ---

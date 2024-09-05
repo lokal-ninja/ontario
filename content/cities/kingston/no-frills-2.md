@@ -1,5 +1,5 @@
 ---
 title: "No Frills"
 url: /kingston/no-frills-2/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bossanova"
 url: /toronto/bossanova/
-shop: alcohol
+shop: Spirituosen
 ---

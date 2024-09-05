@@ -1,5 +1,5 @@
 ---
 title: "Metro"
 url: /toronto/metro-queen-street-west/
-shop: supermarket
+shop: Supermarkt
 ---

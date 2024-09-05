@@ -1,5 +1,5 @@
 ---
 title: "Martel Customs"
 url: /wawa/martel-customs/
-shop: shop
+shop: Allgemein
 ---

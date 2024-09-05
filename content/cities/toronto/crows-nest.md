@@ -1,5 +1,5 @@
 ---
 title: "Crows Nest"
 url: /toronto/crows-nest/
-shop: hairdresser
+shop: Friseur
 ---

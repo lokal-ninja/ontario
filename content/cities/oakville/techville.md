@@ -1,5 +1,5 @@
 ---
 title: "Techville"
 url: /oakville/techville/
-shop: computer
+shop: Computer
 ---

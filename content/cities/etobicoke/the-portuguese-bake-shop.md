@@ -1,5 +1,5 @@
 ---
 title: "The Portuguese Bake Shop"
 url: /etobicoke/the-portuguese-bake-shop/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "LCBO"
 url: /toronto/lcbo-york-gate-boulevard/
-shop: alcohol
+shop: Spirituosen
 ---

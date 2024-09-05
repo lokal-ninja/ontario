@@ -1,5 +1,5 @@
 ---
 title: "Husky"
 url: /caledon/husky/
-shop: convenience
+shop: Lebensmittel
 ---

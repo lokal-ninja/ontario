@@ -1,5 +1,5 @@
 ---
 title: "Telegramme"
 url: /toronto/telegramme/
-shop: frame
+shop: Rahmen
 ---

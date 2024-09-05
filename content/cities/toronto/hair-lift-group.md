@@ -1,5 +1,5 @@
 ---
 title: "Hair Lift Group"
 url: /toronto/hair-lift-group/
-shop: hairdresser
+shop: Friseur
 ---

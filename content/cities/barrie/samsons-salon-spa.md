@@ -1,5 +1,5 @@
 ---
 title: "Samson's Salon Spa"
 url: /barrie/samsons-salon-spa/
-shop: hairdresser
+shop: Friseur
 ---

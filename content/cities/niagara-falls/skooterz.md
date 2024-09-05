@@ -1,5 +1,5 @@
 ---
 title: "Skooterz"
 url: /niagara-falls/skooterz/
-shop: bicycle
+shop: Fahrrad
 ---

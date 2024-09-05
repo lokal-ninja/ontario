@@ -1,5 +1,5 @@
 ---
 title: "Straight Razor North"
 url: /bracebridge/straight-razor-north/
-shop: hairdresser
+shop: Friseur
 ---

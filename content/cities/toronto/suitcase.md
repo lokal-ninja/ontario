@@ -1,5 +1,5 @@
 ---
 title: "Suitcase"
 url: /toronto/suitcase/
-shop: antiques
+shop: Antiquitäten
 ---

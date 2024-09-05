@@ -1,5 +1,5 @@
 ---
 title: "Canex"
 url: /petawawa/canex/
-shop: supermarket
+shop: Supermarkt
 ---

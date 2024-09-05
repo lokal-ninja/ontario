@@ -1,5 +1,5 @@
 ---
 title: "No Frills"
 url: /toronto/no-frills-avenue-road/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Miss Jones Cannabis Outposts"
 url: /barrie/miss-jones-cannabis-outposts/
-shop: cannabis
+shop: Hanf
 ---

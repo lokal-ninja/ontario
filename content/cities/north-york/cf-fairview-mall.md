@@ -1,5 +1,5 @@
 ---
 title: "CF Fairview Mall"
 url: /north-york/cf-fairview-mall/
-shop: mall
+shop: Einkaufszentrum
 ---

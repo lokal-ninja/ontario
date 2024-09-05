@@ -1,5 +1,5 @@
 ---
 title: "Computer Elite"
 url: /township-of-oro-medonte/computer-elite/
-shop: computer
+shop: Computer
 ---

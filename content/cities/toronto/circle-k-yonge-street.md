@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /toronto/circle-k-yonge-street/
-shop: convenience
+shop: Lebensmittel
 ---

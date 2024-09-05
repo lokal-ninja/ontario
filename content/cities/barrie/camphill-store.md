@@ -1,5 +1,5 @@
 ---
 title: "Camphill Store"
 url: /barrie/camphill-store/
-shop: art
+shop: Kunst
 ---

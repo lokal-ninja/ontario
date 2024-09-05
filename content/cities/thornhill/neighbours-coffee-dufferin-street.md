@@ -1,5 +1,5 @@
 ---
 title: "Neighbours Coffee"
 url: /thornhill/neighbours-coffee-dufferin-street/
-shop: convenience
+shop: Lebensmittel
 ---

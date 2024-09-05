@@ -1,5 +1,5 @@
 ---
 title: "Wilbe Bloomin"
 url: /toronto/wilbe-bloomin/
-shop: florist
+shop: Blumen
 ---

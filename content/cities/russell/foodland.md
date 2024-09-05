@@ -1,5 +1,5 @@
 ---
 title: "Foodland"
 url: /russell/foodland/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /guelph/petsmart-silvercreek-parkway-north/
-shop: pet
+shop: Tiere
 ---

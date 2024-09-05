@@ -1,5 +1,5 @@
 ---
 title: "Westburne"
 url: /smiths-falls/westburne/
-shop: electrical
+shop: Elektrisch
 ---

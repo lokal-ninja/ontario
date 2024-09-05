@@ -1,5 +1,5 @@
 ---
 title: "Spa"
 url: /welland/spa/
-shop: beauty
+shop: Kosmetik
 ---

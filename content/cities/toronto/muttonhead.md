@@ -1,5 +1,5 @@
 ---
 title: "Muttonhead"
 url: /toronto/muttonhead/
-shop: clothes
+shop: Kleidung
 ---

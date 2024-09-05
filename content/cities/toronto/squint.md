@@ -1,5 +1,5 @@
 ---
 title: "Squint"
 url: /toronto/squint/
-shop: optician
+shop: Optiker
 ---

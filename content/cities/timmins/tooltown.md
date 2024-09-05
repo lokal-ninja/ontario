@@ -1,5 +1,5 @@
 ---
 title: "Tooltown"
 url: /timmins/tooltown/
-shop: hardware
+shop: Eisenwaren
 ---

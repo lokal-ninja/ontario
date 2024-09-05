@@ -1,5 +1,5 @@
 ---
 title: "Pet Mama"
 url: /york/pet-mama/
-shop: pet
+shop: Tiere
 ---

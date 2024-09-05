@@ -1,5 +1,5 @@
 ---
 title: "Olco"
 url: /shannonville/olco/
-shop: convenience
+shop: Lebensmittel
 ---

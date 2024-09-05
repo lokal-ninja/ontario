@@ -1,5 +1,5 @@
 ---
 title: "Central Vape City"
 url: /toronto/central-vape-city/
-shop: tobacco
+shop: Tabak
 ---

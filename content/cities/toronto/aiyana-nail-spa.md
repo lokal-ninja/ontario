@@ -1,5 +1,5 @@
 ---
 title: "Aiyana Nail Spa"
 url: /toronto/aiyana-nail-spa/
-shop: beauty
+shop: Kosmetik
 ---

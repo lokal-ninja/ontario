@@ -1,5 +1,5 @@
 ---
 title: "Sarnia Hyundai"
 url: /sarnia/sarnia-hyundai/
-shop: car
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hair Trenz"
 url: /geraldton/hair-trenz/
-shop: hairdresser
+shop: Friseur
 ---

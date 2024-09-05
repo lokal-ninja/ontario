@@ -1,5 +1,5 @@
 ---
 title: "Uppdoo"
 url: /toronto/uppdoo/
-shop: clothes
+shop: Kleidung
 ---

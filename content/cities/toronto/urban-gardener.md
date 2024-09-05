@@ -1,5 +1,5 @@
 ---
 title: "Urban Gardener"
 url: /toronto/urban-gardener/
-shop: garden centre
+shop: Garten-Center
 ---

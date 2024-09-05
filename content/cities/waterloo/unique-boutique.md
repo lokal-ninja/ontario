@@ -1,5 +1,5 @@
 ---
 title: "Unique Boutique"
 url: /waterloo/unique-boutique/
-shop: clothes
+shop: Kleidung
 ---

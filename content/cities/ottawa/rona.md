@@ -1,5 +1,5 @@
 ---
 title: "Rona"
 url: /ottawa/rona/
-shop: doityourself
+shop: Baumarkt
 ---

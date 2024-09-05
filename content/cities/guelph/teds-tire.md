@@ -1,5 +1,5 @@
 ---
 title: "Ted's Tire"
 url: /guelph/teds-tire/
-shop: tyres
+shop: Reifen
 ---

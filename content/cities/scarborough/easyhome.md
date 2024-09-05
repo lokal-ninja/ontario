@@ -1,5 +1,5 @@
 ---
 title: "Easyhome"
 url: /scarborough/easyhome/
-shop: furniture
+shop: Möbel
 ---

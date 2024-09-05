@@ -1,5 +1,5 @@
 ---
 title: "CSA Bike Center"
 url: /guelph/csa-bike-center/
-shop: bicycle
+shop: Fahrrad
 ---

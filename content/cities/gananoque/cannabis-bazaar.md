@@ -1,5 +1,5 @@
 ---
 title: "Cannabis Bazaar"
 url: /gananoque/cannabis-bazaar/
-shop: cannabis
+shop: Hanf
 ---

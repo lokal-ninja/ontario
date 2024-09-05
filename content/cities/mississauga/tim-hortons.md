@@ -1,5 +1,5 @@
 ---
 title: "Tim Hortons"
 url: /mississauga/tim-hortons/
-shop: vacant
+shop: Leerstehend
 ---

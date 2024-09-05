@@ -1,5 +1,5 @@
 ---
 title: "The Denizen"
 url: /toronto/the-denizen/
-shop: hairdresser
+shop: Friseur
 ---

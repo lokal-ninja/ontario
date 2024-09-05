@@ -1,5 +1,5 @@
 ---
 title: "AutoSelect"
 url: /scarborough/autoselect/
-shop: car
+shop: Autohaus
 ---

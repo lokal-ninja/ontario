@@ -1,5 +1,5 @@
 ---
 title: "Pioneer"
 url: /peterborough/pioneer/
-shop: convenience
+shop: Lebensmittel
 ---

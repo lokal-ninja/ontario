@@ -1,5 +1,5 @@
 ---
 title: "King Textiles"
 url: /toronto/king-textiles/
-shop: fabric
+shop: Textil
 ---

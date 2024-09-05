@@ -1,5 +1,5 @@
 ---
 title: "Whitby Plaza Convenience"
 url: /whitby/whitby-plaza-convenience/
-shop: convenience
+shop: Lebensmittel
 ---

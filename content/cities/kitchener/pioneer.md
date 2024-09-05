@@ -1,5 +1,5 @@
 ---
 title: "Pioneer"
 url: /kitchener/pioneer/
-shop: convenience
+shop: Lebensmittel
 ---

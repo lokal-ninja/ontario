@@ -1,5 +1,5 @@
 ---
 title: "Pharmasave"
 url: /midhurst/pharmasave/
-shop: convenience
+shop: Lebensmittel
 ---

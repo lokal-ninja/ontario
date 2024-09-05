@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /scarborough/staples/
-shop: office supplies
+shop: Schreibwaren
 ---

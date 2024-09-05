@@ -1,5 +1,5 @@
 ---
 title: "Metzger Studio"
 url: /barrie/metzger-studio/
-shop: jewelry
+shop: Schmuck
 ---

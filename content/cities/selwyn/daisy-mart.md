@@ -1,5 +1,5 @@
 ---
 title: "Daisy Mart"
 url: /selwyn/daisy-mart/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Paola's Fine Cheeses"
 url: /guelph/paolas-fine-cheeses/
-shop: cheese
+shop: Käse
 ---

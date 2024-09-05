@@ -1,5 +1,5 @@
 ---
 title: "Modern Thymes Natural Food"
 url: /smiths-falls/modern-thymes-natural-food/
-shop: health food
+shop: Bioladen
 ---

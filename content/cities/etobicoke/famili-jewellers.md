@@ -1,5 +1,5 @@
 ---
 title: "Famili Jewellers"
 url: /etobicoke/famili-jewellers/
-shop: jewelry
+shop: Schmuck
 ---

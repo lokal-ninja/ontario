@@ -1,5 +1,5 @@
 ---
 title: "Sugarush"
 url: /north-york/sugarush/
-shop: confectionery
+shop: Süßwaren
 ---

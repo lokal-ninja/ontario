@@ -1,5 +1,5 @@
 ---
 title: "Dahlia Wellness Centre"
 url: /north-york/dahlia-wellness-centre/
-shop: beauty
+shop: Kosmetik
 ---

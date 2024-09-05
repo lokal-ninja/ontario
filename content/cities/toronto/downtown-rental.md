@@ -1,5 +1,5 @@
 ---
 title: "Downtown Rental"
 url: /toronto/downtown-rental/
-shop: tools
+shop: Werkzeuge
 ---

@@ -1,5 +1,5 @@
 ---
 title: "His and Hers"
 url: /sudbury/his-and-hers/
-shop: hairdresser
+shop: Friseur
 ---

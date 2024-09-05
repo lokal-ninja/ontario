@@ -1,5 +1,5 @@
 ---
 title: "Family Market"
 url: /kingston/family-market/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lockyer's Country Gardens"
 url: /picton/lockyers-country-gardens/
-shop: garden centre
+shop: Garten-Center
 ---

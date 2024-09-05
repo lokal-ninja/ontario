@@ -1,5 +1,5 @@
 ---
 title: "Fogtown Flower"
 url: /north-york/fogtown-flower/
-shop: cannabis
+shop: Hanf
 ---

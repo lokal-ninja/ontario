@@ -1,5 +1,5 @@
 ---
 title: "LCBO"
 url: /orillia/lcbo/
-shop: alcohol
+shop: Spirituosen
 ---

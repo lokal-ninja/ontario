@@ -1,5 +1,5 @@
 ---
 title: "Food Basics"
 url: /kingston/food-basics/
-shop: supermarket
+shop: Supermarkt
 ---

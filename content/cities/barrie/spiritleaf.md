@@ -1,5 +1,5 @@
 ---
 title: "Spiritleaf"
 url: /barrie/spiritleaf/
-shop: cannabis
+shop: Hanf
 ---

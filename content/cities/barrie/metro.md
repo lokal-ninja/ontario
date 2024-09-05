@@ -1,5 +1,5 @@
 ---
 title: "Metro"
 url: /barrie/metro/
-shop: supermarket
+shop: Supermarkt
 ---

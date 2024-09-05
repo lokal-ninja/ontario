@@ -1,5 +1,5 @@
 ---
 title: "Old Navy"
 url: /toronto/old-navy/
-shop: vacant
+shop: Kleidung
 ---

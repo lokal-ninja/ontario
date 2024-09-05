@@ -1,5 +1,5 @@
 ---
 title: "Navito World"
 url: /toronto/navito-world/
-shop: sports
+shop: Sport
 ---

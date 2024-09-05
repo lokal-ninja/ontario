@@ -1,5 +1,5 @@
 ---
 title: "Myers Chimney"
 url: /minden/myers-chimney/
-shop: fireplace
+shop: Kamine & Öfen
 ---

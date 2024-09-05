@@ -1,5 +1,5 @@
 ---
 title: "Food Basics"
 url: /mississauga/food-basics-truscott-drive/
-shop: supermarket
+shop: Supermarkt
 ---

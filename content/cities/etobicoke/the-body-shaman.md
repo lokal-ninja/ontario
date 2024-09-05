@@ -1,5 +1,5 @@
 ---
 title: "The Body Shaman"
 url: /etobicoke/the-body-shaman/
-shop: massage
+shop: Massage
 ---

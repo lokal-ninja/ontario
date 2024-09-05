@@ -1,5 +1,5 @@
 ---
 title: "barBURRITO"
 url: /sudbury/barburrito/
-shop: trailer
+shop: Anhänger
 ---

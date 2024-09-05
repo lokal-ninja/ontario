@@ -1,5 +1,5 @@
 ---
 title: "La Fromagerie"
 url: /waterloo/la-fromagerie/
-shop: cheese
+shop: Käse
 ---

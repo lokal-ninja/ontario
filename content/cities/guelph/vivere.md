@@ -1,5 +1,5 @@
 ---
 title: "Vivere"
 url: /guelph/vivere/
-shop: furniture
+shop: Möbel
 ---

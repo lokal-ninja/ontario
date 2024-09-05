@@ -1,5 +1,5 @@
 ---
 title: "York Appliance"
 url: /toronto/york-appliance/
-shop: appliance
+shop: Haushaltsgeräte
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Canadoor Door Systems"
 url: /bolton/canadoor-door-systems/
-shop: doors
+shop: Türen
 ---

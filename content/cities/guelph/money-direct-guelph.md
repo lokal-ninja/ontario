@@ -1,5 +1,5 @@
 ---
 title: "Money Direct Guelph"
 url: /guelph/money-direct-guelph/
-shop: pawnbroker
+shop: Leiher
 ---

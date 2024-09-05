@@ -1,5 +1,5 @@
 ---
 title: "Noors Collection Fashion Galleria"
 url: /milton/noors-collection-fashion-galleria/
-shop: clothes
+shop: Kleidung
 ---

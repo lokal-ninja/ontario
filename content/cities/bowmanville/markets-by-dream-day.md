@@ -1,5 +1,5 @@
 ---
 title: "Markets by Dream Day"
 url: /bowmanville/markets-by-dream-day/
-shop: shop
+shop: Allgemein
 ---
