@@ -1,5 +1,5 @@
 ---
 title: "D'Ornellas"
 url: /toronto/dornellas/
-shop: Fahrrad
+shop: bicycle
 ---

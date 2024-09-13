@@ -1,5 +1,5 @@
 ---
 title: "Der Dietemann"
 url: /toronto/der-dietemann/
-shop: Antiquitäten
+shop: antiques
 ---

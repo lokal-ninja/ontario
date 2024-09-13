@@ -1,5 +1,5 @@
 ---
 title: "FotoBox"
 url: /etobicoke/fotobox/
-shop: Foto
+shop: photo
 ---

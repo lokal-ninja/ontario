@@ -1,5 +1,5 @@
 ---
 title: "Quality Auto Centre"
 url: /toronto/quality-auto-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

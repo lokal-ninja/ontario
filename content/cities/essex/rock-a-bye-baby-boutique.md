@@ -1,5 +1,5 @@
 ---
 title: "Rock-A-Bye Baby Boutique"
 url: /essex/rock-a-bye-baby-boutique/
-shop: Babysachen
+shop: baby goods
 ---

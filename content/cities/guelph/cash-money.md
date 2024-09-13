@@ -1,5 +1,5 @@
 ---
 title: "Cash Money"
 url: /guelph/cash-money/
-shop: Leiher
+shop: pawnbroker
 ---

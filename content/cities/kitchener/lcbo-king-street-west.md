@@ -1,5 +1,5 @@
 ---
 title: "LCBO"
 url: /kitchener/lcbo-king-street-west/
-shop: Spirituosen
+shop: alcohol
 ---

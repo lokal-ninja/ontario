@@ -1,5 +1,5 @@
 ---
 title: "Sobeys"
 url: /kincardine/sobeys/
-shop: Supermarkt
+shop: supermarket
 ---

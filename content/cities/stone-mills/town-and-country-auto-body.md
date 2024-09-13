@@ -1,5 +1,5 @@
 ---
 title: "Town and Country Auto Body"
 url: /stone-mills/town-and-country-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bagel Nash"
 url: /thornhill/bagel-nash/
-shop: Bäckerei
+shop: bakery
 ---

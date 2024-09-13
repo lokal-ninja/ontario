@@ -1,5 +1,5 @@
 ---
 title: "Unique U"
 url: /mississauga/unique-u/
-shop: Friseur
+shop: hairdresser
 ---

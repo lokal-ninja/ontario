@@ -1,5 +1,5 @@
 ---
 title: "Archizone"
 url: /vaughan/archizone/
-shop: Raumausstattung
+shop: interior decoration
 ---

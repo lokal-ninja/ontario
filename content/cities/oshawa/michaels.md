@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /oshawa/michaels/
-shop: Basteln
+shop: craft
 ---

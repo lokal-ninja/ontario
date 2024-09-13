@@ -1,5 +1,5 @@
 ---
 title: "Cooper Equipment Rental"
 url: /stayner/cooper-equipment-rental/
-shop: Werkzeuge
+shop: tools
 ---

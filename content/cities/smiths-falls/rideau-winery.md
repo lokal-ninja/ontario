@@ -1,5 +1,5 @@
 ---
 title: "Rideau Winery"
 url: /smiths-falls/rideau-winery/
-shop: Wein
+shop: wine
 ---

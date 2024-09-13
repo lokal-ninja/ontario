@@ -1,5 +1,5 @@
 ---
 title: "Amik Jewellers"
 url: /mississauga/amik-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

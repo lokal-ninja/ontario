@@ -1,5 +1,5 @@
 ---
 title: "Medigas"
 url: /guelph/medigas/
-shop: Sanitätshaus
+shop: medical supply
 ---

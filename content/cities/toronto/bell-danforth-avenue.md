@@ -1,5 +1,5 @@
 ---
 title: "Bell"
 url: /toronto/bell-danforth-avenue/
-shop: Handy
+shop: mobile phone
 ---

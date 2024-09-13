@@ -1,5 +1,5 @@
 ---
 title: "Experience Garage"
 url: /toronto/experience-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

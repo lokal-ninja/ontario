@@ -1,5 +1,5 @@
 ---
 title: "Donini Chocolate"
 url: /belleville/donini-chocolate/
-shop: Schokolade
+shop: chocolate
 ---

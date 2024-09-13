@@ -1,5 +1,5 @@
 ---
 title: "Cash Money"
 url: /east-york/cash-money/
-shop: Leiher
+shop: pawnbroker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /chatham/sephora/
-shop: Kosmetik
+shop: beauty
 ---

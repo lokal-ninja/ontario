@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /mississauga/midas-dundas-street-east/
-shop: Autowerkstatt
+shop: car repair
 ---

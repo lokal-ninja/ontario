@@ -1,5 +1,5 @@
 ---
 title: "Living Lighting Newmarket"
 url: /newmarket/living-lighting-newmarket/
-shop: Lampen
+shop: lamps
 ---

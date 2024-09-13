@@ -1,5 +1,5 @@
 ---
 title: "Republic of Hair"
 url: /toronto/republic-of-hair/
-shop: Friseur
+shop: hairdresser
 ---

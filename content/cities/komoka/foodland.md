@@ -1,5 +1,5 @@
 ---
 title: "Foodland"
 url: /komoka/foodland/
-shop: Supermarkt
+shop: supermarket
 ---

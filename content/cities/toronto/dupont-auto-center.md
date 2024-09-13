@@ -1,5 +1,5 @@
 ---
 title: "Dupont Auto Center"
 url: /toronto/dupont-auto-center/
-shop: Autowerkstatt
+shop: car repair
 ---

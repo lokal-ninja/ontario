@@ -1,5 +1,5 @@
 ---
 title: "VAPE ON THE RUN"
 url: /chatham/vape-on-the-run/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

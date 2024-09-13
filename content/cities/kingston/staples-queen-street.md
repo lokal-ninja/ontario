@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /kingston/staples-queen-street/
-shop: Schreibwaren
+shop: office supplies
 ---

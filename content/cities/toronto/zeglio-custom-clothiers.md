@@ -1,5 +1,5 @@
 ---
 title: "Zeglio Custom Clothiers"
 url: /toronto/zeglio-custom-clothiers/
-shop: Kleidung
+shop: clothes
 ---

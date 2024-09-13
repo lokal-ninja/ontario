@@ -1,5 +1,5 @@
 ---
 title: "DNA"
 url: /kitchener/dna/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "OK Tire"
 url: /cobourg/ok-tire/
-shop: Reifen
+shop: tyres
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Home Depot"
 url: /caledon/the-home-depot/
-shop: Baumarkt
+shop: doityourself
 ---

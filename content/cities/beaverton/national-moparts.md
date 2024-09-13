@@ -1,5 +1,5 @@
 ---
 title: "National Moparts"
 url: /beaverton/national-moparts/
-shop: Autohaus
+shop: car
 ---

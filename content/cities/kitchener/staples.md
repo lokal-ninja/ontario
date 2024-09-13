@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /kitchener/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

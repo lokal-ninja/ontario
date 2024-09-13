@@ -1,5 +1,5 @@
 ---
 title: "Fabrik Hair Studio"
 url: /oshawa/fabrik-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

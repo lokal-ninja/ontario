@@ -1,5 +1,5 @@
 ---
 title: "Indigo Spirit"
 url: /oakville/indigo-spirit/
-shop: Bücher
+shop: books
 ---

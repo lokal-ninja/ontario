@@ -1,5 +1,5 @@
 ---
 title: "DaSilva Racing"
 url: /pickering/dasilva-racing/
-shop: Autowerkstatt
+shop: car repair
 ---

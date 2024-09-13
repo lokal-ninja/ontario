@@ -1,5 +1,5 @@
 ---
 title: "Apex Auto Centre"
 url: /oshawa/apex-auto-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

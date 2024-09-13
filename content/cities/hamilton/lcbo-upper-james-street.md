@@ -1,5 +1,5 @@
 ---
 title: "LCBO"
 url: /hamilton/lcbo-upper-james-street/
-shop: Spirituosen
+shop: alcohol
 ---

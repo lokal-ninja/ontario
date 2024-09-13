@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /kingston/dollarama-bath-road/
-shop: Kramladen
+shop: variety store
 ---

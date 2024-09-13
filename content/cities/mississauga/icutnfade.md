@@ -1,5 +1,5 @@
 ---
 title: "iCutnFade"
 url: /mississauga/icutnfade/
-shop: Friseur
+shop: hairdresser
 ---

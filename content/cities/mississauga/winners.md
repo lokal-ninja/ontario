@@ -1,5 +1,5 @@
 ---
 title: "Winners"
 url: /mississauga/winners/
-shop: Warenhaus
+shop: department store
 ---

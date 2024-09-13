@@ -1,5 +1,5 @@
 ---
 title: "Moores"
 url: /vaughan/moores/
-shop: Kleidung
+shop: clothes
 ---

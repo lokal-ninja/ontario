@@ -1,5 +1,5 @@
 ---
 title: "Hakim"
 url: /east-york/hakim/
-shop: Optiker
+shop: optician
 ---

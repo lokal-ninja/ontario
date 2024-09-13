@@ -1,5 +1,5 @@
 ---
 title: "Hair Plus"
 url: /waterloo/hair-plus/
-shop: Friseur
+shop: hairdresser
 ---

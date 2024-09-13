@@ -1,5 +1,5 @@
 ---
 title: "Darpak"
 url: /stayner/darpak/
-shop: Garten-Center
+shop: garden centre
 ---

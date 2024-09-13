@@ -1,5 +1,5 @@
 ---
 title: "Medigas"
 url: /barrie/medigas/
-shop: Sanitätshaus
+shop: medical supply
 ---

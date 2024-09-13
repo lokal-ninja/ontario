@@ -1,5 +1,5 @@
 ---
 title: "Borden Angus Service Center"
 url: /angus/borden-angus-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

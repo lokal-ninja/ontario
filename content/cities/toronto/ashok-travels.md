@@ -1,5 +1,5 @@
 ---
 title: "Ashok Travels"
 url: /toronto/ashok-travels/
-shop: Reisebüro
+shop: travel agency
 ---

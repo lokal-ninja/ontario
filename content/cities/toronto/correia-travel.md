@@ -1,5 +1,5 @@
 ---
 title: "Correia Travel"
 url: /toronto/correia-travel/
-shop: Reisebüro
+shop: travel agency
 ---

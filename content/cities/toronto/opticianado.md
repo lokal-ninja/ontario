@@ -1,5 +1,5 @@
 ---
 title: "Opticianado"
 url: /toronto/opticianado/
-shop: Optiker
+shop: optician
 ---

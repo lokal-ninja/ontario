@@ -1,5 +1,5 @@
 ---
 title: "Loblaws"
 url: /toronto/loblaws-eglinton-avenue-east/
-shop: Supermarkt
+shop: supermarket
 ---

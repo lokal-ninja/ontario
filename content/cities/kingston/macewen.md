@@ -1,5 +1,5 @@
 ---
 title: "MacEwen"
 url: /kingston/macewen/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "YouPackWeStore"
 url: /waterloo/youpackwestore/
-shop: Mieten
+shop: storage rental
 ---

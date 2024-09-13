@@ -1,5 +1,5 @@
 ---
 title: "Pet Valu"
 url: /toronto/pet-valu-yonge-street/
-shop: Tiere
+shop: pet
 ---

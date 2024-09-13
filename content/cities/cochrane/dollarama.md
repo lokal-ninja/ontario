@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /cochrane/dollarama/
-shop: Kramladen
+shop: variety store
 ---

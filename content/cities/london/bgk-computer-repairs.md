@@ -1,5 +1,5 @@
 ---
 title: "BGK Computer Repairs"
 url: /london/bgk-computer-repairs/
-shop: Computer
+shop: computer
 ---

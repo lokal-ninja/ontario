@@ -1,5 +1,5 @@
 ---
 title: "Grace Meat Market"
 url: /toronto/grace-meat-market/
-shop: Metzgerei
+shop: butcher
 ---

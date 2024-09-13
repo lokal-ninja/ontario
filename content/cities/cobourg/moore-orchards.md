@@ -1,5 +1,5 @@
 ---
 title: "Moore Orchards"
 url: /cobourg/moore-orchards/
-shop: Hofladen
+shop: farm
 ---

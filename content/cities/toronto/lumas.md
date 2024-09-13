@@ -1,5 +1,5 @@
 ---
 title: "Lumas"
 url: /toronto/lumas/
-shop: Kunst
+shop: art
 ---

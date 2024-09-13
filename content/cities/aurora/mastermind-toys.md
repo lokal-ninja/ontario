@@ -1,5 +1,5 @@
 ---
 title: "Mastermind Toys"
 url: /aurora/mastermind-toys/
-shop: Spielzeug
+shop: toys
 ---

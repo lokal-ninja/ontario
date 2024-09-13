@@ -1,5 +1,5 @@
 ---
 title: "B II"
 url: /oakville/b-ii/
-shop: Kleidung
+shop: clothes
 ---

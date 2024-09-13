@@ -1,5 +1,5 @@
 ---
 title: "Rexall Drug Store"
 url: /sioux-lookout/rexall-drug-store/
-shop: Drogerie
+shop: chemist
 ---

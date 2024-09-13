@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /barrie/dollarama-yonge-street/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Olde Phish"
 url: /kitchener/olde-phish/
-shop: Autowerkstatt
+shop: car repair
 ---

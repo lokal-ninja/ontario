@@ -1,5 +1,5 @@
 ---
 title: "Metro"
 url: /etobicoke/metro-royal-york-road/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Yes Electric Tattoo"
 url: /toronto/yes-electric-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

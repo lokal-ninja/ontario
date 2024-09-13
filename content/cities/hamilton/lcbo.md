@@ -1,5 +1,5 @@
 ---
 title: "LCBO"
 url: /hamilton/lcbo/
-shop: Spirituosen
+shop: alcohol
 ---

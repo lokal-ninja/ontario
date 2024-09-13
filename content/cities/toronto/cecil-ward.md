@@ -1,5 +1,5 @@
 ---
 title: "Cecil Ward"
 url: /toronto/cecil-ward/
-shop: Kleidung
+shop: clothes
 ---

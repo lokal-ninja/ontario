@@ -1,5 +1,5 @@
 ---
 title: "Machi machi"
 url: /north-york/machi-machi/
-shop: Tee
+shop: tea
 ---

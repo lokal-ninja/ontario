@@ -1,5 +1,5 @@
 ---
 title: "Glomalin"
 url: /mono/glomalin/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nails for You"
 url: /burlington/nails-for-you/
-shop: Kosmetik
+shop: beauty
 ---

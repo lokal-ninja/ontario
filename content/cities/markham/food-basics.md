@@ -1,5 +1,5 @@
 ---
 title: "Food Basics"
 url: /markham/food-basics/
-shop: Supermarkt
+shop: supermarket
 ---

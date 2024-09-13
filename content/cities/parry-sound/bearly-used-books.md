@@ -1,5 +1,5 @@
 ---
 title: "Bearly Used Books"
 url: /parry-sound/bearly-used-books/
-shop: Bücher
+shop: books
 ---

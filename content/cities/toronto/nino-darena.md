@@ -1,5 +1,5 @@
 ---
 title: "Nino D'Arena"
 url: /toronto/nino-darena/
-shop: Friseur
+shop: hairdresser
 ---

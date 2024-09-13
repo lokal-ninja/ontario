@@ -1,5 +1,5 @@
 ---
 title: "Watts Current"
 url: /mississauga/watts-current/
-shop: Raumausstattung
+shop: interior decoration
 ---

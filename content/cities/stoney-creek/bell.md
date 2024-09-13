@@ -1,5 +1,5 @@
 ---
 title: "Bell"
 url: /stoney-creek/bell/
-shop: Handy
+shop: mobile phone
 ---

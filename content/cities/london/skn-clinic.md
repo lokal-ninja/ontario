@@ -1,5 +1,5 @@
 ---
 title: "SKN Clinic"
 url: /london/skn-clinic/
-shop: Kosmetik
+shop: beauty
 ---

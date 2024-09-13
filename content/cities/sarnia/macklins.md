@@ -1,5 +1,5 @@
 ---
 title: "Macklin's"
 url: /sarnia/macklins/
-shop: Gemüse & Obst
+shop: greengrocer
 ---

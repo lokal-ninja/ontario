@@ -1,5 +1,5 @@
 ---
 title: "Courtice Automotive"
 url: /courtice/courtice-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

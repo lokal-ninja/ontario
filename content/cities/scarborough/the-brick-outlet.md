@@ -1,5 +1,5 @@
 ---
 title: "The Brick Outlet"
 url: /scarborough/the-brick-outlet/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Humble Autohaus"
 url: /toronto/humble-autohaus/
-shop: Autowerkstatt
+shop: car repair
 ---

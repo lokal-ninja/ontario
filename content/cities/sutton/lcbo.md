@@ -1,5 +1,5 @@
 ---
 title: "LCBO"
 url: /sutton/lcbo/
-shop: Spirituosen
+shop: alcohol
 ---

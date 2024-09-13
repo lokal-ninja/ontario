@@ -1,5 +1,5 @@
 ---
 title: "James Brett Coiffure"
 url: /kingston/james-brett-coiffure/
-shop: Friseur
+shop: hairdresser
 ---

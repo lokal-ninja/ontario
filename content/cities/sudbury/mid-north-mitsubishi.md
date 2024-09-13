@@ -1,5 +1,5 @@
 ---
 title: "Mid North Mitsubishi"
 url: /sudbury/mid-north-mitsubishi/
-shop: Autohaus
+shop: car
 ---

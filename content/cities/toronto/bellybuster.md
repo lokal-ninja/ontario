@@ -1,5 +1,5 @@
 ---
 title: "BellyBuster"
 url: /toronto/bellybuster/
-shop: Musik
+shop: music
 ---

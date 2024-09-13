@@ -1,5 +1,5 @@
 ---
 title: "George"
 url: /chatham/george/
-shop: Kleidung
+shop: clothes
 ---

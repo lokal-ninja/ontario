@@ -1,5 +1,5 @@
 ---
 title: "Goldstruck"
 url: /toronto/goldstruck/
-shop: Bäckerei
+shop: bakery
 ---

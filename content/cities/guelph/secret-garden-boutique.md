@@ -1,5 +1,5 @@
 ---
 title: "Secret Garden Boutique"
 url: /guelph/secret-garden-boutique/
-shop: Garten-Center
+shop: garden centre
 ---

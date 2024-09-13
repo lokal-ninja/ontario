@@ -1,5 +1,5 @@
 ---
 title: "Abercrombie Kids"
 url: /toronto/abercrombie-kids/
-shop: Kleidung
+shop: clothes
 ---

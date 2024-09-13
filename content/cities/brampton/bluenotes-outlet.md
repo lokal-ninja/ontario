@@ -1,5 +1,5 @@
 ---
 title: "Bluenotes Outlet"
 url: /brampton/bluenotes-outlet/
-shop: Kleidung
+shop: clothes
 ---

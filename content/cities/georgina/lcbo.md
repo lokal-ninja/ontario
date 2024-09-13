@@ -1,5 +1,5 @@
 ---
 title: "LCBO"
 url: /georgina/lcbo/
-shop: Spirituosen
+shop: alcohol
 ---

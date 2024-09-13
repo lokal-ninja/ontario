@@ -1,5 +1,5 @@
 ---
-title: "Tomme Cheese Shop"
+title: "TOMME Cheese Shop"
 url: /guelph/tomme-cheese-shop/
-shop: Käse
+shop: cheese
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hanna Motors"
 url: /stayner/hanna-motors/
-shop: Autohaus
+shop: car
 ---

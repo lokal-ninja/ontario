@@ -1,5 +1,5 @@
 ---
 title: "Whiskeyjack Boutique"
 url: /windsor/whiskeyjack-boutique/
-shop: Andenken
+shop: gift
 ---

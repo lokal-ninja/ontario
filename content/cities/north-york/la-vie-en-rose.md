@@ -1,5 +1,5 @@
 ---
 title: "La Vie en Rose"
 url: /north-york/la-vie-en-rose/
-shop: Kleidung
+shop: clothes
 ---

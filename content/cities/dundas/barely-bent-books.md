@@ -1,5 +1,5 @@
 ---
 title: "Barely Bent Books"
 url: /dundas/barely-bent-books/
-shop: Bücher
+shop: books
 ---

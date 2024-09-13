@@ -1,5 +1,5 @@
 ---
 title: "Metro"
 url: /burlington/metro/
-shop: Supermarkt
+shop: supermarket
 ---

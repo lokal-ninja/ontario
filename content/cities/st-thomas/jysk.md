@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
 url: /st-thomas/jysk/
-shop: Antiquitäten
+shop: antiques
 ---

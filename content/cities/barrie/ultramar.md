@@ -1,5 +1,5 @@
 ---
 title: "Ultramar"
 url: /barrie/ultramar/
-shop: Lebensmittel
+shop: convenience
 ---

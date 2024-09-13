@@ -1,5 +1,5 @@
 ---
 title: "Mason's Masonry"
 url: /midhurst/masons-masonry/
-shop: Baustoffe
+shop: trade
 ---

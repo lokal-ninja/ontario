@@ -1,5 +1,5 @@
 ---
 title: "Wolseley"
 url: /guelph/wolseley/
-shop: Eisenwaren
+shop: hardware
 ---

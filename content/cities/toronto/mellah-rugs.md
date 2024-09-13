@@ -1,5 +1,5 @@
 ---
 title: "Mellah Rugs"
 url: /toronto/mellah-rugs/
-shop: Teppiche
+shop: carpet
 ---

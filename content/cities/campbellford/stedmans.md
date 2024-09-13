@@ -1,5 +1,5 @@
 ---
 title: "Stedmans"
 url: /campbellford/stedmans/
-shop: Kramladen
+shop: variety store
 ---

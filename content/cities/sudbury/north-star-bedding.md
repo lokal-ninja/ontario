@@ -1,5 +1,5 @@
 ---
 title: "North Star Bedding"
 url: /sudbury/north-star-bedding/
-shop: Betten
+shop: bed
 ---

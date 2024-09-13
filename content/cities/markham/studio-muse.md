@@ -1,5 +1,5 @@
 ---
 title: "Studio Muse"
 url: /markham/studio-muse/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HearingLife"
 url: /markham/hearinglife/
-shop: Hörgeräte
+shop: hearing aids
 ---

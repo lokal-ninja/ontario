@@ -1,5 +1,5 @@
 ---
 title: "MG Motors"
 url: /markham/mg-motors/
-shop: Autohaus
+shop: car
 ---

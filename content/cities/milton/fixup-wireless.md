@@ -1,5 +1,5 @@
 ---
 title: "Fixup Wireless"
 url: /milton/fixup-wireless/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fido"
 url: /vaughan/fido/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Curl Bar"
 url: /toronto/curl-bar/
-shop: Friseur
+shop: hairdresser
 ---

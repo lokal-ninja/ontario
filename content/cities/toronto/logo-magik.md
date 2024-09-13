@@ -1,5 +1,5 @@
 ---
 title: "Logo Magik"
 url: /toronto/logo-magik/
-shop: Allgemein
+shop: shop
 ---

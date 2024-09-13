@@ -1,5 +1,5 @@
 ---
 title: "Creemore Auto Detailing"
 url: /creemore/creemore-auto-detailing/
-shop: Autowerkstatt
+shop: car repair
 ---

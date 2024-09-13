@@ -1,5 +1,5 @@
 ---
 title: "Lady York Foods"
 url: /toronto/lady-york-foods/
-shop: Supermarkt
+shop: supermarket
 ---

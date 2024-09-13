@@ -1,5 +1,5 @@
 ---
 title: "Golden Mile Mall"
 url: /scarborough/golden-mile-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

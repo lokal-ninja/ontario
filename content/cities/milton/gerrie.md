@@ -1,5 +1,5 @@
 ---
 title: "Gerrie"
 url: /milton/gerrie/
-shop: Baumarkt
+shop: doityourself
 ---

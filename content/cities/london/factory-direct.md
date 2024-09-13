@@ -1,5 +1,5 @@
 ---
 title: "Factory Direct"
 url: /london/factory-direct/
-shop: Elektronik
+shop: electronics
 ---

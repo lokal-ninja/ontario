@@ -1,5 +1,5 @@
 ---
 title: "Jug Town"
 url: /toronto/jug-town/
-shop: Lebensmittel
+shop: convenience
 ---

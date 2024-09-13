@@ -1,5 +1,5 @@
 ---
 title: "LCBO"
 url: /whitby/lcbo/
-shop: Spirituosen
+shop: alcohol
 ---

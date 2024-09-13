@@ -1,5 +1,5 @@
 ---
 title: "The Face Shop"
 url: /north-york/the-face-shop/
-shop: Kosmetik
+shop: beauty
 ---

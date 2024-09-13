@@ -1,5 +1,5 @@
 ---
 title: "Layan Food Market"
 url: /guelph/layan-food-market/
-shop: Supermarkt
+shop: supermarket
 ---

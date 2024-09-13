@@ -1,5 +1,5 @@
 ---
 title: "Velotique"
 url: /toronto/velotique/
-shop: Fahrrad
+shop: bicycle
 ---

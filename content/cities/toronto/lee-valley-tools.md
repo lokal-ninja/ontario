@@ -1,5 +1,5 @@
 ---
 title: "Lee Valley Tools"
 url: /toronto/lee-valley-tools/
-shop: Eisenwaren
+shop: hardware
 ---

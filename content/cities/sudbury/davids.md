@@ -1,5 +1,5 @@
 ---
 title: "David's"
 url: /sudbury/davids/
-shop: Autowerkstatt
+shop: car repair
 ---

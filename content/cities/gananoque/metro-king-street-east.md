@@ -1,5 +1,5 @@
 ---
 title: "Metro"
 url: /gananoque/metro-king-street-east/
-shop: Supermarkt
+shop: supermarket
 ---

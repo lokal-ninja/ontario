@@ -1,5 +1,5 @@
 ---
 title: "Burlington Storage Barn"
 url: /burlington/burlington-storage-barn/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Big Bargain Wholesale"
 url: /guelph/big-bargain-wholesale/
-shop: Kramladen
+shop: variety store
 ---

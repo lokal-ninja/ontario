@@ -1,5 +1,5 @@
 ---
 title: "The Epicure Shop"
 url: /toronto/the-epicure-shop/
-shop: Feinkost
+shop: deli
 ---

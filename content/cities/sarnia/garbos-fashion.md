@@ -1,5 +1,5 @@
 ---
 title: "Garbo's Fashion"
 url: /sarnia/garbos-fashion/
-shop: Kleidung
+shop: clothes
 ---

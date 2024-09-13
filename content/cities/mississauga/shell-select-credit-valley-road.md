@@ -1,5 +1,5 @@
 ---
 title: "Shell Select"
 url: /mississauga/shell-select-credit-valley-road/
-shop: Lebensmittel
+shop: convenience
 ---

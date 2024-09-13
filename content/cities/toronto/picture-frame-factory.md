@@ -1,5 +1,5 @@
 ---
 title: "Picture Frame Factory"
 url: /toronto/picture-frame-factory/
-shop: Rahmen
+shop: frame
 ---

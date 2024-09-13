@@ -1,5 +1,5 @@
 ---
 title: "Drumland"
 url: /woodbridge/drumland/
-shop: Instrumente
+shop: musical instrument
 ---

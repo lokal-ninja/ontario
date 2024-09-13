@@ -1,5 +1,5 @@
 ---
 title: "ExpressMart"
 url: /king-township/expressmart/
-shop: Lebensmittel
+shop: convenience
 ---

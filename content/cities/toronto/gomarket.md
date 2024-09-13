@@ -1,5 +1,5 @@
 ---
 title: "goMarket"
 url: /toronto/gomarket/
-shop: Lebensmittel
+shop: convenience
 ---

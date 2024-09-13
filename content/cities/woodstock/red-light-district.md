@@ -1,5 +1,5 @@
 ---
 title: "Red Light District"
 url: /woodstock/red-light-district/
-shop: Erotik
+shop: erotic
 ---

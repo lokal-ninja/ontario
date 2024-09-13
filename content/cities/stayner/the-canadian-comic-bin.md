@@ -1,5 +1,5 @@
 ---
 title: "The Canadian Comic Bin"
 url: /stayner/the-canadian-comic-bin/
-shop: Sammler
+shop: collector
 ---

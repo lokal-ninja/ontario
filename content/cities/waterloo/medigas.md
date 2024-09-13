@@ -1,5 +1,5 @@
 ---
 title: "Medigas"
 url: /waterloo/medigas/
-shop: Sanitätshaus
+shop: medical supply
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Barkers Collision Centre"
 url: /town-of-renfrew/barkers-collision-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jim's Speed Equipment"
 url: /london/jims-speed-equipment/
-shop: Autoteile
+shop: car parts
 ---

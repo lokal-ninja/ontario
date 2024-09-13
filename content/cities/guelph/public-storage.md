@@ -1,5 +1,5 @@
 ---
 title: "Public Storage"
 url: /guelph/public-storage/
-shop: Mieten
+shop: storage rental
 ---

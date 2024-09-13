@@ -1,5 +1,5 @@
 ---
 title: "HomeSense"
 url: /mississauga/homesense/
-shop: Raumausstattung
+shop: interior decoration
 ---

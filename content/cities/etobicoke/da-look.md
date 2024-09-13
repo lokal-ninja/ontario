@@ -1,5 +1,5 @@
 ---
 title: "Da Look"
 url: /etobicoke/da-look/
-shop: Friseur
+shop: hairdresser
 ---

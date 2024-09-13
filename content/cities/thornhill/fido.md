@@ -1,5 +1,5 @@
 ---
 title: "Fido"
 url: /thornhill/fido/
-shop: Handy
+shop: mobile phone
 ---

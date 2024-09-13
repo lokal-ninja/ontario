@@ -1,5 +1,5 @@
 ---
 title: "Chronicles Cannabis"
 url: /kitchener/chronicles-cannabis/
-shop: Hanf
+shop: cannabis
 ---

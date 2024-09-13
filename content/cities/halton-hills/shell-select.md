@@ -1,5 +1,5 @@
 ---
 title: "Shell Select"
 url: /halton-hills/shell-select/
-shop: Lebensmittel
+shop: convenience
 ---

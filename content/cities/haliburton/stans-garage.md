@@ -1,5 +1,5 @@
 ---
 title: "Stan's Garage"
 url: /haliburton/stans-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

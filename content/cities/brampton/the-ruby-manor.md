@@ -1,5 +1,5 @@
 ---
 title: "The Ruby Manor"
 url: /brampton/the-ruby-manor/
-shop: Foto
+shop: photo
 ---

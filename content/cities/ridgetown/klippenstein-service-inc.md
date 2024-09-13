@@ -1,5 +1,5 @@
 ---
 title: "Klippenstein Service Inc"
 url: /ridgetown/klippenstein-service-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

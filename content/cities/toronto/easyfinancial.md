@@ -1,5 +1,5 @@
 ---
 title: "easyfinancial"
 url: /toronto/easyfinancial/
-shop: Leiher
+shop: pawnbroker
 ---

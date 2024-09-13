@@ -1,5 +1,5 @@
 ---
 title: "Hillcrest Grocery"
 url: /parry-sound/hillcrest-grocery/
-shop: Lebensmittel
+shop: convenience
 ---

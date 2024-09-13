@@ -1,5 +1,5 @@
 ---
 title: "Robert Brown Jewellers"
 url: /sudbury/robert-brown-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

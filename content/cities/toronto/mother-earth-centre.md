@@ -1,5 +1,5 @@
 ---
 title: "Mother Earth Centre"
 url: /toronto/mother-earth-centre/
-shop: Basteln
+shop: craft
 ---

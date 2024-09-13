@@ -1,5 +1,5 @@
 ---
 title: "Mar Motors"
 url: /sudbury/mar-motors/
-shop: Autohaus
+shop: car
 ---

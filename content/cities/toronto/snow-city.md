@@ -1,5 +1,5 @@
 ---
 title: "Snow City"
 url: /toronto/snow-city/
-shop: Sport
+shop: sports
 ---

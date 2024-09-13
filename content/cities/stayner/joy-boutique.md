@@ -1,5 +1,5 @@
 ---
 title: "Joy Boutique"
 url: /stayner/joy-boutique/
-shop: Kleidung
+shop: clothes
 ---

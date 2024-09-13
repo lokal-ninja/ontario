@@ -1,5 +1,5 @@
 ---
 title: "Metro"
 url: /arnprior/metro/
-shop: Supermarkt
+shop: supermarket
 ---

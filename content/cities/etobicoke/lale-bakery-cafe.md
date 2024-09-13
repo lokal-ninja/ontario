@@ -1,5 +1,5 @@
 ---
 title: "Lale Bakery - Cafe"
 url: /etobicoke/lale-bakery-cafe/
-shop: Bäckerei
+shop: bakery
 ---

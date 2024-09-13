@@ -1,5 +1,5 @@
 ---
 title: "Automotive Edge"
 url: /kitchener/automotive-edge/
-shop: Autowerkstatt
+shop: car repair
 ---

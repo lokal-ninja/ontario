@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /chatham/dollarama/
-shop: Kramladen
+shop: variety store
 ---

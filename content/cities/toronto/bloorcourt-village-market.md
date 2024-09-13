@@ -1,5 +1,5 @@
 ---
 title: "Bloorcourt Village Market"
 url: /toronto/bloorcourt-village-market/
-shop: Gemüse & Obst
+shop: greengrocer
 ---

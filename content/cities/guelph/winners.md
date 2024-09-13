@@ -1,5 +1,5 @@
 ---
 title: "Winners"
 url: /guelph/winners/
-shop: Warenhaus
+shop: department store
 ---

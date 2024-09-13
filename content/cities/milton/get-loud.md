@@ -1,5 +1,5 @@
 ---
 title: "Get Loud"
 url: /milton/get-loud/
-shop: Instrumente
+shop: musical instrument
 ---

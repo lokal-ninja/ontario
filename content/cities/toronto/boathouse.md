@@ -1,5 +1,5 @@
 ---
 title: "Boathouse"
 url: /toronto/boathouse/
-shop: Kleidung
+shop: clothes
 ---

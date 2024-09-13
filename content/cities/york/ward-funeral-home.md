@@ -1,5 +1,5 @@
 ---
 title: "Ward Funeral Home"
 url: /york/ward-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

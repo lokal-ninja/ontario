@@ -1,5 +1,5 @@
 ---
 title: "GP Bikes"
 url: /whitby/gp-bikes/
-shop: Motorrad
+shop: motorcycle
 ---

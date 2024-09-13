@@ -1,5 +1,5 @@
 ---
 title: "Fawcett Motor Carriage Company"
 url: /whitby/fawcett-motor-carriage-company/
-shop: Autowerkstatt
+shop: car repair
 ---

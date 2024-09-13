@@ -1,5 +1,5 @@
 ---
 title: "British Grocer"
 url: /burlington/british-grocer/
-shop: Supermarkt
+shop: supermarket
 ---

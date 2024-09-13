@@ -1,5 +1,5 @@
 ---
 title: "The Massage Company"
 url: /erin/the-massage-company/
-shop: Massage
+shop: massage
 ---

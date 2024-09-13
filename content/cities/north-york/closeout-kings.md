@@ -1,5 +1,5 @@
 ---
 title: "Closeout Kings"
 url: /north-york/closeout-kings/
-shop: Warenhaus
+shop: department store
 ---

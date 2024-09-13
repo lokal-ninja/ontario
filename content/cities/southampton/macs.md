@@ -1,5 +1,5 @@
 ---
 title: "Mac's"
 url: /southampton/macs/
-shop: Lebensmittel
+shop: convenience
 ---

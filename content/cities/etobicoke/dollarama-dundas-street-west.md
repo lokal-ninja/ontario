@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /etobicoke/dollarama-dundas-street-west/
-shop: Kramladen
+shop: variety store
 ---

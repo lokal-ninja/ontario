@@ -1,5 +1,5 @@
 ---
 title: "Sayal Electronics"
 url: /burlington/sayal-electronics/
-shop: Elektronik
+shop: electronics
 ---

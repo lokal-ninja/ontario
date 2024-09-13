@@ -1,5 +1,5 @@
 ---
 title: "Vinnies"
 url: /peterborough/vinnies/
-shop: Gebrauchtwaren
+shop: charity
 ---

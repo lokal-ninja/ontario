@@ -1,5 +1,5 @@
 ---
 title: "Quarry Direct"
 url: /mississauga/quarry-direct/
-shop: Fliesen
+shop: tiles
 ---

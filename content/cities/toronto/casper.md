@@ -1,5 +1,5 @@
 ---
 title: "Casper"
 url: /toronto/casper/
-shop: Betten
+shop: bed
 ---

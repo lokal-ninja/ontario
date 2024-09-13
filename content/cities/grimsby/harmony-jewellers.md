@@ -1,5 +1,5 @@
 ---
 title: "Harmony Jewellers"
 url: /grimsby/harmony-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

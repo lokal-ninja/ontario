@@ -1,5 +1,5 @@
 ---
 title: "Office Pro"
 url: /kapuskasing/office-pro/
-shop: Schreibwaren
+shop: office supplies
 ---

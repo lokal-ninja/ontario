@@ -1,5 +1,5 @@
 ---
 title: "Money Mart"
 url: /concord/money-mart/
-shop: Leiher
+shop: pawnbroker
 ---

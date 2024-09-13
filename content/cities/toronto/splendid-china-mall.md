@@ -1,5 +1,5 @@
 ---
 title: "Splendid China Mall"
 url: /toronto/splendid-china-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

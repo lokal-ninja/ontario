@@ -1,5 +1,5 @@
 ---
 title: "Bell"
 url: /burlington/bell/
-shop: Handy
+shop: mobile phone
 ---

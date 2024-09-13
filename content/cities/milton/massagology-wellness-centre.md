@@ -1,5 +1,5 @@
 ---
 title: "Massagology Wellness Centre"
 url: /milton/massagology-wellness-centre/
-shop: Massage
+shop: massage
 ---

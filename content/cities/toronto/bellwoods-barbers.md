@@ -1,5 +1,5 @@
 ---
 title: "Bellwoods Barbers"
 url: /toronto/bellwoods-barbers/
-shop: Friseur
+shop: hairdresser
 ---

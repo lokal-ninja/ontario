@@ -1,5 +1,5 @@
 ---
 title: "Shell Select"
 url: /mississauga/shell-select-erin-mills-parkway/
-shop: Lebensmittel
+shop: convenience
 ---

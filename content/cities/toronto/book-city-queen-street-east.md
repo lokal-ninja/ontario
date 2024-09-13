@@ -1,5 +1,5 @@
 ---
 title: "Book City"
 url: /toronto/book-city-queen-street-east/
-shop: Bücher
+shop: books
 ---

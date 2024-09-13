@@ -1,5 +1,5 @@
 ---
 title: "Bell"
 url: /fergus/bell/
-shop: Handy
+shop: mobile phone
 ---

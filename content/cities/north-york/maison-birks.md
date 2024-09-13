@@ -1,5 +1,5 @@
 ---
 title: "Maison Birks"
 url: /north-york/maison-birks/
-shop: Schmuck
+shop: jewelry
 ---

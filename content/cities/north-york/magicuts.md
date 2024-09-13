@@ -1,5 +1,5 @@
 ---
 title: "Magicuts"
 url: /north-york/magicuts/
-shop: Friseur
+shop: hairdresser
 ---

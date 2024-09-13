@@ -1,5 +1,5 @@
 ---
 title: "Kibo Market"
 url: /toronto/kibo-market/
-shop: Supermarkt
+shop: supermarket
 ---

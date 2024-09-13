@@ -1,5 +1,5 @@
 ---
 title: "Gravitypope"
 url: /toronto/gravitypope/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Millbrook"
 url: /petawawa/millbrook/
-shop: Kleidung
+shop: clothes
 ---

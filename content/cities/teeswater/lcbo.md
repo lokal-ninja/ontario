@@ -1,5 +1,5 @@
 ---
 title: "LCBO"
 url: /teeswater/lcbo/
-shop: Spirituosen
+shop: alcohol
 ---

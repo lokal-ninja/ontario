@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /burlington/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

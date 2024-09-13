@@ -1,5 +1,5 @@
 ---
 title: "Hakim Optical"
 url: /woodbridge/hakim-optical/
-shop: Optiker
+shop: optician
 ---

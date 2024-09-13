@@ -1,5 +1,5 @@
 ---
 title: "Rowe Farms"
 url: /toronto/rowe-farms/
-shop: Metzgerei
+shop: butcher
 ---

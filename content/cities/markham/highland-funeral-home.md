@@ -1,5 +1,5 @@
 ---
 title: "Highland Funeral Home"
 url: /markham/highland-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

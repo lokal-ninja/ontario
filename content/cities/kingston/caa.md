@@ -1,5 +1,5 @@
 ---
 title: "CAA"
 url: /kingston/caa/
-shop: Reisebüro
+shop: travel agency
 ---

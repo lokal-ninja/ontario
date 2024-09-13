@@ -1,5 +1,5 @@
 ---
 title: "Amazon Hardwood"
 url: /brampton/amazon-hardwood/
-shop: Fußböden
+shop: flooring
 ---

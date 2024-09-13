@@ -1,5 +1,5 @@
 ---
 title: "Belleville Volkswagen"
 url: /belleville/belleville-volkswagen/
-shop: Autohaus
+shop: car
 ---

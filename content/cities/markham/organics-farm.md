@@ -1,5 +1,5 @@
 ---
 title: "Organics Farm"
 url: /markham/organics-farm/
-shop: Hofladen
+shop: farm
 ---

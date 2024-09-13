@@ -1,5 +1,5 @@
 ---
 title: "Olco"
 url: /colborne/olco/
-shop: Lebensmittel
+shop: convenience
 ---

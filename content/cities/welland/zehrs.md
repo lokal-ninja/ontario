@@ -1,5 +1,5 @@
 ---
 title: "Zehrs"
 url: /welland/zehrs/
-shop: Supermarkt
+shop: supermarket
 ---

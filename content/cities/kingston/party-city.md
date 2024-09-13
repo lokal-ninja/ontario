@@ -1,5 +1,5 @@
 ---
 title: "Party City"
 url: /kingston/party-city/
-shop: Partyzubehör
+shop: party
 ---

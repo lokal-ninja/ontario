@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /mchigeeng/shell/
-shop: Dorfladen
+shop: general
 ---

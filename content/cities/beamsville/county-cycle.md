@@ -1,5 +1,5 @@
 ---
 title: "County Cycle"
 url: /beamsville/county-cycle/
-shop: Fahrrad
+shop: bicycle
 ---

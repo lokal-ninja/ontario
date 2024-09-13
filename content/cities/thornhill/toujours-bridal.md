@@ -1,5 +1,5 @@
 ---
 title: "Toujours Bridal"
 url: /thornhill/toujours-bridal/
-shop: Kleidung
+shop: clothes
 ---

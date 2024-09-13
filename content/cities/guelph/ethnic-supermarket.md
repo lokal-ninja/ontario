@@ -1,5 +1,5 @@
 ---
 title: "Ethnic Supermarket"
 url: /guelph/ethnic-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

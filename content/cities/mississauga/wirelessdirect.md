@@ -1,5 +1,5 @@
 ---
 title: "WirelessDirect"
 url: /mississauga/wirelessdirect/
-shop: Handy
+shop: mobile phone
 ---

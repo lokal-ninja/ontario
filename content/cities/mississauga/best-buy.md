@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /mississauga/best-buy/
-shop: Elektronik
+shop: electronics
 ---

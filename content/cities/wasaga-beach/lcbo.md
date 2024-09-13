@@ -1,5 +1,5 @@
 ---
 title: "LCBO"
 url: /wasaga-beach/lcbo/
-shop: Spirituosen
+shop: alcohol
 ---

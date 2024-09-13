@@ -1,5 +1,5 @@
 ---
 title: "Preston travel Centre"
 url: /cambridge/preston-travel-centre/
-shop: Reisebüro
+shop: travel agency
 ---

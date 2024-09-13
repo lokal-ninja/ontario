@@ -1,5 +1,5 @@
 ---
 title: "Beggs Funeral Home Limited"
 url: /thessalon/beggs-funeral-home-limited/
-shop: Bestattungen
+shop: funeral directors
 ---

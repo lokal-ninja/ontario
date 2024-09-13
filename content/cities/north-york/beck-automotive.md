@@ -1,5 +1,5 @@
 ---
 title: "Beck Automotive"
 url: /north-york/beck-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

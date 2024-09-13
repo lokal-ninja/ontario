@@ -1,5 +1,5 @@
 ---
 title: "Moores"
 url: /kingston/moores/
-shop: Kleidung
+shop: clothes
 ---

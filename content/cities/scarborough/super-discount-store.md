@@ -1,5 +1,5 @@
 ---
 title: "Super Discount Store"
 url: /scarborough/super-discount-store/
-shop: Kramladen
+shop: variety store
 ---

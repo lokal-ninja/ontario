@@ -1,5 +1,5 @@
 ---
 title: "Zug Lounge"
 url: /toronto/zug-lounge/
-shop: Videothek
+shop: video
 ---

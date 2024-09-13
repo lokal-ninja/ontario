@@ -1,5 +1,5 @@
 ---
 title: "Ardene"
 url: /toronto/ardene/
-shop: Kleidung
+shop: clothes
 ---

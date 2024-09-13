@@ -1,5 +1,5 @@
 ---
 title: "Georgetown Electric"
 url: /georgetown/georgetown-electric/
-shop: Elektrisch
+shop: electrical
 ---

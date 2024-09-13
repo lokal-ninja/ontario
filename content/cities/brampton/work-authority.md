@@ -1,5 +1,5 @@
 ---
 title: "Work Authority"
 url: /brampton/work-authority/
-shop: Kleidung
+shop: clothes
 ---

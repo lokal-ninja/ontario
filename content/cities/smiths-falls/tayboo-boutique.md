@@ -1,5 +1,5 @@
 ---
 title: "Tayboo Boutique"
 url: /smiths-falls/tayboo-boutique/
-shop: Andenken
+shop: gift
 ---

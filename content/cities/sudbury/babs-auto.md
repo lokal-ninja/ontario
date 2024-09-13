@@ -1,5 +1,5 @@
 ---
 title: "BABS Auto"
 url: /sudbury/babs-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

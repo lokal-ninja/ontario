@@ -1,5 +1,5 @@
 ---
 title: "Oak + Fort"
 url: /toronto/oak-fort/
-shop: Kleidung
+shop: clothes
 ---

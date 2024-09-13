@@ -1,5 +1,5 @@
 ---
 title: "Happy Vacations"
 url: /toronto/happy-vacations/
-shop: Reisebüro
+shop: travel agency
 ---

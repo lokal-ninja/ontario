@@ -1,5 +1,5 @@
 ---
 title: "Pembroke Mall"
 url: /pembroke/pembroke-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

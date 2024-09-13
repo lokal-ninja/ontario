@@ -1,5 +1,5 @@
 ---
 title: "Wellwise"
 url: /kingston/wellwise/
-shop: Sanitätshaus
+shop: medical supply
 ---

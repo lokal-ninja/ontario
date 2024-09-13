@@ -1,5 +1,5 @@
 ---
 title: "Equipfix"
 url: /stayner/equipfix/
-shop: Autowerkstatt
+shop: car repair
 ---

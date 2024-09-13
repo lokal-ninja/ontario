@@ -1,5 +1,5 @@
 ---
 title: "Supermart Convenience"
 url: /toronto/supermart-convenience/
-shop: Lebensmittel
+shop: convenience
 ---

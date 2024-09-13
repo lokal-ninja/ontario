@@ -1,5 +1,5 @@
 ---
 title: "Trailer Hitch Center Ltd"
 url: /london/trailer-hitch-center-ltd/
-shop: Autoteile
+shop: car parts
 ---

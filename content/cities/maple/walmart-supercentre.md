@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercentre"
 url: /maple/walmart-supercentre/
-shop: Supermarkt
+shop: supermarket
 ---

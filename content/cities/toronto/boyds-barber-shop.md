@@ -1,5 +1,5 @@
 ---
 title: "Boyd's barber shop"
 url: /toronto/boyds-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

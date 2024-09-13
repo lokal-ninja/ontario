@@ -1,5 +1,5 @@
 ---
 title: "Spirit Leaf"
 url: /toronto/spirit-leaf/
-shop: Hanf
+shop: cannabis
 ---

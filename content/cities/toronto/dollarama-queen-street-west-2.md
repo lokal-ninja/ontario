@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /toronto/dollarama-queen-street-west-2/
-shop: Kramladen
+shop: variety store
 ---

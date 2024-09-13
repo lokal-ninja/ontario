@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /gravenhurst/shell/
-shop: Lebensmittel
+shop: convenience
 ---

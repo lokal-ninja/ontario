@@ -1,5 +1,5 @@
 ---
 title: "Planet of Sound"
 url: /toronto/planet-of-sound/
-shop: Instrumente
+shop: musical instrument
 ---

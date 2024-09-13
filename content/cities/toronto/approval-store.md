@@ -1,5 +1,5 @@
 ---
 title: "Approval Store"
 url: /toronto/approval-store/
-shop: Autohaus
+shop: car
 ---

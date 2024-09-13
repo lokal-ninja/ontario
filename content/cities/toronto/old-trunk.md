@@ -1,5 +1,5 @@
 ---
 title: "Old Trunk"
 url: /toronto/old-trunk/
-shop: Antiquitäten
+shop: antiques
 ---

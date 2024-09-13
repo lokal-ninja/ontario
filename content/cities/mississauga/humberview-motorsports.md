@@ -1,5 +1,5 @@
 ---
 title: "Humberview Motorsports"
 url: /mississauga/humberview-motorsports/
-shop: Autohaus
+shop: car
 ---

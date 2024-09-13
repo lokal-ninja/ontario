@@ -1,5 +1,5 @@
 ---
 title: "Cliffcrest Unisex Hairstylists"
 url: /scarborough/cliffcrest-unisex-hairstylists/
-shop: Friseur
+shop: hairdresser
 ---

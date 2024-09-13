@@ -1,5 +1,5 @@
 ---
 title: "Village Show Boutique"
 url: /toronto/village-show-boutique/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rona"
 url: /campbellford/rona/
-shop: Baumarkt
+shop: doityourself
 ---

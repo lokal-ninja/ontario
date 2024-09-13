@@ -1,5 +1,5 @@
 ---
 title: "Gotamago"
 url: /east-york/gotamago/
-shop: Schreibwaren
+shop: office supplies
 ---

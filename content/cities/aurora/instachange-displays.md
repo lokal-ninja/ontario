@@ -1,5 +1,5 @@
 ---
 title: "Instachange Displays"
 url: /aurora/instachange-displays/
-shop: Allgemein
+shop: shop
 ---

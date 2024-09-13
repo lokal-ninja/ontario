@@ -1,5 +1,5 @@
 ---
 title: "Take Note"
 url: /toronto/take-note/
-shop: Schreibwaren
+shop: office supplies
 ---

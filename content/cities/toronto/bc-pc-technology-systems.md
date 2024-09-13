@@ -1,5 +1,5 @@
 ---
 title: "BC-PC Technology Systems"
 url: /toronto/bc-pc-technology-systems/
-shop: Elektronik
+shop: electronics
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cannabis Hut"
 url: /mississauga/cannabis-hut/
-shop: Hanf
+shop: cannabis
 ---

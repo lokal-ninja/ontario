@@ -1,5 +1,5 @@
 ---
 title: "Bell"
 url: /scarborough/bell-eglinton-square/
-shop: Handy
+shop: mobile phone
 ---

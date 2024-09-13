@@ -1,5 +1,5 @@
 ---
 title: "Camouflage"
 url: /toronto/camouflage/
-shop: Militär
+shop: military
 ---

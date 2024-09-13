@@ -1,5 +1,5 @@
 ---
 title: "No Frills"
 url: /timmins/no-frills/
-shop: Supermarkt
+shop: supermarket
 ---

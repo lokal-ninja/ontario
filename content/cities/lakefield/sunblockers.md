@@ -1,5 +1,5 @@
 ---
 title: "Sunblockers"
 url: /lakefield/sunblockers/
-shop: Kleidung
+shop: clothes
 ---

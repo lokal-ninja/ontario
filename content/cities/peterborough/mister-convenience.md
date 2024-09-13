@@ -1,5 +1,5 @@
 ---
 title: "Mister Convenience"
 url: /peterborough/mister-convenience/
-shop: Lebensmittel
+shop: convenience
 ---

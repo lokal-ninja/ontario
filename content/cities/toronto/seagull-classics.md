@@ -1,5 +1,5 @@
 ---
 title: "Seagull Classics"
 url: /toronto/seagull-classics/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Red Panda Bike Shop"
 url: /vaughan/red-panda-bike-shop/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Home Hardware"
 url: /lakefield/home-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

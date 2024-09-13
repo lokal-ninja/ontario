@@ -1,5 +1,5 @@
 ---
 title: "Hakim Optical"
 url: /toronto/hakim-optical-bloor-street-west/
-shop: Optiker
+shop: optician
 ---

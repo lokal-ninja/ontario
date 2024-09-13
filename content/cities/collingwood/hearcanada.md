@@ -1,5 +1,5 @@
 ---
 title: "HearCANADA"
 url: /collingwood/hearcanada/
-shop: Hörgeräte
+shop: hearing aids
 ---

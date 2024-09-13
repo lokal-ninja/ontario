@@ -1,5 +1,5 @@
 ---
 title: "La Latina"
 url: /toronto/la-latina/
-shop: Leerstehend
+shop: vacant
 ---

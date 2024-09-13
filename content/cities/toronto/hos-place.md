@@ -1,5 +1,5 @@
 ---
 title: "Ho's Place"
 url: /toronto/hos-place/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Seduction"
 url: /toronto/seduction/
-shop: Erotik
+shop: erotic
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Country Rose Garden Centre"
 url: /haliburton/country-rose-garden-centre/
-shop: Garten-Center
+shop: garden centre
 ---

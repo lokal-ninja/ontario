@@ -1,5 +1,5 @@
 ---
 title: "Nostalgia"
 url: /kearney/nostalgia/
-shop: Antiquitäten
+shop: antiques
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pearle Vision"
 url: /barrie/pearle-vision/
-shop: Optiker
+shop: optician
 ---

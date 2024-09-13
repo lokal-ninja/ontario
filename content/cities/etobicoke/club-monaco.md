@@ -1,5 +1,5 @@
 ---
 title: "Club Monaco"
 url: /etobicoke/club-monaco/
-shop: Kleidung
+shop: clothes
 ---

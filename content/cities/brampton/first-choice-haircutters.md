@@ -1,5 +1,5 @@
 ---
 title: "First Choice Haircutters"
 url: /brampton/first-choice-haircutters/
-shop: Friseur
+shop: hairdresser
 ---

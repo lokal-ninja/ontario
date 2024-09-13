@@ -1,5 +1,5 @@
 ---
 title: "Franklin Empire - Kitchener"
 url: /kitchener/franklin-empire-kitchener/
-shop: Elektrisch
+shop: electrical
 ---

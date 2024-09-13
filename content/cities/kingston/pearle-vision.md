@@ -1,5 +1,5 @@
 ---
 title: "Pearle Vision"
 url: /kingston/pearle-vision/
-shop: Optiker
+shop: optician
 ---

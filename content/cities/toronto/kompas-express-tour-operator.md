@@ -1,5 +1,5 @@
 ---
 title: "Kompas Express Tour Operator"
 url: /toronto/kompas-express-tour-operator/
-shop: Reisebüro
+shop: travel agency
 ---

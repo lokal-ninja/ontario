@@ -1,5 +1,5 @@
 ---
 title: "Bell"
 url: /etobicoke/bell/
-shop: Handy
+shop: mobile phone
 ---

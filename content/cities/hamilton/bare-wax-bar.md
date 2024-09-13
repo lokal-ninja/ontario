@@ -1,5 +1,5 @@
 ---
 title: "Bare Wax Bar"
 url: /hamilton/bare-wax-bar/
-shop: Kosmetik
+shop: beauty
 ---

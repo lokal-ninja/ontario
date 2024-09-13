@@ -1,5 +1,5 @@
 ---
 title: "Telus"
 url: /mississauga/telus/
-shop: Handy
+shop: mobile phone
 ---

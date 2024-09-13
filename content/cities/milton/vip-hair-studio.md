@@ -1,5 +1,5 @@
 ---
 title: "VIP Hair Studio"
 url: /milton/vip-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

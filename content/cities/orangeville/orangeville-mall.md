@@ -1,5 +1,5 @@
 ---
 title: "Orangeville Mall"
 url: /orangeville/orangeville-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

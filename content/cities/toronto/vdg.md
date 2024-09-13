@@ -1,5 +1,5 @@
 ---
 title: "VDG"
 url: /toronto/vdg/
-shop: Autohaus
+shop: car
 ---

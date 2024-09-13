@@ -1,5 +1,5 @@
 ---
 title: "The Healthy Butcher"
 url: /toronto/the-healthy-butcher/
-shop: Metzgerei
+shop: butcher
 ---

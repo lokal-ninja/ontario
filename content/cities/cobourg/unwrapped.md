@@ -1,5 +1,5 @@
 ---
 title: "Unwrapped"
 url: /cobourg/unwrapped/
-shop: Andenken
+shop: gift
 ---

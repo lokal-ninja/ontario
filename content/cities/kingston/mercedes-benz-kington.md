@@ -1,5 +1,5 @@
 ---
 title: "Mercedes-Benz Kington"
 url: /kingston/mercedes-benz-kington/
-shop: Autohaus
+shop: car
 ---

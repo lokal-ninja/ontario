@@ -1,5 +1,5 @@
 ---
 title: "Urban Outfitters"
 url: /toronto/urban-outfitters/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cosmetic World"
 url: /toronto/cosmetic-world/
-shop: Drogerie
+shop: chemist
 ---

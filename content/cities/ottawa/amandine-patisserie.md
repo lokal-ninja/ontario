@@ -1,5 +1,5 @@
 ---
 title: "Amandine Patisserie"
 url: /ottawa/amandine-patisserie/
-shop: Konditorei
+shop: pastry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Capturing Eden"
 url: /minden/capturing-eden/
-shop: Hanf
+shop: cannabis
 ---

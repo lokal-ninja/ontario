@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /ottawa/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

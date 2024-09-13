@@ -1,5 +1,5 @@
 ---
 title: "Greezy's"
 url: /markham/greezys/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

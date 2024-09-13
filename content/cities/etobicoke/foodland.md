@@ -1,5 +1,5 @@
 ---
 title: "Foodland"
 url: /etobicoke/foodland/
-shop: Supermarkt
+shop: supermarket
 ---

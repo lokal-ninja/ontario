@@ -1,5 +1,5 @@
 ---
 title: "Magycolor"
 url: /brampton/magycolor/
-shop: Friseur
+shop: hairdresser
 ---

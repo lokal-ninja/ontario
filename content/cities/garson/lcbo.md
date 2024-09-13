@@ -1,5 +1,5 @@
 ---
 title: "LCBO"
 url: /garson/lcbo/
-shop: Spirituosen
+shop: alcohol
 ---

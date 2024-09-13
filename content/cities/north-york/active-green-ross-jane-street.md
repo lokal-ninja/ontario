@@ -1,5 +1,5 @@
 ---
 title: "Active Green + Ross"
 url: /north-york/active-green-ross-jane-street/
-shop: Autowerkstatt
+shop: car repair
 ---

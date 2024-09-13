@@ -1,5 +1,5 @@
 ---
 title: "Vape Time Canada"
 url: /north-york/vape-time-canada/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Knifewear"
 url: /toronto/knifewear/
-shop: Küchen
+shop: kitchen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mark's"
 url: /mississauga/marks/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Schur's Automotive Repairs"
 url: /smiths-falls/schurs-automotive-repairs/
-shop: Autowerkstatt
+shop: car repair
 ---

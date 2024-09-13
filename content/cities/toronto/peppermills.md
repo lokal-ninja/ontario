@@ -1,5 +1,5 @@
 ---
 title: "Peppermills"
 url: /toronto/peppermills/
-shop: Haushaltsartikel
+shop: houseware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "James Perse"
 url: /toronto/james-perse/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hilti"
 url: /toronto/hilti/
-shop: Eisenwaren
+shop: hardware
 ---

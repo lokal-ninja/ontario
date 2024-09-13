@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /barrie/great-clips/
-shop: Friseur
+shop: hairdresser
 ---

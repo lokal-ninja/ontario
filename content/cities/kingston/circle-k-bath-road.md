@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /kingston/circle-k-bath-road/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "bungalow west"
 url: /toronto/bungalow-west/
-shop: Kleidung
+shop: clothes
 ---

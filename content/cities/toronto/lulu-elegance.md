@@ -1,5 +1,5 @@
 ---
 title: "Lulu Elegance"
 url: /toronto/lulu-elegance/
-shop: Friseur
+shop: hairdresser
 ---

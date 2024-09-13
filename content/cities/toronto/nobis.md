@@ -1,5 +1,5 @@
 ---
 title: "Nobis"
 url: /toronto/nobis/
-shop: Kleidung
+shop: clothes
 ---

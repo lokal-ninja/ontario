@@ -1,5 +1,5 @@
 ---
 title: "Average"
 url: /toronto/average/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tech Source"
 url: /toronto/tech-source/
-shop: Computer
+shop: computer
 ---

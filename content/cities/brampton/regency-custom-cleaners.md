@@ -1,5 +1,5 @@
 ---
 title: "Regency Custom Cleaners"
 url: /brampton/regency-custom-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

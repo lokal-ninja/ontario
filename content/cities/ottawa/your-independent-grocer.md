@@ -1,5 +1,5 @@
 ---
 title: "Your Independent Grocer"
 url: /ottawa/your-independent-grocer/
-shop: Supermarkt
+shop: supermarket
 ---

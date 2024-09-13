@@ -1,5 +1,5 @@
 ---
 title: "Flower Company"
 url: /etobicoke/flower-company/
-shop: Blumen
+shop: florist
 ---

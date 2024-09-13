@@ -1,5 +1,5 @@
 ---
 title: "Dollar X-press"
 url: /etobicoke/dollar-x-press/
-shop: Leerstehend
+shop: vacant
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Steeles Bakery"
 url: /north-york/steeles-bakery/
-shop: Bäckerei
+shop: bakery
 ---

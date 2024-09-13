@@ -1,5 +1,5 @@
 ---
 title: "Auto Kollision Works"
 url: /toronto/auto-kollision-works/
-shop: Autowerkstatt
+shop: car repair
 ---

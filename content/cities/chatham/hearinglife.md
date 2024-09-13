@@ -1,5 +1,5 @@
 ---
 title: "HearingLife"
 url: /chatham/hearinglife/
-shop: Hörgeräte
+shop: hearing aids
 ---

@@ -1,5 +1,5 @@
 ---
 title: "New Age Health Food"
 url: /guelph/new-age-health-food/
-shop: Bioladen
+shop: health food
 ---

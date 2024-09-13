@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /clarington/dollarama/
-shop: Kramladen
+shop: variety store
 ---

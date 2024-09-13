@@ -1,5 +1,5 @@
 ---
 title: "Shanti Baba"
 url: /toronto/shanti-baba/
-shop: Andenken
+shop: gift
 ---

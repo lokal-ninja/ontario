@@ -1,5 +1,5 @@
 ---
 title: "Francis"
 url: /sudbury/francis/
-shop: Autowerkstatt
+shop: car repair
 ---

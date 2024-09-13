@@ -1,5 +1,5 @@
 ---
 title: "The Barber Shop"
 url: /sudbury/the-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

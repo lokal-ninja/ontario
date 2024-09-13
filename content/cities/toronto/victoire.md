@@ -1,5 +1,5 @@
 ---
 title: "Victoire"
 url: /toronto/victoire/
-shop: Kleidung
+shop: clothes
 ---

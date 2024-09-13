@@ -1,5 +1,5 @@
 ---
 title: "Kingston School of Art"
 url: /kingston/kingston-school-of-art/
-shop: Kunst
+shop: art
 ---

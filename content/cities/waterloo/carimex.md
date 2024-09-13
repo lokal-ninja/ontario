@@ -1,5 +1,5 @@
 ---
 title: "Carimex"
 url: /waterloo/carimex/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kennedy Square Mall"
 url: /brampton/kennedy-square-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

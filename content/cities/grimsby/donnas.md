@@ -1,5 +1,5 @@
 ---
 title: "Donna's"
 url: /grimsby/donnas/
-shop: Kleidung
+shop: clothes
 ---

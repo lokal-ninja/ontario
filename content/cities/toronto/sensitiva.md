@@ -1,5 +1,5 @@
 ---
 title: "Sensitiva"
 url: /toronto/sensitiva/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

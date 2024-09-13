@@ -1,5 +1,5 @@
 ---
 title: "Starbucks"
 url: /toronto/starbucks-eglinton-avenue-east/
-shop: Leerstehend
+shop: vacant
 ---

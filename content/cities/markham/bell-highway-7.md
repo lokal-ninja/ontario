@@ -1,5 +1,5 @@
 ---
 title: "Bell"
 url: /markham/bell-highway-7/
-shop: Handy
+shop: mobile phone
 ---

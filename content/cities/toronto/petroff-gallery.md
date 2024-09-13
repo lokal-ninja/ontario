@@ -1,5 +1,5 @@
 ---
 title: "Petroff Gallery"
 url: /toronto/petroff-gallery/
-shop: Kunst
+shop: art
 ---

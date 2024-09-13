@@ -1,5 +1,5 @@
 ---
 title: "Hudson's Bay"
 url: /toronto/hudsons-bay/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Active Green + Ross"
 url: /mississauga/active-green-ross-eglinton-avenue-east/
-shop: Autowerkstatt
+shop: car repair
 ---

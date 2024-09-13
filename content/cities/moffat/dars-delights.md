@@ -1,5 +1,5 @@
 ---
 title: "Dar's Delights"
 url: /moffat/dars-delights/
-shop: Bäckerei
+shop: bakery
 ---

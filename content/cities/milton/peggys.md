@@ -1,5 +1,5 @@
 ---
 title: "Peggy's"
 url: /milton/peggys/
-shop: Kleidung
+shop: clothes
 ---

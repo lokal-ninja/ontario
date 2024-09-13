@@ -1,5 +1,5 @@
 ---
 title: "Upper Cut"
 url: /brampton/upper-cut/
-shop: Friseur
+shop: hairdresser
 ---

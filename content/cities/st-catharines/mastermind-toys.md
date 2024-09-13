@@ -1,5 +1,5 @@
 ---
 title: "Mastermind Toys"
 url: /st-catharines/mastermind-toys/
-shop: Spielzeug
+shop: toys
 ---

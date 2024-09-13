@@ -1,5 +1,5 @@
 ---
 title: "Haircrafters"
 url: /hamilton/haircrafters/
-shop: Friseur
+shop: hairdresser
 ---

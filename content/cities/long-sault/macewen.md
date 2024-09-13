@@ -1,5 +1,5 @@
 ---
 title: "MacEwen"
 url: /long-sault/macewen/
-shop: Lebensmittel
+shop: convenience
 ---

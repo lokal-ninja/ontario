@@ -1,5 +1,5 @@
 ---
 title: "reBOOT Peterborough"
 url: /peterbrough/reboot-peterborough/
-shop: Computer
+shop: computer
 ---

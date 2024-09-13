@@ -1,5 +1,5 @@
 ---
 title: "GR Pools"
 url: /maple/gr-pools/
-shop: Pool
+shop: swimming pool
 ---

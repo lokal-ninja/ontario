@@ -1,5 +1,5 @@
 ---
 title: "IVM Optical"
 url: /brampton/ivm-optical/
-shop: Optiker
+shop: optician
 ---

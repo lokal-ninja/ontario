@@ -1,5 +1,5 @@
 ---
 title: "Ossington Self Storage"
 url: /toronto/ossington-self-storage/
-shop: Mieten
+shop: storage rental
 ---

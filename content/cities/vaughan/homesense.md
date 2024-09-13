@@ -1,5 +1,5 @@
 ---
 title: "HomeSense"
 url: /vaughan/homesense/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Deer Park Auto Service"
 url: /toronto/deer-park-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

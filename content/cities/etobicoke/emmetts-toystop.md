@@ -1,5 +1,5 @@
 ---
 title: "Emmett's ToyStop"
 url: /etobicoke/emmetts-toystop/
-shop: Leerstehend
+shop: vacant
 ---

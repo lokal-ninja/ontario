@@ -1,5 +1,5 @@
 ---
 title: "Rabba"
 url: /toronto/rabba-wellesley-street-west/
-shop: Lebensmittel
+shop: convenience
 ---

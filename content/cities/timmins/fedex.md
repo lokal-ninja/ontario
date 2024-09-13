@@ -1,5 +1,5 @@
 ---
 title: "FedEx"
 url: /timmins/fedex/
-shop: Kopieren
+shop: copyshop
 ---

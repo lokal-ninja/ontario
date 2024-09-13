@@ -1,5 +1,5 @@
 ---
 title: "The Art Shop"
 url: /lakefield/the-art-shop/
-shop: Rahmen
+shop: frame
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Henry's"
 url: /burlington/henrys/
-shop: Foto
+shop: photo
 ---

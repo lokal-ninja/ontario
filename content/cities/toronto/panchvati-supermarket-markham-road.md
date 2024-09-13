@@ -1,5 +1,5 @@
 ---
 title: "Panchvati Supermarket"
 url: /toronto/panchvati-supermarket-markham-road/
-shop: Supermarkt
+shop: supermarket
 ---

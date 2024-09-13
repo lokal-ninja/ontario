@@ -1,5 +1,5 @@
 ---
 title: "Expedia Cruises"
 url: /toronto/expedia-cruises/
-shop: Reisebüro
+shop: travel agency
 ---

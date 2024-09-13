@@ -1,5 +1,5 @@
 ---
 title: "Vinegar Syndrome"
 url: /toronto/vinegar-syndrome/
-shop: Videothek
+shop: video
 ---

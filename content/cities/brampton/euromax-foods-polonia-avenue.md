@@ -1,5 +1,5 @@
 ---
 title: "EuroMax Foods"
 url: /brampton/euromax-foods-polonia-avenue/
-shop: Supermarkt
+shop: supermarket
 ---

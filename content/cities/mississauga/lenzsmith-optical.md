@@ -1,5 +1,5 @@
 ---
 title: "Lenzsmith Optical"
 url: /mississauga/lenzsmith-optical/
-shop: Optiker
+shop: optician
 ---

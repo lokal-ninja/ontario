@@ -1,5 +1,5 @@
 ---
 title: "Meaford IDA Pharmacy"
 url: /meaford/meaford-ida-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rainbow Florist"
 url: /toronto/rainbow-florist/
-shop: Blumen
+shop: florist
 ---

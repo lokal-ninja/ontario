@@ -1,5 +1,5 @@
 ---
 title: "Exotic Woods"
 url: /burlington/exotic-woods/
-shop: Eisenwaren
+shop: hardware
 ---

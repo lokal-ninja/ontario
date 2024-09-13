@@ -1,5 +1,5 @@
 ---
 title: "Avenue Nissan"
 url: /north-york/avenue-nissan/
-shop: Autohaus
+shop: car
 ---

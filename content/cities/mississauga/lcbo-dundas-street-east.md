@@ -1,5 +1,5 @@
 ---
 title: "LCBO"
 url: /mississauga/lcbo-dundas-street-east/
-shop: Spirituosen
+shop: alcohol
 ---

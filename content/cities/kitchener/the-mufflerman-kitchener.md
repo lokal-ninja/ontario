@@ -1,5 +1,5 @@
 ---
 title: "The Mufflerman - Kitchener"
 url: /kitchener/the-mufflerman-kitchener/
-shop: Autowerkstatt
+shop: car repair
 ---

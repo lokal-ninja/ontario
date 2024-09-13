@@ -1,5 +1,5 @@
 ---
 title: "Norval Convenience"
 url: /norval/norval-convenience/
-shop: Lebensmittel
+shop: convenience
 ---

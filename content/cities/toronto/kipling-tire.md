@@ -1,5 +1,5 @@
 ---
 title: "Kipling Tire"
 url: /toronto/kipling-tire/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Mufflerman - London East"
 url: /london/the-mufflerman-london-east/
-shop: Autowerkstatt
+shop: car repair
 ---

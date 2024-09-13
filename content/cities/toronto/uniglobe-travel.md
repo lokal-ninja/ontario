@@ -1,5 +1,5 @@
 ---
 title: "Uniglobe Travel"
 url: /toronto/uniglobe-travel/
-shop: Reisebüro
+shop: travel agency
 ---

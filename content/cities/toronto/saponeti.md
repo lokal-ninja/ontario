@@ -1,5 +1,5 @@
 ---
 title: "Saponeti"
 url: /toronto/saponeti/
-shop: Lebensmittel
+shop: convenience
 ---

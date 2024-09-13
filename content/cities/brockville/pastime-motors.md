@@ -1,5 +1,5 @@
 ---
 title: "Pastime Motors"
 url: /brockville/pastime-motors/
-shop: Autohaus
+shop: car
 ---

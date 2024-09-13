@@ -1,5 +1,5 @@
 ---
 title: "Hasty Market"
 url: /welland/hasty-market/
-shop: Lebensmittel
+shop: convenience
 ---

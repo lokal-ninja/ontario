@@ -1,5 +1,5 @@
 ---
 title: "Clearview Optometry"
 url: /kingston/clearview-optometry/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eweknit"
 url: /toronto/eweknit/
-shop: Wolle
+shop: wool
 ---

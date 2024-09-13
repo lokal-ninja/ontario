@@ -1,5 +1,5 @@
 ---
 title: "Vacuum King"
 url: /toronto/vacuum-king/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Creator's Choice Indigenous Dispensary"
 url: /capreol/creators-choice-indigenous-dispensary/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "City Optical"
 url: /toronto/city-optical-roncesvalles-avenue/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Main Cycle"
 url: /hamilton/main-cycle/
-shop: Fahrrad
+shop: bicycle
 ---

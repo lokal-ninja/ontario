@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /kingston/dollar-tree-bath-road/
-shop: Kramladen
+shop: variety store
 ---

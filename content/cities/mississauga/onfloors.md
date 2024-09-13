@@ -1,5 +1,5 @@
 ---
 title: "OnFloors"
 url: /mississauga/onfloors/
-shop: Fußböden
+shop: flooring
 ---

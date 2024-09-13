@@ -1,5 +1,5 @@
 ---
 title: "Macro Foods"
 url: /chatham/macro-foods/
-shop: Bioladen
+shop: health food
 ---

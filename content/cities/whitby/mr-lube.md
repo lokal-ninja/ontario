@@ -1,5 +1,5 @@
 ---
 title: "Mr. Lube"
 url: /whitby/mr-lube/
-shop: Autowerkstatt
+shop: car repair
 ---

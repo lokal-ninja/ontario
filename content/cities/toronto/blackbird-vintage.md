@@ -1,5 +1,5 @@
 ---
 title: "Blackbird Vintage"
 url: /toronto/blackbird-vintage/
-shop: Kleidung
+shop: clothes
 ---

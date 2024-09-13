@@ -1,5 +1,5 @@
 ---
 title: "King West Flowers"
 url: /toronto/king-west-flowers/
-shop: Blumen
+shop: florist
 ---

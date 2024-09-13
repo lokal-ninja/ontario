@@ -1,5 +1,5 @@
 ---
 title: "Lorne Park Variety"
 url: /mississauga/lorne-park-variety/
-shop: Lebensmittel
+shop: convenience
 ---

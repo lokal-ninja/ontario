@@ -1,5 +1,5 @@
 ---
 title: "Rona+"
 url: /burlington/rona/
-shop: Baumarkt
+shop: doityourself
 ---

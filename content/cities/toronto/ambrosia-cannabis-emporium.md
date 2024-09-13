@@ -1,5 +1,5 @@
 ---
 title: "Ambrosia Cannabis Emporium"
 url: /toronto/ambrosia-cannabis-emporium/
-shop: Hanf
+shop: cannabis
 ---

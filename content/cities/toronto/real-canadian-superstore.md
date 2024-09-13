@@ -1,5 +1,5 @@
 ---
 title: "Real Canadian Superstore"
 url: /toronto/real-canadian-superstore/
-shop: Supermarkt
+shop: supermarket
 ---

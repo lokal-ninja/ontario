@@ -1,5 +1,5 @@
 ---
 title: "Telus"
 url: /hamilton/telus/
-shop: Handy
+shop: mobile phone
 ---

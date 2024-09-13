@@ -1,5 +1,5 @@
 ---
 title: "Sago Travel"
 url: /hamilton/sago-travel/
-shop: Reisebüro
+shop: travel agency
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Georgetown Market Place"
 url: /georgetown/georgetown-market-place/
-shop: Einkaufszentrum
+shop: mall
 ---

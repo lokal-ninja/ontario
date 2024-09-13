@@ -1,5 +1,5 @@
 ---
 title: "ZuZu Fashion Botique"
 url: /barrie/zuzu-fashion-botique/
-shop: Kleidung
+shop: clothes
 ---

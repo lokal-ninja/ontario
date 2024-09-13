@@ -1,5 +1,5 @@
 ---
 title: "Tridel"
 url: /etobicoke/tridel/
-shop: Allgemein
+shop: shop
 ---

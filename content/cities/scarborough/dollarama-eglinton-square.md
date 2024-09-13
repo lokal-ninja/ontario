@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /scarborough/dollarama-eglinton-square/
-shop: Kramladen
+shop: variety store
 ---

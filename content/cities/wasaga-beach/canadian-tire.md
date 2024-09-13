@@ -1,5 +1,5 @@
 ---
 title: "Canadian Tire"
 url: /wasaga-beach/canadian-tire/
-shop: Warenhaus
+shop: department store
 ---

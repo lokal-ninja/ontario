@@ -1,5 +1,5 @@
 ---
 title: "Bobby's Liquidation Outlet"
 url: /markham/bobbys-liquidation-outlet/
-shop: Warenhaus
+shop: department store
 ---

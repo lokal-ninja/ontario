@@ -1,5 +1,5 @@
 ---
 title: "BBC Convenience"
 url: /port-hope/bbc-convenience/
-shop: Lebensmittel
+shop: convenience
 ---

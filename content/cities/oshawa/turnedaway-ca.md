@@ -1,5 +1,5 @@
 ---
 title: "Turnedaway.ca"
 url: /oshawa/turnedaway-ca/
-shop: Leiher
+shop: pawnbroker
 ---

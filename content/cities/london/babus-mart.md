@@ -1,5 +1,5 @@
 ---
 title: "Babu's Mart"
 url: /london/babus-mart/
-shop: Lebensmittel
+shop: convenience
 ---

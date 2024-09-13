@@ -1,5 +1,5 @@
 ---
 title: "Moores"
 url: /hamilton/moores/
-shop: Kleidung
+shop: clothes
 ---

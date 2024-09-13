@@ -1,5 +1,5 @@
 ---
 title: "Lids"
 url: /mississauga/lids/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hon Tattoo Studio - Vaughan"
 url: /vaughan/hon-tattoo-studio-vaughan/
-shop: Tattoo
+shop: tattoo
 ---

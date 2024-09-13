@@ -1,5 +1,5 @@
 ---
 title: "Neuman Family Funeral Home"
 url: /bancroft/neuman-family-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

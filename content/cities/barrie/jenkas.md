@@ -1,5 +1,5 @@
 ---
 title: "Jenka's"
 url: /barrie/jenkas/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bell"
 url: /toronto/bell-dufferin-street/
-shop: Handy
+shop: mobile phone
 ---

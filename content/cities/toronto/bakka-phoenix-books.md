@@ -1,5 +1,5 @@
 ---
 title: "Bakka-Phoenix Books"
 url: /toronto/bakka-phoenix-books/
-shop: Bücher
+shop: books
 ---

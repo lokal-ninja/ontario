@@ -1,5 +1,5 @@
 ---
 title: "Spirit Halloween"
 url: /mississauga/spirit-halloween/
-shop: Partyzubehör
+shop: party
 ---

@@ -1,5 +1,5 @@
 ---
 title: "LCBO"
 url: /toronto/lcbo-dupont-street-2/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hudson"
 url: /toronto/hudson/
-shop: Lebensmittel
+shop: convenience
 ---

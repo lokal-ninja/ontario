@@ -1,5 +1,5 @@
 ---
 title: "PartSource"
 url: /markham/partsource/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rona+"
 url: /mississauga/rona/
-shop: Baumarkt
+shop: doityourself
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Senlac Convenience"
 url: /north-york/senlac-convenience/
-shop: Lebensmittel
+shop: convenience
 ---

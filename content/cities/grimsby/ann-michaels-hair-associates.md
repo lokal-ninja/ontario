@@ -1,5 +1,5 @@
 ---
 title: "Ann Michaels Hair Associates"
 url: /grimsby/ann-michaels-hair-associates/
-shop: Friseur
+shop: hairdresser
 ---

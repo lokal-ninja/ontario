@@ -1,5 +1,5 @@
 ---
 title: "The Shoe Box"
 url: /grimsby/the-shoe-box/
-shop: Schuhe
+shop: shoes
 ---

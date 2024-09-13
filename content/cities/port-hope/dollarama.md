@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /port-hope/dollarama/
-shop: Kramladen
+shop: variety store
 ---

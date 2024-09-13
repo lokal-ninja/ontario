@@ -1,5 +1,5 @@
 ---
 title: "Woodmount Variety"
 url: /east-york/woodmount-variety/
-shop: Lebensmittel
+shop: convenience
 ---

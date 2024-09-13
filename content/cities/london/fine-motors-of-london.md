@@ -1,5 +1,5 @@
 ---
 title: "Fine Motors of London"
 url: /london/fine-motors-of-london/
-shop: Autohaus
+shop: car
 ---

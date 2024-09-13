@@ -1,5 +1,5 @@
 ---
 title: "RSA Auto Parts"
 url: /angus/rsa-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

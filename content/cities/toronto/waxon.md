@@ -1,5 +1,5 @@
 ---
 title: "WaxOn"
 url: /toronto/waxon/
-shop: Kosmetik
+shop: beauty
 ---

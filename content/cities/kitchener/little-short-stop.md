@@ -1,5 +1,5 @@
 ---
 title: "Little Short Stop"
 url: /kitchener/little-short-stop/
-shop: Lebensmittel
+shop: convenience
 ---

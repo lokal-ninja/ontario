@@ -1,5 +1,5 @@
 ---
 title: "Smeler Meats"
 url: /cayuga/smeler-meats/
-shop: Metzgerei
+shop: butcher
 ---

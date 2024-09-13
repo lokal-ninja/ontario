@@ -1,5 +1,5 @@
 ---
 title: "Fido"
 url: /barrie/fido/
-shop: Handy
+shop: mobile phone
 ---

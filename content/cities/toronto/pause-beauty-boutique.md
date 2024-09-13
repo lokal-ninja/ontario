@@ -1,5 +1,5 @@
 ---
 title: "Pause Beauty Boutique"
 url: /toronto/pause-beauty-boutique/
-shop: Kosmetik
+shop: beauty
 ---

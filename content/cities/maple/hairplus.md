@@ -1,5 +1,5 @@
 ---
 title: "Hairplus"
 url: /maple/hairplus/
-shop: Friseur
+shop: hairdresser
 ---

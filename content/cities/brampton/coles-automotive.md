@@ -1,5 +1,5 @@
 ---
 title: "Cole's Automotive"
 url: /brampton/coles-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

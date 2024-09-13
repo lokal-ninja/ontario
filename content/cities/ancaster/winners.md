@@ -1,5 +1,5 @@
 ---
 title: "Winners"
 url: /ancaster/winners/
-shop: Warenhaus
+shop: department store
 ---

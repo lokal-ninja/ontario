@@ -1,5 +1,5 @@
 ---
 title: "Annex"
 url: /bracebridge/annex/
-shop: Kunst
+shop: art
 ---

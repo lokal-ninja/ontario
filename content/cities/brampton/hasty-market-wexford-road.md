@@ -1,5 +1,5 @@
 ---
 title: "Hasty Market"
 url: /brampton/hasty-market-wexford-road/
-shop: Lebensmittel
+shop: convenience
 ---

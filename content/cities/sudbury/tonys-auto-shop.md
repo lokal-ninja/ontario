@@ -1,5 +1,5 @@
 ---
 title: "Tony's Auto Shop"
 url: /sudbury/tonys-auto-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

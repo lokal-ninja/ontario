@@ -1,5 +1,5 @@
 ---
 title: "jusil Convenience"
 url: /toronto/jusil-convenience/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Giggles"
 url: /kingston/giggles/
-shop: Hanf
+shop: cannabis
 ---

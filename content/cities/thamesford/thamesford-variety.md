@@ -1,5 +1,5 @@
 ---
 title: "Thamesford Variety"
 url: /thamesford/thamesford-variety/
-shop: Lebensmittel
+shop: convenience
 ---

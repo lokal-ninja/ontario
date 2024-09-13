@@ -1,5 +1,5 @@
 ---
 title: "The Pasta Shoppe"
 url: /bracebridge/the-pasta-shoppe/
-shop: Bäckerei
+shop: bakery
 ---

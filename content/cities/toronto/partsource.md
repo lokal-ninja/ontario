@@ -1,5 +1,5 @@
 ---
 title: "PartSource"
 url: /toronto/partsource/
-shop: Autoteile
+shop: car parts
 ---

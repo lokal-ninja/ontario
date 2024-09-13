@@ -1,5 +1,5 @@
 ---
 title: "Minden Subaru"
 url: /minden/minden-subaru/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hollister"
 url: /north-york/hollister/
-shop: Kleidung
+shop: clothes
 ---

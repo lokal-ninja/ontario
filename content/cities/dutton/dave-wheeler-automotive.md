@@ -1,5 +1,5 @@
 ---
 title: "Dave Wheeler Automotive"
 url: /dutton/dave-wheeler-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

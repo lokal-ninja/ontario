@@ -1,5 +1,5 @@
 ---
 title: "Roy-Al Rentals Limited"
 url: /guelph/roy-al-rentals-limited/
-shop: Werkzeuge
+shop: tools
 ---

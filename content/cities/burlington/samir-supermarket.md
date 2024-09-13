@@ -1,5 +1,5 @@
 ---
 title: "Samir Supermarket"
 url: /burlington/samir-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

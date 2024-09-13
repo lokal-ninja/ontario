@@ -1,5 +1,5 @@
 ---
 title: "Aritzia"
 url: /toronto/aritzia/
-shop: Kleidung
+shop: clothes
 ---

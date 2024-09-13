@@ -1,5 +1,5 @@
 ---
 title: "Popular Nails"
 url: /guelph/popular-nails/
-shop: Kosmetik
+shop: beauty
 ---

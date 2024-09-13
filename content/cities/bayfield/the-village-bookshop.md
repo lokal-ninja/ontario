@@ -1,5 +1,5 @@
 ---
 title: "The Village Bookshop"
 url: /bayfield/the-village-bookshop/
-shop: Bücher
+shop: books
 ---

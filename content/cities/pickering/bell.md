@@ -1,5 +1,5 @@
 ---
 title: "Bell"
 url: /pickering/bell/
-shop: Handy
+shop: mobile phone
 ---

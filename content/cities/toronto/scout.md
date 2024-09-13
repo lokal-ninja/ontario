@@ -1,5 +1,5 @@
 ---
 title: "Scout"
 url: /toronto/scout/
-shop: Andenken
+shop: gift
 ---

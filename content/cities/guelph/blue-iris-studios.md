@@ -1,5 +1,5 @@
 ---
 title: "Blue Iris Studios"
 url: /guelph/blue-iris-studios/
-shop: Schmuck
+shop: jewelry
 ---

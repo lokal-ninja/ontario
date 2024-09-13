@@ -1,5 +1,5 @@
 ---
 title: "Convenience K"
 url: /toronto/convenience-k/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "First Auto Group"
 url: /toronto/first-auto-group/
-shop: Autohaus
+shop: car
 ---

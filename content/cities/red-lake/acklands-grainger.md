@@ -1,5 +1,5 @@
 ---
 title: "Acklands Grainger"
 url: /red-lake/acklands-grainger/
-shop: Eisenwaren
+shop: hardware
 ---

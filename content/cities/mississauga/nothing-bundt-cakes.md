@@ -1,5 +1,5 @@
 ---
 title: "Nothing Bundt Cakes"
 url: /mississauga/nothing-bundt-cakes/
-shop: Konditorei
+shop: pastry
 ---

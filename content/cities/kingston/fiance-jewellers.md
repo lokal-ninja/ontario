@@ -1,5 +1,5 @@
 ---
 title: "Fiance Jewellers"
 url: /kingston/fiance-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

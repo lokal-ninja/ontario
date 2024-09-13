@@ -1,5 +1,5 @@
 ---
 title: "Beckers Convenience"
 url: /burlington/beckers-convenience/
-shop: Lebensmittel
+shop: convenience
 ---

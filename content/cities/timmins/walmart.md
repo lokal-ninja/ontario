@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /timmins/walmart/
-shop: Warenhaus
+shop: department store
 ---

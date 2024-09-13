@@ -1,5 +1,5 @@
 ---
 title: "Canadian Tire"
 url: /richmond-hill/canadian-tire/
-shop: Warenhaus
+shop: department store
 ---

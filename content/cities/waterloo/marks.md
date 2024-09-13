@@ -1,5 +1,5 @@
 ---
 title: "Mark's"
 url: /waterloo/marks/
-shop: Kleidung
+shop: clothes
 ---

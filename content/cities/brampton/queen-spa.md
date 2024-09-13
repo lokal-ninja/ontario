@@ -1,5 +1,5 @@
 ---
 title: "Queen Spa"
 url: /brampton/queen-spa/
-shop: Kosmetik
+shop: beauty
 ---

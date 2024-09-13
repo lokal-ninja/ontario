@@ -1,5 +1,5 @@
 ---
 title: "Thrifty's"
 url: /smiths-falls/thriftys/
-shop: Kleidung
+shop: clothes
 ---

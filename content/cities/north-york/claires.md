@@ -1,5 +1,5 @@
 ---
 title: "claire's"
 url: /north-york/claires/
-shop: Modehaus
+shop: boutique
 ---

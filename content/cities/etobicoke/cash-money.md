@@ -1,5 +1,5 @@
 ---
 title: "Cash Money"
 url: /etobicoke/cash-money/
-shop: Leiher
+shop: pawnbroker
 ---

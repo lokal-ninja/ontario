@@ -1,5 +1,5 @@
 ---
 title: "Esso"
 url: /bayfield/esso/
-shop: Autowerkstatt
+shop: car repair
 ---

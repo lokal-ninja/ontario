@@ -1,5 +1,5 @@
 ---
 title: "FATE"
 url: /essex/fate/
-shop: Andenken
+shop: gift
 ---

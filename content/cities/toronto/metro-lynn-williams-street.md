@@ -1,5 +1,5 @@
 ---
 title: "Metro"
 url: /toronto/metro-lynn-williams-street/
-shop: Supermarkt
+shop: supermarket
 ---

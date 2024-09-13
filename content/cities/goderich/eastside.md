@@ -1,5 +1,5 @@
 ---
 title: "Eastside"
 url: /goderich/eastside/
-shop: Autowerkstatt
+shop: car repair
 ---

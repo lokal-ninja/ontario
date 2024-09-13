@@ -1,5 +1,5 @@
 ---
 title: "Food Plus Market"
 url: /toronto/food-plus-market/
-shop: Lebensmittel
+shop: convenience
 ---

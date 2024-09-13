@@ -1,5 +1,5 @@
 ---
 title: "Travel Expressions Ltd"
 url: /london/travel-expressions-ltd/
-shop: Reisebüro
+shop: travel agency
 ---

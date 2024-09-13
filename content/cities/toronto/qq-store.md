@@ -1,5 +1,5 @@
 ---
 title: "QQ Store"
 url: /toronto/qq-store/
-shop: Lebensmittel
+shop: convenience
 ---

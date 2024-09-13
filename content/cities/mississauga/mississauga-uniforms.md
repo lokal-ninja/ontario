@@ -1,5 +1,5 @@
 ---
 title: "Mississauga Uniforms"
 url: /mississauga/mississauga-uniforms/
-shop: Kleidung
+shop: clothes
 ---

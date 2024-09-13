@@ -1,5 +1,5 @@
 ---
 title: "Golden Grains Bakery"
 url: /brampton/golden-grains-bakery/
-shop: Bäckerei
+shop: bakery
 ---

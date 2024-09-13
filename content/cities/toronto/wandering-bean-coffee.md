@@ -1,5 +1,5 @@
 ---
 title: "Wandering Bean Coffee"
 url: /toronto/wandering-bean-coffee/
-shop: Kaffee
+shop: coffee
 ---

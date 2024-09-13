@@ -1,5 +1,5 @@
 ---
 title: "Pet Valu"
 url: /gananoque/pet-valu/
-shop: Tiere
+shop: pet
 ---

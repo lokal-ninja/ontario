@@ -1,5 +1,5 @@
 ---
 title: "Massage Matters"
 url: /toronto/massage-matters/
-shop: Massage
+shop: massage
 ---

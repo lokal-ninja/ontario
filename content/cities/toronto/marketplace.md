@@ -1,5 +1,5 @@
 ---
 title: "Marketplace"
 url: /toronto/marketplace/
-shop: Supermarkt
+shop: supermarket
 ---

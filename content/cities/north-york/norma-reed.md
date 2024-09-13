@@ -1,5 +1,5 @@
 ---
 title: "Norma Reed"
 url: /north-york/norma-reed/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Canoe Lake Store"
 url: /dwight/canoe-lake-store/
-shop: Outdoor
+shop: outdoor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Century Drapery"
 url: /concord/century-drapery/
-shop: Gardinen
+shop: curtain
 ---

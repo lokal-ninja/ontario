@@ -1,5 +1,5 @@
 ---
 title: "Cartridge City"
 url: /etobicoke/cartridge-city/
-shop: Elektronik
+shop: electronics
 ---

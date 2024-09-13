@@ -1,5 +1,5 @@
 ---
 title: "PrintPop"
 url: /toronto/printpop/
-shop: Kopieren
+shop: copyshop
 ---

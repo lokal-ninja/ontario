@@ -1,5 +1,5 @@
 ---
 title: "Bluebird Self Storage"
 url: /toronto/bluebird-self-storage/
-shop: Mieten
+shop: storage rental
 ---

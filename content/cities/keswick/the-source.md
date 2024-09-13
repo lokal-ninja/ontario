@@ -1,5 +1,5 @@
 ---
 title: "The Source"
 url: /keswick/the-source/
-shop: Elektronik
+shop: electronics
 ---

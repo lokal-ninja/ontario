@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /toronto/staples-dufferin-street/
-shop: Schreibwaren
+shop: office supplies
 ---

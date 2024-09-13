@@ -1,5 +1,5 @@
 ---
 title: "Speedy"
 url: /newmarket/speedy/
-shop: Autowerkstatt
+shop: car repair
 ---

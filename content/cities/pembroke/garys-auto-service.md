@@ -1,5 +1,5 @@
 ---
 title: "Gary's Auto Service"
 url: /pembroke/garys-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

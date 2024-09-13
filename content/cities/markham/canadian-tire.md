@@ -1,5 +1,5 @@
 ---
 title: "Canadian Tire"
 url: /markham/canadian-tire/
-shop: Warenhaus
+shop: department store
 ---

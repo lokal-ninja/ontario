@@ -1,5 +1,5 @@
 ---
 title: "Bloomingtails"
 url: /london/bloomingtails/
-shop: Tiere
+shop: pet
 ---

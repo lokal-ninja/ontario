@@ -1,5 +1,5 @@
 ---
 title: "Lakefield Auto Parts"
 url: /lakefield/lakefield-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AI Premium Food Mart"
 url: /scarborough/ai-premium-food-mart/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "LCBO"
 url: /cobden/lcbo/
-shop: Spirituosen
+shop: alcohol
 ---

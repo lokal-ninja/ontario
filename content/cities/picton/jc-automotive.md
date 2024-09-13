@@ -1,5 +1,5 @@
 ---
 title: "JC Automotive"
 url: /picton/jc-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

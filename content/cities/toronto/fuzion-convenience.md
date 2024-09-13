@@ -1,5 +1,5 @@
 ---
 title: "Fuzion Convenience"
 url: /toronto/fuzion-convenience/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Canadian Clay and Glass Gallery"
 url: /waterloo/canadian-clay-and-glass-gallery/
-shop: Kunst
+shop: art
 ---

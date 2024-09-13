@@ -1,5 +1,5 @@
 ---
 title: "Classic Carpentry"
 url: /mississauga/classic-carpentry/
-shop: Küchen
+shop: kitchen
 ---

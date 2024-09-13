@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /oshawa/dollarama-king-street-east/
-shop: Kramladen
+shop: variety store
 ---

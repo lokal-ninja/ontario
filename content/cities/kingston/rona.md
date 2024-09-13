@@ -1,5 +1,5 @@
 ---
 title: "Rona"
 url: /kingston/rona/
-shop: Leerstehend
+shop: vacant
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Monroe Auto"
 url: /oshawa/monroe-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

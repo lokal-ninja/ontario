@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /guelph/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Splashables"
 url: /toronto/splashables/
-shop: Kleidung
+shop: clothes
 ---

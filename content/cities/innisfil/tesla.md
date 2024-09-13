@@ -1,5 +1,5 @@
 ---
 title: "Tesla"
 url: /innisfil/tesla/
-shop: Autohaus
+shop: car
 ---

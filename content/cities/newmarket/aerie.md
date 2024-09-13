@@ -1,5 +1,5 @@
 ---
 title: "Aerie"
 url: /newmarket/aerie/
-shop: Kleidung
+shop: clothes
 ---

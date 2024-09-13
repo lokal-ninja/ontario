@@ -1,5 +1,5 @@
 ---
 title: "Ideal Decorating"
 url: /chatham/ideal-decorating/
-shop: Jalousien
+shop: window blind
 ---

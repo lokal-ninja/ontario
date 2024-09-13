@@ -1,5 +1,5 @@
 ---
 title: "Beth Values"
 url: /london/beth-values/
-shop: Kleidung
+shop: clothes
 ---

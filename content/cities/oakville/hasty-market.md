@@ -1,5 +1,5 @@
 ---
 title: "Hasty Market"
 url: /oakville/hasty-market/
-shop: Lebensmittel
+shop: convenience
 ---

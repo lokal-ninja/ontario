@@ -1,5 +1,5 @@
 ---
 title: "The Car Shoppe"
 url: /whitby/the-car-shoppe/
-shop: Autohaus
+shop: car
 ---

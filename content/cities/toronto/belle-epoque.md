@@ -1,5 +1,5 @@
 ---
 title: "Belle Époque"
 url: /toronto/belle-epoque/
-shop: Raumausstattung
+shop: interior decoration
 ---

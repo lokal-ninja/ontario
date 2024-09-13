@@ -1,5 +1,5 @@
 ---
 title: "Speedy"
 url: /sudbury/speedy/
-shop: Autowerkstatt
+shop: car repair
 ---

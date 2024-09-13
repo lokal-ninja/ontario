@@ -1,5 +1,5 @@
 ---
 title: "Loblaws"
 url: /north-york/loblaws/
-shop: Supermarkt
+shop: supermarket
 ---

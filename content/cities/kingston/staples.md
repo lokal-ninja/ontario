@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /kingston/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

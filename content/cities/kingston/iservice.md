@@ -1,5 +1,5 @@
 ---
 title: "iService"
 url: /kingston/iservice/
-shop: Computer
+shop: computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hanji"
 url: /toronto/hanji/
-shop: Andenken
+shop: gift
 ---

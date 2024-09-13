@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /brampton/decathlon/
-shop: Sport
+shop: sports
 ---

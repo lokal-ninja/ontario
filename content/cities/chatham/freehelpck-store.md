@@ -1,5 +1,5 @@
 ---
 title: "FreeHelpCK Store"
 url: /chatham/freehelpck-store/
-shop: Gebrauchtwaren
+shop: charity
 ---

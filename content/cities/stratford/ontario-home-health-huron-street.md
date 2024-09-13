@@ -1,5 +1,5 @@
 ---
 title: "Ontario Home Health"
 url: /stratford/ontario-home-health-huron-street/
-shop: Sanitätshaus
+shop: medical supply
 ---

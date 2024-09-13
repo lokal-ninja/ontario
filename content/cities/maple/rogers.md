@@ -1,5 +1,5 @@
 ---
 title: "Rogers"
 url: /maple/rogers/
-shop: Handy
+shop: mobile phone
 ---

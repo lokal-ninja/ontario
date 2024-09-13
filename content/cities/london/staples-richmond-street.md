@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /london/staples-richmond-street/
-shop: Schreibwaren
+shop: office supplies
 ---

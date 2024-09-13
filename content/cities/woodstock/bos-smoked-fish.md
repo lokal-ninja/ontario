@@ -1,5 +1,5 @@
 ---
 title: "BOS Smoked Fish"
 url: /woodstock/bos-smoked-fish/
-shop: Fisch
+shop: seafood
 ---

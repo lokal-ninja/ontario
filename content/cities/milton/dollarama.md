@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /milton/dollarama/
-shop: Kramladen
+shop: variety store
 ---

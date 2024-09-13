@@ -1,5 +1,5 @@
 ---
 title: "Husky"
 url: /bradford/husky/
-shop: Lebensmittel
+shop: convenience
 ---

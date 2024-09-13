@@ -1,5 +1,5 @@
 ---
 title: "Cora Computers"
 url: /port-elgin/cora-computers/
-shop: Computer
+shop: computer
 ---

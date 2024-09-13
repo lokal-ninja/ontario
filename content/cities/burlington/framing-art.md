@@ -1,5 +1,5 @@
 ---
 title: "Framing + Art"
 url: /burlington/framing-art/
-shop: Rahmen
+shop: frame
 ---

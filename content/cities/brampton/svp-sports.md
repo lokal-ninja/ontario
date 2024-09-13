@@ -1,5 +1,5 @@
 ---
 title: "SVP Sports"
 url: /brampton/svp-sports/
-shop: Sport
+shop: sports
 ---

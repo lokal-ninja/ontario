@@ -1,5 +1,5 @@
 ---
 title: "Kingston Honda"
 url: /kingston/kingston-honda/
-shop: Autohaus
+shop: car
 ---

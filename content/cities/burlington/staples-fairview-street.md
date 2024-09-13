@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /burlington/staples-fairview-street/
-shop: Schreibwaren
+shop: office supplies
 ---

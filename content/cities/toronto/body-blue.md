@@ -1,5 +1,5 @@
 ---
 title: "Body Blue"
 url: /toronto/body-blue/
-shop: Kleidung
+shop: clothes
 ---

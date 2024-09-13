@@ -1,5 +1,5 @@
 ---
 title: "Victory Lube"
 url: /sudbury/victory-lube/
-shop: Autowerkstatt
+shop: car repair
 ---

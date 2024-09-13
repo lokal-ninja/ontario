@@ -1,5 +1,5 @@
 ---
 title: "Roy Furniture"
 url: /sudbury/roy-furniture/
-shop: Möbel
+shop: furniture
 ---

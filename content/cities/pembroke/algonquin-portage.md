@@ -1,5 +1,5 @@
 ---
 title: "Algonquin Portage"
 url: /pembroke/algonquin-portage/
-shop: Outdoor
+shop: outdoor
 ---

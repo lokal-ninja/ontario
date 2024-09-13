@@ -1,5 +1,5 @@
 ---
 title: "Mannie Mart"
 url: /kitchener/mannie-mart/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Smiths Falls Kia"
 url: /smiths-falls/smiths-falls-kia/
-shop: Autohaus
+shop: car
 ---

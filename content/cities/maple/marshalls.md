@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /maple/marshalls/
-shop: Warenhaus
+shop: department store
 ---

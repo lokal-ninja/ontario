@@ -1,5 +1,5 @@
 ---
 title: "Borque Auto Sales"
 url: /cochrane/borque-auto-sales/
-shop: Allgemein
+shop: shop
 ---

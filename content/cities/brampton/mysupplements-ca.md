@@ -1,5 +1,5 @@
 ---
 title: "Mysupplements.ca"
 url: /brampton/mysupplements-ca/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

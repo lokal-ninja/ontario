@@ -1,5 +1,5 @@
 ---
 title: "Margo Tai??? Alterations"
 url: /toronto/margo-tai-alterations/
-shop: Allgemein
+shop: shop
 ---

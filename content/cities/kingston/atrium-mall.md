@@ -1,5 +1,5 @@
 ---
 title: "Atrium Mall"
 url: /kingston/atrium-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

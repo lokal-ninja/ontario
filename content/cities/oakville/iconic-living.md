@@ -1,5 +1,5 @@
 ---
 title: "Iconic Living"
 url: /oakville/iconic-living/
-shop: Möbel
+shop: furniture
 ---

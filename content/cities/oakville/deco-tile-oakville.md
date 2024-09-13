@@ -1,5 +1,5 @@
 ---
 title: "Deco-Tile Oakville"
 url: /oakville/deco-tile-oakville/
-shop: Fliesen
+shop: tiles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bike Depot"
 url: /pickering/bike-depot/
-shop: Fahrrad
+shop: bicycle
 ---

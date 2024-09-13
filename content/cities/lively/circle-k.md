@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /lively/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

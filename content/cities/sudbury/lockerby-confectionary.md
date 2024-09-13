@@ -1,5 +1,5 @@
 ---
 title: "Lockerby Confectionary"
 url: /sudbury/lockerby-confectionary/
-shop: Lebensmittel
+shop: convenience
 ---

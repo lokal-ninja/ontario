@@ -1,5 +1,5 @@
 ---
 title: "Sunrise Lasers"
 url: /carleton-place/sunrise-lasers/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Urban Silks"
 url: /scarborough/urban-silks/
-shop: Kleidung
+shop: clothes
 ---

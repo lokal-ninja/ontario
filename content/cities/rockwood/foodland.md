@@ -1,5 +1,5 @@
 ---
 title: "Foodland"
 url: /rockwood/foodland/
-shop: Supermarkt
+shop: supermarket
 ---

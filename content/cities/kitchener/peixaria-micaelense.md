@@ -1,5 +1,5 @@
 ---
 title: "Peixaria Micaelense"
 url: /kitchener/peixaria-micaelense/
-shop: Supermarkt
+shop: supermarket
 ---

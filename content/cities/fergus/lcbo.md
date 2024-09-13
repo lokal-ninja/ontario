@@ -1,5 +1,5 @@
 ---
 title: "LCBO"
 url: /fergus/lcbo/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chatters"
 url: /sudbury/chatters/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

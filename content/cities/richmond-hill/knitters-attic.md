@@ -1,5 +1,5 @@
 ---
 title: "Knitters Attic"
 url: /richmond-hill/knitters-attic/
-shop: Wolle
+shop: wool
 ---

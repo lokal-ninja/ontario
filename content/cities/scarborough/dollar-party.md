@@ -1,5 +1,5 @@
 ---
 title: "Dollar Party"
 url: /scarborough/dollar-party/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Little Burgundy"
 url: /toronto/little-burgundy/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bay Market"
 url: /toronto/bay-market/
-shop: Lebensmittel
+shop: convenience
 ---

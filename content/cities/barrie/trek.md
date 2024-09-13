@@ -1,5 +1,5 @@
 ---
 title: "Trek"
 url: /barrie/trek/
-shop: Fahrrad
+shop: bicycle
 ---

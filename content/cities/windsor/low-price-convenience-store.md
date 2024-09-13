@@ -1,5 +1,5 @@
 ---
 title: "Low Price Convenience Store"
 url: /windsor/low-price-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

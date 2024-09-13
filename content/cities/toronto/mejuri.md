@@ -1,5 +1,5 @@
 ---
 title: "Mejuri"
 url: /toronto/mejuri/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cobourg Health Shoppe"
 url: /cobourg/cobourg-health-shoppe/
-shop: Bioladen
+shop: health food
 ---

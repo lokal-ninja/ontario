@@ -1,5 +1,5 @@
 ---
 title: "Cambie"
 url: /toronto/cambie/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pick of the Crop"
 url: /timmins/pick-of-the-crop/
-shop: Gemüse & Obst
+shop: greengrocer
 ---

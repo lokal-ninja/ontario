@@ -1,5 +1,5 @@
 ---
 title: "Brock Sandwich"
 url: /toronto/brock-sandwich/
-shop: Leerstehend
+shop: vacant
 ---

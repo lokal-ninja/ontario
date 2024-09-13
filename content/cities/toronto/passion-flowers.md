@@ -1,5 +1,5 @@
 ---
 title: "Passion Flowers"
 url: /toronto/passion-flowers/
-shop: Blumen
+shop: florist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ace Healthcare Shop"
 url: /east-york/ace-healthcare-shop/
-shop: Sanitätshaus
+shop: medical supply
 ---

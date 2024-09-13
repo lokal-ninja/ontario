@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /keswick/dollarama/
-shop: Kramladen
+shop: variety store
 ---

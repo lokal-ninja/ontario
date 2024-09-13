@@ -1,5 +1,5 @@
 ---
 title: "Loblaws"
 url: /toronto/loblaws-lower-jarvis-street/
-shop: Supermarkt
+shop: supermarket
 ---

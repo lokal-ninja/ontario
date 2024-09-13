@@ -1,5 +1,5 @@
 ---
 title: "Tom's Variety"
 url: /toronto/toms-variety/
-shop: Lebensmittel
+shop: convenience
 ---

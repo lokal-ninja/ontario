@@ -1,5 +1,5 @@
 ---
 title: "Airsoft Depot"
 url: /scarborough/airsoft-depot/
-shop: Sport
+shop: sports
 ---

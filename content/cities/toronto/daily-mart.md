@@ -1,5 +1,5 @@
 ---
 title: "Daily Mart"
 url: /toronto/daily-mart/
-shop: Lebensmittel
+shop: convenience
 ---

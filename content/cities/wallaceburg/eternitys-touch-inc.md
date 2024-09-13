@@ -1,5 +1,5 @@
 ---
 title: "Eternity's Touch, Inc."
 url: /wallaceburg/eternitys-touch-inc/
-shop: Schmuck
+shop: jewelry
 ---

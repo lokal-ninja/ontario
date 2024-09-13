@@ -1,5 +1,5 @@
 ---
 title: "Busters Pawn"
 url: /brampton/busters-pawn/
-shop: Leiher
+shop: pawnbroker
 ---

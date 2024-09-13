@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /aurora/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

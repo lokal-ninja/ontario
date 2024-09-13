@@ -1,5 +1,5 @@
 ---
 title: "Country Pickins"
 url: /haliburton/country-pickins/
-shop: Kleidung
+shop: clothes
 ---

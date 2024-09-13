@@ -1,5 +1,5 @@
 ---
 title: "Total Hearing Centre"
 url: /woodstock/total-hearing-centre/
-shop: Hörgeräte
+shop: hearing aids
 ---

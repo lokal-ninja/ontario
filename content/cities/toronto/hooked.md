@@ -1,5 +1,5 @@
 ---
 title: "Hooked"
 url: /toronto/hooked/
-shop: Fisch
+shop: seafood
 ---

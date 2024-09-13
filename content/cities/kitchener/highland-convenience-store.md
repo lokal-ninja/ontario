@@ -1,5 +1,5 @@
 ---
 title: "Highland Convenience Store"
 url: /kitchener/highland-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

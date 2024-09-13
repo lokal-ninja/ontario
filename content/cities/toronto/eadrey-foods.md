@@ -1,5 +1,5 @@
 ---
 title: "Eadrey Foods"
 url: /toronto/eadrey-foods/
-shop: Feinkost
+shop: deli
 ---

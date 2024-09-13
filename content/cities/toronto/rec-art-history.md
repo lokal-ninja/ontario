@@ -1,5 +1,5 @@
 ---
 title: "Rec + Art History"
 url: /toronto/rec-art-history/
-shop: Raumausstattung
+shop: interior decoration
 ---

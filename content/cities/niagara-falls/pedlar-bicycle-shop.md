@@ -1,5 +1,5 @@
 ---
 title: "Pedlar Bicycle Shop"
 url: /niagara-falls/pedlar-bicycle-shop/
-shop: Fahrrad
+shop: bicycle
 ---

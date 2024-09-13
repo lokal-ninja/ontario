@@ -1,5 +1,5 @@
 ---
 title: "Byward Nuthouse"
 url: /ottawa/byward-nuthouse/
-shop: Feinkost
+shop: deli
 ---

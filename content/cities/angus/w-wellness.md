@@ -1,5 +1,5 @@
 ---
 title: "W Wellness"
 url: /angus/w-wellness/
-shop: Kosmetik
+shop: beauty
 ---

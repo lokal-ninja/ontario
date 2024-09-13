@@ -1,6 +1,6 @@
 ---
 title: East York
 url: /east-york/
-latitude: 43.693
-longitude: -79.316
+latitude: 43.692
+longitude: -79.303
 ---

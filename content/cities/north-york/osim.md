@@ -1,5 +1,5 @@
 ---
 title: "OSIM"
 url: /north-york/osim/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Winners"
 url: /unionville/winners/
-shop: Warenhaus
+shop: department store
 ---

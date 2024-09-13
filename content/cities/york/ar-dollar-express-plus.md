@@ -1,5 +1,5 @@
 ---
 title: "AR Dollar Express Plus"
 url: /york/ar-dollar-express-plus/
-shop: Kramladen
+shop: variety store
 ---

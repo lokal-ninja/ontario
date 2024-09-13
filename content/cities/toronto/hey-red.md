@@ -1,5 +1,5 @@
 ---
 title: "Hey Red!"
 url: /toronto/hey-red/
-shop: Friseur
+shop: hairdresser
 ---

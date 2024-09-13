@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /barrie/walmart/
-shop: Warenhaus
+shop: department store
 ---

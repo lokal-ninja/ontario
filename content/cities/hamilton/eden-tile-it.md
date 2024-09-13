@@ -1,5 +1,5 @@
 ---
 title: "Eden Tile-It"
 url: /hamilton/eden-tile-it/
-shop: Fußböden
+shop: flooring
 ---

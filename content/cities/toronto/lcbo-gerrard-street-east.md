@@ -1,5 +1,5 @@
 ---
 title: "LCBO"
 url: /toronto/lcbo-gerrard-street-east/
-shop: Spirituosen
+shop: alcohol
 ---

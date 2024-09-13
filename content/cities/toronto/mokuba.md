@@ -1,5 +1,5 @@
 ---
 title: "Mokuba"
 url: /toronto/mokuba/
-shop: Textil
+shop: fabric
 ---

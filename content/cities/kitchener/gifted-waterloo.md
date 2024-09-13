@@ -1,5 +1,5 @@
 ---
 title: "Gifted Waterloo"
 url: /kitchener/gifted-waterloo/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Frankenstein Performance Cycle"
 url: /toronto/frankenstein-performance-cycle/
-shop: Motorrad
+shop: motorcycle
 ---

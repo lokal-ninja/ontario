@@ -1,5 +1,5 @@
 ---
 title: "Bargain Stop"
 url: /york/bargain-stop/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rocktown Automotive"
 url: /sudbury/rocktown-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

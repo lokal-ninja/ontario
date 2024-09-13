@@ -1,5 +1,5 @@
 ---
 title: "GOCO"
 url: /ailsa-craig/goco/
-shop: Lebensmittel
+shop: convenience
 ---

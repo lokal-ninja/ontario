@@ -1,5 +1,5 @@
 ---
 title: "Royal Variety"
 url: /york/royal-variety/
-shop: Lebensmittel
+shop: convenience
 ---

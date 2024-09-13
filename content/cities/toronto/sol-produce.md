@@ -1,5 +1,5 @@
 ---
 title: "Sol Produce"
 url: /toronto/sol-produce/
-shop: Leerstehend
+shop: vacant
 ---

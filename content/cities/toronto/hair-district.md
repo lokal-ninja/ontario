@@ -1,5 +1,5 @@
 ---
 title: "Hair District"
 url: /toronto/hair-district/
-shop: Friseur
+shop: hairdresser
 ---

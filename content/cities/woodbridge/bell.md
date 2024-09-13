@@ -1,5 +1,5 @@
 ---
 title: "Bell"
 url: /woodbridge/bell/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eataly Toronto"
 url: /toronto/eataly-toronto/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Super Stop"
 url: /east-york/super-stop/
-shop: Lebensmittel
+shop: convenience
 ---

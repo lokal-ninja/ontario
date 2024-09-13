@@ -1,5 +1,5 @@
 ---
 title: "Anchor"
 url: /toronto/anchor/
-shop: Fisch
+shop: seafood
 ---

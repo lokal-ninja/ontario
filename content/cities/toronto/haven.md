@@ -1,5 +1,5 @@
 ---
 title: "HAVEN"
 url: /toronto/haven/
-shop: Kleidung
+shop: clothes
 ---

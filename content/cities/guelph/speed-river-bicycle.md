@@ -1,5 +1,5 @@
 ---
 title: "Speed River Bicycle"
 url: /guelph/speed-river-bicycle/
-shop: Fahrrad
+shop: bicycle
 ---

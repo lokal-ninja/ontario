@@ -1,5 +1,5 @@
 ---
 title: "Cash Shop"
 url: /barrie/cash-shop/
-shop: Leiher
+shop: pawnbroker
 ---

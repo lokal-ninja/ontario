@@ -1,5 +1,5 @@
 ---
 title: "Cosburn Coin Laundry"
 url: /toronto/cosburn-coin-laundry/
-shop: Wäscherei
+shop: laundry
 ---

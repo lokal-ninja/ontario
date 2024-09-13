@@ -1,5 +1,5 @@
 ---
 title: "Longo's"
 url: /guelph/longos/
-shop: Supermarkt
+shop: supermarket
 ---

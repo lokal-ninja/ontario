@@ -1,5 +1,5 @@
 ---
 title: "KW Wholesale"
 url: /kitchener/kw-wholesale/
-shop: Dorfladen
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Periwinkle Flowers"
 url: /toronto/periwinkle-flowers/
-shop: Blumen
+shop: florist
 ---

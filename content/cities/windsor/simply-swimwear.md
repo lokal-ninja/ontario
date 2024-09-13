@@ -1,5 +1,5 @@
 ---
 title: "Simply Swimwear"
 url: /windsor/simply-swimwear/
-shop: Kleidung
+shop: clothes
 ---

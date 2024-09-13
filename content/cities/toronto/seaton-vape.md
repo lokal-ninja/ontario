@@ -1,5 +1,5 @@
 ---
 title: "Seaton Vape"
 url: /toronto/seaton-vape/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

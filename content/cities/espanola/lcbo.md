@@ -1,5 +1,5 @@
 ---
 title: "LCBO"
 url: /espanola/lcbo/
-shop: Spirituosen
+shop: alcohol
 ---

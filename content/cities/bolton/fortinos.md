@@ -1,5 +1,5 @@
 ---
 title: "Fortinos"
 url: /bolton/fortinos/
-shop: Supermarkt
+shop: supermarket
 ---

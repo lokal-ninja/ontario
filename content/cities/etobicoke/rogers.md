@@ -1,5 +1,5 @@
 ---
 title: "Rogers"
 url: /etobicoke/rogers/
-shop: Handy
+shop: mobile phone
 ---

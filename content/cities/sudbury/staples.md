@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /sudbury/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

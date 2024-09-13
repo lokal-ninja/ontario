@@ -1,5 +1,5 @@
 ---
 title: "Terra"
 url: /burlington/terra/
-shop: Garten-Center
+shop: garden centre
 ---

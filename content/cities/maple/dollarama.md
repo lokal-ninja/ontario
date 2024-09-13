@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /maple/dollarama/
-shop: Kramladen
+shop: variety store
 ---

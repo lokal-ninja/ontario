@@ -1,5 +1,5 @@
 ---
 title: "Ever-well Health"
 url: /cayuga/ever-well-health/
-shop: Bioladen
+shop: health food
 ---

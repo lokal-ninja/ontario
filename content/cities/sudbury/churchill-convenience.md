@@ -1,5 +1,5 @@
 ---
 title: "Churchill Convenience"
 url: /sudbury/churchill-convenience/
-shop: Lebensmittel
+shop: convenience
 ---

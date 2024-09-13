@@ -1,5 +1,5 @@
 ---
 title: "Anthony's"
 url: /etobicoke/anthonys/
-shop: Garten-Center
+shop: garden centre
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wortley Auto Service"
 url: /london/wortley-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

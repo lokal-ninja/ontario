@@ -1,5 +1,5 @@
 ---
 title: "Hart"
 url: /chatham/hart/
-shop: Warenhaus
+shop: department store
 ---

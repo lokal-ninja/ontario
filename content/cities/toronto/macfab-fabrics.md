@@ -1,5 +1,5 @@
 ---
 title: "macFAB Fabrics"
 url: /toronto/macfab-fabrics/
-shop: Textil
+shop: fabric
 ---

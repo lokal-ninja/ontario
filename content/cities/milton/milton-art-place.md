@@ -1,5 +1,5 @@
 ---
 title: "Milton Art Place"
 url: /milton/milton-art-place/
-shop: Allgemein
+shop: shop
 ---

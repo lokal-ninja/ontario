@@ -1,5 +1,5 @@
 ---
 title: "Mr. Lube"
 url: /brampton/mr-lube-hurontario-street/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /toronto/dollarama-mount-pleasant-road/
-shop: Kramladen
+shop: variety store
 ---

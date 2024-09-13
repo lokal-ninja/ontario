@@ -1,5 +1,5 @@
 ---
 title: "Peavey Mart"
 url: /cambridge/peavey-mart/
-shop: Baumarkt
+shop: doityourself
 ---

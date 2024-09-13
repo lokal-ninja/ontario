@@ -1,5 +1,5 @@
 ---
 title: "Fat Guys Auto Parts"
 url: /thun/fat-guys-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

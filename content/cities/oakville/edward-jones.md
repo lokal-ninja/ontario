@@ -1,5 +1,5 @@
 ---
 title: "Edward Jones"
 url: /oakville/edward-jones/
-shop: Allgemein
+shop: shop
 ---

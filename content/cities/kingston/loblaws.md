@@ -1,5 +1,5 @@
 ---
 title: "Loblaws"
 url: /kingston/loblaws/
-shop: Supermarkt
+shop: supermarket
 ---

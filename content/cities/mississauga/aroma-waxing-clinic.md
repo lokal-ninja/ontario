@@ -1,5 +1,5 @@
 ---
 title: "Aroma Waxing Clinic"
 url: /mississauga/aroma-waxing-clinic/
-shop: Kosmetik
+shop: beauty
 ---

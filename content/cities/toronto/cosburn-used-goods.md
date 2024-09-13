@@ -1,5 +1,5 @@
 ---
 title: "Cosburn Used Goods"
 url: /toronto/cosburn-used-goods/
-shop: Kramladen
+shop: variety store
 ---

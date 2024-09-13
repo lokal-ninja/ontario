@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /etobicoke/dollarama-rexdale-boulevard/
-shop: Kramladen
+shop: variety store
 ---

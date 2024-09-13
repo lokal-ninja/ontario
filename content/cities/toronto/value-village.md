@@ -1,5 +1,5 @@
 ---
 title: "Value Village"
 url: /toronto/value-village/
-shop: Gebrauchtwaren
+shop: charity
 ---

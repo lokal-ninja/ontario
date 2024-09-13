@@ -1,5 +1,5 @@
 ---
 title: "Cambrian Truck Centre"
 url: /sudbury/cambrian-truck-centre/
-shop: Allgemein
+shop: shop
 ---

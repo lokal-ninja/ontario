@@ -1,5 +1,5 @@
 ---
 title: "Aurora Convenience"
 url: /aurora/aurora-convenience/
-shop: Lebensmittel
+shop: convenience
 ---

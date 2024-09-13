@@ -1,5 +1,5 @@
 ---
 title: "BOSS Supplements"
 url: /guelph/boss-supplements/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

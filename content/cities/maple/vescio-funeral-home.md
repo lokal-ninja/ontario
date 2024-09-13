@@ -1,5 +1,5 @@
 ---
 title: "Vescio Funeral Home"
 url: /maple/vescio-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

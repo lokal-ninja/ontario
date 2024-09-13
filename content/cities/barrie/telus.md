@@ -1,5 +1,5 @@
 ---
 title: "Telus"
 url: /barrie/telus/
-shop: Handy
+shop: mobile phone
 ---

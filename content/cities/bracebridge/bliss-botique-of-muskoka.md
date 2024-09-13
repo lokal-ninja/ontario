@@ -1,5 +1,5 @@
 ---
 title: "Bliss Botique of Muskoka"
 url: /bracebridge/bliss-botique-of-muskoka/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SmartStyle"
 url: /chatham/smartstyle/
-shop: Friseur
+shop: hairdresser
 ---

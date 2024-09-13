@@ -1,5 +1,5 @@
 ---
 title: "Betsy Beauty Salon"
 url: /toronto/betsy-beauty-salon/
-shop: Kosmetik
+shop: beauty
 ---

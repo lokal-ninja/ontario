@@ -1,5 +1,5 @@
 ---
 title: "Ryder"
 url: /burlington/ryder/
-shop: Mieten
+shop: storage rental
 ---

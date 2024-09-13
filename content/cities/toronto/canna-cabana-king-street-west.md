@@ -1,5 +1,5 @@
 ---
 title: "Canna Cabana"
 url: /toronto/canna-cabana-king-street-west/
-shop: Hanf
+shop: cannabis
 ---

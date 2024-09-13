@@ -1,5 +1,5 @@
 ---
 title: "Neat"
 url: /toronto/neat/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HomeSense"
 url: /toronto/homesense/
-shop: Raumausstattung
+shop: interior decoration
 ---

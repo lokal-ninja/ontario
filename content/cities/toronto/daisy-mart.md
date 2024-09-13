@@ -1,5 +1,5 @@
 ---
 title: "Daisy Mart"
 url: /toronto/daisy-mart/
-shop: Lebensmittel
+shop: convenience
 ---

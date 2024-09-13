@@ -1,5 +1,5 @@
 ---
 title: "Rogers"
 url: /vaughan/rogers/
-shop: Handy
+shop: mobile phone
 ---

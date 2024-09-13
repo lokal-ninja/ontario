@@ -1,5 +1,5 @@
 ---
 title: "Dave's Garage"
 url: /aurora/daves-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

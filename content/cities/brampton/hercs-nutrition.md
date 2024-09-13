@@ -1,5 +1,5 @@
 ---
 title: "HERC'S Nutrition"
 url: /brampton/hercs-nutrition/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

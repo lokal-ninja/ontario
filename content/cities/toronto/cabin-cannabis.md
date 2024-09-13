@@ -1,5 +1,5 @@
 ---
 title: "Cabin Cannabis"
 url: /toronto/cabin-cannabis/
-shop: Hanf
+shop: cannabis
 ---

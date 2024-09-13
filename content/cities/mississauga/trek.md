@@ -1,5 +1,5 @@
 ---
 title: "Trek"
 url: /mississauga/trek/
-shop: Fahrrad
+shop: bicycle
 ---

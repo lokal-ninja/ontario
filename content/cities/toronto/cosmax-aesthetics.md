@@ -1,5 +1,5 @@
 ---
 title: "CosMax Aesthetics"
 url: /toronto/cosmax-aesthetics/
-shop: Leerstehend
+shop: vacant
 ---

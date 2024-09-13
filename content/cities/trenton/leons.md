@@ -1,5 +1,5 @@
 ---
 title: "Leon's"
 url: /trenton/leons/
-shop: Möbel
+shop: furniture
 ---

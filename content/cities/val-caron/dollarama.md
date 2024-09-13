@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /val-caron/dollarama/
-shop: Kramladen
+shop: variety store
 ---

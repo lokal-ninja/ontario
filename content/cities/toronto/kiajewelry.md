@@ -1,5 +1,5 @@
 ---
 title: "KiaJewelry"
 url: /toronto/kiajewelry/
-shop: Schmuck
+shop: jewelry
 ---

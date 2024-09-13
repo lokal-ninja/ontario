@@ -1,5 +1,5 @@
 ---
 title: "WellWise"
 url: /thornhill/wellwise/
-shop: Sanitätshaus
+shop: medical supply
 ---

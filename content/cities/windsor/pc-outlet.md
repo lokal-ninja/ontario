@@ -1,5 +1,5 @@
 ---
 title: "PC Outlet"
 url: /windsor/pc-outlet/
-shop: Computer
+shop: computer
 ---

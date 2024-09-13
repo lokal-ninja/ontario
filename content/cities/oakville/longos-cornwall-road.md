@@ -1,5 +1,5 @@
 ---
 title: "Longo's"
 url: /oakville/longos-cornwall-road/
-shop: Supermarkt
+shop: supermarket
 ---

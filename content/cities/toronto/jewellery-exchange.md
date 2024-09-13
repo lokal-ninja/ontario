@@ -1,5 +1,5 @@
 ---
 title: "Jewellery Exchange"
 url: /toronto/jewellery-exchange/
-shop: Schmuck
+shop: jewelry
 ---

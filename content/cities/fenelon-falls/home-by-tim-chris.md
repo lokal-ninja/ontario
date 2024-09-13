@@ -1,5 +1,5 @@
 ---
 title: "Home by Tim + Chris"
 url: /fenelon-falls/home-by-tim-chris/
-shop: Raumausstattung
+shop: interior decoration
 ---

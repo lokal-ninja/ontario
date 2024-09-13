@@ -1,5 +1,5 @@
 ---
 title: "Foodland"
 url: /delta/foodland/
-shop: Supermarkt
+shop: supermarket
 ---

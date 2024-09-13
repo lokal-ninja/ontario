@@ -1,5 +1,5 @@
 ---
 title: "Seafood City"
 url: /torono/seafood-city/
-shop: Supermarkt
+shop: supermarket
 ---

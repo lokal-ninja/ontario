@@ -1,5 +1,5 @@
 ---
 title: "Bulk Barn"
 url: /burlington/bulk-barn/
-shop: Lebensmittel
+shop: convenience
 ---

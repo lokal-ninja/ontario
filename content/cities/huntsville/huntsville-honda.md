@@ -1,5 +1,5 @@
 ---
 title: "Huntsville Honda"
 url: /huntsville/huntsville-honda/
-shop: Autohaus
+shop: car
 ---

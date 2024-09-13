@@ -1,5 +1,5 @@
 ---
 title: "Eaton Funeral Home"
 url: /listowel/eaton-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Galleria Marketplace"
 url: /north-york/galleria-marketplace/
-shop: Supermarkt
+shop: supermarket
 ---

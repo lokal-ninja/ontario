@@ -1,5 +1,5 @@
 ---
 title: "Auto Surgery"
 url: /toronto/auto-surgery/
-shop: Autowerkstatt
+shop: car repair
 ---

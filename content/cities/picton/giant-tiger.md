@@ -1,5 +1,5 @@
 ---
 title: "Giant Tiger"
 url: /picton/giant-tiger/
-shop: Warenhaus
+shop: department store
 ---

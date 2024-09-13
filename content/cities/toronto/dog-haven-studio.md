@@ -1,5 +1,5 @@
 ---
 title: "Dog Haven Studio"
 url: /toronto/dog-haven-studio/
-shop: Tiersalon
+shop: pet grooming
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /strathroy/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

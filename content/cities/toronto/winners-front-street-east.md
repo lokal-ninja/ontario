@@ -1,5 +1,5 @@
 ---
 title: "Winners"
 url: /toronto/winners-front-street-east/
-shop: Warenhaus
+shop: department store
 ---

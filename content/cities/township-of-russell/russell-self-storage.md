@@ -1,5 +1,5 @@
 ---
 title: "Russell self storage"
 url: /township-of-russell/russell-self-storage/
-shop: Mieten
+shop: storage rental
 ---

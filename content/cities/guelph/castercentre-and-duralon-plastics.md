@@ -1,5 +1,5 @@
 ---
 title: "CasterCentre and Duralon Plastics"
 url: /guelph/castercentre-and-duralon-plastics/
-shop: Baustoffe
+shop: trade
 ---

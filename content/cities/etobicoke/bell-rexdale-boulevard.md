@@ -1,5 +1,5 @@
 ---
 title: "Bell"
 url: /etobicoke/bell-rexdale-boulevard/
-shop: Handy
+shop: mobile phone
 ---

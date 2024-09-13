@@ -1,5 +1,5 @@
 ---
 title: "Nest"
 url: /cambridge/nest/
-shop: Allgemein
+shop: shop
 ---

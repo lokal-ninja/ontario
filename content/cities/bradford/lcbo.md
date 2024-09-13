@@ -1,5 +1,5 @@
 ---
 title: "LCBO"
 url: /bradford/lcbo/
-shop: Spirituosen
+shop: alcohol
 ---

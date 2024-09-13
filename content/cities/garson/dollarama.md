@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /garson/dollarama/
-shop: Kramladen
+shop: variety store
 ---

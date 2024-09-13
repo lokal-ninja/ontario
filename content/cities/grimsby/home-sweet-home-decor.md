@@ -1,5 +1,5 @@
 ---
 title: "Home Sweet Home Decor"
 url: /grimsby/home-sweet-home-decor/
-shop: Raumausstattung
+shop: interior decoration
 ---

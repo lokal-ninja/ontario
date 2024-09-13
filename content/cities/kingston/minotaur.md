@@ -1,5 +1,5 @@
 ---
 title: "Minotaur"
 url: /kingston/minotaur/
-shop: Andenken
+shop: gift
 ---

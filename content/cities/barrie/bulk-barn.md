@@ -1,5 +1,5 @@
 ---
 title: "Bulk Barn"
 url: /barrie/bulk-barn/
-shop: Supermarkt
+shop: supermarket
 ---

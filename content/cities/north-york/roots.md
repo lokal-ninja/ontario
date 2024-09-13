@@ -1,5 +1,5 @@
 ---
 title: "Roots"
 url: /north-york/roots/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "vomFASS"
 url: /toronto/vomfass/
-shop: Feinkost
+shop: deli
 ---

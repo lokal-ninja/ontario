@@ -1,5 +1,5 @@
 ---
 title: "AngelFins"
 url: /guelph/angelfins/
-shop: Tiere
+shop: pet
 ---

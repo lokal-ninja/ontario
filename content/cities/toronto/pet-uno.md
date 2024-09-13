@@ -1,5 +1,5 @@
 ---
 title: "Pet Uno"
 url: /toronto/pet-uno/
-shop: Tiere
+shop: pet
 ---

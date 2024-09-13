@@ -1,5 +1,5 @@
 ---
 title: "Smith's Market Express"
 url: /val-caron/smiths-market-express/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cousin's Market"
 url: /nobleton/cousins-market/
-shop: Supermarkt
+shop: supermarket
 ---

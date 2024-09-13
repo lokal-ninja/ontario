@@ -1,5 +1,5 @@
 ---
 title: "J.Y. Jewellery"
 url: /oakville/j-y-jewellery/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollar Plus"
 url: /toronto/dollar-plus/
-shop: Kramladen
+shop: variety store
 ---

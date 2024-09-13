@@ -1,5 +1,5 @@
 ---
 title: "New Hair Unisex"
 url: /london/new-hair-unisex/
-shop: Friseur
+shop: hairdresser
 ---

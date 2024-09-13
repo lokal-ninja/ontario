@@ -1,5 +1,5 @@
 ---
 title: "Eclectisaurus"
 url: /toronto/eclectisaurus/
-shop: Möbel
+shop: furniture
 ---

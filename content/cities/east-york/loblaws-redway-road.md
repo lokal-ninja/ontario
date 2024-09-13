@@ -1,5 +1,5 @@
 ---
 title: "Loblaws"
 url: /east-york/loblaws-redway-road/
-shop: Supermarkt
+shop: supermarket
 ---

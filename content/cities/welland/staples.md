@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /welland/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

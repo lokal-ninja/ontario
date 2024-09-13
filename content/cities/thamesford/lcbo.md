@@ -1,5 +1,5 @@
 ---
 title: "LCBO"
 url: /thamesford/lcbo/
-shop: Spirituosen
+shop: alcohol
 ---

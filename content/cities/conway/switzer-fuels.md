@@ -1,5 +1,5 @@
 ---
 title: "Switzer Fuels"
 url: /conway/switzer-fuels/
-shop: Lebensmittel
+shop: convenience
 ---

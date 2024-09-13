@@ -1,5 +1,5 @@
 ---
 title: "Sunday Blooms"
 url: /guelph/sunday-blooms/
-shop: Blumen
+shop: florist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rogers"
 url: /toronto/rogers-yonge-street-3/
-shop: Handy
+shop: mobile phone
 ---

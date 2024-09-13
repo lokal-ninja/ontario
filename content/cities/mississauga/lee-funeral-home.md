@@ -1,5 +1,5 @@
 ---
 title: "Lee Funeral Home"
 url: /mississauga/lee-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

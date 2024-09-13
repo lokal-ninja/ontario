@@ -1,5 +1,5 @@
 ---
 title: "AVLIS"
 url: /chatham/avlis/
-shop: Schmuck
+shop: jewelry
 ---

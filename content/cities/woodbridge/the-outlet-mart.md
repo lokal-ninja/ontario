@@ -1,5 +1,5 @@
 ---
 title: "The Outlet Mart"
 url: /woodbridge/the-outlet-mart/
-shop: Kramladen
+shop: variety store
 ---

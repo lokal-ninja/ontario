@@ -1,5 +1,5 @@
 ---
 title: "New Wave Travel"
 url: /toronto/new-wave-travel/
-shop: Reisebüro
+shop: travel agency
 ---

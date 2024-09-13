@@ -1,5 +1,5 @@
 ---
 title: "NourishCo Health"
 url: /kingston/nourishco-health/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

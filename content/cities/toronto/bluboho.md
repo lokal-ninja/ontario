@@ -1,5 +1,5 @@
 ---
 title: "Bluboho"
 url: /toronto/bluboho/
-shop: Schmuck
+shop: jewelry
 ---

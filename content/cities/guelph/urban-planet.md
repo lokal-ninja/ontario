@@ -1,5 +1,5 @@
 ---
 title: "Urban Planet"
 url: /guelph/urban-planet/
-shop: Kleidung
+shop: clothes
 ---
