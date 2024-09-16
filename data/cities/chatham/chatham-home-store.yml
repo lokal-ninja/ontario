@@ -1,11 +1,11 @@
 id: 750240244
-type: way
+type: node
 latitude: 42.38112
 longitude: -82.21353
-postcode: "N7L1C5"
+postcode: N7L1C5
 city: Chatham
-street: "Richmond Street"
-housenumber: 990
-phone: "+1 519-351-6632"
+street: Richmond Street
+housenumber: "990"
+phone: +1 519-351-6632
 opening_hours: ""
-website: "https://www.chathamhomestore.com/"
+website: https://www.chathamhomestore.com/

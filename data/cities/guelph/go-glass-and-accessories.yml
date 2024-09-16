@@ -2,10 +2,10 @@ id: 8909019188
 type: node
 latitude: 43.543
 longitude: -80.30585
-postcode: "N1H 7M3"
+postcode: N1H 7M3
 city: Guelph
-street: "Imperial Road North"
-housenumber: 660
-phone: "+1-519-837-2690"
+street: Imperial Road North
+housenumber: "660"
+phone: +1-519-837-2690
 opening_hours: ""
-website: "https://goglass.ca/"
+website: https://goglass.ca/

@@ -1,11 +1,11 @@
 id: 625100590
-type: way
+type: node
 latitude: 42.17549
 longitude: -82.82232
-postcode: "N8M 1A1"
+postcode: N8M 1A1
 city: Essex
-street: "Talbot Street North"
-housenumber: 61
+street: Talbot Street North
+housenumber: "61"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-18:00"
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-18:00
 website: ""

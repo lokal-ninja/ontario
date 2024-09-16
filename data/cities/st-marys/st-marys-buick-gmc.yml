@@ -1,11 +1,11 @@
 id: 796302075
-type: way
+type: node
 latitude: 43.25871
 longitude: -81.15902
 postcode: ""
 city: St. Marys
-street: "Queen Street West"
-housenumber: 449
+street: Queen Street West
+housenumber: "449"
 phone: ""
 opening_hours: ""
 website: ""

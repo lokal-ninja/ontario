@@ -1,11 +1,11 @@
 id: 513339343
-type: way
+type: node
 latitude: 43.41835
 longitude: -80.45237
-postcode: "N2C 2N3"
+postcode: N2C 2N3
 city: Kitchener
-street: "Manitou Drive"
-housenumber: 10
-phone: "+1-519 896 4972"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 10:00-17:00"
-website: "https://www.mec.ca/en/stores/kitchener"
+street: Manitou Drive
+housenumber: "10"
+phone: +1-519 896 4972
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 10:00-17:00
+website: https://www.mec.ca/en/stores/kitchener

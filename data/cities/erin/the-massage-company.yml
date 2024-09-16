@@ -2,10 +2,10 @@ id: 2495284336
 type: node
 latitude: 43.76943
 longitude: -80.06305
-postcode: "N0B 1T0"
+postcode: N0B 1T0
 city: Erin
-street: "Main Street"
-housenumber: 88
+street: Main Street
+housenumber: "88"
 phone: ""
 opening_hours: ""
-website: "https://massageco.ca/"
+website: https://massageco.ca/

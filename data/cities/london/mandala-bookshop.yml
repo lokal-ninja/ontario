@@ -2,10 +2,10 @@ id: 8420781340
 type: node
 latitude: 42.99038
 longitude: -81.2522
-postcode: "N6A 1M6"
+postcode: N6A 1M6
 city: London
-street: "Central Avenue"
-housenumber: 190
-phone: "+1 519-432-9488"
+street: Central Avenue
+housenumber: "190"
+phone: +1 519-432-9488
 opening_hours: ""
-website: "mandalabookshop.com"
+website: mandalabookshop.com

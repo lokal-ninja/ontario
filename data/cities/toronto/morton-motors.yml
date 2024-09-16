@@ -1,11 +1,11 @@
 id: 657935832
-type: way
+type: node
 latitude: 43.6371
 longitude: -79.52498
 postcode: ""
 city: Toronto
-street: "Chauncey Avenue"
-housenumber: 39
-phone: "+1-416-234-0061"
+street: Chauncey Avenue
+housenumber: "39"
+phone: +1-416-234-0061
 opening_hours: ""
 website: ""

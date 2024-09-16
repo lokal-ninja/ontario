@@ -4,8 +4,8 @@ latitude: 43.6499
 longitude: -79.3916
 postcode: ""
 city: Toronto
-street: "Queen Street West"
-housenumber: 256
-phone: "+1-416-599-5858"
+street: Queen Street West
+housenumber: "256"
+phone: +1-416-599-5858
 opening_hours: ""
-website: "https://blackmarkettoronto.com/"
+website: https://blackmarkettoronto.com/

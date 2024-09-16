@@ -1,11 +1,11 @@
 id: 116294147
-type: way
+type: node
 latitude: 43.55987
 longitude: -79.58681
 postcode: ""
 city: Mississauga
-street: "Hurontario Street"
-housenumber: 1215
+street: Hurontario Street
+housenumber: "1215"
 phone: ""
 opening_hours: ""
 website: ""

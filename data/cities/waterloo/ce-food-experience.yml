@@ -2,10 +2,10 @@ id: 4794038007
 type: node
 latitude: 43.4627
 longitude: -80.51024
-postcode: "N2J 1X5"
+postcode: N2J 1X5
 city: Waterloo
-street: "Moore Avenue South"
-housenumber: 136
-phone: "+1-519-635-5080"
+street: Moore Avenue South
+housenumber: "136"
+phone: +1-519-635-5080
 opening_hours: ""
-website: "https://www.cefoodexperience.ca/"
+website: https://www.cefoodexperience.ca/

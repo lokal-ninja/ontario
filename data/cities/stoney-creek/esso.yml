@@ -1,11 +1,11 @@
 id: 255444251
-type: way
+type: node
 latitude: 43.22401
 longitude: -79.70039
-postcode: "L8E 5M8"
+postcode: L8E 5M8
 city: Stoney Creek
-street: "Barton Street"
-housenumber: 327
-phone: "+1-905-643-3609"
+street: Barton Street
+housenumber: "327"
+phone: +1-905-643-3609
 opening_hours: ""
-website: "https://www.esso.ca/en-ca/find-station/esso-stoneycreek-on-esso-200303143"
+website: https://www.esso.ca/en-ca/find-station/esso-stoneycreek-on-esso-200303143

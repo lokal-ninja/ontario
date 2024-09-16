@@ -1,11 +1,11 @@
 id: 267023371
-type: way
+type: node
 latitude: 46.51906
 longitude: -80.94471
 postcode: ""
 city: Sudbury
-street: "Lasalle Boulevard"
-housenumber: 1349
+street: Lasalle Boulevard
+housenumber: "1349"
 phone: ""
 opening_hours: ""
 website: ""

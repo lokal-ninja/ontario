@@ -1,11 +1,11 @@
 id: 526888565
-type: way
+type: node
 latitude: 42.55577
 longitude: -81.86312
-postcode: "N0P 2K0"
+postcode: N0P 2K0
 city: Moraviantown First Nation
-street: "Centre Road"
-housenumber: 22058
-phone: "+1-519-692-4598"
+street: Centre Road
+housenumber: "22058"
+phone: +1-519-692-4598
 opening_hours: ""
 website: ""

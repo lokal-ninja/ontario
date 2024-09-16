@@ -1,11 +1,11 @@
 id: 239063767
-type: way
+type: node
 latitude: 43.56262
 longitude: -80.28286
-postcode: "N1H 1G8"
+postcode: N1H 1G8
 city: Guelph
-street: "Woodlawn Road West"
-housenumber: 63
-phone: "+1-519-780-3400"
+street: Woodlawn Road West
+housenumber: "63"
+phone: +1-519-780-3400
 opening_hours: ""
-website: "http://www.homedepot.ca/"
+website: http://www.homedepot.ca/

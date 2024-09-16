@@ -1,11 +1,11 @@
 id: 67691574
-type: way
+type: node
 latitude: 43.45176
 longitude: -80.49788
-postcode: "N2G 1H7"
+postcode: N2G 1H7
 city: Kitchener
-street: "Charles Street West"
-housenumber: 144
+street: Charles Street West
+housenumber: "144"
 phone: ""
 opening_hours: ""
 website: ""

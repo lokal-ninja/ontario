@@ -1,11 +1,11 @@
 id: 242962668
-type: way
+type: node
 latitude: 51.05702
 longitude: -93.74601
-postcode: "P0V 1C0"
+postcode: P0V 1C0
 city: Balmertown
-street: "Seventh Street"
-housenumber: 2
+street: Seventh Street
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 256735616
-type: way
+type: node
 latitude: 46.47809
 longitude: -81.0673
-postcode: "P0M 1N0"
+postcode: P0M 1N0
 city: Copper Cliff
-street: "Serpentine Street"
-housenumber: 12
+street: Serpentine Street
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
+opening_hours: Mo-Fr 09:00-18:00
 website: ""

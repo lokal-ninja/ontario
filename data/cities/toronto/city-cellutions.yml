@@ -2,10 +2,10 @@ id: 6371048518
 type: node
 latitude: 43.66041
 longitude: -79.43334
-postcode: "M6H 1M6"
+postcode: M6H 1M6
 city: Toronto
-street: "Bloor Street West"
-housenumber: 1072
-phone: "+1-416-879-1223"
+street: Bloor Street West
+housenumber: "1072"
+phone: +1-416-879-1223
 opening_hours: ""
 website: ""

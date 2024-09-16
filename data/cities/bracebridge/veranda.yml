@@ -4,8 +4,8 @@ latitude: 45.04054
 longitude: -79.30944
 postcode: ""
 city: Bracebridge
-street: "Manitoba Street"
-housenumber: 22
-phone: "+1-705-645-6700"
-opening_hours: "Mo-Sa 10:00-17:30; Su 11:00-16:00"
-website: "https://verandacollection.ca/"
+street: Manitoba Street
+housenumber: "22"
+phone: +1-705-645-6700
+opening_hours: Mo-Sa 10:00-17:30; Su 11:00-16:00
+website: https://verandacollection.ca/

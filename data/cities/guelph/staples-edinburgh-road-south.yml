@@ -2,10 +2,10 @@ id: 6211998843
 type: node
 latitude: 43.52191
 longitude: -80.23426
-postcode: "N1G4Z1"
+postcode: N1G4Z1
 city: Guelph
-street: "Edinburgh Road South"
-housenumber: 498
-phone: "+1 519-763-4205"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-17:00; Su 12:00-17:00"
-website: "https://stores.staples.ca/on/guelph/office-supplies-ca-81.html"
+street: Edinburgh Road South
+housenumber: "498"
+phone: +1 519-763-4205
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-17:00; Su 12:00-17:00
+website: https://stores.staples.ca/on/guelph/office-supplies-ca-81.html

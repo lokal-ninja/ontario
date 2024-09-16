@@ -1,11 +1,11 @@
 id: 76910409
-type: way
+type: node
 latitude: 43.56336
 longitude: -79.57146
 postcode: ""
 city: Mississauga
-street: "Lakeshore Road East"
-housenumber: 406
-phone: "+1-905-278-4447"
+street: Lakeshore Road East
+housenumber: "406"
+phone: +1-905-278-4447
 opening_hours: ""
 website: ""

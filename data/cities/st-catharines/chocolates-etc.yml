@@ -1,11 +1,11 @@
 id: 527187790
-type: way
+type: node
 latitude: 43.16295
 longitude: -79.2473
-postcode: "L2R 2N1"
+postcode: L2R 2N1
 city: St. Catharines
-street: "Welland Avenue"
-housenumber: 100
-phone: "+1-905-682-8828"
-opening_hours: "Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 12:00-21:00"
-website: "https://chocolatesetc.ca/"
+street: Welland Avenue
+housenumber: "100"
+phone: +1-905-682-8828
+opening_hours: Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 12:00-21:00
+website: https://chocolatesetc.ca/

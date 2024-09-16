@@ -1,11 +1,11 @@
 id: 528498863
-type: way
+type: node
 latitude: 44.13231
 longitude: -78.35349
-postcode: "K0L 1B0"
+postcode: K0L 1B0
 city: Bailieboro
-street: "County Road 28"
-housenumber: 200
+street: County Road 28
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

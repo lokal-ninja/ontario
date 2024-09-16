@@ -1,11 +1,11 @@
 id: 220511802
-type: way
+type: node
 latitude: 46.50167
 longitude: -80.9843
-postcode: "P3B 2J2"
+postcode: P3B 2J2
 city: Sudbury
-street: "Agnes Street"
-housenumber: 369
+street: Agnes Street
+housenumber: "369"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1228734100
-type: way
+type: node
 latitude: 44.07426
 longitude: -79.43466
 postcode: ""
 city: Newmarket
-street: "Leslie Street"
-housenumber: 17844
+street: Leslie Street
+housenumber: "17844"
 phone: ""
 opening_hours: ""
 website: ""

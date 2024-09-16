@@ -1,11 +1,11 @@
 id: 264689804
-type: way
+type: node
 latitude: 43.85459
 longitude: -79.70486
-postcode: "L7E 4E9"
+postcode: L7E 4E9
 city: Bolton
-street: "Pillsworth Road"
-housenumber: 65
-phone: "+1-905-457-0888"
+street: Pillsworth Road
+housenumber: "65"
+phone: +1-905-457-0888
 opening_hours: ""
-website: "https://www.boltonhonda.ca/"
+website: https://www.boltonhonda.ca/

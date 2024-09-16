@@ -4,8 +4,8 @@ latitude: 43.67148
 longitude: -79.29393
 postcode: ""
 city: Toronto
-street: "Queen Street East"
-housenumber: 2134
-phone: "+1-416-699-3797"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-18:00; Su 10:00-18:00"
-website: "https://www.mastermindtoys.com/"
+street: Queen Street East
+housenumber: "2134"
+phone: +1-416-699-3797
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:00-18:00; Su 10:00-18:00
+website: https://www.mastermindtoys.com/

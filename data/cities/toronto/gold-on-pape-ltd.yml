@@ -2,10 +2,10 @@ id: 2473032863
 type: node
 latitude: 43.67901
 longitude: -79.34535
-postcode: "M4K 1R3"
+postcode: M4K 1R3
 city: Toronto
-street: "Danforth Avenue"
-housenumber: 640
-phone: "+1-416-466-0008"
+street: Danforth Avenue
+housenumber: "640"
+phone: +1-416-466-0008
 opening_hours: ""
-website: "http://www.watch4u.ca/"
+website: http://www.watch4u.ca/

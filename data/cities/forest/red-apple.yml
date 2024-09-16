@@ -1,11 +1,11 @@
 id: 1079546747
-type: way
+type: node
 latitude: 43.09665
 longitude: -82.00152
-postcode: "N0N 1J0"
+postcode: N0N 1J0
 city: Forest
-street: "Main Street South"
-housenumber: 6
+street: Main Street South
+housenumber: "6"
 phone: "+15197863044"
-opening_hours: "Mo-Th 09:00-18:00"
-website: "https://www.redapplestores.com/"
+opening_hours: Mo-Th 09:00-18:00
+website: https://www.redapplestores.com/

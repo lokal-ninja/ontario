@@ -1,11 +1,11 @@
 id: 305876616
-type: way
+type: node
 latitude: 45.02508
 longitude: -75.52624
 postcode: ""
 city: Mountain
-street: "Clark Road"
-housenumber: 10175
-phone: "+1-613-989-5601"
+street: Clark Road
+housenumber: "10175"
+phone: +1-613-989-5601
 opening_hours: ""
-website: "https://mountainorchards.ca/"
+website: https://mountainorchards.ca/

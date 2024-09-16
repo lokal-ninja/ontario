@@ -4,8 +4,9 @@ latitude: 43.64875
 longitude: -79.48499
 postcode: ""
 city: Toronto
-street: "Bloor Street West"
-housenumber: 2477
-phone: "+1-416-762-7391"
-opening_hours: "Mo closed; Tu 10:00-19:00; We 09:00-17:00; Th 10:00-19:00; Fr 09:00-17:00; Sa 09:00-16:00"
-website: "https://isee2020.ca/"
+street: Bloor Street West
+housenumber: "2477"
+phone: +1-416-762-7391
+opening_hours: Mo closed; Tu 10:00-19:00; We 09:00-17:00; Th 10:00-19:00; Fr 09:00-17:00;
+    Sa 09:00-16:00
+website: https://isee2020.ca/

@@ -2,10 +2,10 @@ id: 3086513504
 type: node
 latitude: 43.32655
 longitude: -79.79432
-postcode: "L7R 2M8"
+postcode: L7R 2M8
 city: Burlington
-street: "Pearl Street"
-housenumber: 403
-phone: "+1 905 333 3086"
-opening_hours: "Mo,We 08:30-17:00; Tu,Th 08:00-19:30; Fr 08:30-16:30; Sa 08:30-13:00"
-website: "https://www.perspectivevision.ca/"
+street: Pearl Street
+housenumber: "403"
+phone: +1 905 333 3086
+opening_hours: Mo,We 08:30-17:00; Tu,Th 08:00-19:30; Fr 08:30-16:30; Sa 08:30-13:00
+website: https://www.perspectivevision.ca/

@@ -1,11 +1,11 @@
 id: 144885328
-type: way
+type: node
 latitude: 43.47549
 longitude: -80.58214
-postcode: "N2V 2J8;N2V 2L3"
+postcode: N2V 2J8;N2V 2L3
 city: Waterloo
-street: "Beaver Creek Road"
-housenumber: 521
+street: Beaver Creek Road
+housenumber: "521"
 phone: ""
 opening_hours: ""
-website: "http://www.humphriesautoservice.ca"
+website: http://www.humphriesautoservice.ca

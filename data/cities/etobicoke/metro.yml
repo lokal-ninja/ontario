@@ -1,11 +1,11 @@
 id: 382778656
-type: way
+type: node
 latitude: 43.67532
 longitude: -79.55547
-postcode: "M9B 6H6"
+postcode: M9B 6H6
 city: Etobicoke
-street: "Lloyd Manor Road"
-housenumber: 201
-phone: "+1-416-236-3217"
-opening_hours: "24/7"
+street: Lloyd Manor Road
+housenumber: "201"
+phone: +1-416-236-3217
+opening_hours: 24/7
 website: ""

@@ -2,10 +2,10 @@ id: 3385444453
 type: node
 latitude: 43.6045
 longitude: -79.51913
-postcode: "M8V 2E8"
+postcode: M8V 2E8
 city: Toronto
-street: "New Toronto Street"
-housenumber: 300
-phone: "+1-416-300-8800"
-opening_hours: "Mo-Fr off; Sa 09:00-17:00"
-website: "http://www.lorislocker.com/"
+street: New Toronto Street
+housenumber: "300"
+phone: +1-416-300-8800
+opening_hours: Mo-Fr off; Sa 09:00-17:00
+website: http://www.lorislocker.com/

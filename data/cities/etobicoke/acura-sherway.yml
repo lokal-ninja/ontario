@@ -1,11 +1,11 @@
 id: 58565875
-type: way
+type: node
 latitude: 43.61362
 longitude: -79.56232
 postcode: ""
 city: Etobicoke
-street: "The Queensway"
-housenumber: 2000
+street: The Queensway
+housenumber: "2000"
 phone: ""
 opening_hours: ""
-website: "https://www.acurasherway.com/"
+website: https://www.acurasherway.com/

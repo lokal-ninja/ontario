@@ -1,11 +1,11 @@
 id: 362678797
-type: way
+type: node
 latitude: 43.75974
 longitude: -79.79473
 postcode: ""
 city: Brampton
-street: "Coachworks Crescent"
-housenumber: 10
+street: Coachworks Crescent
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "http://www.mercedes-benzbrampton.ca/"
+website: http://www.mercedes-benzbrampton.ca/

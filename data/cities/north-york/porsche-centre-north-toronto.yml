@@ -1,11 +1,11 @@
 id: 763173534
-type: way
+type: node
 latitude: 43.77058
 longitude: -79.33322
-postcode: "M2J 4R2"
+postcode: M2J 4R2
 city: North York
-street: "Yorkland Boulevard"
-housenumber: 165
+street: Yorkland Boulevard
+housenumber: "165"
 phone: ""
 opening_hours: ""
-website: "https://www.porschecentrenorthtoronto.ca/"
+website: https://www.porschecentrenorthtoronto.ca/

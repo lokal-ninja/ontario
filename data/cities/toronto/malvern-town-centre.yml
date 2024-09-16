@@ -1,11 +1,11 @@
 id: 31560419
-type: way
+type: node
 latitude: 43.80795
 longitude: -79.22016
 postcode: ""
 city: Toronto
-street: "Tapscott Road"
-housenumber: 31
+street: Tapscott Road
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

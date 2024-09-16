@@ -1,11 +1,11 @@
 id: 344025073
-type: way
+type: node
 latitude: 43.69153
 longitude: -79.28516
 postcode: ""
 city: Toronto
-street: "Danforth Avenue"
-housenumber: 3141
+street: Danforth Avenue
+housenumber: "3141"
 phone: ""
 opening_hours: ""
 website: ""

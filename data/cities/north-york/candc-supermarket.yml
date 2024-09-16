@@ -1,11 +1,11 @@
 id: 43806453
-type: way
+type: node
 latitude: 43.72591
 longitude: -79.34153
 postcode: ""
 city: North York
-street: "Don Mills Road"
-housenumber: 888
+street: Don Mills Road
+housenumber: "888"
 phone: ""
-opening_hours: "09:00-23:00"
+opening_hours: 09:00-23:00
 website: ""

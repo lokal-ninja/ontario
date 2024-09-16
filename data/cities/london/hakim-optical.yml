@@ -2,10 +2,10 @@ id: 2623040917
 type: node
 latitude: 42.98578
 longitude: -81.25347
-postcode: "N6A 2S4"
+postcode: N6A 2S4
 city: London
-street: "Talbot Street"
-housenumber: 501
-phone: "+1-519-434-9111"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00"
-website: "https://www.hakimoptical.ca/"
+street: Talbot Street
+housenumber: "501"
+phone: +1-519-434-9111
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00
+website: https://www.hakimoptical.ca/

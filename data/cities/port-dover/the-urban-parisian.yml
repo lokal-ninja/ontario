@@ -2,10 +2,10 @@ id: 6636541544
 type: node
 latitude: 42.78741
 longitude: -80.20492
-postcode: "N0A 1N0"
+postcode: N0A 1N0
 city: Port Dover
-street: "Main Street"
-housenumber: 401
+street: Main Street
+housenumber: "401"
 phone: ""
 opening_hours: ""
-website: "https://www.urbanparisian.com/"
+website: https://www.urbanparisian.com/

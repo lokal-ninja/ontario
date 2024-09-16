@@ -2,10 +2,11 @@ id: 4015549346
 type: node
 latitude: 43.66765
 longitude: -79.36951
-postcode: "M4X 1P8"
+postcode: M4X 1P8
 city: Toronto
-street: "Parliament Street"
-housenumber: 576
-phone: "+1-416-921-3772"
-opening_hours: "Fr 09:00-19:00; Sa 09:00-18:00; Su closed; Mo 09:00-18:00; Tu 09:00-18:00; We 09:00-18:00; Th 09:00-18:00"
-website: "http://wwww.nettleships.ca"
+street: Parliament Street
+housenumber: "576"
+phone: +1-416-921-3772
+opening_hours: Fr 09:00-19:00; Sa 09:00-18:00; Su closed; Mo 09:00-18:00; Tu 09:00-18:00;
+    We 09:00-18:00; Th 09:00-18:00
+website: http://wwww.nettleships.ca

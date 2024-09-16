@@ -1,11 +1,11 @@
 id: 527301203
-type: way
+type: node
 latitude: 42.92691
 longitude: -80.28871
-postcode: "N0E 1Y0"
+postcode: N0E 1Y0
 city: Waterford
-street: "Main Street"
-housenumber: 308
-phone: "+1-519-443-7371"
+street: Main Street
+housenumber: "308"
+phone: +1-519-443-7371
 opening_hours: ""
 website: ""

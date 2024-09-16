@@ -1,11 +1,11 @@
 id: 143933400
-type: way
+type: node
 latitude: 43.50192
 longitude: -79.87989
 postcode: ""
 city: Milton
-street: "Bronte Street South"
-housenumber: 318
+street: Bronte Street South
+housenumber: "318"
 phone: ""
 opening_hours: ""
 website: ""

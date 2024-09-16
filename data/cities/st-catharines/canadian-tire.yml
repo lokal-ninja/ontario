@@ -1,11 +1,11 @@
 id: 256075871
-type: way
+type: node
 latitude: 43.13525
 longitude: -79.21779
 postcode: ""
 city: St. Catharines
-street: "Glendale Avenue"
-housenumber: 306
-phone: "+1-855-613-7483"
+street: Glendale Avenue
+housenumber: "306"
+phone: +1-855-613-7483
 opening_hours: ""
 website: ""

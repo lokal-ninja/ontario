@@ -1,11 +1,11 @@
 id: 527810469
-type: way
+type: node
 latitude: 42.96779
 longitude: -81.63433
-postcode: "N7G 3C1"
+postcode: N7G 3C1
 city: Strathroy
-street: "Victoria Street"
-housenumber: 626
+street: Victoria Street
+housenumber: "626"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.realcanadiansuperstore.ca/store-locator/details/2823"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.realcanadiansuperstore.ca/store-locator/details/2823

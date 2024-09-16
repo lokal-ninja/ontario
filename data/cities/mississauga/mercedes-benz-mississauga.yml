@@ -1,11 +1,11 @@
 id: 33137346
-type: way
+type: node
 latitude: 43.61408
 longitude: -79.69931
 postcode: ""
 city: Mississauga
-street: "Mavis Road"
-housenumber: 6120
+street: Mavis Road
+housenumber: "6120"
 phone: ""
 opening_hours: ""
-website: "https://mississauga.mercedes-benz.ca"
+website: https://mississauga.mercedes-benz.ca

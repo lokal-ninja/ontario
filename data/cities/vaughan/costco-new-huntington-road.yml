@@ -1,11 +1,11 @@
 id: 543787600
-type: way
+type: node
 latitude: 43.76944
 longitude: -79.63917
 postcode: ""
 city: Vaughan
-street: "New Huntington Road"
-housenumber: 55
-phone: "+1-289-459-0921"
+street: New Huntington Road
+housenumber: "55"
+phone: +1-289-459-0921
 opening_hours: ""
-website: "https://www.costco.ca/warehouse-locations/nw-vaughan-woodbridge-on-1261.html"
+website: https://www.costco.ca/warehouse-locations/nw-vaughan-woodbridge-on-1261.html

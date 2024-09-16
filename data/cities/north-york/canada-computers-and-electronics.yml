@@ -2,10 +2,10 @@ id: 568834880
 type: node
 latitude: 43.79675
 longitude: -79.42262
-postcode: "M2M 3X4"
+postcode: M2M 3X4
 city: North York
-street: "Yonge Street"
-housenumber: 6600
-phone: "+1 416-733-4481"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://www.canadacomputers.com/location_details.php?loc=NO"
+street: Yonge Street
+housenumber: "6600"
+phone: +1 416-733-4481
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 11:00-18:00
+website: https://www.canadacomputers.com/location_details.php?loc=NO

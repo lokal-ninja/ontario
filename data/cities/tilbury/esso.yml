@@ -1,11 +1,11 @@
 id: 488125195
-type: way
+type: node
 latitude: 42.26605
 longitude: -82.41845
-postcode: "N0P 2L0"
+postcode: N0P 2L0
 city: Tilbury
-street: "Queen's Line"
-housenumber: 3613
-phone: "+1-519-682-1166"
+street: Queen's Line
+housenumber: "3613"
+phone: +1-519-682-1166
 opening_hours: ""
-website: "https://www.esso.ca/en-ca/find-station/esso-tilbury-on-esso-200303047"
+website: https://www.esso.ca/en-ca/find-station/esso-tilbury-on-esso-200303047

@@ -1,11 +1,11 @@
 id: 819244375
-type: way
+type: node
 latitude: 44.87985
 longitude: -76.03795
-postcode: "K7A 4T4"
+postcode: K7A 4T4
 city: Smiths Falls
-street: "Highway 15"
-housenumber: 256
-phone: "+1-613-706-3949"
+street: Highway 15
+housenumber: "256"
+phone: +1-613-706-3949
 opening_hours: ""
-website: "https://svmrestore-lanark.ca"
+website: https://svmrestore-lanark.ca

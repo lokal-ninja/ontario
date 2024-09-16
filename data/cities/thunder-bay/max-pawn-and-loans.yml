@@ -1,11 +1,11 @@
 id: 373149973
-type: way
+type: node
 latitude: 48.43573
 longitude: -89.22141
 postcode: ""
 city: Thunder Bay
-street: "Red River Road"
-housenumber: 250
-phone: "+1-807-286-7296"
+street: Red River Road
+housenumber: "250"
+phone: +1-807-286-7296
 opening_hours: ""
 website: ""

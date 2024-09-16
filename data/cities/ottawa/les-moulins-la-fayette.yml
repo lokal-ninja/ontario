@@ -2,10 +2,10 @@ id: 5697750384
 type: node
 latitude: 45.40528
 longitude: -75.72301
-postcode: "K1Y 2X9"
+postcode: K1Y 2X9
 city: Ottawa
-street: "Wellington Street West"
-housenumber: 1000
-phone: "+1-613-680-5653"
-opening_hours: "Tu-Th,Su 08:00-15:00; Fr,Sa 08:00-16:00"
-website: "https://lesmoulinslafayette.com/hintonburg/"
+street: Wellington Street West
+housenumber: "1000"
+phone: +1-613-680-5653
+opening_hours: Tu-Th,Su 08:00-15:00; Fr,Sa 08:00-16:00
+website: https://lesmoulinslafayette.com/hintonburg/

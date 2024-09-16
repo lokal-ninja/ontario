@@ -1,11 +1,11 @@
 id: 547304682
-type: way
+type: node
 latitude: 42.33448
 longitude: -81.99818
-postcode: "N0P 1A0"
+postcode: N0P 1A0
 city: Blenheim
-street: "Talbot Street West"
-housenumber: 40
+street: Talbot Street West
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

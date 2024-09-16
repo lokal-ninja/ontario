@@ -2,10 +2,10 @@ id: 4315318434
 type: node
 latitude: 43.65082
 longitude: -79.36971
-postcode: "M5A 4M5"
+postcode: M5A 4M5
 city: Toronto
-street: "King Street East"
-housenumber: 201
-phone: "+1-416-365-0481"
+street: King Street East
+housenumber: "201"
+phone: +1-416-365-0481
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 87327569
-type: way
+type: node
 latitude: 43.85212
 longitude: -79.24992
 postcode: ""
 city: Markham
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.costco.ca/warehouse-locations/e-markham-markham-on-545.html"
+website: https://www.costco.ca/warehouse-locations/e-markham-markham-on-545.html

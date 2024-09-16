@@ -1,11 +1,11 @@
 id: 168357387
-type: way
+type: node
 latitude: 43.25896
 longitude: -79.86714
 postcode: ""
 city: Hamilton
-street: "Wilson Street"
-housenumber: 20
-phone: "+1 905-523-1010"
-opening_hours: "Mo-Su 12:00-18:00"
-website: "http://www.drdisc.ca/"
+street: Wilson Street
+housenumber: "20"
+phone: +1 905-523-1010
+opening_hours: Mo-Su 12:00-18:00
+website: http://www.drdisc.ca/

@@ -2,10 +2,11 @@ id: 9460388383
 type: node
 latitude: 44.32022
 longitude: -79.88755
-postcode: "L0M 1B2"
+postcode: L0M 1B2
 city: Angus
-street: "Pine River Road"
-housenumber: 4
-phone: "+1 705-424-3778"
-opening_hours: "Mo 10:00-15:00, Tu 09:00-08:00, We,Fr 09:00-17:00, Th 10:00-20:00, Sa 09:00-15:00"
-website: "https://thebeautyloungeangus.ca/"
+street: Pine River Road
+housenumber: "4"
+phone: +1 705-424-3778
+opening_hours: Mo 10:00-15:00, Tu 09:00-08:00, We,Fr 09:00-17:00, Th 10:00-20:00,
+    Sa 09:00-15:00
+website: https://thebeautyloungeangus.ca/

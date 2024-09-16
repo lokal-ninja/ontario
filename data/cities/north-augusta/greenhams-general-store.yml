@@ -1,11 +1,11 @@
 id: 522141052
-type: way
+type: node
 latitude: 44.76149
 longitude: -75.73859
-postcode: "K0G 1R0"
+postcode: K0G 1R0
 city: North Augusta
-street: "County Road 15"
-housenumber: 9025
-phone: "+1-613-926-2167"
+street: County Road 15
+housenumber: "9025"
+phone: +1-613-926-2167
 opening_hours: ""
 website: ""

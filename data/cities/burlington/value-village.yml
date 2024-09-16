@@ -1,11 +1,11 @@
 id: 167268486
-type: way
+type: node
 latitude: 43.3435
 longitude: -79.80098
-postcode: "L7R 2E3"
+postcode: L7R 2E3
 city: Burlington
-street: "Fairview Street"
-housenumber: 2340
+street: Fairview Street
+housenumber: "2340"
 phone: "+19056316990"
-opening_hours: "Mo-Sa 10:00-21:00; Su 10:00-19:00"
-website: "https://stores.savers.com/on/burlington/valuevillage-thrift-store-2061.html"
+opening_hours: Mo-Sa 10:00-21:00; Su 10:00-19:00
+website: https://stores.savers.com/on/burlington/valuevillage-thrift-store-2061.html

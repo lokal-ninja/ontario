@@ -1,11 +1,11 @@
 id: 486849676
-type: way
+type: node
 latitude: 43.54801
 longitude: -80.25324
-postcode: "N1H 2H7"
+postcode: N1H 2H7
 city: Guelph
-street: "Suffolk Street East"
-housenumber: 23
+street: Suffolk Street East
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.65885
 longitude: -79.43968
 postcode: ""
 city: Toronto
-street: "Bloor Street West"
+street: Bloor Street West
 housenumber: 1203B
-phone: "+1-647-352-3689"
-opening_hours: "Mo 10:30-20:00; Tu closed; We-Sa 10:30-20:00; Su by appointment"
-website: "https://www.nailmassageclinic.com/"
+phone: +1-647-352-3689
+opening_hours: Mo 10:30-20:00; Tu closed; We-Sa 10:30-20:00; Su "by appointment"
+website: https://www.nailmassageclinic.com/

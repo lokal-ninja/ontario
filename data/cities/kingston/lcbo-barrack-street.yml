@@ -1,11 +1,11 @@
 id: 55689337
-type: way
+type: node
 latitude: 44.23313
 longitude: -76.48102
 postcode: ""
 city: Kingston
-street: "Barrack Street"
-housenumber: 34
+street: Barrack Street
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

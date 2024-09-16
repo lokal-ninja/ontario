@@ -1,11 +1,11 @@
 id: 681936086
-type: way
+type: node
 latitude: 43.61441
 longitude: -79.52988
 postcode: ""
 city: Toronto
-street: "Evans Avenue"
-housenumber: 415
-phone: "+1-416-626-3555"
+street: Evans Avenue
+housenumber: "415"
+phone: +1-416-626-3555
 opening_hours: ""
-website: "https://www.visiontruckgroup.com/"
+website: https://www.visiontruckgroup.com/

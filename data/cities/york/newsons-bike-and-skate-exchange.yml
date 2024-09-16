@@ -1,11 +1,11 @@
 id: 218534091
-type: way
+type: node
 latitude: 43.66531
 longitude: -79.49158
-postcode: "M6S 4A6"
+postcode: M6S 4A6
 city: York
-street: "Jane Street"
-housenumber: 612
+street: Jane Street
+housenumber: "612"
 phone: ""
 opening_hours: ""
 website: ""

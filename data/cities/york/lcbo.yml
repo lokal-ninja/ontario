@@ -1,11 +1,11 @@
 id: 218534080
-type: way
+type: node
 latitude: 43.66632
 longitude: -79.48896
-postcode: "M6S 2S1"
+postcode: M6S 2S1
 city: York
-street: "Dundas Street West"
-housenumber: 3520
+street: Dundas Street West
+housenumber: "3520"
 phone: ""
 opening_hours: ""
-website: "https://www.lcbo.com/"
+website: https://www.lcbo.com/

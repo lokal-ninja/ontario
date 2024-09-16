@@ -2,10 +2,11 @@ id: 6393828888
 type: node
 latitude: 42.77326
 longitude: -80.9837
-postcode: "N5H 1J6"
+postcode: N5H 1J6
 city: Aylmer
-street: "Talbot Street West"
-housenumber: 27
-phone: "+1-519-765-1183"
-opening_hours: "Su closed; Mo 09:00-17:00; Tu 09:00-17:00; We 09:00-17:00; Th 09:00-17:00; Fr 09:00-17:00; Sa 09:00-15:00"
-website: "https://theflowerfountain.com/"
+street: Talbot Street West
+housenumber: "27"
+phone: +1-519-765-1183
+opening_hours: Su closed; Mo 09:00-17:00; Tu 09:00-17:00; We 09:00-17:00; Th 09:00-17:00;
+    Fr 09:00-17:00; Sa 09:00-15:00
+website: https://theflowerfountain.com/

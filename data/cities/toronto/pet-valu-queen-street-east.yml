@@ -4,8 +4,8 @@ latitude: 43.66703
 longitude: -79.31451
 postcode: ""
 city: Toronto
-street: "Queen Street East"
-housenumber: 1656
+street: Queen Street East
+housenumber: "1656"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-18:00"
-website: "https://store.petvalu.ca/location/2332"
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-18:00
+website: https://store.petvalu.ca/location/2332

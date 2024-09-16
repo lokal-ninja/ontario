@@ -1,11 +1,11 @@
 id: 254742465
-type: way
+type: node
 latitude: 43.40426
 longitude: -80.66464
 postcode: ""
 city: Baden
-street: "Snyder's Road East"
-housenumber: 125
-phone: "+1-519-513-2220"
-opening_hours: "Mo 12:00-18:00; Tu,Sa,Su off; We,Fr 12:00-19:00; Th 12:00-16:00"
-website: "http://www.badenoptical.ca/"
+street: Snyder's Road East
+housenumber: "125"
+phone: +1-519-513-2220
+opening_hours: Mo 12:00-18:00; Tu,Sa,Su off; We,Fr 12:00-19:00; Th 12:00-16:00
+website: http://www.badenoptical.ca/

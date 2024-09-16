@@ -1,11 +1,11 @@
 id: 389131184
-type: way
+type: node
 latitude: 44.7339
 longitude: -79.87215
-postcode: "L4R 0B8"
+postcode: L4R 0B8
 city: Midland
-street: "King Street"
-housenumber: 868
-phone: "+1-705-540-8015"
+street: King Street
+housenumber: "868"
+phone: +1-705-540-8015
 opening_hours: ""
-website: "https://bourgeoishyundai.com/"
+website: https://bourgeoishyundai.com/

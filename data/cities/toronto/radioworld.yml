@@ -2,10 +2,10 @@ id: 262823745
 type: node
 latitude: 43.77311
 longitude: -79.53022
-postcode: "M3N 1V9"
+postcode: M3N 1V9
 city: Toronto
-street: "Steeles Avenue West"
-housenumber: 4335
-phone: "+1-416-667-1000"
+street: Steeles Avenue West
+housenumber: "4335"
+phone: +1-416-667-1000
 opening_hours: ""
-website: "https://www.radioworld.ca/"
+website: https://www.radioworld.ca/

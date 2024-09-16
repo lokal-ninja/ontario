@@ -4,8 +4,8 @@ latitude: 43.64677
 longitude: -79.40555
 postcode: ""
 city: Toronto
-street: "Queen Street West"
-housenumber: 701
+street: Queen Street West
+housenumber: "701"
 phone: ""
-opening_hours: "Mo-Su 07:00-21:00"
-website: "https://fuzzwaxbar.com/en/queen-west"
+opening_hours: Mo-Su 07:00-21:00
+website: https://fuzzwaxbar.com/en/queen-west

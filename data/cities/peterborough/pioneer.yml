@@ -1,11 +1,11 @@
 id: 299926461
-type: way
+type: node
 latitude: 44.24028
 longitude: -78.40319
-postcode: "K9J 6X6"
+postcode: K9J 6X6
 city: Peterborough
-street: "Highway 7"
-housenumber: 6868
-phone: "+1-705-742-6296"
+street: Highway 7
+housenumber: "6868"
+phone: +1-705-742-6296
 opening_hours: ""
 website: ""

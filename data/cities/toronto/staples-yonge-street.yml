@@ -1,11 +1,11 @@
 id: 435193171
-type: way
+type: node
 latitude: 43.67948
 longitude: -79.39068
-postcode: "M4W 2L8"
+postcode: M4W 2L8
 city: Toronto
-street: "Yonge Street"
-housenumber: 1140
+street: Yonge Street
+housenumber: "1140"
 phone: ""
 opening_hours: ""
 website: ""

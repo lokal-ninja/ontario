@@ -1,11 +1,11 @@
 id: 181123983
-type: way
+type: node
 latitude: 46.48713
 longitude: -81.00777
-postcode: "P3C 4C6"
+postcode: P3C 4C6
 city: Sudbury
-street: "Regent Street"
-housenumber: 259
+street: Regent Street
+housenumber: "259"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

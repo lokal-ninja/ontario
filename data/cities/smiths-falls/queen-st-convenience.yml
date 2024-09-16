@@ -1,11 +1,11 @@
 id: 614207143
-type: way
+type: node
 latitude: 44.89452
 longitude: -76.00776
-postcode: "K7A 3N6"
+postcode: K7A 3N6
 city: Smiths Falls
-street: "Queen Street"
-housenumber: 104
+street: Queen Street
+housenumber: "104"
 phone: ""
 opening_hours: ""
 website: ""

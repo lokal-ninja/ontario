@@ -1,11 +1,11 @@
 id: 817718897
-type: way
+type: node
 latitude: 44.87664
 longitude: -76.01405
-postcode: "K7A 4S5"
+postcode: K7A 4S5
 city: Smiths Falls
-street: "County Road 29"
-housenumber: 327
-phone: "+1-613-283-9077"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-14:00; Su closed"
-website: "https://www.mcmullanapplianceandmattress.ca"
+street: County Road 29
+housenumber: "327"
+phone: +1-613-283-9077
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-14:00; Su closed
+website: https://www.mcmullanapplianceandmattress.ca

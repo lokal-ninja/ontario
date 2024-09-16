@@ -2,10 +2,10 @@ id: 5102320072
 type: node
 latitude: 45.25341
 longitude: -75.12162
-postcode: "K0A 3C0"
+postcode: K0A 3C0
 city: St-Albert
-street: "rue St-Paul"
-housenumber: 150
-phone: "+1 613 987-2872;+1 800-465-1553"
-opening_hours: "Su-Sa 9:00-18:00; PH 9:00-18:00"
+street: rue St-Paul
+housenumber: "150"
+phone: +1 613 987-2872;+1 800-465-1553
+opening_hours: Su-Sa 9:00-18:00; PH 9:00-18:00
 website: ""

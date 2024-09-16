@@ -1,11 +1,11 @@
 id: 436616210
-type: way
+type: node
 latitude: 43.84846
 longitude: -79.55328
-postcode: "L4H4E8"
+postcode: L4H4E8
 city: Vaughan
-street: "Cityview Boulevard"
-housenumber: 55
+street: Cityview Boulevard
+housenumber: "55"
 phone: "+19053032323"
-opening_hours: "Mo-Fr 06:00-21:00,Sa 07:00-20:00,Su 08:00-20:00"
-website: "https://stores.homedepot.ca/on/vaughan/home-improvement-vaughan-on-7253.html"
+opening_hours: Mo-Fr 06:00-21:00,Sa 07:00-20:00,Su 08:00-20:00
+website: https://stores.homedepot.ca/on/vaughan/home-improvement-vaughan-on-7253.html

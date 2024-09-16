@@ -4,8 +4,8 @@ latitude: 43.65045
 longitude: -79.47877
 postcode: ""
 city: Toronto
-street: "Bloor Street West"
-housenumber: 2283
-phone: "+1-416-767-2105"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 08:00-17:30; Su 10:00-16:30"
-website: "https://www.bloormeatmarket.com/"
+street: Bloor Street West
+housenumber: "2283"
+phone: +1-416-767-2105
+opening_hours: Tu-Fr 09:00-18:00; Sa 08:00-17:30; Su 10:00-16:30
+website: https://www.bloormeatmarket.com/

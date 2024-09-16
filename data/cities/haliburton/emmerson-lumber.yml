@@ -1,11 +1,11 @@
 id: 683744195
-type: way
+type: node
 latitude: 45.04838
 longitude: -78.50936
-postcode: "K0M 1S0"
+postcode: K0M 1S0
 city: Haliburton
-street: "Maple Avenue"
-housenumber: 63
-phone: "+1-705-457-1550"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 09:00-15:00"
-website: "https://www.emmersonlumber.com/"
+street: Maple Avenue
+housenumber: "63"
+phone: +1-705-457-1550
+opening_hours: Mo-Fr 07:30-17:00; Sa 09:00-15:00
+website: https://www.emmersonlumber.com/

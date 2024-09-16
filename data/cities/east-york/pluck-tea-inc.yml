@@ -4,8 +4,8 @@ latitude: 43.71314
 longitude: -79.35208
 postcode: ""
 city: East York
-street: "Research Road"
-housenumber: 89
-phone: "+1-416-882-7787"
+street: Research Road
+housenumber: "89"
+phone: +1-416-882-7787
 opening_hours: ""
-website: "https://pluckteas.com/"
+website: https://pluckteas.com/

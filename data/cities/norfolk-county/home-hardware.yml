@@ -1,11 +1,11 @@
 id: 234895730
-type: way
+type: node
 latitude: 42.78717
 longitude: -80.2033
 postcode: ""
 city: Norfolk County
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.homehardware.ca/en/store/13184"
+website: https://www.homehardware.ca/en/store/13184

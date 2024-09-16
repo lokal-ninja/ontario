@@ -1,11 +1,11 @@
 id: 519451194
-type: way
+type: node
 latitude: 46.53461
 longitude: -84.48311
-postcode: "P6A 6K4"
+postcode: P6A 6K4
 city: Sault Ste Marie
-street: "Second Line Road West"
-housenumber: 2667
-phone: "+1-705-779-3480"
+street: Second Line Road West
+housenumber: "2667"
+phone: +1-705-779-3480
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 657979259
-type: way
+type: node
 latitude: 43.62728
 longitude: -79.52867
 postcode: ""
 city: Toronto
-street: "Kipling Avenue"
-housenumber: 741
+street: Kipling Avenue
+housenumber: "741"
 phone: ""
 opening_hours: ""
-website: "https://www.province-electric.com/pages/etobicoke-branch"
+website: https://www.province-electric.com/pages/etobicoke-branch

@@ -2,10 +2,10 @@ id: 4015549351
 type: node
 latitude: 43.66756
 longitude: -79.36915
-postcode: "M4X 1P9"
+postcode: M4X 1P9
 city: Toronto
-street: "Parliament Street"
-housenumber: 589
-phone: "+1-416-964-0164"
+street: Parliament Street
+housenumber: "589"
+phone: +1-416-964-0164
 opening_hours: ""
-website: "https://www.pattysflowers.ca/"
+website: https://www.pattysflowers.ca/

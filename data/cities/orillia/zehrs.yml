@@ -1,11 +1,11 @@
 id: 364680408
-type: way
+type: node
 latitude: 44.60783
 longitude: -79.43843
-postcode: "L3V 6J3"
+postcode: L3V 6J3
 city: Orillia
-street: "Coldwater Road"
-housenumber: 289
-phone: "+1-705-325-5777"
-opening_hours: "Mo-Sa 07:00-23:00; Su 08:00-23:00"
+street: Coldwater Road
+housenumber: "289"
+phone: +1-705-325-5777
+opening_hours: Mo-Sa 07:00-23:00; Su 08:00-23:00
 website: ""

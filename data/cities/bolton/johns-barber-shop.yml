@@ -2,10 +2,10 @@ id: 12052114786
 type: node
 latitude: 43.88021
 longitude: -79.73776
-postcode: "L7E 1C2"
+postcode: L7E 1C2
 city: Bolton
-street: "King Street East"
-housenumber: 21
-phone: "+1 905 857 1167"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-16:00"
-website: "https://boltonbarber.com/"
+street: King Street East
+housenumber: "21"
+phone: +1 905 857 1167
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:00-16:00
+website: https://boltonbarber.com/

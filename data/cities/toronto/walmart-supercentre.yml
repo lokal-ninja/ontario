@@ -1,11 +1,11 @@
 id: 326292601
-type: way
+type: node
 latitude: 43.74341
 longitude: -79.22327
-postcode: "M1J 2H1"
+postcode: M1J 2H1
 city: Toronto
-street: "Eglinton Avenue East"
-housenumber: 3132
+street: Eglinton Avenue East
+housenumber: "3132"
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.walmart.ca/en/stores-near-me/scarborough-south-1117"
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.walmart.ca/en/stores-near-me/scarborough-south-1117

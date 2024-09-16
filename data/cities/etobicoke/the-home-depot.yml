@@ -1,11 +1,11 @@
 id: 33459517
-type: way
+type: node
 latitude: 43.61627
 longitude: -79.55436
-postcode: "M9C 4Y1"
+postcode: M9C 4Y1
 city: Etobicoke
-street: "North Queen Street"
-housenumber: 193
-phone: "+1-416-626-9800"
+street: North Queen Street
+housenumber: "193"
+phone: +1-416-626-9800
 opening_hours: ""
-website: "http://www.homedepot.ca/"
+website: http://www.homedepot.ca/

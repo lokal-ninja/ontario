@@ -1,11 +1,11 @@
 id: 118662121
-type: way
+type: node
 latitude: 43.47579
 longitude: -80.52384
 postcode: ""
 city: Waterloo
-street: "Regina Street North"
-housenumber: 230
+street: Regina Street North
+housenumber: "230"
 phone: ""
 opening_hours: ""
 website: ""

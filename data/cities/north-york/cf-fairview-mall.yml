@@ -1,11 +1,11 @@
 id: 662538570
-type: way
+type: node
 latitude: 43.77905
 longitude: -79.34364
 postcode: ""
 city: North York
-street: "Sheppard Avenue East"
-housenumber: 1800
+street: Sheppard Avenue East
+housenumber: "1800"
 phone: ""
-opening_hours: "Mo-Fr 10:00-21:00; Sa 09:30-20:00; Su 11:00-18:00"
-website: "http://www.fairviewmall.ca"
+opening_hours: Mo-Fr 10:00-21:00; Sa 09:30-20:00; Su 11:00-18:00
+website: http://www.fairviewmall.ca

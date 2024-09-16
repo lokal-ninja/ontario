@@ -2,10 +2,10 @@ id: 4574910247
 type: node
 latitude: 43.65306
 longitude: -79.40125
-postcode: "M5T 2L4"
+postcode: M5T 2L4
 city: Toronto
-street: "Augusta Avenue"
-housenumber: 167
-phone: "+1-416-533-1010"
-opening_hours: "Mo-Su 12:00-18:00"
-website: "https://www.upsidecyclestyle.com/"
+street: Augusta Avenue
+housenumber: "167"
+phone: +1-416-533-1010
+opening_hours: Mo-Su 12:00-18:00
+website: https://www.upsidecyclestyle.com/

@@ -4,8 +4,8 @@ latitude: 42.9848
 longitude: -79.23707
 postcode: ""
 city: Welland
-street: "Lincoln Street"
-housenumber: 390
+street: Lincoln Street
+housenumber: "390"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.thebeerstore.ca/locations/lincoln-st-e"
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.thebeerstore.ca/locations/lincoln-st-e

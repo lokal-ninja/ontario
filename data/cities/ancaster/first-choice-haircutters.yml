@@ -4,8 +4,8 @@ latitude: 43.21633
 longitude: -79.99036
 postcode: ""
 city: Ancaster
-street: "Wilson Street West"
-housenumber: 73
-phone: "+1-905-648-8707"
-opening_hours: "Mo-We 09:00-18:00; Th-Fr 09:00-19:00; Sa 09:00-18:00; Su10:00-17:00"
-website: "https://www.firstchoice.com"
+street: Wilson Street West
+housenumber: "73"
+phone: +1-905-648-8707
+opening_hours: Mo-We 09:00-18:00; Th-Fr 09:00-19:00; Sa 09:00-18:00; Su10:00-17:00
+website: https://www.firstchoice.com

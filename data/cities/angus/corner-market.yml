@@ -2,10 +2,10 @@ id: 11444151024
 type: node
 latitude: 44.32075
 longitude: -79.88577
-postcode: "(705) 530-9604"
+postcode: (705) 530-9604
 city: Angus
-street: "King Street"
-housenumber: 17
-phone: "+1 705-530-9604"
-opening_hours: "Mo-Th 09:00-19:00; Fr 09:00-20:00; Sa 09:00-19:00; Su 09:00-18:00"
-website: "https://www.cornermarketbarrie.ca/"
+street: King Street
+housenumber: "17"
+phone: +1 705-530-9604
+opening_hours: Mo-Th 09:00-19:00; Fr 09:00-20:00; Sa 09:00-19:00; Su 09:00-18:00
+website: https://www.cornermarketbarrie.ca/

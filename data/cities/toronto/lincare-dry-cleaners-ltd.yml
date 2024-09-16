@@ -2,10 +2,10 @@ id: 1279783683
 type: node
 latitude: 43.63711
 longitude: -79.39642
-postcode: "M5V 3M8"
+postcode: M5V 3M8
 city: Toronto
-street: "Queens Quay West"
-housenumber: 550
+street: Queens Quay West
+housenumber: "550"
 phone: ""
 opening_hours: ""
 website: ""

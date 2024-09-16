@@ -1,11 +1,11 @@
 id: 668494501
-type: way
+type: node
 latitude: 43.22098
 longitude: -79.92055
 postcode: ""
 city: Hamilton
-street: "Greencedar Drive"
-housenumber: 366
+street: Greencedar Drive
+housenumber: "366"
 phone: ""
 opening_hours: ""
 website: ""

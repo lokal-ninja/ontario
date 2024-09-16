@@ -1,11 +1,11 @@
 id: 1190379074
-type: way
+type: node
 latitude: 45.82771
 longitude: -77.27779
 postcode: ""
 city: Pembroke
-street: "Barron Canyon Road"
-housenumber: 525
-phone: "+1 613 637 5508"
-opening_hours: "Mo-Su 09:00-17:00; Fr 09:00-18:00; Sa 08:00-17:00"
-website: "https://www.algonquinbound.com"
+street: Barron Canyon Road
+housenumber: "525"
+phone: +1 613 637 5508
+opening_hours: Mo-Su 09:00-17:00; Fr 09:00-18:00; Sa 08:00-17:00
+website: https://www.algonquinbound.com

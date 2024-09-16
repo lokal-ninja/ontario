@@ -1,11 +1,11 @@
 id: 525192900
-type: way
+type: node
 latitude: 42.99314
 longitude: -79.23602
-postcode: "L3B 3X8"
+postcode: L3B 3X8
 city: Welland
-street: "East Main Street"
-housenumber: 477
-phone: "+1-905-735-7806"
+street: East Main Street
+housenumber: "477"
+phone: +1-905-735-7806
 opening_hours: ""
-website: "https://stores.7-eleven.ca/store/24814"
+website: https://stores.7-eleven.ca/store/24814

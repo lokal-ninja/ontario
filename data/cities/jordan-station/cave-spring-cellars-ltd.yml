@@ -2,10 +2,10 @@ id: 5550528022
 type: node
 latitude: 43.14936
 longitude: -79.37017
-postcode: "L0R 1S0"
+postcode: L0R 1S0
 city: Jordan Station
-street: "Main St"
-housenumber: 3836
-phone: "+1-905-562-3581"
+street: Main St
+housenumber: "3836"
+phone: +1-905-562-3581
 opening_hours: ""
-website: "https://www.cavespring.ca/"
+website: https://www.cavespring.ca/

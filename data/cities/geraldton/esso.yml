@@ -1,11 +1,11 @@
 id: 364571568
-type: way
+type: node
 latitude: 49.71656
 longitude: -86.95155
-postcode: "P0T 1M0"
+postcode: P0T 1M0
 city: Geraldton
-street: "Main Street"
-housenumber: 804
-phone: "+1-807-854-1825"
+street: Main Street
+housenumber: "804"
+phone: +1-807-854-1825
 opening_hours: ""
-website: "https://www.esso.ca/en-ca/find-station/esso-geraldton-on-esso-200303831"
+website: https://www.esso.ca/en-ca/find-station/esso-geraldton-on-esso-200303831

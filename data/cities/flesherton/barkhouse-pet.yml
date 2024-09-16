@@ -1,11 +1,11 @@
 id: 525631282
-type: way
+type: node
 latitude: 44.31971
 longitude: -80.52324
-postcode: "N0C 1E0"
+postcode: N0C 1E0
 city: Flesherton
-street: "Grey County Road 13"
-housenumber: 194418
-phone: "+1-519-924-0202"
-opening_hours: "10:00-18:00"
+street: Grey County Road 13
+housenumber: "194418"
+phone: +1-519-924-0202
+opening_hours: 10:00-18:00
 website: ""

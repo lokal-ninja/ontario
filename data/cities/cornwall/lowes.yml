@@ -1,11 +1,11 @@
 id: 110353355
-type: way
+type: node
 latitude: 45.02219
 longitude: -74.75136
 postcode: ""
 city: Cornwall
-street: "Brookdale Avenue"
-housenumber: 950
+street: Brookdale Avenue
+housenumber: "950"
 phone: ""
 opening_hours: ""
 website: ""

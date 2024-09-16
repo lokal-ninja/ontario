@@ -1,11 +1,11 @@
 id: 182586929
-type: way
+type: node
 latitude: 43.65871
 longitude: -79.72431
 postcode: ""
 city: Brampton
-street: "Hurontario Street"
-housenumber: 7688
-phone: "+1-905-457-9215"
+street: Hurontario Street
+housenumber: "7688"
+phone: +1-905-457-9215
 opening_hours: ""
 website: ""

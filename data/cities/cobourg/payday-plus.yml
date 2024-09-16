@@ -1,11 +1,11 @@
 id: 598432330
-type: way
+type: node
 latitude: 43.96005
 longitude: -78.17671
-postcode: "K9A 3A2"
+postcode: K9A 3A2
 city: Cobourg
-street: "William Street"
-housenumber: 264
+street: William Street
+housenumber: "264"
 phone: ""
 opening_hours: ""
 website: ""

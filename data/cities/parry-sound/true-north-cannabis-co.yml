@@ -1,11 +1,11 @@
 id: 1120000101
-type: way
+type: node
 latitude: 45.3435
 longitude: -80.03379
 postcode: ""
 city: Parry Sound
-street: "Seguin Street"
-housenumber: 34
+street: Seguin Street
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 32542694
-type: way
+type: node
 latitude: 43.70926
 longitude: -79.47426
 postcode: ""
 city: North York
-street: "Lawrence Avenue West"
-housenumber: 1305
+street: Lawrence Avenue West
+housenumber: "1305"
 phone: ""
 opening_hours: ""
-website: "https://www.walmart.ca/en/stores-near-me/toronto-north-park-3105"
+website: https://www.walmart.ca/en/stores-near-me/toronto-north-park-3105

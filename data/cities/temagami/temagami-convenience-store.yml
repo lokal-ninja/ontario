@@ -1,11 +1,11 @@
 id: 517099744
-type: way
+type: node
 latitude: 47.06246
 longitude: -79.79102
-postcode: "P0H2H0"
+postcode: P0H2H0
 city: Temagami
-street: "Highway 11 North"
-housenumber: 6692
-phone: "+1-705-569-3310"
+street: Highway 11 North
+housenumber: "6692"
+phone: +1-705-569-3310
 opening_hours: ""
 website: ""

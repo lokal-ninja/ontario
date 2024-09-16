@@ -2,10 +2,11 @@ id: 4830853602
 type: node
 latitude: 43.99866
 longitude: -79.47517
-postcode: "L4G 2N9"
+postcode: L4G 2N9
 city: Aurora
-street: "Wellington Street West"
-housenumber: 126
-phone: "+1-905-503-8500"
-opening_hours: "Tu 07:00-19:00, We 07:00-19:00, Th 07:00-19:00, Fr 07:00-19:00, Sa 07:00-19:00, Su 07:00-19:00, Mo closed"
+street: Wellington Street West
+housenumber: "126"
+phone: +1-905-503-8500
+opening_hours: Tu 07:00-19:00, We 07:00-19:00, Th 07:00-19:00, Fr 07:00-19:00, Sa
+    07:00-19:00, Su 07:00-19:00, Mo closed
 website: ""

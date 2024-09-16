@@ -1,11 +1,11 @@
 id: 31812626
-type: way
+type: node
 latitude: 43.64023
 longitude: -79.41831
 postcode: ""
 city: Toronto
-street: "Lynn Williams Street"
-housenumber: 100
+street: Lynn Williams Street
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Su 07:00-24:00"
+opening_hours: Mo-Su 07:00-24:00
 website: ""

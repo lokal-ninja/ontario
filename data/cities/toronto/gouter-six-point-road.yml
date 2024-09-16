@@ -2,10 +2,10 @@ id: 11732324181
 type: node
 latitude: 43.63561
 longitude: -79.52762
-postcode: "m8z2x2"
+postcode: m8z2x2
 city: Toronto
-street: "Six Point Road"
-housenumber: 34
-phone: "+1 416 234 9066"
+street: Six Point Road
+housenumber: "34"
+phone: +1 416 234 9066
 opening_hours: ""
-website: "https://www.gouter.ca/"
+website: https://www.gouter.ca/

@@ -1,11 +1,11 @@
 id: 765997915
-type: way
+type: node
 latitude: 44.56036
 longitude: -80.97212
 postcode: ""
 city: Owen Sound
-street: "10th Street West"
-housenumber: 202437
+street: 10th Street West
+housenumber: "202437"
 phone: ""
 opening_hours: ""
-website: "https://www.greymotors.com/"
+website: https://www.greymotors.com/

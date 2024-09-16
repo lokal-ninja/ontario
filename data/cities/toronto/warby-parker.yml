@@ -4,8 +4,8 @@ latitude: 43.64659
 longitude: -79.40759
 postcode: ""
 city: Toronto
-street: "Queen Street West"
-housenumber: 684
+street: Queen Street West
+housenumber: "684"
 phone: ""
-opening_hours: "Mo-Su 11:00-19:00"
-website: "https://ca.warbyparker.com/"
+opening_hours: Mo-Su 11:00-19:00
+website: https://ca.warbyparker.com/

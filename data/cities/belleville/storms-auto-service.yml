@@ -1,11 +1,11 @@
 id: 860107719
-type: way
+type: node
 latitude: 44.20487
 longitude: -77.39467
-postcode: "K8N 4Z5"
+postcode: K8N 4Z5
 city: Belleville
-street: "Maitland Drive"
-housenumber: 380
-phone: "+1 613-969-8080"
-opening_hours: "Mo-Fr 09:30-17:00"
+street: Maitland Drive
+housenumber: "380"
+phone: +1 613-969-8080
+opening_hours: Mo-Fr 09:30-17:00
 website: ""

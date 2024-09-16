@@ -1,11 +1,11 @@
 id: 660832617
-type: way
+type: node
 latitude: 43.78816
 longitude: -79.4973
 postcode: ""
 city: Vaughan
-street: "Keele Street"
-housenumber: 7250
+street: Keele Street
+housenumber: "7250"
 phone: ""
 opening_hours: ""
-website: "https://www.improvecanada.com/"
+website: https://www.improvecanada.com/

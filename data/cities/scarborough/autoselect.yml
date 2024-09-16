@@ -1,11 +1,11 @@
 id: 281339971
-type: way
+type: node
 latitude: 43.72823
 longitude: -79.28415
 postcode: ""
 city: Scarborough
-street: "Eglinton Avenue East"
-housenumber: 1971
-phone: "+1-416-699-2275"
+street: Eglinton Avenue East
+housenumber: "1971"
+phone: +1-416-699-2275
 opening_hours: ""
 website: ""

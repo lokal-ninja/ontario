@@ -1,11 +1,11 @@
 id: 167395494
-type: way
+type: node
 latitude: 43.9452
 longitude: -78.84777
 postcode: ""
 city: Oshawa
-street: "Harmony Road North"
-housenumber: 1471
+street: Harmony Road North
+housenumber: "1471"
 phone: ""
 opening_hours: ""
-website: "https://www.walmart.ca/en/stores-near-me/oshawa-n-on-3161"
+website: https://www.walmart.ca/en/stores-near-me/oshawa-n-on-3161

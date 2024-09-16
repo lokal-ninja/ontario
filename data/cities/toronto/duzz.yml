@@ -1,11 +1,11 @@
 id: 585746060
-type: way
+type: node
 latitude: 43.7698
 longitude: -79.41283
-postcode: "M2N 5P5"
+postcode: M2N 5P5
 city: Toronto
-street: "Yonge Street"
-housenumber: 5169
-phone: "+1-647-352-7999"
+street: Yonge Street
+housenumber: "5169"
+phone: +1-647-352-7999
 opening_hours: ""
-website: "http://www.duzz.ca/"
+website: http://www.duzz.ca/

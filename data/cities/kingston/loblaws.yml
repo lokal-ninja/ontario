@@ -1,11 +1,11 @@
 id: 4982585
-type: way
+type: node
 latitude: 44.26163
 longitude: -76.57208
 postcode: ""
 city: Kingston
-street: "Midland Avenue"
-housenumber: 1048
+street: Midland Avenue
+housenumber: "1048"
 phone: ""
 opening_hours: ""
 website: ""

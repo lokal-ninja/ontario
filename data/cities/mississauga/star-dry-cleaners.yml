@@ -1,11 +1,11 @@
 id: 386637836
-type: way
+type: node
 latitude: 43.53661
 longitude: -79.68757
-postcode: "L5L 3R4"
+postcode: L5L 3R4
 city: Mississauga
-street: "Glen Erin Drive"
-housenumber: 3476
-phone: "+1-905-569-2328"
+street: Glen Erin Drive
+housenumber: "3476"
+phone: +1-905-569-2328
 opening_hours: ""
 website: ""

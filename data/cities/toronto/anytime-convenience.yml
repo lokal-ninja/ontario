@@ -1,11 +1,11 @@
 id: 585487292
-type: way
+type: node
 latitude: 43.77089
 longitude: -79.41311
-postcode: "M2N 5P7"
+postcode: M2N 5P7
 city: Toronto
-street: "Yonge Street"
-housenumber: 5215
-phone: "+1-416-225-3628"
+street: Yonge Street
+housenumber: "5215"
+phone: +1-416-225-3628
 opening_hours: ""
 website: ""

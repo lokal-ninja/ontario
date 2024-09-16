@@ -1,11 +1,11 @@
 id: 388141246
-type: way
+type: node
 latitude: 44.26099
 longitude: -76.96053
 postcode: ""
 city: Napanee
-street: "Commercial Court"
-housenumber: 15
-phone: "+1-613-354-1668"
+street: Commercial Court
+housenumber: "15"
+phone: +1-613-354-1668
 opening_hours: ""
 website: ""

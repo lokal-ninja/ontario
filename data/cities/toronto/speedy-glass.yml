@@ -1,11 +1,11 @@
 id: 59252056
-type: way
+type: node
 latitude: 43.62544
 longitude: -79.52768
 postcode: ""
 city: Toronto
-street: "Kipling Avenue"
-housenumber: 715
+street: Kipling Avenue
+housenumber: "715"
 phone: ""
 opening_hours: ""
 website: ""

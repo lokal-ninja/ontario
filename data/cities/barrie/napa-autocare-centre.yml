@@ -2,10 +2,10 @@ id: 3887106521
 type: node
 latitude: 44.38048
 longitude: -79.69411
-postcode: "L4N 3B3"
+postcode: L4N 3B3
 city: Barrie
-street: "Bradford Street"
-housenumber: 126
-phone: "+1 705-719-0773"
+street: Bradford Street
+housenumber: "126"
+phone: +1 705-719-0773
 opening_hours: ""
-website: "https://napaautocare.ca/find-a-location/"
+website: https://napaautocare.ca/find-a-location/

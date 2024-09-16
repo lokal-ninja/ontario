@@ -1,11 +1,11 @@
 id: 33408339
-type: way
+type: node
 latitude: 43.63024
 longitude: -79.48057
 postcode: ""
 city: Etobicoke
-street: "The Queensway"
-housenumber: 125
-phone: "+1-416-259-1758"
-opening_hours: "24/7"
+street: The Queensway
+housenumber: "125"
+phone: +1-416-259-1758
+opening_hours: 24/7
 website: ""

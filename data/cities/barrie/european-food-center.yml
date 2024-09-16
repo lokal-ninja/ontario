@@ -1,11 +1,11 @@
 id: 368476067
-type: way
+type: node
 latitude: 44.37794
 longitude: -79.71075
 postcode: ""
 city: Barrie
-street: "Hart Drive"
-housenumber: 91
+street: Hart Drive
+housenumber: "91"
 phone: ""
 opening_hours: ""
 website: ""

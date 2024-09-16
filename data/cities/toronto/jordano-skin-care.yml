@@ -2,10 +2,10 @@ id: 5799345353
 type: node
 latitude: 43.66201
 longitude: -79.36923
-postcode: "M5A 2G2"
+postcode: M5A 2G2
 city: Toronto
-street: "Gerrard Street East"
-housenumber: 252
-phone: "+1-416-964-1794"
+street: Gerrard Street East
+housenumber: "252"
+phone: +1-416-964-1794
 opening_hours: ""
-website: "https://www.jordanoskincare.ca"
+website: https://www.jordanoskincare.ca

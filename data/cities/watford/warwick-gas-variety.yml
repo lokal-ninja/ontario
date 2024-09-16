@@ -1,11 +1,11 @@
 id: 525707360
-type: way
+type: node
 latitude: 43.00392
 longitude: -81.94141
-postcode: "N0M 2S0"
+postcode: N0M 2S0
 city: Watford
-street: "Egremont Road"
-housenumber: 7061
-phone: "+1-519-849-3941"
+street: Egremont Road
+housenumber: "7061"
+phone: +1-519-849-3941
 opening_hours: ""
 website: ""

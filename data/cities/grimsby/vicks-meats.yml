@@ -1,11 +1,11 @@
 id: 809011513
-type: way
+type: node
 latitude: 43.18545
 longitude: -79.52773
-postcode: "L3M 1P7"
+postcode: L3M 1P7
 city: Grimsby
-street: "Main Street East"
-housenumber: 257
-phone: "+1-905-309-4552"
+street: Main Street East
+housenumber: "257"
+phone: +1-905-309-4552
 opening_hours: ""
 website: ""

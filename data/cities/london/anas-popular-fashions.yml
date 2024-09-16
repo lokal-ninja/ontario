@@ -4,8 +4,8 @@ latitude: 42.97806
 longitude: -81.1922
 postcode: ""
 city: London
-street: "Hamilton Road"
-housenumber: 972
-phone: "+1-519-434-5984"
-opening_hours: "Mo-We 10:00-18:00; Th-Fr 10:00-20:00; Sa 10:00-17:30"
+street: Hamilton Road
+housenumber: "972"
+phone: +1-519-434-5984
+opening_hours: Mo-We 10:00-18:00; Th-Fr 10:00-20:00; Sa 10:00-17:30
 website: ""

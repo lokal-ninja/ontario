@@ -1,11 +1,11 @@
 id: 338123729
-type: way
+type: node
 latitude: 43.41865
 longitude: -80.40723
-postcode: "N2P 2G5"
+postcode: N2P 2G5
 city: Kitchener
-street: "King Street East"
-housenumber: 3800
+street: King Street East
+housenumber: "3800"
 phone: ""
 opening_hours: ""
-website: "https://www.kitchenerhonda.com/"
+website: https://www.kitchenerhonda.com/

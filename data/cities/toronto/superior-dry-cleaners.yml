@@ -4,8 +4,8 @@ latitude: 43.64896
 longitude: -79.42079
 postcode: ""
 city: Toronto
-street: "Ossington Avenue"
-housenumber: 212
-phone: "+1-416-530-1229"
-opening_hours: "Mo-Fr 08:30-19:00, Sa 10:00-17:30"
+street: Ossington Avenue
+housenumber: "212"
+phone: +1-416-530-1229
+opening_hours: Mo-Fr 08:30-19:00, Sa 10:00-17:30
 website: ""

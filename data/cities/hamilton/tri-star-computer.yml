@@ -1,11 +1,11 @@
 id: 661052558
-type: way
+type: node
 latitude: 43.26309
 longitude: -79.90163
 postcode: ""
 city: Hamilton
-street: "King Street West"
-housenumber: 901
+street: King Street West
+housenumber: "901"
 phone: ""
 opening_hours: ""
 website: ""

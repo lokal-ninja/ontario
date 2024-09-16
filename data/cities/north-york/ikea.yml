@@ -1,11 +1,11 @@
 id: 33765226
-type: way
+type: node
 latitude: 43.76834
 longitude: -79.36887
-postcode: "M2K 2X9"
+postcode: M2K 2X9
 city: North York
-street: "Provost Drive"
-housenumber: 15
-phone: "+1-416-222-4532"
-opening_hours: "Mo-Fr 10:00-21:00; Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://ikea.ca/northyork"
+street: Provost Drive
+housenumber: "15"
+phone: +1-416-222-4532
+opening_hours: Mo-Fr 10:00-21:00; Sa 09:00-21:00; Su 10:00-19:00
+website: https://ikea.ca/northyork

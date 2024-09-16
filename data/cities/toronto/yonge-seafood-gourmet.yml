@@ -2,10 +2,10 @@ id: 1295590666
 type: node
 latitude: 43.7014
 longitude: -79.39741
-postcode: "M4S 1Z9"
+postcode: M4S 1Z9
 city: Toronto
-street: "Yonge Street"
-housenumber: 2044
+street: Yonge Street
+housenumber: "2044"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-18:00; Su 11:00-17:00"
-website: "www.yongeseafood.ca"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-18:00; Su 11:00-17:00
+website: www.yongeseafood.ca

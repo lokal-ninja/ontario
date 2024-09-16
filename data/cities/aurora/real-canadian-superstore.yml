@@ -1,11 +1,11 @@
 id: 168893645
-type: way
+type: node
 latitude: 44.02284
 longitude: -79.44885
-postcode: "L4G 7Y3"
+postcode: L4G 7Y3
 city: Aurora
-street: "Bayview Avenue"
-housenumber: 15900
-phone: "+1-905-726-9532"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.realcanadiansuperstore.ca/store-locator/details/1030"
+street: Bayview Avenue
+housenumber: "15900"
+phone: +1-905-726-9532
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.realcanadiansuperstore.ca/store-locator/details/1030

@@ -1,11 +1,11 @@
 id: 493453298
-type: way
+type: node
 latitude: 43.90126
 longitude: -79.44497
 postcode: ""
 city: Richmond Hill
-street: "Yonge Street"
-housenumber: 11240
+street: Yonge Street
+housenumber: "11240"
 phone: ""
 opening_hours: ""
-website: "https://www.richmondhilltoyota.com/"
+website: https://www.richmondhilltoyota.com/

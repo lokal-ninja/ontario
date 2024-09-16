@@ -1,11 +1,11 @@
 id: 808236508
-type: way
+type: node
 latitude: 43.09712
 longitude: -79.53757
-postcode: "L0R 2A0"
+postcode: L0R 2A0
 city: Smithville
-street: "St Catharine Street"
-housenumber: 239
+street: St Catharine Street
+housenumber: "239"
 phone: ""
-opening_hours: "06:00-24:00"
+opening_hours: 06:00-24:00
 website: ""

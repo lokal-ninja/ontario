@@ -1,11 +1,11 @@
 id: 360713137
-type: way
+type: node
 latitude: 46.56968
 longitude: -81.23008
-postcode: "P0M 1L0"
+postcode: P0M 1L0
 city: Chelmsford
-street: "Highway 144"
-housenumber: 2858
-phone: "+1-705-855-5604"
+street: Highway 144
+housenumber: "2858"
+phone: +1-705-855-5604
 opening_hours: ""
 website: ""

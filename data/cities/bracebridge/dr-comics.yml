@@ -2,10 +2,10 @@ id: 6632525678
 type: node
 latitude: 45.04099
 longitude: -79.31028
-postcode: "P1L 1S4"
+postcode: P1L 1S4
 city: Bracebridge
-street: "Manitoba Street"
-housenumber: 42
-phone: "+1-705-640-5444"
+street: Manitoba Street
+housenumber: "42"
+phone: +1-705-640-5444
 opening_hours: ""
-website: "http://www.drcomics.ca/"
+website: http://www.drcomics.ca/

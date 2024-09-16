@@ -1,11 +1,11 @@
 id: 659093974
-type: way
+type: node
 latitude: 43.67792
 longitude: -79.50608
 postcode: ""
 city: York
-street: "Scarlett Road"
-housenumber: 271
+street: Scarlett Road
+housenumber: "271"
 phone: ""
 opening_hours: ""
 website: ""

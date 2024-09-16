@@ -1,11 +1,11 @@
 id: 158621321
-type: way
+type: node
 latitude: 44.24189
 longitude: -76.51447
 postcode: ""
 city: Kingston
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-18:00; Su 09:00-18:00"
+opening_hours: Mo-Fr 08:00-21:00; Sa 08:00-18:00; Su 09:00-18:00
 website: ""

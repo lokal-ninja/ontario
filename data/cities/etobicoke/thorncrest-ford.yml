@@ -1,11 +1,11 @@
 id: 58559233
-type: way
+type: node
 latitude: 43.61728
 longitude: -79.54043
 postcode: ""
 city: Etobicoke
-street: "The Queensway"
-housenumber: 1575
+street: The Queensway
+housenumber: "1575"
 phone: ""
 opening_hours: ""
-website: "https://thorncrest.com"
+website: https://thorncrest.com

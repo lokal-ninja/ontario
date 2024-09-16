@@ -2,10 +2,10 @@ id: 9222908968
 type: node
 latitude: 47.99474
 longitude: -84.77062
-postcode: "P0S 1K0"
+postcode: P0S 1K0
 city: Wawa
-street: "Broadway Avenue"
-housenumber: 63
-phone: "+1-705-856-0555"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-15:00; Su 10:00-13:00"
-website: "https://wawa-pharmacy.business.site/"
+street: Broadway Avenue
+housenumber: "63"
+phone: +1-705-856-0555
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-15:00; Su 10:00-13:00
+website: https://wawa-pharmacy.business.site/

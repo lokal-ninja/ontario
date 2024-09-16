@@ -1,11 +1,11 @@
 id: 384857195
-type: way
+type: node
 latitude: 43.1402
 longitude: -79.39472
 postcode: ""
 city: Vineland
-street: "Victoria Avenue"
-housenumber: 3678
-phone: "+1-905-562-1949"
+street: Victoria Avenue
+housenumber: "3678"
+phone: +1-905-562-1949
 opening_hours: ""
-website: "https://featherstonewinery.ca/"
+website: https://featherstonewinery.ca/

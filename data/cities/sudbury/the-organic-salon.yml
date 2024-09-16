@@ -1,11 +1,11 @@
 id: 190513508
-type: way
+type: node
 latitude: 46.47599
 longitude: -81.03165
-postcode: "P3C 3B2"
+postcode: P3C 3B2
 city: Sudbury
-street: "Walter Avenue"
-housenumber: 147
-phone: "+1-705-673-1043"
+street: Walter Avenue
+housenumber: "147"
+phone: +1-705-673-1043
 opening_hours: ""
 website: ""

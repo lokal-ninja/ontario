@@ -1,11 +1,11 @@
 id: 31987775
-type: way
+type: node
 latitude: 44.23823
 longitude: -76.55363
-postcode: "K7M 4X6"
+postcode: K7M 4X6
 city: Kingston
-street: "Bath Road"
-housenumber: 1452
+street: Bath Road
+housenumber: "1452"
 phone: ""
 opening_hours: ""
 website: ""

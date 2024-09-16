@@ -1,11 +1,11 @@
 id: 663048444
-type: way
+type: node
 latitude: 43.69864
 longitude: -79.77642
-postcode: "L6V 1P9"
+postcode: L6V 1P9
 city: Brampton
-street: "Main Street North"
-housenumber: 492
-phone: "+1 905-450-5519"
+street: Main Street North
+housenumber: "492"
+phone: +1 905-450-5519
 opening_hours: ""
 website: ""

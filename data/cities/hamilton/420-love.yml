@@ -1,11 +1,11 @@
 id: 876426049
-type: way
+type: node
 latitude: 43.25906
 longitude: -79.87653
 postcode: ""
 city: Hamilton
-street: "King Street West"
-housenumber: 246
-phone: "+1 905-546-0729"
-opening_hours: "Mo-Su 10:00-22:00"
-website: "https://420love.ca"
+street: King Street West
+housenumber: "246"
+phone: +1 905-546-0729
+opening_hours: Mo-Su 10:00-22:00
+website: https://420love.ca

@@ -4,8 +4,8 @@ latitude: 43.48328
 longitude: -80.50585
 postcode: ""
 city: Waterloo
-street: "Lincoln Road"
-housenumber: 315
-phone: "+1-519-885-1360"
+street: Lincoln Road
+housenumber: "315"
+phone: +1-519-885-1360
 opening_hours: ""
-website: "https://www.zehrs.ca/"
+website: https://www.zehrs.ca/

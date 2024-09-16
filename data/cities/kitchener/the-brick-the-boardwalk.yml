@@ -1,11 +1,11 @@
 id: 247364804
-type: way
+type: node
 latitude: 43.43332
 longitude: -80.56158
-postcode: "N2N 0B1"
+postcode: N2N 0B1
 city: Kitchener
-street: "The Boardwalk"
-housenumber: 125
+street: The Boardwalk
+housenumber: "125"
 phone: ""
 opening_hours: ""
-website: "https://www.thebrick.com/pages/store-waterloo-brick"
+website: https://www.thebrick.com/pages/store-waterloo-brick

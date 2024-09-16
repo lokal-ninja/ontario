@@ -1,11 +1,11 @@
 id: 496542955
-type: way
+type: node
 latitude: 44.05841
 longitude: -79.46064
-postcode: "L3Y 3Y1"
+postcode: L3Y 3Y1
 city: Newmarket
-street: "Main Street South"
-housenumber: 21
-phone: "+1-905-952-0782"
-opening_hours: "Mo-Fr 10:00-18:00; Su 10:00-15:00"
-website: "https://pccorner.ca/"
+street: Main Street South
+housenumber: "21"
+phone: +1-905-952-0782
+opening_hours: Mo-Fr 10:00-18:00; Su 10:00-15:00
+website: https://pccorner.ca/

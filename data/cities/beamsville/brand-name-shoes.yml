@@ -1,11 +1,11 @@
 id: 809349621
-type: way
+type: node
 latitude: 43.16532
 longitude: -79.47542
-postcode: "L0R 1B0"
+postcode: L0R 1B0
 city: Beamsville
-street: "King Street"
-housenumber: 4986
-phone: "+1-905-563-9762"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-18:00"
-website: "https://www.brandnameshoewarehouse.com/"
+street: King Street
+housenumber: "4986"
+phone: +1-905-563-9762
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-18:00
+website: https://www.brandnameshoewarehouse.com/

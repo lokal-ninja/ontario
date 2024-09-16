@@ -1,11 +1,11 @@
 id: 1207040952
-type: way
+type: node
 latitude: 43.75882
 longitude: -79.5196
-postcode: "M3N 3A1"
+postcode: M3N 3A1
 city: Toronto
-street: "York Gate Boulevard"
-housenumber: 1
+street: York Gate Boulevard
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

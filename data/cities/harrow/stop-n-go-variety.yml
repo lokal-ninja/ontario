@@ -1,11 +1,11 @@
 id: 526778591
-type: way
+type: node
 latitude: 42.03586
 longitude: -82.91578
-postcode: "N0R 1G0"
+postcode: N0R 1G0
 city: Harrow
-street: "King Street East"
-housenumber: 80
-phone: "+1-519-738-2342"
+street: King Street East
+housenumber: "80"
+phone: +1-519-738-2342
 opening_hours: ""
 website: ""

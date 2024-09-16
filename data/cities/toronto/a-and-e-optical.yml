@@ -4,8 +4,8 @@ latitude: 43.65234
 longitude: -79.37883
 postcode: ""
 city: Toronto
-street: "Queen Street East"
-housenumber: 1
-phone: "+1-416-863-6221"
+street: Queen Street East
+housenumber: "1"
+phone: +1-416-863-6221
 opening_hours: ""
 website: ""

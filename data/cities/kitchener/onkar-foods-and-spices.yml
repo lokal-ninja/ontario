@@ -1,11 +1,11 @@
 id: 468933071
-type: way
+type: node
 latitude: 43.4222
 longitude: -80.55474
 postcode: ""
 city: Kitchener
-street: "Highland Road West"
-housenumber: 1541
+street: Highland Road West
+housenumber: "1541"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su 10:00-19:00"
+opening_hours: Mo-Sa 10:00-20:00; Su 10:00-19:00
 website: ""

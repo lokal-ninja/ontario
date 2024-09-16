@@ -1,11 +1,11 @@
 id: 201179113
-type: way
+type: node
 latitude: 43.68413
 longitude: -79.34738
 postcode: ""
 city: Toronto
-street: "Pape Avenue"
-housenumber: 860
+street: Pape Avenue
+housenumber: "860"
 phone: ""
 opening_hours: ""
 website: ""

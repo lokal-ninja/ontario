@@ -1,11 +1,11 @@
 id: 425548405
-type: way
+type: node
 latitude: 43.9206
 longitude: -79.65659
-postcode: "L0G 1T0"
+postcode: L0G 1T0
 city: King Township
-street: "Highway 27"
-housenumber: 14755
-phone: "+1-905-859-1151"
+street: Highway 27
+housenumber: "14755"
+phone: +1-905-859-1151
 opening_hours: ""
 website: ""

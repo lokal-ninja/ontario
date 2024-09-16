@@ -1,11 +1,11 @@
 id: 999305091
-type: way
+type: node
 latitude: 47.96232
 longitude: -84.79505
-postcode: "P0S 1K0"
+postcode: P0S 1K0
 city: Wawa
-street: "Pinewood Drive"
-housenumber: 30
-phone: "+1-888-856-2864"
-opening_hours: "24/7"
-website: "https://algomastorage.ca/"
+street: Pinewood Drive
+housenumber: "30"
+phone: +1-888-856-2864
+opening_hours: 24/7
+website: https://algomastorage.ca/

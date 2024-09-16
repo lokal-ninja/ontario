@@ -1,11 +1,11 @@
 id: 352316649
-type: way
+type: node
 latitude: 43.66171
 longitude: -79.44844
-postcode: "M6P 3N4"
+postcode: M6P 3N4
 city: Toronto
-street: "Wallace Avenue"
-housenumber: 296
+street: Wallace Avenue
+housenumber: "296"
 phone: ""
 opening_hours: ""
 website: ""

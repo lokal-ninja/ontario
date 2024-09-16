@@ -2,10 +2,10 @@ id: 4870705080
 type: node
 latitude: 43.4827
 longitude: -80.50588
-postcode: "N2J 4H7"
+postcode: N2J 4H7
 city: Waterloo
-street: "Lincoln Road"
-housenumber: 315
-phone: "+1-866-840-2879"
+street: Lincoln Road
+housenumber: "315"
+phone: +1-866-840-2879
 opening_hours: ""
-website: "http://goodtimegames.ca"
+website: http://goodtimegames.ca

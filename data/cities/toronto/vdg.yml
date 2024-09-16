@@ -1,11 +1,11 @@
 id: 657934770
-type: way
+type: node
 latitude: 43.63529
 longitude: -79.52013
 postcode: ""
 city: Toronto
-street: "Islington Avenue"
-housenumber: 1072
+street: Islington Avenue
+housenumber: "1072"
 phone: ""
 opening_hours: ""
-website: "https://vehicle-direct.ca"
+website: https://vehicle-direct.ca

@@ -1,11 +1,11 @@
 id: 928547485
-type: way
+type: node
 latitude: 48.53238
 longitude: -80.46312
-postcode: "P0K 1N0"
+postcode: P0K 1N0
 city: Matheson
-street: "Highway 11"
-housenumber: 413
+street: Highway 11
+housenumber: "413"
 phone: ""
 opening_hours: ""
 website: ""

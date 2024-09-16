@@ -1,11 +1,11 @@
 id: 350897884
-type: way
+type: node
 latitude: 42.90243
 longitude: -79.59753
 postcode: ""
 city: Dunnville
-street: "Broad Street East"
-housenumber: 1012
+street: Broad Street East
+housenumber: "1012"
 phone: ""
 opening_hours: ""
 website: ""

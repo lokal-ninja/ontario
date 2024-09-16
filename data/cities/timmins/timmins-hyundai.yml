@@ -1,11 +1,11 @@
 id: 759223065
-type: way
+type: node
 latitude: 48.47798
 longitude: -81.3596
-postcode: "P4N 3W1"
+postcode: P4N 3W1
 city: Timmins
-street: "Riverside Drive"
-housenumber: 800
-phone: "+1 705 360 1500"
+street: Riverside Drive
+housenumber: "800"
+phone: +1 705 360 1500
 opening_hours: ""
-website: "https://www.timminshyundai.ca/"
+website: https://www.timminshyundai.ca/

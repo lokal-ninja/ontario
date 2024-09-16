@@ -1,11 +1,11 @@
 id: 798460048
-type: way
+type: node
 latitude: 43.54698
 longitude: -80.27451
 postcode: ""
 city: Guelph
-street: "Dawson Road"
-housenumber: 55
+street: Dawson Road
+housenumber: "55"
 phone: ""
 opening_hours: ""
 website: ""

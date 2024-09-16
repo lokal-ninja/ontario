@@ -1,11 +1,11 @@
 id: 353938088
-type: way
+type: node
 latitude: 43.9005
 longitude: -78.67056
 postcode: ""
 city: Clarington
-street: "Simpson Avenue"
-housenumber: 248
+street: Simpson Avenue
+housenumber: "248"
 phone: ""
 opening_hours: ""
 website: ""

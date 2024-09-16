@@ -1,11 +1,11 @@
 id: 333817227
-type: way
+type: node
 latitude: 44.73324
 longitude: -79.73126
-postcode: "L0K 2C0"
+postcode: L0K 2C0
 city: Waubaushene
-street: "Highway 12"
-housenumber: 14145
-phone: "+1-705-538-9978"
+street: Highway 12
+housenumber: "14145"
+phone: +1-705-538-9978
 opening_hours: ""
 website: ""

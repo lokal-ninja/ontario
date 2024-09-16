@@ -1,11 +1,11 @@
 id: 807399776
-type: way
+type: node
 latitude: 43.65843
 longitude: -79.44283
 postcode: ""
 city: Toronto
-street: "Bloor Street West"
-housenumber: 1312
-phone: "+1-416-532-7997"
+street: Bloor Street West
+housenumber: "1312"
+phone: +1-416-532-7997
 opening_hours: ""
-website: "https://www.discountopticaltoronto.com"
+website: https://www.discountopticaltoronto.com

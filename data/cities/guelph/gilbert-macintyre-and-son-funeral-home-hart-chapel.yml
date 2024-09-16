@@ -1,11 +1,11 @@
 id: 399322266
-type: way
+type: node
 latitude: 43.51928
 longitude: -80.20857
-postcode: "N1G 4X9"
+postcode: N1G 4X9
 city: Guelph
-street: "Gordon Street"
-housenumber: 1099
+street: Gordon Street
+housenumber: "1099"
 phone: ""
 opening_hours: ""
-website: "https://www.gilbertmacintyreandson.com/"
+website: https://www.gilbertmacintyreandson.com/

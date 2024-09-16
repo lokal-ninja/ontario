@@ -1,11 +1,11 @@
 id: 33137352
-type: way
+type: node
 latitude: 43.6151
 longitude: -79.70054
 postcode: ""
 city: Mississauga
-street: "Mavis Road"
-housenumber: 6160
+street: Mavis Road
+housenumber: "6160"
 phone: ""
 opening_hours: ""
-website: "https://www.mississauga.subarudealer.ca/"
+website: https://www.mississauga.subarudealer.ca/

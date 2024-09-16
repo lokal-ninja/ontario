@@ -1,11 +1,11 @@
 id: 204255572
-type: way
+type: node
 latitude: 43.44408
 longitude: -80.47749
-postcode: "N2G 2M4"
+postcode: N2G 2M4
 city: Kitchener
-street: "King Street East"
-housenumber: 745
-phone: "+1-519-568-7781"
+street: King Street East
+housenumber: "745"
+phone: +1-519-568-7781
 opening_hours: ""
-website: "https://vicanies.com/pages/kitchener"
+website: https://vicanies.com/pages/kitchener

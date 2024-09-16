@@ -1,11 +1,11 @@
 id: 285344253
-type: way
+type: node
 latitude: 43.71163
 longitude: -79.46504
-postcode: "M6A 1E1"
+postcode: M6A 1E1
 city: Toronto
-street: "Lawrence Avenue West"
-housenumber: 1137
-phone: "+1-416-784-0205"
-opening_hours: "Mo-Fr 08:00-18:00"
+street: Lawrence Avenue West
+housenumber: "1137"
+phone: +1-416-784-0205
+opening_hours: Mo-Fr 08:00-18:00
 website: ""

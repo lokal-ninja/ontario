@@ -1,11 +1,11 @@
 id: 181163187
-type: way
+type: node
 latitude: 46.48434
 longitude: -81.00962
-postcode: "P3C 3X9"
+postcode: P3C 3X9
 city: Sudbury
-street: "Whittaker Street"
-housenumber: 378
-phone: "+1-705-675-3788"
-opening_hours: "Mo-Fr 08:00-17:30"
+street: Whittaker Street
+housenumber: "378"
+phone: +1-705-675-3788
+opening_hours: Mo-Fr 08:00-17:30
 website: ""

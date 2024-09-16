@@ -1,11 +1,11 @@
 id: 161003163
-type: way
+type: node
 latitude: 43.75036
 longitude: -79.27443
 postcode: ""
 city: Toronto
-street: "Lawrence Avenue East"
-housenumber: 2370
+street: Lawrence Avenue East
+housenumber: "2370"
 phone: ""
 opening_hours: ""
 website: ""

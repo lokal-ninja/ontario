@@ -4,8 +4,8 @@ latitude: 43.65922
 longitude: -79.43917
 postcode: ""
 city: Toronto
-street: "Bloor Street West"
-housenumber: 1222
-phone: "+1-416-531-1028"
+street: Bloor Street West
+housenumber: "1222"
+phone: +1-416-531-1028
 opening_hours: ""
-website: "https://bikedepot.com/"
+website: https://bikedepot.com/

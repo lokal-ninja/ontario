@@ -1,11 +1,11 @@
 id: 220751093
-type: way
+type: node
 latitude: 46.50006
 longitude: -80.96737
-postcode: "P3B 2E5"
+postcode: P3B 2E5
 city: Sudbury
-street: "Kingsway"
-housenumber: 936
+street: Kingsway
+housenumber: "936"
 phone: ""
 opening_hours: ""
 website: ""

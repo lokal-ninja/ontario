@@ -2,10 +2,10 @@ id: 3421891586
 type: node
 latitude: 44.50227
 longitude: -80.22775
-postcode: "L9Y 1B3"
+postcode: L9Y 1B3
 city: Collingwood
-street: "First Street"
-housenumber: 345
-phone: "+1 705-446-3480"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.mastermechanic.ca/"
+street: First Street
+housenumber: "345"
+phone: +1 705-446-3480
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.mastermechanic.ca/

@@ -1,11 +1,11 @@
 id: 172889700
-type: way
+type: node
 latitude: 43.61886
 longitude: -79.70613
 postcode: ""
 city: Mississauga
-street: "Bancroft Drive"
-housenumber: 797
-phone: "+1-905-858-0712"
+street: Bancroft Drive
+housenumber: "797"
+phone: +1-905-858-0712
 opening_hours: ""
-website: "https://www.volvoofmississauga.com/"
+website: https://www.volvoofmississauga.com/

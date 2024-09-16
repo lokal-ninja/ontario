@@ -1,11 +1,11 @@
 id: 570476443
-type: way
+type: node
 latitude: 43.65157
 longitude: -79.44557
 postcode: ""
 city: Toronto
-street: "Dundas Street West"
-housenumber: 1978
-phone: "+1-416-536-8888"
+street: Dundas Street West
+housenumber: "1978"
+phone: +1-416-536-8888
 opening_hours: ""
-website: "http://villageautotech.ca/"
+website: http://villageautotech.ca/

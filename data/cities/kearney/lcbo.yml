@@ -2,10 +2,10 @@ id: 2384872369
 type: node
 latitude: 45.55569
 longitude: -79.22384
-postcode: "P0A 1M0"
+postcode: P0A 1M0
 city: Kearney
-street: "Main Street"
-housenumber: 86
-phone: "+1-705-636-5931"
+street: Main Street
+housenumber: "86"
+phone: +1-705-636-5931
 opening_hours: ""
 website: ""

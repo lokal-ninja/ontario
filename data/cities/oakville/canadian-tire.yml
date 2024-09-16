@@ -1,11 +1,11 @@
 id: 170003036
-type: way
+type: node
 latitude: 43.45036
 longitude: -79.69949
 postcode: ""
 city: Oakville
-street: "Kerr Street"
-housenumber: 1100
+street: Kerr Street
+housenumber: "1100"
 phone: ""
 opening_hours: ""
-website: "https://www.canadiantire.ca/"
+website: https://www.canadiantire.ca/

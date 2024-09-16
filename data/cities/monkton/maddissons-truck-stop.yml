@@ -1,11 +1,11 @@
 id: 418459361
-type: way
+type: node
 latitude: 43.58839
 longitude: -81.08517
-postcode: "N0K 1P0"
+postcode: N0K 1P0
 city: Monkton
-street: "Maddison Street West"
-housenumber: 82
-phone: "+1-519-347-2151"
+street: Maddison Street West
+housenumber: "82"
+phone: +1-519-347-2151
 opening_hours: ""
 website: ""

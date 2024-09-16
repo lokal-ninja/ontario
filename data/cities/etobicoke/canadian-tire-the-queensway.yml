@@ -1,11 +1,11 @@
 id: 32803276
-type: way
+type: node
 latitude: 43.61736
 longitude: -79.54631
-postcode: "M8Z 1V4"
+postcode: M8Z 1V4
 city: Etobicoke
-street: "The Queensway"
-housenumber: 1608
-phone: "+1-416-255-5531"
+street: The Queensway
+housenumber: "1608"
+phone: +1-416-255-5531
 opening_hours: ""
-website: "https://www.canadiantire.ca/"
+website: https://www.canadiantire.ca/

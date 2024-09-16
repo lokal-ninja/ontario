@@ -2,10 +2,10 @@ id: 11514398681
 type: node
 latitude: 43.67095
 longitude: -79.38975
-postcode: "M5R 3K4"
+postcode: M5R 3K4
 city: Toronto
-street: "Bay Street"
-housenumber: 1235
+street: Bay Street
+housenumber: "1235"
 phone: "+6475588473"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://goform.tires/"
+opening_hours: Mo-Fr 09:00-18:00
+website: https://goform.tires/

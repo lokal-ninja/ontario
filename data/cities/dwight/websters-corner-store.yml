@@ -1,11 +1,11 @@
 id: 522899222
-type: way
+type: node
 latitude: 45.32369
 longitude: -78.99532
-postcode: "P0A 1H0"
+postcode: P0A 1H0
 city: Dwight
-street: "Highway 35"
-housenumber: 25888
-phone: "+1-705-635-2403"
+street: Highway 35
+housenumber: "25888"
+phone: +1-705-635-2403
 opening_hours: ""
 website: ""

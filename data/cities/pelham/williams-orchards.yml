@@ -1,11 +1,11 @@
 id: 663637601
-type: way
+type: node
 latitude: 43.05613
 longitude: -79.28632
 postcode: ""
 city: Pelham
-street: "Pelham Street North"
-housenumber: 1724
+street: Pelham Street North
+housenumber: "1724"
 phone: ""
 opening_hours: ""
 website: ""

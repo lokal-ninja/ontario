@@ -4,8 +4,8 @@ latitude: 43.7115
 longitude: -79.37694
 postcode: ""
 city: East York
-street: "Eglinton Avenue East"
-housenumber: 660
+street: Eglinton Avenue East
+housenumber: "660"
 phone: ""
-opening_hours: "24/7"
-website: "http://www.macs.ca/"
+opening_hours: 24/7
+website: http://www.macs.ca/

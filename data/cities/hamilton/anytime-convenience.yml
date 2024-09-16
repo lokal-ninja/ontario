@@ -2,10 +2,10 @@ id: 4462627395
 type: node
 latitude: 43.23783
 longitude: -79.87731
-postcode: "L9C 2Y9"
+postcode: L9C 2Y9
 city: Hamilton
-street: "Upper James Street"
-housenumber: 649
-phone: "+1-905-389-9845"
-opening_hours: "24/7"
+street: Upper James Street
+housenumber: "649"
+phone: +1-905-389-9845
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 409632125
-type: way
+type: node
 latitude: 42.09992
 longitude: -83.10768
-postcode: "N9V 2A9"
+postcode: N9V 2A9
 city: Amherstburg
-street: "Sandwich Street South"
-housenumber: 321
+street: Sandwich Street South
+housenumber: "321"
 phone: ""
 opening_hours: ""
 website: ""

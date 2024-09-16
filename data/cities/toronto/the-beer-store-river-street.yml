@@ -1,11 +1,11 @@
 id: 195220906
-type: way
+type: node
 latitude: 43.65786
 longitude: -79.35751
-postcode: "M5A 3N9"
+postcode: M5A 3N9
 city: Toronto
-street: "River Street"
-housenumber: 28
+street: River Street
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-We 12:00-20:00; Th-Sa 10:00-21:00; Su 12:00-17:00"
-website: "https://www.thebeerstore.ca/locations/queen-river"
+opening_hours: Mo-We 12:00-20:00; Th-Sa 10:00-21:00; Su 12:00-17:00
+website: https://www.thebeerstore.ca/locations/queen-river

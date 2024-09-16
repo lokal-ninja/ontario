@@ -1,11 +1,11 @@
 id: 175292139
-type: way
+type: node
 latitude: 44.9928
 longitude: -78.01504
-postcode: "K0L 1M0"
+postcode: K0L 1M0
 city: Cardiff
-street: "Highway 118"
-housenumber: 23233
-phone: "+1-613-339-2874"
+street: Highway 118
+housenumber: "23233"
+phone: +1-613-339-2874
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 135778552
-type: way
+type: node
 latitude: 42.9806
 longitude: -81.21529
 postcode: ""
 city: London
-street: "Hamilton Road"
-housenumber: 526
-phone: "+1-519-439-7951"
+street: Hamilton Road
+housenumber: "526"
+phone: +1-519-439-7951
 opening_hours: ""
-website: "https://www.homehardware.ca/en/store/15607"
+website: https://www.homehardware.ca/en/store/15607

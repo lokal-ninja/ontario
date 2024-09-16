@@ -4,8 +4,8 @@ latitude: 43.67422
 longitude: -79.39959
 postcode: ""
 city: Toronto
-street: "Davenport Road"
-housenumber: 287
+street: Davenport Road
+housenumber: "287"
 phone: ""
-opening_hours: "Mo-Fr 09:30-17:30; Sa 10:00-15:00; Su off"
-website: "http://www.thegraciouslivingcentre.com/"
+opening_hours: Mo-Fr 09:30-17:30; Sa 10:00-15:00; Su off
+website: http://www.thegraciouslivingcentre.com/

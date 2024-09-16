@@ -2,10 +2,10 @@ id: 11608557104
 type: node
 latitude: 43.82049
 longitude: -79.39203
-postcode: "L3T 5W6"
+postcode: L3T 5W6
 city: Markham
-street: "John Street"
-housenumber: 352
-phone: "+1-647-620-5678"
-opening_hours: "10:30-19:00"
+street: John Street
+housenumber: "352"
+phone: +1-647-620-5678
+opening_hours: 10:30-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 661294272
-type: way
+type: node
 latitude: 43.68924
 longitude: -79.49469
 postcode: ""
 city: Toronto
-street: "Weston Road"
-housenumber: 1273
+street: Weston Road
+housenumber: "1273"
 phone: ""
 opening_hours: ""
 website: ""

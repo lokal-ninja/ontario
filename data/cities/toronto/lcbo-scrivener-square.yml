@@ -1,11 +1,11 @@
 id: 22372262
-type: way
+type: node
 latitude: 43.68079
 longitude: -79.3907
-postcode: "M4W 3Y9"
+postcode: M4W 3Y9
 city: Toronto
-street: "Scrivener Square"
-housenumber: 10
+street: Scrivener Square
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://www.lcbo.com/"
+website: https://www.lcbo.com/

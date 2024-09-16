@@ -2,10 +2,10 @@ id: 3420115267
 type: node
 latitude: 43.44304
 longitude: -80.47782
-postcode: "N2G 3R1"
+postcode: N2G 3R1
 city: Kitchener
-street: "Kent Avenue"
-housenumber: 50
-phone: "+1 519-886-6226"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-17:00"
-website: "http://thriftonkent.com/"
+street: Kent Avenue
+housenumber: "50"
+phone: +1 519-886-6226
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-17:00
+website: http://thriftonkent.com/

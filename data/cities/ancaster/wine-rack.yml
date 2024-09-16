@@ -2,10 +2,10 @@ id: 7237675001
 type: node
 latitude: 43.2168
 longitude: -79.98785
-postcode: "L9G 1N2"
+postcode: L9G 1N2
 city: Ancaster
-street: "Wilson Street West"
-housenumber: 32
-phone: "+1-905-304-1884"
-opening_hours: "Mo-We,Sa 09:00-19:00; Th 09:00-20:00, Fr 09:00-21:00, Su 11:00-18:00"
-website: "https://www.winerack.com"
+street: Wilson Street West
+housenumber: "32"
+phone: +1-905-304-1884
+opening_hours: Mo-We,Sa 09:00-19:00; Th 09:00-20:00, Fr 09:00-21:00, Su 11:00-18:00
+website: https://www.winerack.com

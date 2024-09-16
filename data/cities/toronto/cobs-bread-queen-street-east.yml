@@ -2,10 +2,10 @@ id: 10056858844
 type: node
 latitude: 43.66978
 longitude: -79.30062
-postcode: "M4L 1J1"
+postcode: M4L 1J1
 city: Toronto
-street: "Queen Street East"
-housenumber: 1975
-phone: "+1-647-352-9300"
-opening_hours: "Mo-Su 07:00-18:00"
+street: Queen Street East
+housenumber: "1975"
+phone: +1-647-352-9300
+opening_hours: Mo-Su 07:00-18:00
 website: ""

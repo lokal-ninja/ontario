@@ -1,11 +1,11 @@
 id: 138283950
-type: way
+type: node
 latitude: 43.57756
 longitude: -79.64453
-postcode: "L5B 4L1"
+postcode: L5B 4L1
 city: Mississauga
-street: "Central Parkway West"
-housenumber: 715
+street: Central Parkway West
+housenumber: "715"
 phone: ""
 opening_hours: ""
 website: ""

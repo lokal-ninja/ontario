@@ -1,11 +1,11 @@
 id: 388736491
-type: way
+type: node
 latitude: 43.54716
 longitude: -80.25212
-postcode: "N1H 4G1"
+postcode: N1H 4G1
 city: Guelph
-street: "Baker Street"
-housenumber: 60
+street: Baker Street
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

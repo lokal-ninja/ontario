@@ -1,11 +1,11 @@
 id: 67579900
-type: way
+type: node
 latitude: 43.79965
 longitude: -79.42126
 postcode: ""
 city: Thornhill
-street: "Yonge Street"
-housenumber: 7064
+street: Yonge Street
+housenumber: "7064"
 phone: ""
 opening_hours: ""
 website: ""

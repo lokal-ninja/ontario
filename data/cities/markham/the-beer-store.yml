@@ -1,11 +1,11 @@
 id: 121968362
-type: way
+type: node
 latitude: 43.87255
 longitude: -79.2651
-postcode: "L3P 1A6"
+postcode: L3P 1A6
 city: Markham
-street: "Highway 7 East"
-housenumber: 5804
+street: Highway 7 East
+housenumber: "5804"
 phone: ""
 opening_hours: ""
-website: "https://www.thebeerstore.ca/locations/hwy-7"
+website: https://www.thebeerstore.ca/locations/hwy-7

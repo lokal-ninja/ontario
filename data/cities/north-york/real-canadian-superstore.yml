@@ -1,11 +1,11 @@
 id: 32539181
-type: way
+type: node
 latitude: 43.71072
 longitude: -79.53449
 postcode: ""
 city: North York
-street: "Weston Road"
-housenumber: 2549
-phone: "+1-416-246-9192"
+street: Weston Road
+housenumber: "2549"
+phone: +1-416-246-9192
 opening_hours: ""
-website: "https://www.realcanadiansuperstore.ca/store-locator/details/2800"
+website: https://www.realcanadiansuperstore.ca/store-locator/details/2800

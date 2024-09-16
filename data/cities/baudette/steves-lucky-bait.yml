@@ -1,11 +1,11 @@
 id: 1008799707
-type: way
+type: node
 latitude: 48.71224
 longitude: -94.566
 postcode: "56623"
 city: Baudette
-street: "East Main Street"
-housenumber: 1222
+street: East Main Street
+housenumber: "1222"
 phone: ""
 opening_hours: ""
 website: ""

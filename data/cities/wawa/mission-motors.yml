@@ -1,11 +1,11 @@
 id: 995767879
-type: way
+type: node
 latitude: 47.97876
 longitude: -84.78061
-postcode: "P0S1K0"
+postcode: P0S1K0
 city: Wawa
-street: "Mission Road"
-housenumber: 61
-phone: "+1-800-736-0936"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.missionmotors.com/"
+street: Mission Road
+housenumber: "61"
+phone: +1-800-736-0936
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.missionmotors.com/

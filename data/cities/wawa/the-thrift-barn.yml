@@ -1,11 +1,11 @@
 id: 1002436860
-type: way
+type: node
 latitude: 47.99594
 longitude: -84.77026
-postcode: "P0S 1K0"
+postcode: P0S 1K0
 city: Wawa
-street: "Broadway Avenue"
-housenumber: 45
-phone: "+1-705-856-2596"
+street: Broadway Avenue
+housenumber: "45"
+phone: +1-705-856-2596
 opening_hours: ""
-website: "https://www.facebook.com/thethriftbarn/"
+website: https://www.facebook.com/thethriftbarn/

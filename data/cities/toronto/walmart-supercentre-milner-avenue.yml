@@ -1,11 +1,11 @@
 id: 660307239
-type: way
+type: node
 latitude: 43.79877
 longitude: -79.20035
-postcode: "M1B 3C3"
+postcode: M1B 3C3
 city: Toronto
-street: "Milner Avenue"
-housenumber: 785
+street: Milner Avenue
+housenumber: "785"
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.walmart.ca/en/stores-near-me/scarborough-east-on-3111"
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.walmart.ca/en/stores-near-me/scarborough-east-on-3111

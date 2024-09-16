@@ -2,10 +2,10 @@ id: 4599097650
 type: node
 latitude: 43.64554
 longitude: -79.41161
-postcode: "M6J 1G5"
+postcode: M6J 1G5
 city: Toronto
-street: "Queen Street West"
-housenumber: 887
-phone: "+1-416-703-0089"
-opening_hours: "Mo-We 10:00-18:00; Th-Fr 10:00-20:00; Sa 10:00-18:00; Su 12:00-17:00"
-website: "https://www.thepaperplace.ca/"
+street: Queen Street West
+housenumber: "887"
+phone: +1-416-703-0089
+opening_hours: Mo-We 10:00-18:00; Th-Fr 10:00-20:00; Sa 10:00-18:00; Su 12:00-17:00
+website: https://www.thepaperplace.ca/

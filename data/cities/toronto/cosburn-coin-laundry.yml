@@ -1,11 +1,11 @@
 id: 1137022745
-type: way
+type: node
 latitude: 43.693
 longitude: -79.33425
-postcode: "M4J 2R2"
+postcode: M4J 2R2
 city: Toronto
-street: "Cosburn Avenue"
-housenumber: 472
+street: Cosburn Avenue
+housenumber: "472"
 phone: ""
-opening_hours: "Mo-Su 06:30-22:00"
+opening_hours: Mo-Su 06:30-22:00
 website: ""

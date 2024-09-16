@@ -4,8 +4,8 @@ latitude: 44.23115
 longitude: -76.4805
 postcode: ""
 city: Kingston
-street: "Princess Street"
-housenumber: 44
-phone: "+1-613-544-7790"
-opening_hours: "Mo-Sa 07:00-18:00, Su 07:00-17:00"
-website: "https://www.panchancho.com/"
+street: Princess Street
+housenumber: "44"
+phone: +1-613-544-7790
+opening_hours: Mo-Sa 07:00-18:00, Su 07:00-17:00
+website: https://www.panchancho.com/

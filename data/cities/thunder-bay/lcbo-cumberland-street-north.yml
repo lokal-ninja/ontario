@@ -1,11 +1,11 @@
 id: 373149667
-type: way
+type: node
 latitude: 48.43791
 longitude: -89.21639
-postcode: "P7A 4L9"
+postcode: P7A 4L9
 city: Thunder Bay
-street: "Cumberland Street North"
-housenumber: 100
-phone: "+1-807-345-1550"
-opening_hours: "Sa-Th 9:30-18:00, Fr 9:30-21:00"
+street: Cumberland Street North
+housenumber: "100"
+phone: +1-807-345-1550
+opening_hours: Sa-Th 9:30-18:00, Fr 9:30-21:00
 website: ""

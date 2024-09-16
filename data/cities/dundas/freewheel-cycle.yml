@@ -2,10 +2,10 @@ id: 3703966989
 type: node
 latitude: 43.26623
 longitude: -79.95414
-postcode: "L9H 1T5"
+postcode: L9H 1T5
 city: Dundas
-street: "King Street West"
-housenumber: 9
-phone: "+1-905 628-5126"
-opening_hours: "Mo-Fr 10:00-21:00; Sa 10:00-18:00; Su 12:00-17:00"
-website: "https://www.freewheelcycle.com/"
+street: King Street West
+housenumber: "9"
+phone: +1-905 628-5126
+opening_hours: Mo-Fr 10:00-21:00; Sa 10:00-18:00; Su 12:00-17:00
+website: https://www.freewheelcycle.com/

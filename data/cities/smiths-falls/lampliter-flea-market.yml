@@ -1,11 +1,11 @@
 id: 609095455
-type: way
+type: node
 latitude: 44.90384
 longitude: -76.01623
-postcode: "K7A 2P2"
+postcode: K7A 2P2
 city: Smiths Falls
-street: "Victoria Avenue"
-housenumber: 30
+street: Victoria Avenue
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

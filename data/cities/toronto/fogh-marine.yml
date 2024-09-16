@@ -2,10 +2,10 @@ id: 3964780768
 type: node
 latitude: 43.61931
 longitude: -79.5149
-postcode: "M8Z 5T1"
+postcode: M8Z 5T1
 city: Toronto
-street: "Oxford Street"
-housenumber: 901
-phone: "+1-416-251-0384"
+street: Oxford Street
+housenumber: "901"
+phone: +1-416-251-0384
 opening_hours: ""
-website: "https://foghmarine.com/"
+website: https://foghmarine.com/

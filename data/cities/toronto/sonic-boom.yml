@@ -4,8 +4,8 @@ latitude: 43.65082
 longitude: -79.39687
 postcode: ""
 city: Toronto
-street: "Spadina Avenue"
-housenumber: 215
-phone: "+1-416-532-0334"
-opening_hours: "Mo-Su 12:00-20:00"
-website: "https://www.sonicboommusic.com/"
+street: Spadina Avenue
+housenumber: "215"
+phone: +1-416-532-0334
+opening_hours: Mo-Su 12:00-20:00
+website: https://www.sonicboommusic.com/

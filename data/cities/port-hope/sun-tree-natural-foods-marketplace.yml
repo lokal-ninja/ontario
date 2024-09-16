@@ -1,11 +1,11 @@
 id: 634229126
-type: way
+type: node
 latitude: 43.95226
 longitude: -78.29378
-postcode: "L1A 2T7"
+postcode: L1A 2T7
 city: Port Hope
-street: "Ontario Street"
-housenumber: 19
+street: Ontario Street
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

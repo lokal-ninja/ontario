@@ -4,8 +4,8 @@ latitude: 43.66598
 longitude: -79.38759
 postcode: ""
 city: Toronto
-street: "Bay Street"
-housenumber: 1033
-phone: "+1-416-551-8202"
-opening_hours: "Mo-Su 10:00-21:00"
-website: "https://www.hairdistrict.ca/"
+street: Bay Street
+housenumber: "1033"
+phone: +1-416-551-8202
+opening_hours: Mo-Su 10:00-21:00
+website: https://www.hairdistrict.ca/

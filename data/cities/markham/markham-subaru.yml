@@ -1,11 +1,11 @@
 id: 239578602
-type: way
+type: node
 latitude: 43.89741
 longitude: -79.26413
 postcode: ""
 city: Markham
-street: "Markham Road"
-housenumber: 9401
+street: Markham Road
+housenumber: "9401"
 phone: ""
 opening_hours: ""
-website: "https://www.markhamsubaru.com/"
+website: https://www.markhamsubaru.com/

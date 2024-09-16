@@ -1,11 +1,11 @@
 id: 98835135
-type: way
+type: node
 latitude: 44.2445
 longitude: -76.56415
-postcode: "K7M 3X9"
+postcode: K7M 3X9
 city: Kingston
-street: "Gardiners Road"
-housenumber: 628
+street: Gardiners Road
+housenumber: "628"
 phone: ""
 opening_hours: ""
 website: ""

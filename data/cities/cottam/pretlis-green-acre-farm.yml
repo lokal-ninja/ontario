@@ -1,11 +1,11 @@
 id: 983730194
-type: way
+type: node
 latitude: 42.12525
 longitude: -82.74009
-postcode: "N0R 1B0"
+postcode: N0R 1B0
 city: Cottam
-street: "Talbot Street E"
-housenumber: 150
+street: Talbot Street E
+housenumber: "150"
 phone: ""
 opening_hours: ""
 website: ""

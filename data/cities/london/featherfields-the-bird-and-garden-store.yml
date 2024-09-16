@@ -4,8 +4,8 @@ latitude: 42.99835
 longitude: -81.33256
 postcode: ""
 city: London
-street: "Hyde Park Road"
-housenumber: 1570
-phone: "+1-519-474-1165"
+street: Hyde Park Road
+housenumber: "1570"
+phone: +1-519-474-1165
 opening_hours: ""
-website: "https://featherfields.com/"
+website: https://featherfields.com/

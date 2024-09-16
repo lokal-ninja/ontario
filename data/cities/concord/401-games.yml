@@ -4,8 +4,8 @@ latitude: 43.79893
 longitude: -79.4999
 postcode: ""
 city: Concord
-street: "Keele Street"
-housenumber: 7700
-phone: "+1-905-660-4464"
-opening_hours: "Mo-Fr 12:00-21:00; Sa 11:00-21:00; Su 12:00-19:00"
-website: "https://store.401games.ca/"
+street: Keele Street
+housenumber: "7700"
+phone: +1-905-660-4464
+opening_hours: Mo-Fr 12:00-21:00; Sa 11:00-21:00; Su 12:00-19:00
+website: https://store.401games.ca/

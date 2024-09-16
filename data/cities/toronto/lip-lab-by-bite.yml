@@ -4,8 +4,8 @@ latitude: 43.64662
 longitude: -79.40741
 postcode: ""
 city: Toronto
-street: "Queen Street West"
-housenumber: 678
-phone: "+1-416-860-5652"
-opening_hours: "Mo-Sa 11:00-19:00, Su 11:00-18:00"
-website: "https://www.bitebeauty.com/lip-lab/lip-lab-toronto"
+street: Queen Street West
+housenumber: "678"
+phone: +1-416-860-5652
+opening_hours: Mo-Sa 11:00-19:00, Su 11:00-18:00
+website: https://www.bitebeauty.com/lip-lab/lip-lab-toronto

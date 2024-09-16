@@ -4,8 +4,8 @@ latitude: 43.65184
 longitude: -79.44773
 postcode: ""
 city: Toronto
-street: "Dundas Street West"
-housenumber: 2055
-phone: "+1-416-809-4831"
-opening_hours: "by appointment only"
-website: "http://www.soulostudio.ca/"
+street: Dundas Street West
+housenumber: "2055"
+phone: +1-416-809-4831
+opening_hours: '"by appointment only"'
+website: http://www.soulostudio.ca/

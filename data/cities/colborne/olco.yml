@@ -1,11 +1,11 @@
 id: 530094311
-type: way
+type: node
 latitude: 44.04853
 longitude: -77.91217
-postcode: "K0K 1M0"
+postcode: K0K 1M0
 city: Colborne
-street: "County Road 25"
-housenumber: 704
-phone: "+1-905-355-2991"
+street: County Road 25
+housenumber: "704"
+phone: +1-905-355-2991
 opening_hours: ""
 website: ""

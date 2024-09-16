@@ -1,11 +1,11 @@
 id: 657936365
-type: way
+type: node
 latitude: 43.63961
 longitude: -79.53159
 postcode: ""
 city: Toronto
-street: "Fieldway Road"
-housenumber: 60
+street: Fieldway Road
+housenumber: "60"
 phone: ""
 opening_hours: ""
-website: "humberview.com"
+website: humberview.com

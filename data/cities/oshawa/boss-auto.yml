@@ -1,11 +1,11 @@
 id: 120460779
-type: way
+type: node
 latitude: 43.93468
 longitude: -78.87907
 postcode: ""
 city: Oshawa
-street: "Simcoe Street North"
-housenumber: 1399
-phone: "+1-905-721-1200"
+street: Simcoe Street North
+housenumber: "1399"
+phone: +1-905-721-1200
 opening_hours: ""
-website: "https://www.bossauto.ca/"
+website: https://www.bossauto.ca/

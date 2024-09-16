@@ -2,10 +2,10 @@ id: 4913632389
 type: node
 latitude: 43.95124
 longitude: -78.29393
-postcode: "L1A 1N2"
+postcode: L1A 1N2
 city: Port Hope
-street: "Walton Street"
-housenumber: 59
-phone: "+1-905-885-8008"
+street: Walton Street
+housenumber: "59"
+phone: +1-905-885-8008
 opening_hours: ""
-website: "https://www.marche59.ca/"
+website: https://www.marche59.ca/

@@ -4,8 +4,8 @@ latitude: 44.23765
 longitude: -76.50281
 postcode: ""
 city: Kingston
-street: "Princess Street"
-housenumber: 647
+street: Princess Street
+housenumber: "647"
 phone: ""
 opening_hours: ""
-website: "https://www.ksoa.info/"
+website: https://www.ksoa.info/

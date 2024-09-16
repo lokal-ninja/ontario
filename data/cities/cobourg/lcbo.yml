@@ -1,11 +1,11 @@
 id: 79144110
-type: way
+type: node
 latitude: 43.95832
 longitude: -78.1678
-postcode: "K9A 2P8"
+postcode: K9A 2P8
 city: Cobourg
-street: "Albert Street"
-housenumber: 63
+street: Albert Street
+housenumber: "63"
 phone: ""
 opening_hours: ""
-website: "https://www.lcbo.com/"
+website: https://www.lcbo.com/

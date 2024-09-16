@@ -4,8 +4,8 @@ latitude: 43.80834
 longitude: -79.2701
 postcode: ""
 city: Scarborough
-street: "Sandhurst Circle"
-housenumber: 1571
-phone: "+1-416-291-1638"
-opening_hours: "10:00-21:00"
-website: "https://www.lcbo.com/"
+street: Sandhurst Circle
+housenumber: "1571"
+phone: +1-416-291-1638
+opening_hours: 10:00-21:00
+website: https://www.lcbo.com/

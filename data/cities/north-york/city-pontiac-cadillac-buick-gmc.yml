@@ -1,11 +1,11 @@
 id: 32630680
-type: way
+type: node
 latitude: 43.74483
 longitude: -79.3113
 postcode: ""
 city: North York
-street: "Victoria Park Avenue"
-housenumber: 1900
+street: Victoria Park Avenue
+housenumber: "1900"
 phone: ""
 opening_hours: ""
 website: ""

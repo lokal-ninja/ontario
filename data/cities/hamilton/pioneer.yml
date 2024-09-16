@@ -2,10 +2,10 @@ id: 2580320055
 type: node
 latitude: 43.2525
 longitude: -79.85063
-postcode: "L8N 1E4"
+postcode: L8N 1E4
 city: Hamilton
-street: "King Street East"
-housenumber: 603
+street: King Street East
+housenumber: "603"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

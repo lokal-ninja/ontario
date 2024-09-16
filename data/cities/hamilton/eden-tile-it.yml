@@ -1,11 +1,11 @@
 id: 98088092
-type: way
+type: node
 latitude: 43.14098
 longitude: -79.92041
-postcode: "L0R 1W0"
+postcode: L0R 1W0
 city: Hamilton
-street: "Highway 6 South"
-housenumber: 3727
-phone: "+1-905-679-5669"
+street: Highway 6 South
+housenumber: "3727"
+phone: +1-905-679-5669
 opening_hours: ""
-website: "https://www.tileit.ca/"
+website: https://www.tileit.ca/

@@ -1,11 +1,11 @@
 id: 187679817
-type: way
+type: node
 latitude: 43.46363
 longitude: -80.50199
 postcode: ""
 city: Waterloo
-street: "Weber Street South"
-housenumber: 170
+street: Weber Street South
+housenumber: "170"
 phone: ""
 opening_hours: ""
-website: "https://www.carimex.ca/"
+website: https://www.carimex.ca/

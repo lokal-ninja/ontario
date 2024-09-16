@@ -4,8 +4,8 @@ latitude: 43.64961
 longitude: -79.39178
 postcode: ""
 city: Toronto
-street: "Queen Street West"
-housenumber: 323
-phone: "+1-416-595-1059"
+street: Queen Street West
+housenumber: "323"
+phone: +1-416-595-1059
 opening_hours: ""
-website: "https://groovyshoes.ca/"
+website: https://groovyshoes.ca/

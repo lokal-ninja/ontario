@@ -1,11 +1,11 @@
 id: 408852370
-type: way
+type: node
 latitude: 49.68462
 longitude: -87.53317
-postcode: "P0T 1V0"
+postcode: P0T 1V0
 city: Jellicoe
-street: "Highway 11"
-housenumber: 5072
-phone: "+1-807-879-2512"
+street: Highway 11
+housenumber: "5072"
+phone: +1-807-879-2512
 opening_hours: ""
 website: ""

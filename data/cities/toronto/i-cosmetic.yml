@@ -1,11 +1,11 @@
 id: 584972654
-type: way
+type: node
 latitude: 43.77287
 longitude: -79.41355
-postcode: "M2N 5R3"
+postcode: M2N 5R3
 city: Toronto
-street: "Yonge Street"
-housenumber: 5293
+street: Yonge Street
+housenumber: "5293"
 phone: ""
 opening_hours: ""
 website: ""

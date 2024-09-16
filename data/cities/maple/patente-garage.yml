@@ -1,11 +1,11 @@
 id: 663533873
-type: way
+type: node
 latitude: 43.872
 longitude: -79.51544
 postcode: ""
 city: Maple
-street: "Keele Street"
-housenumber: 10695
+street: Keele Street
+housenumber: "10695"
 phone: ""
 opening_hours: ""
 website: ""

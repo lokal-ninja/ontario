@@ -1,11 +1,11 @@
 id: 42789126
-type: way
+type: node
 latitude: 43.67941
 longitude: -79.54581
-postcode: "M9R 2R5"
+postcode: M9R 2R5
 city: Etobicoke
-street: "Wincott Drive"
-housenumber: 250
-phone: "+1-416-248-1153"
-opening_hours: "Mo-Sa 10:00-21:00; Su 10:00-17:00"
-website: "https://www.thebeerstore.ca/"
+street: Wincott Drive
+housenumber: "250"
+phone: +1-416-248-1153
+opening_hours: Mo-Sa 10:00-21:00; Su 10:00-17:00
+website: https://www.thebeerstore.ca/

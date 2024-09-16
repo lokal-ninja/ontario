@@ -1,11 +1,11 @@
 id: 264689749
-type: way
+type: node
 latitude: 43.85554
 longitude: -79.70608
-postcode: "L7E 4C7"
+postcode: L7E 4C7
 city: Bolton
-street: "Simona Drive"
-housenumber: 10
-phone: "+1 905-857-1252"
+street: Simona Drive
+housenumber: "10"
+phone: +1 905-857-1252
 opening_hours: ""
-website: "https://www.finesford.ca/"
+website: https://www.finesford.ca/

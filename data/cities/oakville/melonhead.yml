@@ -2,10 +2,10 @@ id: 4408417108
 type: node
 latitude: 43.4667
 longitude: -79.7442
-postcode: "L6M 4M2"
+postcode: L6M 4M2
 city: Oakville
-street: "Dundas Street West"
-housenumber: 483
+street: Dundas Street West
+housenumber: "483"
 phone: ""
-opening_hours: "10:00-06:00"
-website: "https://www.melonhead.ca/"
+opening_hours: 10:00-06:00
+website: https://www.melonhead.ca/

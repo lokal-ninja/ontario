@@ -1,11 +1,11 @@
 id: 301697754
-type: way
+type: node
 latitude: 43.93054
 longitude: -79.5212
-postcode: "L7B 1L1"
+postcode: L7B 1L1
 city: King City
-street: "King Road"
-housenumber: 2078
-phone: "+1-905-539-2646"
+street: King Road
+housenumber: "2078"
+phone: +1-905-539-2646
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 204614196
-type: way
+type: node
 latitude: 42.03907
 longitude: -82.91912
-postcode: "N0R 1G0"
+postcode: N0R 1G0
 city: Harrow
-street: "Sinasac Street West"
-housenumber: 44
-phone: "+1-519-738-2223"
+street: Sinasac Street West
+housenumber: "44"
+phone: +1-519-738-2223
 opening_hours: ""
 website: ""

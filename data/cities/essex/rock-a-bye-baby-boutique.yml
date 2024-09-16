@@ -1,11 +1,11 @@
 id: 778731300
-type: way
+type: node
 latitude: 42.17453
 longitude: -82.82231
-postcode: "N8M 1A2"
+postcode: N8M 1A2
 city: Essex
-street: "Talbot Street North;Talbot Road"
-housenumber: 48
+street: Talbot Street North;Talbot Road
+housenumber: "48"
 phone: "+15198182336"
-opening_hours: "Tu-We, Fr 10:00-17:00; Th 10:00-18:00; Sa 10:00-15:00"
-website: "https://rockabyebabyboutique.ca/"
+opening_hours: Tu-We, Fr 10:00-17:00; Th 10:00-18:00; Sa 10:00-15:00
+website: https://rockabyebabyboutique.ca/

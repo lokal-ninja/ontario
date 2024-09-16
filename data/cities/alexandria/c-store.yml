@@ -1,11 +1,11 @@
 id: 521614899
-type: way
+type: node
 latitude: 45.29929
 longitude: -74.6275
-postcode: "K0C 1A0"
+postcode: K0C 1A0
 city: Alexandria
-street: "Alexandria Main Street South"
-housenumber: 470
-phone: "+1-613-525-4580"
+street: Alexandria Main Street South
+housenumber: "470"
+phone: +1-613-525-4580
 opening_hours: ""
 website: ""

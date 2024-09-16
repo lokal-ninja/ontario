@@ -1,11 +1,11 @@
 id: 31961642
-type: way
+type: node
 latitude: 43.71891
 longitude: -79.30057
 postcode: ""
 city: Toronto
-street: "Victoria Park Avenue"
-housenumber: 1400
-phone: "+1-416-755-2288"
-opening_hours: "Mo-Su 09:00-21:00"
-website: "http://www.greatfoodsupermarket.com"
+street: Victoria Park Avenue
+housenumber: "1400"
+phone: +1-416-755-2288
+opening_hours: Mo-Su 09:00-21:00
+website: http://www.greatfoodsupermarket.com

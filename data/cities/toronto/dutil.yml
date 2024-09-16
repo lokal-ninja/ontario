@@ -4,8 +4,8 @@ latitude: 43.64642
 longitude: -79.40844
 postcode: ""
 city: Toronto
-street: "Queen Street West"
-housenumber: 704
+street: Queen Street West
+housenumber: "704"
 phone: ""
-opening_hours: "Mo-Sa 12:00-19:00; Su 12:00-17:00"
-website: "https://www.dutildenim.com/"
+opening_hours: Mo-Sa 12:00-19:00; Su 12:00-17:00
+website: https://www.dutildenim.com/

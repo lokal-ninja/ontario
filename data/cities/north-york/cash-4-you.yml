@@ -2,10 +2,10 @@ id: 5345553373
 type: node
 latitude: 43.75656
 longitude: -79.41003
-postcode: "M2N 5L7"
+postcode: M2N 5L7
 city: North York
-street: "Yonge Street"
-housenumber: 4578
-phone: "+1-416-222-9666"
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-17:00; Su closed"
-website: "https://cash4you.ca/"
+street: Yonge Street
+housenumber: "4578"
+phone: +1-416-222-9666
+opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-17:00; Su closed
+website: https://cash4you.ca/

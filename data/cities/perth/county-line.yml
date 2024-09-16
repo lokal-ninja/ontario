@@ -1,11 +1,11 @@
 id: 521360833
-type: way
+type: node
 latitude: 44.90133
 longitude: -76.25296
-postcode: "K7H 2M8"
+postcode: K7H 2M8
 city: Perth
-street: "Wilson Street West"
-housenumber: 11
+street: Wilson Street West
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

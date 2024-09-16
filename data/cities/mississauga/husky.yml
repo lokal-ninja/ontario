@@ -1,11 +1,11 @@
 id: 42377181
-type: way
+type: node
 latitude: 43.57542
 longitude: -79.70487
 postcode: ""
 city: Mississauga
-street: "Queen Street South"
-housenumber: 371
+street: Queen Street South
+housenumber: "371"
 phone: ""
 opening_hours: ""
 website: ""

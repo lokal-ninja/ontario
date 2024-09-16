@@ -2,10 +2,10 @@ id: 9626698654
 type: node
 latitude: 42.98172
 longitude: -81.25155
-postcode: "N6A6K1"
+postcode: N6A6K1
 city: London
-street: "King Street"
-housenumber: 103
-phone: "+1 5197776839"
+street: King Street
+housenumber: "103"
+phone: +1 5197776839
 opening_hours: ""
-website: "https://www.skncliniclondon.com/"
+website: https://www.skncliniclondon.com/

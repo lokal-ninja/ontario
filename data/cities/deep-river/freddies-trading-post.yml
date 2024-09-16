@@ -1,11 +1,11 @@
 id: 360616770
-type: way
+type: node
 latitude: 46.11345
 longitude: -77.53168
-postcode: "K0J 1P0"
+postcode: K0J 1P0
 city: Deep River
-street: "Highway 17 (Trans-Canada)"
-housenumber: 33861
+street: Highway 17 (Trans-Canada)
+housenumber: "33861"
 phone: ""
 opening_hours: ""
 website: ""

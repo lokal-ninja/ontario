@@ -1,11 +1,11 @@
 id: 67160276
-type: way
+type: node
 latitude: 43.91077
 longitude: -79.44625
 postcode: ""
 city: Richmond Hill
-street: "Yonge Street"
-housenumber: 11623
+street: Yonge Street
+housenumber: "11623"
 phone: ""
 opening_hours: ""
 website: ""

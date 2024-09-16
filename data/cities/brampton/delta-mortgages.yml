@@ -1,11 +1,11 @@
 id: 453425891
-type: way
+type: node
 latitude: 43.69617
 longitude: -79.74825
-postcode: "L6W 2B5"
+postcode: L6W 2B5
 city: Brampton
-street: "Queen Street East"
-housenumber: 235
+street: Queen Street East
+housenumber: "235"
 phone: ""
 opening_hours: ""
 website: ""

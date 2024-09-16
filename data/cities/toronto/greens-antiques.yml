@@ -2,10 +2,11 @@ id: 4015586074
 type: node
 latitude: 43.66556
 longitude: -79.36834
-postcode: "M4X 1P3"
+postcode: M4X 1P3
 city: Toronto
-street: "Parliament Street"
-housenumber: 529
-phone: "+1-416-925-1556"
-opening_hours: "Fr 01:00-19:00; Sa 12:00-18:00; Su 12:00-18:00; Mo 01:00-19:00; Tu 01:00-19:00; We 01:00-19:00; Th 01:00-19:00"
-website: "https://greensantiques.ca/"
+street: Parliament Street
+housenumber: "529"
+phone: +1-416-925-1556
+opening_hours: Fr 01:00-19:00; Sa 12:00-18:00; Su 12:00-18:00; Mo 01:00-19:00; Tu
+    01:00-19:00; We 01:00-19:00; Th 01:00-19:00
+website: https://greensantiques.ca/

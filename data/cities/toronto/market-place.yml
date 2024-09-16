@@ -2,10 +2,10 @@ id: 3676543711
 type: node
 latitude: 43.64985
 longitude: -79.36981
-postcode: "M5A 1E3"
+postcode: M5A 1E3
 city: Toronto
-street: "Front Street East"
-housenumber: 129
+street: Front Street East
+housenumber: "129"
 phone: ""
 opening_hours: ""
 website: ""

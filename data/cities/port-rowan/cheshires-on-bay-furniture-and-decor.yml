@@ -2,10 +2,10 @@ id: 10891145127
 type: node
 latitude: 42.6237
 longitude: -80.45039
-postcode: "N0E1M0"
+postcode: N0E1M0
 city: Port Rowan
-street: "Bay Street"
-housenumber: 1017
-phone: "+1 519-586-5866"
-opening_hours: "Mo-Fr 09:00-17:00"
+street: Bay Street
+housenumber: "1017"
+phone: +1 519-586-5866
+opening_hours: Mo-Fr 09:00-17:00
 website: ""

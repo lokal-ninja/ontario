@@ -1,11 +1,11 @@
 id: 272476628
-type: way
+type: node
 latitude: 44.30699
 longitude: -78.32161
-postcode: "K9H 2P6"
+postcode: K9H 2P6
 city: Peterborough
-street: "Brock Street"
-housenumber: 181
-phone: "+1-705-745-1113"
+street: Brock Street
+housenumber: "181"
+phone: +1-705-745-1113
 opening_hours: ""
 website: ""

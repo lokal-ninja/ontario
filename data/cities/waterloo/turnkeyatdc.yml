@@ -5,7 +5,7 @@ longitude: -80.5423
 postcode: ""
 city: Waterloo
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-We 12:00-20:30; Th-Fr 10:00-20:30; Sa 08:30-14:30; Su closed"
-website: "https://wusa.ca/services/turnkey-desk/"
+opening_hours: Mo-We 12:00-20:30; Th-Fr 10:00-20:30; Sa 08:30-14:30; Su closed
+website: https://wusa.ca/services/turnkey-desk/

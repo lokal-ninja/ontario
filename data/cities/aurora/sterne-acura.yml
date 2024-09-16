@@ -1,11 +1,11 @@
 id: 486448475
-type: way
+type: node
 latitude: 44.02172
 longitude: -79.45193
-postcode: "L4G 0Z7"
+postcode: L4G 0Z7
 city: Aurora
-street: "St. John's Sideroad East"
-housenumber: 625
+street: St. John's Sideroad East
+housenumber: "625"
 phone: ""
 opening_hours: ""
 website: ""

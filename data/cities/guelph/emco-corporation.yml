@@ -4,8 +4,8 @@ latitude: 43.5479
 longitude: -80.27648
 postcode: ""
 city: Guelph
-street: "Dawson Road"
-housenumber: 65
+street: Dawson Road
+housenumber: "65"
 phone: ""
 opening_hours: ""
-website: "https://emco.ca/"
+website: https://emco.ca/

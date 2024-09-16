@@ -1,11 +1,11 @@
 id: 1004611957
-type: way
+type: node
 latitude: 48.0277
 longitude: -84.82928
-postcode: "P0S 1K0"
+postcode: P0S 1K0
 city: Wawa
-street: "Highway 17"
-housenumber: 1008
-phone: "+1-705-856-4340"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.northernlightsford.com/"
+street: Highway 17
+housenumber: "1008"
+phone: +1-705-856-4340
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.northernlightsford.com/

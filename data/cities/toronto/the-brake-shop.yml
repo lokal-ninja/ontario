@@ -1,11 +1,11 @@
 id: 657936363
-type: way
+type: node
 latitude: 43.63861
 longitude: -79.5325
 postcode: ""
 city: Toronto
-street: "Munster Avenue"
-housenumber: 366
-phone: "+1 416-231-5955"
+street: Munster Avenue
+housenumber: "366"
+phone: +1 416-231-5955
 opening_hours: ""
 website: ""

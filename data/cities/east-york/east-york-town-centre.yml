@@ -1,11 +1,11 @@
 id: 25429100
-type: way
+type: node
 latitude: 43.70516
 longitude: -79.34764
 postcode: ""
 city: East York
-street: "Overlea Boulevard"
-housenumber: 45
+street: Overlea Boulevard
+housenumber: "45"
 phone: ""
 opening_hours: ""
-website: "https://www.eastyorkshops.com/"
+website: https://www.eastyorkshops.com/

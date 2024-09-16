@@ -1,11 +1,11 @@
 id: 58661211
-type: way
+type: node
 latitude: 44.24809
 longitude: -76.56757
 postcode: ""
 city: Kingston
-street: "Gardiners Road"
-housenumber: 754
+street: Gardiners Road
+housenumber: "754"
 phone: ""
 opening_hours: ""
-website: "https://store-locations.underarmour.com/on/kingston/UAFH-754GRSG001"
+website: https://store-locations.underarmour.com/on/kingston/UAFH-754GRSG001

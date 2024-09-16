@@ -1,11 +1,11 @@
 id: 133505023
-type: way
+type: node
 latitude: 42.97133
 longitude: -81.23751
 postcode: ""
 city: London
-street: "Wellington Road"
-housenumber: 85
-phone: "+1 5194333479"
+street: Wellington Road
+housenumber: "85"
+phone: +1 5194333479
 opening_hours: ""
-website: "https://www.lcbo.com/"
+website: https://www.lcbo.com/

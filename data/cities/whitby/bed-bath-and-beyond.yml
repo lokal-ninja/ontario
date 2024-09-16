@@ -1,11 +1,11 @@
 id: 335285134
-type: way
+type: node
 latitude: 43.86653
 longitude: -78.89866
 postcode: ""
 city: Whitby
-street: "Victoria Street East"
-housenumber: 1751
+street: Victoria Street East
+housenumber: "1751"
 phone: ""
 opening_hours: ""
 website: ""

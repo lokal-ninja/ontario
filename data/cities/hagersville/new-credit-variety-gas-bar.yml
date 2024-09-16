@@ -1,11 +1,11 @@
 id: 527835530
-type: way
+type: node
 latitude: 42.97683
 longitude: -80.03725
-postcode: "N0A 1H0"
+postcode: N0A 1H0
 city: Hagersville
-street: "1st Line"
-housenumber: 78
-phone: "+1-905-768-8787"
+street: 1st Line
+housenumber: "78"
+phone: +1-905-768-8787
 opening_hours: ""
 website: ""

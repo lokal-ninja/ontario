@@ -1,11 +1,11 @@
 id: 373777873
-type: way
+type: node
 latitude: 43.24789
 longitude: -79.81745
-postcode: "L8H 3Z5"
+postcode: L8H 3Z5
 city: Hamilton
-street: "Ottawa Street North"
-housenumber: 190
+street: Ottawa Street North
+housenumber: "190"
 phone: ""
 opening_hours: ""
-website: "https://orangetreeboutique.ca/"
+website: https://orangetreeboutique.ca/

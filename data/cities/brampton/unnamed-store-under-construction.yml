@@ -1,11 +1,11 @@
 id: 34164933
-type: way
+type: node
 latitude: 43.6751
 longitude: -79.72045
 postcode: ""
 city: Brampton
-street: "Steeles Ave E"
-housenumber: 535
+street: Steeles Ave E
+housenumber: "535"
 phone: ""
 opening_hours: ""
 website: ""

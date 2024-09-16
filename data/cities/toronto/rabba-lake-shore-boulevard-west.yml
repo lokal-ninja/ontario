@@ -1,11 +1,11 @@
 id: 106710883
-type: way
+type: node
 latitude: 43.59893
 longitude: -79.51224
 postcode: ""
 city: Toronto
-street: "Lake Shore Boulevard West"
-housenumber: 3089
+street: Lake Shore Boulevard West
+housenumber: "3089"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

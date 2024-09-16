@@ -1,11 +1,11 @@
 id: 525631284
-type: way
+type: node
 latitude: 44.31499
 longitude: -80.6407
-postcode: "N0C 1H0"
+postcode: N0C 1H0
 city: Markdale
-street: "Toronto Street South"
-housenumber: 221
-phone: "+1-519-986-2527"
+street: Toronto Street South
+housenumber: "221"
+phone: +1-519-986-2527
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1293532707
-type: way
+type: node
 latitude: 43.70315
 longitude: -80.38026
-postcode: "N1M 2S2"
+postcode: N1M 2S2
 city: Fergus
-street: "St. Andrew Street West"
-housenumber: 355
-phone: "+1 613-864-4556"
-opening_hours: "Mo-Sa 09:00-19:00"
+street: St. Andrew Street West
+housenumber: "355"
+phone: +1 613-864-4556
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

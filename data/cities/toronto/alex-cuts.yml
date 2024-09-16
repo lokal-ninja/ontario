@@ -4,8 +4,8 @@ latitude: 43.6662
 longitude: -79.40687
 postcode: ""
 city: Toronto
-street: "Bloor Street West"
-housenumber: 386
-phone: "+1-416-323-0111"
-opening_hours: "Mo-Tu 10:00-19:00; Th-Fr 10:00-19:00; Sa 10:00-18:00; Su closed"
-website: "https://alexcuts.com/"
+street: Bloor Street West
+housenumber: "386"
+phone: +1-416-323-0111
+opening_hours: Mo-Tu 10:00-19:00; Th-Fr 10:00-19:00; Sa 10:00-18:00; Su closed
+website: https://alexcuts.com/

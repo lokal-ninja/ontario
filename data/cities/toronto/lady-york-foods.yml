@@ -1,11 +1,11 @@
 id: 468025327
-type: way
+type: node
 latitude: 43.70979
 longitude: -79.4527
-postcode: "M6B 3S7"
+postcode: M6B 3S7
 city: Toronto
-street: "Dufferin Street"
-housenumber: 2939
+street: Dufferin Street
+housenumber: "2939"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa,Su 08:00-18:00"
+opening_hours: Mo-Fr 08:00-21:00; Sa,Su 08:00-18:00
 website: ""

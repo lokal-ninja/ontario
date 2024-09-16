@@ -1,11 +1,11 @@
 id: 524090387
-type: way
+type: node
 latitude: 43.61964
 longitude: -81.53928
-postcode: "N0M 1L0"
+postcode: N0M 1L0
 city: Clinton
-street: "Albert Street"
-housenumber: 94
-phone: "+1-519-482-5329"
+street: Albert Street
+housenumber: "94"
+phone: +1-519-482-5329
 opening_hours: ""
 website: ""

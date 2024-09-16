@@ -1,11 +1,11 @@
 id: 266168999
-type: way
+type: node
 latitude: 43.23707
 longitude: -79.86793
-postcode: "L9A 3R1"
+postcode: L9A 3R1
 city: Hamilton
-street: "Upper Wellington Street"
-housenumber: 622
-phone: "+1-905-389-9670"
-opening_hours: "24/7"
-website: "https://stores.7-eleven.ca/store/23132"
+street: Upper Wellington Street
+housenumber: "622"
+phone: +1-905-389-9670
+opening_hours: 24/7
+website: https://stores.7-eleven.ca/store/23132

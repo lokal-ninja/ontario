@@ -2,10 +2,10 @@ id: 8861694897
 type: node
 latitude: 44.35634
 longitude: -79.64455
-postcode: "L4N 4E7"
+postcode: L4N 4E7
 city: Barrie
-street: "Yonge Street"
-housenumber: 649
-phone: "+1-705-733-1010"
-opening_hours: "Mo-We 09:00-18:30; Th-Fr 09:00-19:00; Sa-Su 09:00-16:45"
-website: "http://www.amanszone.ca/"
+street: Yonge Street
+housenumber: "649"
+phone: +1-705-733-1010
+opening_hours: Mo-We 09:00-18:30; Th-Fr 09:00-19:00; Sa-Su 09:00-16:45
+website: http://www.amanszone.ca/

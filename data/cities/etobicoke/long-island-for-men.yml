@@ -1,11 +1,11 @@
 id: 121874574
-type: way
+type: node
 latitude: 43.61615
 longitude: -79.55645
 postcode: ""
 city: Etobicoke
-street: "North Queen Street"
-housenumber: 185
+street: North Queen Street
+housenumber: "185"
 phone: ""
 opening_hours: ""
-website: "http://longislandclothiers.com/"
+website: http://longislandclothiers.com/

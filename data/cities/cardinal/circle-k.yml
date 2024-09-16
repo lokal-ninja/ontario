@@ -1,11 +1,11 @@
 id: 320090217
-type: way
+type: node
 latitude: 44.78776
 longitude: -75.38363
-postcode: "K0E 1E0"
+postcode: K0E 1E0
 city: Cardinal
-street: "County Road 2"
-housenumber: 629
-phone: "+1-613-657-1553"
+street: County Road 2
+housenumber: "629"
+phone: +1-613-657-1553
 opening_hours: ""
 website: ""

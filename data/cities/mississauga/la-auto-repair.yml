@@ -1,11 +1,11 @@
 id: 42392313
-type: way
+type: node
 latitude: 43.57346
 longitude: -79.70187
 postcode: ""
 city: Mississauga
-street: "Mississauga Road"
-housenumber: 5235
+street: Mississauga Road
+housenumber: "5235"
 phone: ""
 opening_hours: ""
 website: ""

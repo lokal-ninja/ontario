@@ -1,11 +1,11 @@
 id: 140482749
-type: way
+type: node
 latitude: 43.61524
 longitude: -79.6889
 postcode: ""
 city: Mississauga
-street: "McLaughlin Road"
-housenumber: 5970
+street: McLaughlin Road
+housenumber: "5970"
 phone: ""
 opening_hours: ""
 website: ""

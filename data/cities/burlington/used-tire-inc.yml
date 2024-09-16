@@ -1,11 +1,11 @@
 id: 832987452
-type: way
+type: node
 latitude: 43.33729
 longitude: -79.78534
-postcode: "L7R 1J6"
+postcode: L7R 1J6
 city: Burlington
-street: "New Street"
-housenumber: 2432
-phone: "+1-905-632-6688"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
-website: "https://www.totaltire.com/Contact/Find-Us/Mode/3/2432-New-Street-Burlington-ON-L7R1J6/details"
+street: New Street
+housenumber: "2432"
+phone: +1-905-632-6688
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
+website: https://www.totaltire.com/Contact/Find-Us/Mode/3/2432-New-Street-Burlington-ON-L7R1J6/details

@@ -1,11 +1,11 @@
 id: 178716159
-type: way
+type: node
 latitude: 43.15439
 longitude: -79.26616
-postcode: "L2S 4A2"
+postcode: L2S 4A2
 city: St. Catharines
-street: "Louth Street"
-housenumber: 411
-phone: "+1 905-984-8408"
-opening_hours: "Su-Mo 07:00-23:00"
-website: "https://www.realcanadiansuperstore.ca/store-locator/details/0577"
+street: Louth Street
+housenumber: "411"
+phone: +1 905-984-8408
+opening_hours: Su-Mo 07:00-23:00
+website: https://www.realcanadiansuperstore.ca/store-locator/details/0577

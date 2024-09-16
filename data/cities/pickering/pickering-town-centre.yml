@@ -1,11 +1,11 @@
 id: 33384926
-type: way
+type: node
 latitude: 43.8351
 longitude: -79.08912
 postcode: ""
 city: Pickering
-street: "Kingston Road"
-housenumber: 1355
+street: Kingston Road
+housenumber: "1355"
 phone: ""
-opening_hours: "Mo-Fr 10:00-21:00; Sa 09:30-18:00; Su 11:00-18:00"
+opening_hours: Mo-Fr 10:00-21:00; Sa 09:30-18:00; Su 11:00-18:00
 website: ""

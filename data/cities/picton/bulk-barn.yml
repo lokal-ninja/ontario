@@ -1,11 +1,11 @@
 id: 235891676
-type: way
+type: node
 latitude: 44.00592
 longitude: -77.14734
-postcode: "K0K 2T0"
+postcode: K0K 2T0
 city: Picton
-street: "Picton Main Street"
-housenumber: 97
-phone: "+1 (613) 476-6458"
-opening_hours: "Mo-Fr 09:30-20:00; Sa 09:30-20:00; Su 10:00-17:00"
+street: Picton Main Street
+housenumber: "97"
+phone: +1 (613) 476-6458
+opening_hours: Mo-Fr 09:30-20:00; Sa 09:30-20:00; Su 10:00-17:00
 website: ""

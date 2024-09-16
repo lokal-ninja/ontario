@@ -1,11 +1,11 @@
 id: 170354904
-type: way
+type: node
 latitude: 43.39818
 longitude: -79.74755
 postcode: ""
 city: Oakville
-street: "Wyecroft Road"
-housenumber: 3455
+street: Wyecroft Road
+housenumber: "3455"
 phone: ""
 opening_hours: ""
 website: ""

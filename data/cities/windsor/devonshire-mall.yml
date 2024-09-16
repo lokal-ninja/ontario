@@ -1,11 +1,11 @@
 id: 23400524
-type: way
+type: node
 latitude: 42.27636
 longitude: -83.00168
-postcode: "N8X 3Y8"
+postcode: N8X 3Y8
 city: Windsor
-street: "Howard Avenue"
-housenumber: 3100
-phone: "+1 519-966-3100"
+street: Howard Avenue
+housenumber: "3100"
+phone: +1 519-966-3100
 opening_hours: ""
-website: "https://www.devonshiremall.com"
+website: https://www.devonshiremall.com

@@ -4,8 +4,8 @@ latitude: 43.64677
 longitude: -79.41961
 postcode: ""
 city: Toronto
-street: "Ossington Avenue"
-housenumber: 123
-phone: "+1-416-530-1900"
-opening_hours: "Tu-Fr 11:00-20:00, Sa 10:00-18:00"
-website: "http://buffersalon.com/"
+street: Ossington Avenue
+housenumber: "123"
+phone: +1-416-530-1900
+opening_hours: Tu-Fr 11:00-20:00, Sa 10:00-18:00
+website: http://buffersalon.com/

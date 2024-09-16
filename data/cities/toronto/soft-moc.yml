@@ -4,8 +4,8 @@ latitude: 43.65087
 longitude: -79.47813
 postcode: ""
 city: Toronto
-street: "Bloor Street West"
-housenumber: 2266
+street: Bloor Street West
+housenumber: "2266"
 phone: ""
-opening_hours: "Mo-We 10:00-19:00; Th-Fr 10:00-20:00; Sa 10:00-18:00; Su 11:00-18:00"
-website: "https://www.softmoc.com/ca/locations/bloorstreetwest"
+opening_hours: Mo-We 10:00-19:00; Th-Fr 10:00-20:00; Sa 10:00-18:00; Su 11:00-18:00
+website: https://www.softmoc.com/ca/locations/bloorstreetwest

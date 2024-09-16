@@ -1,11 +1,11 @@
 id: 1070311164
-type: way
+type: node
 latitude: 44.00783
 longitude: -77.13295
-postcode: "K0K2T0"
+postcode: K0K2T0
 city: Prince Edward
-street: "Union Street"
-housenumber: 63
+street: Union Street
+housenumber: "63"
 phone: "+16134769293"
 opening_hours: ""
 website: ""

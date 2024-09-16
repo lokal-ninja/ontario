@@ -1,11 +1,11 @@
 id: 696803995
-type: way
+type: node
 latitude: 43.72812
 longitude: -79.48091
 postcode: ""
 city: Toronto
-street: "Wilson Avenue"
-housenumber: 1090
-phone: "+1-416-635-0284"
-opening_hours: "Mo-Fr 07:00-22:00; Sa, Su 07:00-20:00"
-website: "https://www.metro.ca/en/find-a-grocery/321"
+street: Wilson Avenue
+housenumber: "1090"
+phone: +1-416-635-0284
+opening_hours: Mo-Fr 07:00-22:00; Sa, Su 07:00-20:00
+website: https://www.metro.ca/en/find-a-grocery/321

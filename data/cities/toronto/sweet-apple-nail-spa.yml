@@ -2,10 +2,10 @@ id: 1700349647
 type: node
 latitude: 43.70659
 longitude: -79.39682
-postcode: "M4S 3H3"
+postcode: M4S 3H3
 city: Toronto
-street: "Holly Street"
-housenumber: 90
-phone: "+1-416-482-6288"
+street: Holly Street
+housenumber: "90"
+phone: +1-416-482-6288
 opening_hours: ""
 website: ""

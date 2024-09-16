@@ -2,10 +2,10 @@ id: 5720952025
 type: node
 latitude: 43.65574
 longitude: -79.41205
-postcode: "M6G 1B1"
+postcode: M6G 1B1
 city: Toronto
-street: "College Street"
-housenumber: 554
+street: College Street
+housenumber: "554"
 phone: ""
 opening_hours: ""
 website: ""

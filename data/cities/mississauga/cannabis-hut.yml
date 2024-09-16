@@ -1,11 +1,11 @@
 id: 116569763
-type: way
+type: node
 latitude: 43.55427
 longitude: -79.58405
 postcode: ""
 city: Mississauga
-street: "Helene Street North"
-housenumber: 6
+street: Helene Street North
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

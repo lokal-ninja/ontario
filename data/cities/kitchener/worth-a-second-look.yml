@@ -1,11 +1,11 @@
 id: 191170534
-type: way
+type: node
 latitude: 43.44838
 longitude: -80.48455
 postcode: ""
 city: Kitchener
-street: "Market Lane"
-housenumber: 37
-phone: "+1-519-569-7566"
-opening_hours: "Tu-Fr 09:00-17:00, Sa 10:00-16:00"
-website: "https://www.theworkingcentre.org/worth-second-look/166"
+street: Market Lane
+housenumber: "37"
+phone: +1-519-569-7566
+opening_hours: Tu-Fr 09:00-17:00, Sa 10:00-16:00
+website: https://www.theworkingcentre.org/worth-second-look/166

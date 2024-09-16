@@ -1,11 +1,11 @@
 id: 142836310
-type: way
+type: node
 latitude: 43.00984
 longitude: -81.19875
-postcode: "N5V 2A2"
+postcode: N5V 2A2
 city: London
-street: "First Street"
-housenumber: 614
+street: First Street
+housenumber: "614"
 phone: ""
 opening_hours: ""
 website: ""

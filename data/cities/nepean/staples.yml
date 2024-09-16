@@ -1,11 +1,11 @@
 id: 551780129
-type: way
+type: node
 latitude: 45.35313
 longitude: -75.7334
-postcode: "K2G 3J4"
+postcode: K2G 3J4
 city: Nepean
-street: "Merivale Road"
-housenumber: 1595
-phone: "+1-613-226-7989"
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-18:00; Su 11:00-17:00"
-website: "https://stores.staples.ca/on/nepean/office-supplies-ca-7.html"
+street: Merivale Road
+housenumber: "1595"
+phone: +1-613-226-7989
+opening_hours: Mo-Fr 08:00-21:00; Sa 09:00-18:00; Su 11:00-17:00
+website: https://stores.staples.ca/on/nepean/office-supplies-ca-7.html

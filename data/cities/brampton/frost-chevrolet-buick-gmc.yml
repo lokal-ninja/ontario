@@ -1,11 +1,11 @@
 id: 439082431
-type: way
+type: node
 latitude: 43.70548
 longitude: -79.789
 postcode: ""
 city: Brampton
-street: "Bovaird Drive"
-housenumber: 150
+street: Bovaird Drive
+housenumber: "150"
 phone: ""
 opening_hours: ""
-website: "http://www.frostgm.com/"
+website: http://www.frostgm.com/

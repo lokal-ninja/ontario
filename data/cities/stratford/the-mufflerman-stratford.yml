@@ -2,10 +2,10 @@ id: 2405633863
 type: node
 latitude: 43.3713
 longitude: -80.95671
-postcode: "N5A 3J8"
+postcode: N5A 3J8
 city: Stratford
-street: "Ontario Street"
-housenumber: 746
-phone: "+1 519-271-5560"
-opening_hours: "Mo-Fr 08:00-17:30"
-website: "https://www.themufflerman.com/"
+street: Ontario Street
+housenumber: "746"
+phone: +1 519-271-5560
+opening_hours: Mo-Fr 08:00-17:30
+website: https://www.themufflerman.com/

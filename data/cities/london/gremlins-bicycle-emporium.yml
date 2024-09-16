@@ -2,10 +2,10 @@ id: 10016012805
 type: node
 latitude: 42.99139
 longitude: -81.25125
-postcode: "N6A3G5"
+postcode: N6A3G5
 city: London
-street: "Richmond St"
-housenumber: 623
+street: Richmond St
+housenumber: "623"
 phone: ""
 opening_hours: ""
 website: ""

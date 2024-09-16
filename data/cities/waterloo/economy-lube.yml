@@ -1,11 +1,11 @@
 id: 204028790
-type: way
+type: node
 latitude: 43.47843
 longitude: -80.51954
 postcode: ""
 city: Waterloo
-street: "Weber Street North"
-housenumber: 250
+street: Weber Street North
+housenumber: "250"
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:30"
+opening_hours: Mo-Sa 08:00-18:30
 website: ""

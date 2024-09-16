@@ -1,11 +1,11 @@
 id: 527334097
-type: way
+type: node
 latitude: 42.90971
 longitude: -81.49646
-postcode: "N0L 1W0"
+postcode: N0L 1W0
 city: Mount Brydges
-street: "Adelaide Road"
-housenumber: 22537
-phone: "+1-519-264-9464"
+street: Adelaide Road
+housenumber: "22537"
+phone: +1-519-264-9464
 opening_hours: ""
 website: ""

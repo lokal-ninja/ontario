@@ -1,11 +1,11 @@
 id: 657793730
-type: way
+type: node
 latitude: 44.23262
 longitude: -76.49223
 postcode: ""
 city: Kingston
-street: "Barrie Street"
-housenumber: 310
+street: Barrie Street
+housenumber: "310"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

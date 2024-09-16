@@ -1,11 +1,11 @@
 id: 56010227
-type: way
+type: node
 latitude: 43.79042
 longitude: -79.55117
 postcode: ""
 city: Vaughan
-street: "Highway 7 West"
-housenumber: 3850
+street: Highway 7 West
+housenumber: "3850"
 phone: ""
-opening_hours: "Mo-Fr 08:30-21:00; Sa 09:00-19:00; Su 09:00-18:00"
-website: "https://www.canadiantire.ca/"
+opening_hours: Mo-Fr 08:30-21:00; Sa 09:00-19:00; Su 09:00-18:00
+website: https://www.canadiantire.ca/

@@ -1,11 +1,11 @@
 id: 256118504
-type: way
+type: node
 latitude: 43.54008
 longitude: -80.28204
-postcode: "N1H 7Y5"
+postcode: N1H 7Y5
 city: Guelph
-street: "Silvercreek Parkway North"
-housenumber: 130
+street: Silvercreek Parkway North
+housenumber: "130"
 phone: ""
 opening_hours: ""
 website: ""

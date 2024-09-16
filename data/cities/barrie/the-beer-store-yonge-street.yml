@@ -1,11 +1,11 @@
 id: 168084774
-type: way
+type: node
 latitude: 44.35586
 longitude: -79.64582
-postcode: "L4N 4E6"
+postcode: L4N 4E6
 city: Barrie
-street: "Yonge Street"
-housenumber: 640
-phone: "+1-705-737-5816"
-opening_hours: "Mo-Th 10:00-21:00; Fr-Sa 10:00-22:00; Su 11:00-18:00"
-website: "https://www.thebeerstore.ca/locations/yonge-st-barrie"
+street: Yonge Street
+housenumber: "640"
+phone: +1-705-737-5816
+opening_hours: Mo-Th 10:00-21:00; Fr-Sa 10:00-22:00; Su 11:00-18:00
+website: https://www.thebeerstore.ca/locations/yonge-st-barrie

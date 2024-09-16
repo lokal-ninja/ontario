@@ -2,10 +2,10 @@ id: 12091108920
 type: node
 latitude: 43.65056
 longitude: -79.3581
-postcode: "M5A 3C4"
+postcode: M5A 3C4
 city: Toronto
-street: "Stage Rd"
-housenumber: 11
+street: Stage Rd
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

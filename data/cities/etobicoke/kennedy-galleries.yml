@@ -1,11 +1,11 @@
 id: 33296635
-type: way
+type: node
 latitude: 43.6217
 longitude: -79.51275
 postcode: ""
 city: Etobicoke
-street: "Queen Elizabeth Boulevard"
-housenumber: 86
+street: Queen Elizabeth Boulevard
+housenumber: "86"
 phone: ""
 opening_hours: ""
-website: "https://www.kennedygalleries.com/"
+website: https://www.kennedygalleries.com/

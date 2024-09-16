@@ -2,10 +2,10 @@ id: 5173254930
 type: node
 latitude: 43.04107
 longitude: -81.2352
-postcode: "N5X 3Z8"
+postcode: N5X 3Z8
 city: London
-street: "Fanshawe Park Road East"
-housenumber: 1152
+street: Fanshawe Park Road East
+housenumber: "1152"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:30; Su closed unless scheduled appointment"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:30; Su closed "unless scheduled appointment"
 website: ""

@@ -1,11 +1,11 @@
 id: 130216118
-type: way
+type: node
 latitude: 43.63792
 longitude: -79.58731
 postcode: ""
 city: Mississauga
-street: "Burnhamthorpe Road East"
-housenumber: 2069
+street: Burnhamthorpe Road East
+housenumber: "2069"
 phone: ""
 opening_hours: ""
 website: ""

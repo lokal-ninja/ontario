@@ -1,11 +1,11 @@
 id: 190516760
-type: way
+type: node
 latitude: 46.47315
 longitude: -81.03054
-postcode: "P3C 3B8"
+postcode: P3C 3B8
 city: Sudbury
-street: "Dean Avenue"
-housenumber: 31
+street: Dean Avenue
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

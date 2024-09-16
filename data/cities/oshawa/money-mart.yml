@@ -1,11 +1,11 @@
 id: 368071367
-type: way
+type: node
 latitude: 43.89799
 longitude: -78.86429
 postcode: ""
 city: Oshawa
-street: "Simcoe Street North"
-housenumber: 16
+street: Simcoe Street North
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

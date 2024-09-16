@@ -1,11 +1,11 @@
 id: 43804301
-type: way
+type: node
 latitude: 43.7358
 longitude: -79.24838
-postcode: "M1J 1A7"
+postcode: M1J 1A7
 city: Scarborough
-street: "Brimley Road"
-housenumber: 510
+street: Brimley Road
+housenumber: "510"
 phone: ""
 opening_hours: ""
 website: ""

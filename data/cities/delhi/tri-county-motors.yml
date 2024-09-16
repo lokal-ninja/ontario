@@ -1,11 +1,11 @@
 id: 527350420
-type: way
+type: node
 latitude: 42.8533
 longitude: -80.49295
-postcode: "N4B 2B3"
+postcode: N4B 2B3
 city: Delhi
-street: "James Street"
-housenumber: 309
-phone: "+1-519-582-2390"
+street: James Street
+housenumber: "309"
+phone: +1-519-582-2390
 opening_hours: ""
 website: ""

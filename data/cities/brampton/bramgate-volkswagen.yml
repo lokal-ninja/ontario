@@ -1,11 +1,11 @@
 id: 362678799
-type: way
+type: node
 latitude: 43.75843
 longitude: -79.79403
 postcode: ""
 city: Brampton
-street: "Coachworks Crescent"
-housenumber: 15
+street: Coachworks Crescent
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "https://www.bramgatevw.ca/"
+website: https://www.bramgatevw.ca/

@@ -4,8 +4,8 @@ latitude: 43.66586
 longitude: -79.35137
 postcode: ""
 city: Toronto
-street: "Gerrard Street East"
-housenumber: 614
-phone: "+1-416-285-8482"
-opening_hours: "11:00-19:00"
+street: Gerrard Street East
+housenumber: "614"
+phone: +1-416-285-8482
+opening_hours: 11:00-19:00
 website: ""

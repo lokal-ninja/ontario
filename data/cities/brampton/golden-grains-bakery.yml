@@ -2,10 +2,10 @@ id: 10682199686
 type: node
 latitude: 43.69475
 longitude: -79.7725
-postcode: "L6X 1N7"
+postcode: L6X 1N7
 city: Brampton
-street: "Main Street North"
-housenumber: 389
-phone: "+1 905-459-5641"
+street: Main Street North
+housenumber: "389"
+phone: +1 905-459-5641
 opening_hours: ""
-website: "https://goldengrains.ca/"
+website: https://goldengrains.ca/

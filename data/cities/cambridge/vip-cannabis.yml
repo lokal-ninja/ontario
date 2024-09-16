@@ -2,10 +2,10 @@ id: 11933950220
 type: node
 latitude: 43.40066
 longitude: -80.36175
-postcode: "N3H1C2"
+postcode: N3H1C2
 city: Cambridge
-street: "Eagle Street North"
-housenumber: 336
-phone: "+1-519-778-1113"
+street: Eagle Street North
+housenumber: "336"
+phone: +1-519-778-1113
 opening_hours: ""
-website: "https://vipcannabis.ca/pages/cambridge"
+website: https://vipcannabis.ca/pages/cambridge

@@ -1,11 +1,11 @@
 id: 25903405
-type: way
+type: node
 latitude: 43.3925
 longitude: -79.79433
-postcode: "L7L 6M5"
+postcode: L7L 6M5
 city: Burlington
-street: "Appleby Line"
-housenumber: 2010
+street: Appleby Line
+housenumber: "2010"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
+opening_hours: Mo-Su 07:00-22:00
 website: ""

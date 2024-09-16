@@ -1,11 +1,11 @@
 id: 724655370
-type: way
+type: node
 latitude: 46.45408
 longitude: -81.003
-postcode: "P3E 3C5"
+postcode: P3E 3C5
 city: Greater Sudbury
-street: "Paris Street"
-housenumber: 1889
+street: Paris Street
+housenumber: "1889"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 12:00-17:00"
-website: "https://www.thebeerstore.ca/locations/paris-st"
+opening_hours: Mo-Sa 10:00-21:00; Su 12:00-17:00
+website: https://www.thebeerstore.ca/locations/paris-st

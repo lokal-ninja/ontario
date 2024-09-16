@@ -1,11 +1,11 @@
 id: 1282661369
-type: way
+type: node
 latitude: 42.41249
 longitude: -82.19728
-postcode: "N7L 3K2"
+postcode: N7L 3K2
 city: Chatham
-street: "St. Clair Street"
-housenumber: 294
+street: St. Clair Street
+housenumber: "294"
 phone: ""
 opening_hours: ""
 website: ""

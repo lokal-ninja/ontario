@@ -4,8 +4,8 @@ latitude: 43.16512
 longitude: -79.47501
 postcode: ""
 city: Beamsville
-street: "King Street"
-housenumber: 4966
-phone: "+1-905-563-4533"
-opening_hours: "Mo 09:00-14:00; Tu-Fr 08:30-17:00; Sa 08:30-16:00"
-website: "https://www.beamsvillebakery.ca"
+street: King Street
+housenumber: "4966"
+phone: +1-905-563-4533
+opening_hours: Mo 09:00-14:00; Tu-Fr 08:30-17:00; Sa 08:30-16:00
+website: https://www.beamsvillebakery.ca

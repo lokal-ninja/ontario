@@ -1,11 +1,11 @@
 id: 1270414244
-type: way
+type: node
 latitude: 44.63203
 longitude: -79.4356
-postcode: "L3V 0V2"
+postcode: L3V 0V2
 city: Orillia
-street: "Brodie Drive"
-housenumber: 1029
-phone: "+1-705-325-7414"
-opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-18:00; Su 09:00-17:00"
-website: "https://www.canadiantire.ca/"
+street: Brodie Drive
+housenumber: "1029"
+phone: +1-705-325-7414
+opening_hours: Mo-Fr 08:00-21:00; Sa 08:00-18:00; Su 09:00-17:00
+website: https://www.canadiantire.ca/

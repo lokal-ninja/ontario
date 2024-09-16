@@ -1,11 +1,11 @@
 id: 657596367
-type: way
+type: node
 latitude: 44.13681
 longitude: -79.30865
 postcode: ""
 city: Mount Albert
-street: "Centre Street"
-housenumber: 19154
+street: Centre Street
+housenumber: "19154"
 phone: ""
 opening_hours: ""
 website: ""

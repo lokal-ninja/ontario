@@ -1,11 +1,11 @@
 id: 92243356
-type: way
+type: node
 latitude: 43.63276
 longitude: -79.61555
 postcode: ""
 city: Mississauga
-street: "South Gateway Road"
-housenumber: 1535
+street: South Gateway Road
+housenumber: "1535"
 phone: ""
 opening_hours: ""
-website: "https://www.mountpleasantgroup.com/pre-planning/funeral/fh/m"
+website: https://www.mountpleasantgroup.com/pre-planning/funeral/fh/m

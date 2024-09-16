@@ -2,10 +2,11 @@ id: 4015586075
 type: node
 latitude: 43.66545
 longitude: -79.36829
-postcode: "M4X 1P3"
+postcode: M4X 1P3
 city: Toronto
-street: "Parliament Street"
-housenumber: 525
-phone: "+1-416-967-1280"
-opening_hours: "Fr 08:30-18:00; Sa 08:30-17:00; Su closed; Mo 08:30-18:00; Tu 08:30-18:00; We 08:30-18:00; Th 08:30-18:00"
+street: Parliament Street
+housenumber: "525"
+phone: +1-416-967-1280
+opening_hours: Fr 08:30-18:00; Sa 08:30-17:00; Su closed; Mo 08:30-18:00; Tu 08:30-18:00;
+    We 08:30-18:00; Th 08:30-18:00
 website: ""

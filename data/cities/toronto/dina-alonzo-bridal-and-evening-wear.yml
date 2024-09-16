@@ -1,11 +1,11 @@
 id: 122199049
-type: way
+type: node
 latitude: 43.67017
 longitude: -79.39546
 postcode: ""
 city: Toronto
-street: "Prince Arthur Avenue"
-housenumber: 8
+street: Prince Arthur Avenue
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

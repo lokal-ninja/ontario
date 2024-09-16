@@ -1,11 +1,11 @@
 id: 178087638
-type: way
+type: node
 latitude: 43.56278
 longitude: -80.28167
 postcode: ""
 city: Guelph
-street: "Woodlawn Road West"
-housenumber: 55
+street: Woodlawn Road West
+housenumber: "55"
 phone: ""
 opening_hours: ""
-website: "https://www.endoftheroll.com/"
+website: https://www.endoftheroll.com/

@@ -1,11 +1,11 @@
 id: 189301957
-type: way
+type: node
 latitude: 42.89578
 longitude: -79.26672
 postcode: ""
 city: Port Colborne
-street: "West Sideroad"
-housenumber: 53
+street: West Sideroad
+housenumber: "53"
 phone: ""
 opening_hours: ""
 website: ""

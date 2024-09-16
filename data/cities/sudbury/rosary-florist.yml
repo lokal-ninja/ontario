@@ -1,11 +1,11 @@
 id: 170624684
-type: way
+type: node
 latitude: 46.4914
 longitude: -80.99397
-postcode: "P3E 1B9"
+postcode: P3E 1B9
 city: Sudbury
-street: "Larch Street"
-housenumber: 74
+street: Larch Street
+housenumber: "74"
 phone: ""
 opening_hours: ""
 website: ""

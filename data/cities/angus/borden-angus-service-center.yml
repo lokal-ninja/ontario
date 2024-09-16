@@ -2,10 +2,10 @@ id: 9460854640
 type: node
 latitude: 44.3158
 longitude: -79.88542
-postcode: "l0m1b0"
+postcode: l0m1b0
 city: Angus
-street: "Mill Street"
-housenumber: 68
-phone: "+1 705-424-2886"
+street: Mill Street
+housenumber: "68"
+phone: +1 705-424-2886
 opening_hours: ""
 website: ""

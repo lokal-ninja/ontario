@@ -1,11 +1,11 @@
 id: 824888685
-type: way
+type: node
 latitude: 46.44826
 longitude: -81.00426
 postcode: ""
 city: Sudbury
-street: "Long Lake Road"
-housenumber: 2140
-phone: "+1-705-522-1755"
-opening_hours: "Tu-Sa 09:00-17:30"
-website: "https://theoutsidestore.ca"
+street: Long Lake Road
+housenumber: "2140"
+phone: +1-705-522-1755
+opening_hours: Tu-Sa 09:00-17:30
+website: https://theoutsidestore.ca

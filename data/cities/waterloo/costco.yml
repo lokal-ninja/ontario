@@ -1,11 +1,11 @@
 id: 452342247
-type: way
+type: node
 latitude: 43.44513
 longitude: -80.57969
-postcode: "N2J 3Z4"
+postcode: N2J 3Z4
 city: Waterloo
-street: "Erb Street West"
-housenumber: 930
-phone: "+1-226-215-1150"
-opening_hours: "Mo-Fr 09:00-20:30; Sa 09:00-18:00; Su 09:00-18:00"
-website: "https://www.costco.ca/warehouse-locations/waterloo-on-1248.html"
+street: Erb Street West
+housenumber: "930"
+phone: +1-226-215-1150
+opening_hours: Mo-Fr 09:00-20:30; Sa 09:00-18:00; Su 09:00-18:00
+website: https://www.costco.ca/warehouse-locations/waterloo-on-1248.html

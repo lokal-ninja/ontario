@@ -1,11 +1,11 @@
 id: 524218364
-type: way
+type: node
 latitude: 44.82164
 longitude: -80.17256
-postcode: "L0K 1C0"
+postcode: L0K 1C0
 city: Christian Island
-street: "Bayshore Drive"
-housenumber: 3
-phone: "+1-705-247-9000"
+street: Bayshore Drive
+housenumber: "3"
+phone: +1-705-247-9000
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 661276014
-type: way
+type: node
 latitude: 43.7528
 longitude: -79.26881
 postcode: ""
 city: Toronto
-street: "Lawrence Avenue East"
-housenumber: 2480
+street: Lawrence Avenue East
+housenumber: "2480"
 phone: ""
 opening_hours: ""
 website: ""

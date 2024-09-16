@@ -1,11 +1,11 @@
 id: 510615178
-type: way
+type: node
 latitude: 43.68021
 longitude: -79.72177
-postcode: "L6W 0A6"
+postcode: L6W 0A6
 city: Brampton
-street: "Resolution Drive"
-housenumber: 15
+street: Resolution Drive
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.walmart.ca/en/stores-near-me/brampton-s-1188"
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.walmart.ca/en/stores-near-me/brampton-s-1188

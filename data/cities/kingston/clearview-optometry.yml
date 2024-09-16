@@ -1,11 +1,11 @@
 id: 1030246355
-type: way
+type: node
 latitude: 44.25848
 longitude: -76.45557
 postcode: ""
 city: Kingston
-street: "Gore Road"
-housenumber: 235
+street: Gore Road
+housenumber: "235"
 phone: ""
 opening_hours: ""
-website: "https://www.clearviewoptometry.ca/"
+website: https://www.clearviewoptometry.ca/

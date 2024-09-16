@@ -1,11 +1,11 @@
 id: 530882657
-type: way
+type: node
 latitude: 44.31729
 longitude: -76.54071
-postcode: "K0H 1M0"
+postcode: K0H 1M0
 city: Kingston
-street: "Sydenham Road"
-housenumber: 2238
-phone: "+1-613-546-4074"
+street: Sydenham Road
+housenumber: "2238"
+phone: +1-613-546-4074
 opening_hours: ""
 website: ""

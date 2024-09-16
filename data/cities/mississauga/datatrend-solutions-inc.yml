@@ -2,10 +2,10 @@ id: 2158529468
 type: node
 latitude: 43.56122
 longitude: -79.57513
-postcode: "L5G 1H3"
+postcode: L5G 1H3
 city: Mississauga
-street: "Lakeshore Road East"
-housenumber: 305
-phone: "+1-905-363-1812"
+street: Lakeshore Road East
+housenumber: "305"
+phone: +1-905-363-1812
 opening_hours: ""
-website: "https://www.datatrend.ca/"
+website: https://www.datatrend.ca/

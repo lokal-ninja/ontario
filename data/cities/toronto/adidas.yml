@@ -2,10 +2,10 @@ id: 5705636821
 type: node
 latitude: 43.6567
 longitude: -79.3806
-postcode: "M5B 0A1"
+postcode: M5B 0A1
 city: Toronto
-street: "Dundas Street East"
-housenumber: 10
-phone: "+1-416-915-8133"
+street: Dundas Street East
+housenumber: "10"
+phone: +1-416-915-8133
 opening_hours: ""
-website: "https://www.adidas.ca/en"
+website: https://www.adidas.ca/en

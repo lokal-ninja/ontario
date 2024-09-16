@@ -1,11 +1,11 @@
 id: 747183371
-type: way
+type: node
 latitude: 42.97207
 longitude: -81.23901
 postcode: ""
 city: London
-street: "High Street"
-housenumber: 55
-phone: "+1 5196736886"
+street: High Street
+housenumber: "55"
+phone: +1 5196736886
 opening_hours: ""
 website: ""

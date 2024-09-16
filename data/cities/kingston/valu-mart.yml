@@ -1,11 +1,11 @@
 id: 17488404
-type: way
+type: node
 latitude: 44.25898
 longitude: -76.456
 postcode: ""
 city: Kingston
-street: "Gore Road"
-housenumber: 235
+street: Gore Road
+housenumber: "235"
 phone: ""
-opening_hours: "Mo-Su 08:00-20:00"
+opening_hours: Mo-Su 08:00-20:00
 website: ""

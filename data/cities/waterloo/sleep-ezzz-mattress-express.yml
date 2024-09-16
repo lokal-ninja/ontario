@@ -2,10 +2,10 @@ id: 5648014859
 type: node
 latitude: 43.48132
 longitude: -80.52574
-postcode: "N2J 2Z2"
+postcode: N2J 2Z2
 city: Waterloo
-street: "King Street North"
-housenumber: 354
-phone: "+1-519-746-5056"
-opening_hours: "Mo-Fr 10:00-20:00, Sa 10:00-17:30, Su 12:00-17:00"
-website: "http://www.sleep-ezzz.com/"
+street: King Street North
+housenumber: "354"
+phone: +1-519-746-5056
+opening_hours: Mo-Fr 10:00-20:00, Sa 10:00-17:30, Su 12:00-17:00
+website: http://www.sleep-ezzz.com/

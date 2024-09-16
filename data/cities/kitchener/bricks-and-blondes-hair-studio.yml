@@ -1,11 +1,11 @@
 id: 917970564
-type: way
+type: node
 latitude: 43.4336
 longitude: -80.45068
-postcode: "N2C 1A3"
+postcode: N2C 1A3
 city: Kitchener
-street: "Kingsway Drive"
-housenumber: 2295
-phone: "+1 (519) 998-2223"
+street: Kingsway Drive
+housenumber: "2295"
+phone: +1 (519) 998-2223
 opening_hours: ""
 website: ""

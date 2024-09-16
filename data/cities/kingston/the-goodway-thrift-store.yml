@@ -1,11 +1,11 @@
 id: 158306451
-type: way
+type: node
 latitude: 44.25518
 longitude: -76.49728
-postcode: "K7K 4C3"
+postcode: K7K 4C3
 city: Kingston
-street: "Division Street"
-housenumber: 844
-phone: "+1-613-817-1213"
+street: Division Street
+housenumber: "844"
+phone: +1-613-817-1213
 opening_hours: ""
-website: "https://thegoodway.ca/"
+website: https://thegoodway.ca/

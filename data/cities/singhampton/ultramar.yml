@@ -1,11 +1,11 @@
 id: 527137271
-type: way
+type: node
 latitude: 44.34548
 longitude: -80.24936
-postcode: "N0C 1M0"
+postcode: N0C 1M0
 city: Singhampton
-street: "Country Road 124"
-housenumber: 794047
-phone: "+1-705-445-9377"
+street: Country Road 124
+housenumber: "794047"
+phone: +1-705-445-9377
 opening_hours: ""
 website: ""

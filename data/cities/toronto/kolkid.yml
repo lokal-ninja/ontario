@@ -4,8 +4,8 @@ latitude: 43.64665
 longitude: -79.40729
 postcode: ""
 city: Toronto
-street: "Queen Street West"
-housenumber: 674
+street: Queen Street West
+housenumber: "674"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00, Su 12:00-18:00"
-website: "https://kolkid.ca/"
+opening_hours: Mo-Sa 10:00-19:00, Su 12:00-18:00
+website: https://kolkid.ca/

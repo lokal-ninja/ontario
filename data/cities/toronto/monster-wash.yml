@@ -4,8 +4,8 @@ latitude: 43.63676
 longitude: -79.43714
 postcode: ""
 city: Toronto
-street: "King Street West"
-housenumber: 1441
+street: King Street West
+housenumber: "1441"
 phone: ""
-opening_hours: "07:00-23:00 Last load at 9:45pm, no entry after 10:30pm"
+opening_hours: 07:00-23:00 "Last load at 9:45pm, no entry after 10:30pm"
 website: ""

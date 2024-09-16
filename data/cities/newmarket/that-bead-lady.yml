@@ -1,11 +1,11 @@
 id: 169776990
-type: way
+type: node
 latitude: 44.05853
 longitude: -79.46248
-postcode: "L3Y 7T8"
+postcode: L3Y 7T8
 city: Newmarket
-street: "Davis Drive"
-housenumber: 390
-phone: "+1-905-954-1327"
+street: Davis Drive
+housenumber: "390"
+phone: +1-905-954-1327
 opening_hours: ""
-website: "https://www.thatbeadlady.com/"
+website: https://www.thatbeadlady.com/

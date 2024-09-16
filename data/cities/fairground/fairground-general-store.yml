@@ -1,11 +1,11 @@
 id: 525201447
-type: way
+type: node
 latitude: 42.64947
 longitude: -80.65999
-postcode: "N0E 1G0"
+postcode: N0E 1G0
 city: Fairground
-street: "Fairground Road"
-housenumber: 529
-phone: "+1-519-875-4731"
+street: Fairground Road
+housenumber: "529"
+phone: +1-519-875-4731
 opening_hours: ""
 website: ""

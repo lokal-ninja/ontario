@@ -2,10 +2,10 @@ id: 4554885131
 type: node
 latitude: 43.64605
 longitude: -79.41024
-postcode: "M6J 1E9"
+postcode: M6J 1E9
 city: Toronto
-street: "Queen Street West"
-housenumber: 752
-phone: "+1-416-603-0123"
+street: Queen Street West
+housenumber: "752"
+phone: +1-416-603-0123
 opening_hours: ""
-website: "https://www.spectaclelovesyou.com/"
+website: https://www.spectaclelovesyou.com/

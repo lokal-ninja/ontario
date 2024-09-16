@@ -1,11 +1,11 @@
 id: 559513317
-type: way
+type: node
 latitude: 43.49824
 longitude: -80.18989
-postcode: "N1L 0A6"
+postcode: N1L 0A6
 city: Guelph
-street: "Clair Road West"
-housenumber: 24
-phone: "+1 519 763 7207"
-opening_hours: "Mo-Fr 07:30-21:00; Sa, Su 07:30-20:00"
-website: "https://fresh.longos.com/guelph"
+street: Clair Road West
+housenumber: "24"
+phone: +1 519 763 7207
+opening_hours: Mo-Fr 07:30-21:00; Sa, Su 07:30-20:00
+website: https://fresh.longos.com/guelph

@@ -1,11 +1,11 @@
 id: 683399383
-type: way
+type: node
 latitude: 43.64967
 longitude: -79.39441
 postcode: ""
 city: Toronto
-street: "Queen Street West"
-housenumber: 318
+street: Queen Street West
+housenumber: "318"
 phone: ""
 opening_hours: ""
-website: "https://www.318queen.com/"
+website: https://www.318queen.com/

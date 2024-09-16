@@ -1,11 +1,11 @@
 id: 198834232
-type: way
+type: node
 latitude: 43.32698
 longitude: -79.83141
-postcode: "L7T 4K1"
+postcode: L7T 4K1
 city: Burlington
-street: "Plains Road East"
-housenumber: 1059
+street: Plains Road East
+housenumber: "1059"
 phone: ""
-opening_hours: "Mo-Fr 07:00-21:00; Sa-Su 07:00-20:00; PH off"
+opening_hours: Mo-Fr 07:00-21:00; Sa-Su 07:00-20:00; PH off
 website: ""

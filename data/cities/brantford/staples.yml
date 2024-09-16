@@ -1,11 +1,11 @@
 id: 312425522
-type: way
+type: node
 latitude: 43.17036
 longitude: -80.24718
-postcode: "N3R 7C5"
+postcode: N3R 7C5
 city: Brantford
-street: "West Street"
-housenumber: 595
+street: West Street
+housenumber: "595"
 phone: ""
 opening_hours: ""
-website: "https://stores.staples.ca/on/brantford/office-supplies-ca-103.html"
+website: https://stores.staples.ca/on/brantford/office-supplies-ca-103.html

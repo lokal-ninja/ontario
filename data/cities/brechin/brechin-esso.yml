@@ -1,11 +1,11 @@
 id: 524451382
-type: way
+type: node
 latitude: 44.56419
 longitude: -79.185
-postcode: "L0K 1B0"
+postcode: L0K 1B0
 city: Brechin
-street: "Highway 12"
-housenumber: 2692
-phone: "+1-705-484-5000"
-opening_hours: "Mo-Fr 05:00-21:00; Sa-Su 06:00-21:00"
-website: "https://www.esso.ca/en-ca/find-station/brechin-on-esso-200322407"
+street: Highway 12
+housenumber: "2692"
+phone: +1-705-484-5000
+opening_hours: Mo-Fr 05:00-21:00; Sa-Su 06:00-21:00
+website: https://www.esso.ca/en-ca/find-station/brechin-on-esso-200322407

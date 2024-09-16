@@ -1,11 +1,11 @@
 id: 139031374
-type: way
+type: node
 latitude: 43.64927
 longitude: -79.89263
-postcode: "L7G 4B1"
+postcode: L7G 4B1
 city: Georgetown
-street: "Guelph Street"
-housenumber: 314
+street: Guelph Street
+housenumber: "314"
 phone: ""
 opening_hours: ""
 website: ""

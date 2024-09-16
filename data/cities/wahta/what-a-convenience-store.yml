@@ -1,11 +1,11 @@
 id: 375330080
-type: way
+type: node
 latitude: 44.98757
 longitude: -79.71632
-postcode: "P0C 1A0"
+postcode: P0C 1A0
 city: Wahta
-street: "Muskoka Road"
-housenumber: 2071
-phone: "+1-705-762-1923"
+street: Muskoka Road
+housenumber: "2071"
+phone: +1-705-762-1923
 opening_hours: ""
 website: ""

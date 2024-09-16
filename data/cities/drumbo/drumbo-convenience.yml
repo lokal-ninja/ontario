@@ -1,11 +1,11 @@
 id: 529200799
-type: way
+type: node
 latitude: 43.23574
 longitude: -80.55195
-postcode: "N0J 1G0"
+postcode: N0J 1G0
 city: Drumbo
-street: "Wilmot Street South"
-housenumber: 23
-phone: "+1-519-463-6232"
+street: Wilmot Street South
+housenumber: "23"
+phone: +1-519-463-6232
 opening_hours: ""
 website: ""

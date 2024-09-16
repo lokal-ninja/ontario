@@ -1,11 +1,11 @@
 id: 1119998059
-type: way
+type: node
 latitude: 45.35361
 longitude: -80.0249
-postcode: "P2A 1V7"
+postcode: P2A 1V7
 city: Parry Sound
-street: "William Street"
-housenumber: 108
+street: William Street
+housenumber: "108"
 phone: ""
 opening_hours: ""
 website: ""

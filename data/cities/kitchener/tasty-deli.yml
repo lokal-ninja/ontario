@@ -4,8 +4,8 @@ latitude: 43.45032
 longitude: -80.4934
 postcode: ""
 city: Kitchener
-street: "Charles Street West"
-housenumber: 60
+street: Charles Street West
+housenumber: "60"
 phone: ""
 opening_hours: ""
-website: "https://tastydeli.ca"
+website: https://tastydeli.ca

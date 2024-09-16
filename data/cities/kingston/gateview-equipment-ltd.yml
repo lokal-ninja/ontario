@@ -1,11 +1,11 @@
 id: 656288816
-type: way
+type: node
 latitude: 44.26888
 longitude: -76.5445
 postcode: ""
 city: Kingston
-street: "Sydenham Road"
-housenumber: 1063
+street: Sydenham Road
+housenumber: "1063"
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 9911745914
 type: node
 latitude: 43.84347
 longitude: -79.53438
-postcode: "L6A 3X5"
+postcode: L6A 3X5
 city: Maple
-street: "Jane Street"
-housenumber: 9661
-phone: "+1-905-553 6737"
-opening_hours: "Tu 09:30-06:00; We-Th 10:00-08:00; Fr 09:30-06:00; Sa 08:30-05:00"
+street: Jane Street
+housenumber: "9661"
+phone: +1-905-553 6737
+opening_hours: Tu 09:30-06:00; We-Th 10:00-08:00; Fr 09:30-06:00; Sa 08:30-05:00
 website: ""

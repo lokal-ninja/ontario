@@ -1,11 +1,11 @@
 id: 489060904
-type: way
+type: node
 latitude: 44.89255
 longitude: -76.03204
 postcode: ""
 city: Smiths Falls
-street: "Lombard Street"
-housenumber: 114
+street: Lombard Street
+housenumber: "114"
 phone: ""
 opening_hours: ""
-website: "https://www.walmart.ca/en/stores-near-me/smiths-falls-ont-5811"
+website: https://www.walmart.ca/en/stores-near-me/smiths-falls-ont-5811

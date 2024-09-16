@@ -1,11 +1,11 @@
 id: 527125701
-type: way
+type: node
 latitude: 42.16862
 longitude: -82.81408
-postcode: "N8M 1B6"
+postcode: N8M 1B6
 city: Essex
-street: "Talbot Street South"
-housenumber: 200
-phone: "+1-519-776-7507"
+street: Talbot Street South
+housenumber: "200"
+phone: +1-519-776-7507
 opening_hours: ""
 website: ""

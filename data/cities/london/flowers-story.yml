@@ -2,10 +2,10 @@ id: 4443895073
 type: node
 latitude: 42.99294
 longitude: -81.25212
-postcode: "N6A 5M1"
+postcode: N6A 5M1
 city: London
-street: "Richmond Street"
-housenumber: 685
-phone: "+1-519-601-4477"
+street: Richmond Street
+housenumber: "685"
+phone: +1-519-601-4477
 opening_hours: ""
-website: "http://www.flowersstory.ca"
+website: http://www.flowersstory.ca

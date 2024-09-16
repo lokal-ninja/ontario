@@ -4,8 +4,8 @@ latitude: 43.64346
 longitude: -79.42195
 postcode: ""
 city: Toronto
-street: "Queen Street West"
-housenumber: 1083
+street: Queen Street West
+housenumber: "1083"
 phone: ""
 opening_hours: ""
-website: "http://aeya.ca/"
+website: http://aeya.ca/

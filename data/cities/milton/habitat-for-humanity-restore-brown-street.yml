@@ -1,11 +1,11 @@
 id: 58473282
-type: way
+type: node
 latitude: 43.51124
 longitude: -79.88437
 postcode: ""
 city: Milton
-street: "Brown Street"
-housenumber: 25
+street: Brown Street
+housenumber: "25"
 phone: ""
 opening_hours: ""
-website: "http://www.habitathalton.ca/ReStore.aspx"
+website: http://www.habitathalton.ca/ReStore.aspx

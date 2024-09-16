@@ -4,8 +4,8 @@ latitude: 43.65646
 longitude: -79.37888
 postcode: ""
 city: Toronto
-street: "Bond Street"
-housenumber: 100
+street: Bond Street
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

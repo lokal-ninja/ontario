@@ -1,11 +1,11 @@
 id: 34749858
-type: way
+type: node
 latitude: 43.68286
 longitude: -79.59347
-postcode: "M9W 5E8"
+postcode: M9W 5E8
 city: Toronto
-street: "Carlingview Drive"
-housenumber: 195
-phone: "+1-416-674-5959"
+street: Carlingview Drive
+housenumber: "195"
+phone: +1-416-674-5959
 opening_hours: ""
-website: "http://www.aviationworld.net/"
+website: http://www.aviationworld.net/

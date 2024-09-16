@@ -1,11 +1,11 @@
 id: 699152855
-type: way
+type: node
 latitude: 48.47633
 longitude: -81.33727
-postcode: "P4N 2R3"
+postcode: P4N 2R3
 city: Timmins
-street: "Algonquin Boulevard West"
-housenumber: 70
-phone: "+1 705 531 3137"
+street: Algonquin Boulevard West
+housenumber: "70"
+phone: +1 705 531 3137
 opening_hours: ""
-website: "https://tooltown.ca/"
+website: https://tooltown.ca/

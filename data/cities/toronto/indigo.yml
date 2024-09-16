@@ -2,10 +2,10 @@ id: 388303549
 type: node
 latitude: 43.65363
 longitude: -79.38073
-postcode: "M5B 2H1"
+postcode: M5B 2H1
 city: Toronto
-street: "Yonge Street"
-housenumber: 220
-phone: "+1-416-591-3622"
+street: Yonge Street
+housenumber: "220"
+phone: +1-416-591-3622
 opening_hours: ""
-website: "https://www.chapters.indigo.ca/"
+website: https://www.chapters.indigo.ca/

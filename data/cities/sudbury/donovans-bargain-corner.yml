@@ -1,11 +1,11 @@
 id: 215626723
-type: way
+type: node
 latitude: 46.50233
 longitude: -81.0055
-postcode: "P3C 4G5"
+postcode: P3C 4G5
 city: Sudbury
-street: "Montague Avenue"
-housenumber: 400
+street: Montague Avenue
+housenumber: "400"
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,11 @@ id: 6584628503
 type: node
 latitude: 43.20184
 longitude: -79.89432
-postcode: "L9B 1K4"
+postcode: L9B 1K4
 city: Hamilton
-street: "Upper James Street"
-housenumber: 1638
-phone: "+1-905-385-2739"
-opening_hours: "Mo 12:00-18:00; Tu-Th 12:00-20:00; Fr 12:00-18:00; Sa 10:00-16:00; PH off"
-website: "https://brewtime.ca"
+street: Upper James Street
+housenumber: "1638"
+phone: +1-905-385-2739
+opening_hours: Mo 12:00-18:00; Tu-Th 12:00-20:00; Fr 12:00-18:00; Sa 10:00-16:00;
+    PH off
+website: https://brewtime.ca

@@ -1,11 +1,11 @@
 id: 178760797
-type: way
+type: node
 latitude: 43.59557
 longitude: -79.78468
-postcode: "L5N 8E1"
+postcode: L5N 8E1
 city: Mississauga
-street: "Argentia Road"
-housenumber: 3050
-phone: "+1-905-785-8928"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.realcanadiansuperstore.ca/store-locator/details/1080"
+street: Argentia Road
+housenumber: "3050"
+phone: +1-905-785-8928
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.realcanadiansuperstore.ca/store-locator/details/1080

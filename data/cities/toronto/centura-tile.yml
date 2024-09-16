@@ -1,11 +1,11 @@
 id: 32506959
-type: way
+type: node
 latitude: 43.71487
 longitude: -79.45674
-postcode: "M6A 1C4"
+postcode: M6A 1C4
 city: Toronto
-street: "Lawrence Avenue West"
-housenumber: 950
-phone: "+1-416-785-5165"
-opening_hours: "Mo-Fr 08:30-17:00; Sa 08:30-16:00; Su 10:00-16:00"
-website: "https://www.centura.ca"
+street: Lawrence Avenue West
+housenumber: "950"
+phone: +1-416-785-5165
+opening_hours: Mo-Fr 08:30-17:00; Sa 08:30-16:00; Su 10:00-16:00
+website: https://www.centura.ca

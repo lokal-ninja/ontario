@@ -4,8 +4,8 @@ latitude: 42.29165
 longitude: -83.05945
 postcode: ""
 city: Windsor
-street: "Tecumseh Road W"
-housenumber: 2750
-phone: "+1-519-256-1891"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.foodbasics.ca"
+street: Tecumseh Road W
+housenumber: "2750"
+phone: +1-519-256-1891
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.foodbasics.ca

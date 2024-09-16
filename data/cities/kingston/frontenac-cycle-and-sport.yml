@@ -2,10 +2,10 @@ id: 1777995316
 type: node
 latitude: 44.23343
 longitude: -76.49073
-postcode: "K7K 3T1"
+postcode: K7K 3T1
 city: Kingston
-street: "Barrie Street"
-housenumber: 336
+street: Barrie Street
+housenumber: "336"
 phone: ""
-opening_hours: "Mo-Fr 10:00-17:30, Sa 10:00-17:00"
-website: "http://www.frontenaccycle.ca"
+opening_hours: Mo-Fr 10:00-17:30, Sa 10:00-17:00
+website: http://www.frontenaccycle.ca

@@ -1,11 +1,11 @@
 id: 109683457
-type: way
+type: node
 latitude: 43.70695
 longitude: -79.34389
 postcode: ""
 city: East York
-street: "Overlea Boulevard"
-housenumber: 61
+street: Overlea Boulevard
+housenumber: "61"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 657936251
-type: way
+type: node
 latitude: 43.63223
 longitude: -79.53055
 postcode: ""
 city: Toronto
-street: "Kipling Avenue"
-housenumber: 821
-phone: "+1-416-233-3265"
+street: Kipling Avenue
+housenumber: "821"
+phone: +1-416-233-3265
 opening_hours: ""
 website: ""

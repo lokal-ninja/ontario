@@ -1,11 +1,11 @@
 id: 198691425
-type: way
+type: node
 latitude: 43.81695
 longitude: -79.34271
 postcode: ""
 city: Markham
-street: "Steeles Avenue East"
-housenumber: 3300
+street: Steeles Avenue East
+housenumber: "3300"
 phone: ""
 opening_hours: ""
 website: ""

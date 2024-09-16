@@ -2,10 +2,10 @@ id: 5465065828
 type: node
 latitude: 43.66651
 longitude: -79.38537
-postcode: "M4Y 1Z8"
+postcode: M4Y 1Z8
 city: Toronto
-street: "Yonge Street"
-housenumber: 638
-phone: "+1-416-922-1668"
+street: Yonge Street
+housenumber: "638"
+phone: +1-416-922-1668
 opening_hours: ""
-website: "https://www.hockridge.com/"
+website: https://www.hockridge.com/

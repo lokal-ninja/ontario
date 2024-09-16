@@ -1,11 +1,11 @@
 id: 1015919107
-type: way
+type: node
 latitude: 45.2648
 longitude: -75.77953
-postcode: "K2J 6H8"
+postcode: K2J 6H8
 city: Ottawa
-street: "Strandherd Drive"
-housenumber: 4149
+street: Strandherd Drive
+housenumber: "4149"
 phone: "+16138233331"
 opening_hours: ""
-website: "https://www.barrhavenvw.ca/"
+website: https://www.barrhavenvw.ca/

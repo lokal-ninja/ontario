@@ -1,11 +1,11 @@
 id: 123418766
-type: way
+type: node
 latitude: 43.5484
 longitude: -80.25423
-postcode: "N1H 3V7"
+postcode: N1H 3V7
 city: Guelph
-street: "Woolwich St"
-housenumber: 214
+street: Woolwich St
+housenumber: "214"
 phone: ""
-opening_hours: "Mo-Su 08:00-17:00"
+opening_hours: Mo-Su 08:00-17:00
 website: ""

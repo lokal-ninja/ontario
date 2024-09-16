@@ -1,11 +1,11 @@
 id: 522258278
-type: way
+type: node
 latitude: 44.62738
 longitude: -75.94816
-postcode: "K0E 1B0"
+postcode: K0E 1B0
 city: Athens
-street: "Main Street East"
-housenumber: 51
+street: Main Street East
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

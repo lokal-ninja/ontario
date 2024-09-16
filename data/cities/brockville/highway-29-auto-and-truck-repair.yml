@@ -1,11 +1,11 @@
 id: 206939168
-type: way
+type: node
 latitude: 44.61058
 longitude: -75.73696
-postcode: "K6V 5T4"
+postcode: K6V 5T4
 city: Brockville
-street: "County Road 29"
-housenumber: 3016
-phone: "+1-613-342-5249"
+street: County Road 29
+housenumber: "3016"
+phone: +1-613-342-5249
 opening_hours: ""
-website: "https://www.highway29auto.com/"
+website: https://www.highway29auto.com/

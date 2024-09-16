@@ -4,8 +4,8 @@ latitude: 42.97901
 longitude: -81.25638
 postcode: ""
 city: London
-street: "Stanley St"
-housenumber: 6
-phone: "+1-226-234-8656"
+street: Stanley St
+housenumber: "6"
+phone: +1-226-234-8656
 opening_hours: ""
-website: "https://www.thefriendlygroomer.com/"
+website: https://www.thefriendlygroomer.com/

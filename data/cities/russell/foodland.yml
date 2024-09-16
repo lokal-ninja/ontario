@@ -1,11 +1,11 @@
 id: 605312783
-type: way
+type: node
 latitude: 45.25713
 longitude: -75.37435
 postcode: ""
 city: Russell
-street: "Craig Street"
-housenumber: 148
+street: Craig Street
+housenumber: "148"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

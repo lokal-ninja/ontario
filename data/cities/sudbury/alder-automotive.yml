@@ -1,11 +1,11 @@
 id: 180835038
-type: way
+type: node
 latitude: 46.48971
 longitude: -81.0046
-postcode: "P3C 5T5"
+postcode: P3C 5T5
 city: Sudbury
-street: "Alder Street"
-housenumber: 334
+street: Alder Street
+housenumber: "334"
 phone: ""
 opening_hours: ""
 website: ""

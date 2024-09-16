@@ -1,11 +1,11 @@
 id: 1088318280
-type: way
+type: node
 latitude: 43.36533
 longitude: -79.98952
-postcode: "L8N 2Z7"
+postcode: L8N 2Z7
 city: Hamilton
-street: "Highway 6"
-housenumber: 1294
-phone: "+1 905-689-1052"
+street: Highway 6
+housenumber: "1294"
+phone: +1 905-689-1052
 opening_hours: ""
-website: "https://find.shell.com/ca/fuel/12427756-1294-hwy-6-north-flamborough/en_CA"
+website: https://find.shell.com/ca/fuel/12427756-1294-hwy-6-north-flamborough/en_CA

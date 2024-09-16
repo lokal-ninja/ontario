@@ -1,11 +1,11 @@
 id: 354141023
-type: way
+type: node
 latitude: 43.7614
 longitude: -79.19462
 postcode: ""
 city: Toronto
-street: "Kingston Road"
-housenumber: 4251
+street: Kingston Road
+housenumber: "4251"
 phone: ""
 opening_hours: ""
 website: ""

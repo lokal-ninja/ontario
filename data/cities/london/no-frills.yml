@@ -1,11 +1,11 @@
 id: 189129298
-type: way
+type: node
 latitude: 42.97868
 longitude: -81.19226
 postcode: ""
 city: London
-street: "Hamilton Road"
-housenumber: 960
-phone: "+1-866-987-6453"
-opening_hours: "Mo 10:00-17:00; Tu-Fr 09:00-21:00; Sa 08:00-20:00; Su 09:00-19:00"
-website: "https://www.nofrills.ca/"
+street: Hamilton Road
+housenumber: "960"
+phone: +1-866-987-6453
+opening_hours: Mo 10:00-17:00; Tu-Fr 09:00-21:00; Sa 08:00-20:00; Su 09:00-19:00
+website: https://www.nofrills.ca/

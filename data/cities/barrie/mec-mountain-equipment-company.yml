@@ -1,11 +1,11 @@
 id: 194218208
-type: way
+type: node
 latitude: 44.35724
 longitude: -79.6941
-postcode: "L4N 8V8"
+postcode: L4N 8V8
 city: Barrie
-street: "Bryne Drive"
-housenumber: 61
-phone: "+1-705-792-4675"
-opening_hours: "Mo-We 10:00-18:00; Th-Fr 10:00-19:00; Sa 10:00-18:00; Su 10:00-17:00"
-website: "https://www.mec.ca/en/stores/barrie"
+street: Bryne Drive
+housenumber: "61"
+phone: +1-705-792-4675
+opening_hours: Mo-We 10:00-18:00; Th-Fr 10:00-19:00; Sa 10:00-18:00; Su 10:00-17:00
+website: https://www.mec.ca/en/stores/barrie

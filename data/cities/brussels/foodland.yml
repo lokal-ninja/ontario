@@ -1,11 +1,11 @@
 id: 961122904
-type: way
+type: node
 latitude: 43.74336
 longitude: -81.25137
 postcode: ""
 city: Brussels
-street: "King Street"
-housenumber: 38
+street: King Street
+housenumber: "38"
 phone: ""
 opening_hours: ""
-website: "Brussels, Morris & Grey Community Baseball Field"
+website: Brussels, Morris & Grey Community Baseball Field

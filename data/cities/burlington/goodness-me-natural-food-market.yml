@@ -1,11 +1,11 @@
 id: 186340685
-type: way
+type: node
 latitude: 43.34221
 longitude: -79.80249
-postcode: "L7R 2E4"
+postcode: L7R 2E4
 city: Burlington
-street: "Fairview Street"
-housenumber: 2300
+street: Fairview Street
+housenumber: "2300"
 phone: ""
-opening_hours: "Mo-Su 08:00-20:00"
-website: "https://goodnessme.ca/pages/storelocation#burlington"
+opening_hours: Mo-Su 08:00-20:00
+website: https://goodnessme.ca/pages/storelocation#burlington

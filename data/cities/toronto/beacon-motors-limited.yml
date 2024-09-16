@@ -1,11 +1,11 @@
 id: 657934798
-type: way
+type: node
 latitude: 43.63381
 longitude: -79.52338
 postcode: ""
 city: Toronto
-street: "Norseman Street"
-housenumber: 176
-phone: "+1-416-533-8251"
+street: Norseman Street
+housenumber: "176"
+phone: +1-416-533-8251
 opening_hours: ""
-website: "https://beaconmotors.com/"
+website: https://beaconmotors.com/

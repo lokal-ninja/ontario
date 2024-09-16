@@ -2,10 +2,11 @@ id: 3304276063
 type: node
 latitude: 43.66166
 longitude: -79.42759
-postcode: "M6H 1L4"
+postcode: M6H 1L4
 city: Toronto
-street: "Bloor Street West"
-housenumber: 934
+street: Bloor Street West
+housenumber: "934"
 phone: ""
-opening_hours: "Mo 11:00-18:00; Tu-We 11:00-19:00; Th 11:00-20:00; Fr 11:00-18:00; Sa 10:00-17:00; Su 12:00-17:00"
+opening_hours: Mo 11:00-18:00; Tu-We 11:00-19:00; Th 11:00-20:00; Fr 11:00-18:00;
+    Sa 10:00-17:00; Su 12:00-17:00
 website: ""

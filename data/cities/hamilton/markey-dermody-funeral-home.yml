@@ -1,11 +1,11 @@
 id: 313513226
-type: way
+type: node
 latitude: 43.23231
 longitude: -79.81202
 postcode: ""
 city: Hamilton
-street: "King Street East"
-housenumber: 1774
+street: King Street East
+housenumber: "1774"
 phone: ""
 opening_hours: ""
 website: ""

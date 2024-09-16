@@ -1,11 +1,11 @@
 id: 962144832
-type: way
+type: node
 latitude: 43.53705
 longitude: -80.16797
-postcode: "N0B 1C0"
+postcode: N0B 1C0
 city: Arkell
-street: "Arkell Road"
-housenumber: 599
-phone: "519 824 2943"
-opening_hours: "Tu-Fr 08:30-18:30; Sa-Su 09:30-17:30"
-website: "https://www.flowstatebikeco.com/"
+street: Arkell Road
+housenumber: "599"
+phone: 519 824 2943
+opening_hours: Tu-Fr 08:30-18:30; Sa-Su 09:30-17:30
+website: https://www.flowstatebikeco.com/

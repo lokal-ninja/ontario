@@ -1,11 +1,11 @@
 id: 524234069
-type: way
+type: node
 latitude: 43.87917
 longitude: -81.71469
-postcode: "N7A 3X9"
+postcode: N7A 3X9
 city: Port Albert
-street: "Central Sydenham Street"
-housenumber: 4
-phone: "+1-519-529-7334"
+street: Central Sydenham Street
+housenumber: "4"
+phone: +1-519-529-7334
 opening_hours: ""
 website: ""

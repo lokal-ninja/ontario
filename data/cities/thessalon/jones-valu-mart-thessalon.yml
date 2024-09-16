@@ -1,11 +1,11 @@
 id: 562754443
-type: way
+type: node
 latitude: 46.25756
 longitude: -83.55608
-postcode: "P0R 1L0"
+postcode: P0R 1L0
 city: Thessalon
-street: "Main Street"
-housenumber: 215
+street: Main Street
+housenumber: "215"
 phone: "+17058422132"
-opening_hours: "Mo-Sa 09:00-18:00, Su 12:00-16:00"
+opening_hours: Mo-Sa 09:00-18:00, Su 12:00-16:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.37014
 longitude: -80.98268
 postcode: ""
 city: Stratford
-street: "Wellington Street"
-housenumber: 26
+street: Wellington Street
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su 11:00-16:00"
-website: "https://www.thebutcherthebaker.ca/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su 11:00-16:00
+website: https://www.thebutcherthebaker.ca/

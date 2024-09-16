@@ -1,11 +1,11 @@
 id: 427997903
-type: way
+type: node
 latitude: 44.00662
 longitude: -77.14397
-postcode: "K0K 2T0"
+postcode: K0K 2T0
 city: Picton
-street: "Picton Main Street"
-housenumber: 145
+street: Picton Main Street
+housenumber: "145"
 phone: ""
-opening_hours: "Mo-Su 09:00-20:00"
+opening_hours: Mo-Su 09:00-20:00
 website: ""

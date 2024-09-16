@@ -1,11 +1,11 @@
 id: 178621820
-type: way
+type: node
 latitude: 46.51141
 longitude: -84.33671
-postcode: "P6A 1X3"
+postcode: P6A 1X3
 city: Sault Ste. Marie
-street: "Bay Street"
-housenumber: 293
+street: Bay Street
+housenumber: "293"
 phone: ""
 opening_hours: ""
 website: ""

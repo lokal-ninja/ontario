@@ -1,11 +1,11 @@
 id: 525464486
-type: way
+type: node
 latitude: 43.30034
 longitude: -81.53826
-postcode: "N0M 1M0"
+postcode: N0M 1M0
 city: Crediton
-street: "Victoria Avenue East"
-housenumber: 130
-phone: "+1-226-744-5221"
+street: Victoria Avenue East
+housenumber: "130"
+phone: +1-226-744-5221
 opening_hours: ""
 website: ""

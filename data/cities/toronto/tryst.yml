@@ -4,8 +4,9 @@ latitude: 43.6467
 longitude: -79.40591
 postcode: ""
 city: Toronto
-street: "Queen Street West"
-housenumber: 711
+street: Queen Street West
+housenumber: "711"
 phone: ""
-opening_hours: "Mo 11:00-19:00; Tu 11:00-17:00; We 11:00-19:00; Th 11:00-20:00; Fr-Sa 11:00-19:00; Su 12:00-18:00"
+opening_hours: Mo 11:00-19:00; Tu 11:00-17:00; We 11:00-19:00; Th 11:00-20:00; Fr-Sa
+    11:00-19:00; Su 12:00-18:00
 website: ""

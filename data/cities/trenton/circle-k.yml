@@ -1,11 +1,11 @@
 id: 429006625
-type: way
+type: node
 latitude: 44.11882
 longitude: -77.57685
-postcode: "K8V 2T6"
+postcode: K8V 2T6
 city: Trenton
-street: "Sidney Street"
-housenumber: 300
+street: Sidney Street
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 34690216
-type: way
+type: node
 latitude: 43.70673
 longitude: -79.6928
 postcode: ""
 city: Brampton
-street: "Bramalea Road"
-housenumber: 41
+street: Bramalea Road
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

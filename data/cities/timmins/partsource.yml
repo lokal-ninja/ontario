@@ -1,11 +1,11 @@
 id: 699307311
-type: way
+type: node
 latitude: 48.4711
 longitude: -81.32658
-postcode: "P4N 2M5"
+postcode: P4N 2M5
 city: Timmins
-street: "Spruce Street S"
-housenumber: 234
-phone: "+1 705 264 4400"
+street: Spruce Street S
+housenumber: "234"
+phone: +1 705 264 4400
 opening_hours: ""
-website: "https://partsource.ca/pages/timmins-store-234-spruce-street-south"
+website: https://partsource.ca/pages/timmins-store-234-spruce-street-south

@@ -1,11 +1,11 @@
 id: 257299680
-type: way
+type: node
 latitude: 44.28127
 longitude: -78.33233
-postcode: "K9J 0B6"
+postcode: K9J 0B6
 city: Peterborough
-street: "Borden Avenue"
-housenumber: 769
-phone: "+1 705-749-6962"
-opening_hours: "Mo-Sa 07:00-22:00; Su 07:00-21:00"
-website: "https://www.realcanadiansuperstore.ca/store-locator/details/2831"
+street: Borden Avenue
+housenumber: "769"
+phone: +1 705-749-6962
+opening_hours: Mo-Sa 07:00-22:00; Su 07:00-21:00
+website: https://www.realcanadiansuperstore.ca/store-locator/details/2831

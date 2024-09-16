@@ -1,11 +1,11 @@
 id: 34583416
-type: way
+type: node
 latitude: 43.51112
 longitude: -79.63162
 postcode: ""
 city: Mississauga
-street: "Royal Windsor Drive"
-housenumber: 2097
+street: Royal Windsor Drive
+housenumber: "2097"
 phone: ""
 opening_hours: ""
 website: ""

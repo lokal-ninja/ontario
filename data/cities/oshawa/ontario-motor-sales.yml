@@ -1,11 +1,11 @@
 id: 76815155
-type: way
+type: node
 latitude: 43.89734
 longitude: -78.87016
 postcode: ""
 city: Oshawa
-street: "Bond Street West"
-housenumber: 140
+street: Bond Street West
+housenumber: "140"
 phone: ""
 opening_hours: ""
 website: ""

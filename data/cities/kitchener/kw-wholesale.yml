@@ -1,11 +1,11 @@
 id: 159438135
-type: way
+type: node
 latitude: 43.44906
 longitude: -80.48507
-postcode: "N2H 2P8"
+postcode: N2H 2P8
 city: Kitchener
-street: "Scott Street"
-housenumber: 27
+street: Scott Street
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

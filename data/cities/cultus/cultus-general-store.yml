@@ -1,11 +1,11 @@
 id: 525201448
-type: way
+type: node
 latitude: 42.63371
 longitude: -80.61368
-postcode: "N0E 1C0"
+postcode: N0E 1C0
 city: Cultus
-street: "Concession Road 6"
-housenumber: 704
-phone: "+1-519-875-1764"
+street: Concession Road 6
+housenumber: "704"
+phone: +1-519-875-1764
 opening_hours: ""
 website: ""

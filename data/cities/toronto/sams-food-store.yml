@@ -2,10 +2,10 @@ id: 380038285
 type: node
 latitude: 43.6581
 longitude: -79.37123
-postcode: "M5A 1Z9"
+postcode: M5A 1Z9
 city: Toronto
-street: "Sherbourne Street"
-housenumber: 236
-phone: "+1-416-366-3554"
-opening_hours: "24/7"
+street: Sherbourne Street
+housenumber: "236"
+phone: +1-416-366-3554
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 264850437
-type: way
+type: node
 latitude: 43.85
 longitude: -79.69587
 postcode: ""
 city: Bolton
-street: "Albion-Vaughan Road"
-housenumber: 12050
-phone: "+1-905-857-4100"
+street: Albion-Vaughan Road
+housenumber: "12050"
+phone: +1-905-857-4100
 opening_hours: ""
-website: "http://boltontoyotascion.ca/"
+website: http://boltontoyotascion.ca/

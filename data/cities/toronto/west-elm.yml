@@ -2,10 +2,10 @@ id: 1279843322
 type: node
 latitude: 43.63996
 longitude: -79.42031
-postcode: "M6K 1X4"
+postcode: M6K 1X4
 city: Toronto
-street: "Atlantic Avenue"
-housenumber: 109
-phone: "+1-416-537-0110"
-opening_hours: "Mo-Fr 10:00-21:00; Sa 10:00-19:00; Su 11:00-18:00"
-website: "http://westelm.ca"
+street: Atlantic Avenue
+housenumber: "109"
+phone: +1-416-537-0110
+opening_hours: Mo-Fr 10:00-21:00; Sa 10:00-19:00; Su 11:00-18:00
+website: http://westelm.ca

@@ -2,10 +2,10 @@ id: 5758659595
 type: node
 latitude: 48.48771
 longitude: -81.33051
-postcode: "P4N 6H7"
+postcode: P4N 6H7
 city: Timmins
-street: "Balsam Street N"
-housenumber: 566
-phone: "+1-705-360-1840"
-opening_hours: "by appointment only"
-website: "http://www.petitspa.ca"
+street: Balsam Street N
+housenumber: "566"
+phone: +1-705-360-1840
+opening_hours: '"by appointment only"'
+website: http://www.petitspa.ca

@@ -4,8 +4,8 @@ latitude: 43.54187
 longitude: -80.24844
 postcode: ""
 city: Guelph
-street: "Gordon Street"
-housenumber: 5
-phone: "+1-226-600-4449"
-opening_hours: "Mo-Th,Sa 09:30-18:00; Fr 09:30-19:00; Su 10:00-15:00"
-website: "https://cutbar.ca/home"
+street: Gordon Street
+housenumber: "5"
+phone: +1-226-600-4449
+opening_hours: Mo-Th,Sa 09:30-18:00; Fr 09:30-19:00; Su 10:00-15:00
+website: https://cutbar.ca/home

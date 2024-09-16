@@ -1,11 +1,11 @@
 id: 311055785
-type: way
+type: node
 latitude: 43.24963
 longitude: -79.8454
 postcode: ""
 city: Hamilton
-street: "Main Street East"
-housenumber: 615
+street: Main Street East
+housenumber: "615"
 phone: ""
 opening_hours: ""
 website: ""

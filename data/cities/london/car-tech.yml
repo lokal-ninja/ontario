@@ -1,11 +1,11 @@
 id: 135566352
-type: way
+type: node
 latitude: 42.97884
 longitude: -81.24177
 postcode: ""
 city: London
-street: "Wellington Street"
-housenumber: 206
-phone: "+1 5194333373"
+street: Wellington Street
+housenumber: "206"
+phone: +1 5194333373
 opening_hours: ""
 website: ""

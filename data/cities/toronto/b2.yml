@@ -2,10 +2,10 @@ id: 6711380532
 type: node
 latitude: 43.6541
 longitude: -79.38108
-postcode: "M5B 2H1"
+postcode: M5B 2H1
 city: Toronto
-street: "Yonge Street"
-housenumber: 220
-phone: "+1-416-979-3544"
+street: Yonge Street
+housenumber: "220"
+phone: +1-416-979-3544
 opening_hours: ""
 website: ""

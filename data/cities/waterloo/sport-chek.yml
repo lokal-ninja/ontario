@@ -1,11 +1,11 @@
 id: 1290108452
-type: way
+type: node
 latitude: 43.49996
 longitude: -80.52706
-postcode: "N2L 5W6"
+postcode: N2L 5W6
 city: Waterloo
-street: "King Street North"
-housenumber: 550
-phone: "+1 519 886 6336"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-18:00; Su 11:00-17:00"
-website: "https://www.sportchek.ca/stores/sc-waterloo-conestoga-mall.html"
+street: King Street North
+housenumber: "550"
+phone: +1 519 886 6336
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-18:00; Su 11:00-17:00
+website: https://www.sportchek.ca/stores/sc-waterloo-conestoga-mall.html

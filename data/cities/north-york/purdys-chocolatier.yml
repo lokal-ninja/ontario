@@ -1,11 +1,11 @@
 id: 1229816863
-type: way
+type: node
 latitude: 43.77818
 longitude: -79.34414
-postcode: "M2J 5A7"
+postcode: M2J 5A7
 city: North York
-street: "Sheppard Avenue East"
-housenumber: 1800
-phone: "+1-416-493-2897"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
-website: "https://www.purdys.com/"
+street: Sheppard Avenue East
+housenumber: "1800"
+phone: +1-416-493-2897
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
+website: https://www.purdys.com/

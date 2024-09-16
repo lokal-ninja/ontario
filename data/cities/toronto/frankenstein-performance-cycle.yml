@@ -1,11 +1,11 @@
 id: 1067633790
-type: way
+type: node
 latitude: 43.71159
 longitude: -79.46521
-postcode: "M6A 1E1"
+postcode: M6A 1E1
 city: Toronto
-street: "Lawrence Avenue West"
-housenumber: 1137
-phone: "+1-416-652--3392"
-opening_hours: "Mo-Fr 10:00-18:00"
-website: "http://www.frankensteinperformancecycle.com/"
+street: Lawrence Avenue West
+housenumber: "1137"
+phone: +1-416-652--3392
+opening_hours: Mo-Fr 10:00-18:00
+website: http://www.frankensteinperformancecycle.com/

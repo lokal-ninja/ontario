@@ -1,11 +1,11 @@
 id: 129311114
-type: way
+type: node
 latitude: 43.72314
 longitude: -79.33711
-postcode: "M3C 1V4"
+postcode: M3C 1V4
 city: North York
-street: "Don Mills Road"
-housenumber: 825
-phone: "+1-416-391-0080"
-opening_hours: "Su-Mo 07:00-23:00"
-website: "https://www.realcanadiansuperstore.ca/store-locator/details/1077"
+street: Don Mills Road
+housenumber: "825"
+phone: +1-416-391-0080
+opening_hours: Su-Mo 07:00-23:00
+website: https://www.realcanadiansuperstore.ca/store-locator/details/1077

@@ -1,11 +1,11 @@
 id: 555873556
-type: way
+type: node
 latitude: 43.93521
 longitude: -79.50792
-postcode: "L7B 0N1"
+postcode: L7B 0N1
 city: King City
-street: "King Road"
-housenumber: 1700
-phone: "+1-905-833-0641"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.lcbo.com/"
+street: King Road
+housenumber: "1700"
+phone: +1-905-833-0641
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.lcbo.com/

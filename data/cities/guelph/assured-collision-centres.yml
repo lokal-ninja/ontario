@@ -1,11 +1,11 @@
 id: 802122636
-type: way
+type: node
 latitude: 43.54654
 longitude: -80.30725
 postcode: ""
 city: Guelph
-street: "Imperial Road North"
-housenumber: 749
+street: Imperial Road North
+housenumber: "749"
 phone: ""
 opening_hours: ""
 website: ""

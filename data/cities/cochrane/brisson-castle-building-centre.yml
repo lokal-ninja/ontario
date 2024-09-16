@@ -1,11 +1,11 @@
 id: 260313666
-type: way
+type: node
 latitude: 49.06595
 longitude: -81.03625
-postcode: "P0L 1C0"
+postcode: P0L 1C0
 city: Cochrane
-street: "5th Street"
-housenumber: 21
+street: 5th Street
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

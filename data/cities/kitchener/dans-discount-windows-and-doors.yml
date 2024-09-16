@@ -1,11 +1,11 @@
 id: 180991289
-type: way
+type: node
 latitude: 43.44745
 longitude: -80.50335
 postcode: ""
 city: Kitchener
-street: "Victoria Street South"
-housenumber: 199
+street: Victoria Street South
+housenumber: "199"
 phone: ""
 opening_hours: ""
-website: "https://danswindows.ca/"
+website: https://danswindows.ca/

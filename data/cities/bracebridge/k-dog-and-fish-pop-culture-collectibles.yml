@@ -4,8 +4,8 @@ latitude: 45.04123
 longitude: -79.31021
 postcode: ""
 city: Bracebridge
-street: "Manitoba Street"
-housenumber: 45
+street: Manitoba Street
+housenumber: "45"
 phone: ""
 opening_hours: ""
-website: "https://kdogandfish.com/"
+website: https://kdogandfish.com/

@@ -1,11 +1,11 @@
 id: 1205319719
-type: way
+type: node
 latitude: 44.46128
 longitude: -77.31529
 postcode: ""
 city: Tweed
-street: "Countryman Road"
-housenumber: 18
+street: Countryman Road
+housenumber: "18"
 phone: ""
 opening_hours: ""
-website: "https://www.homehardware.ca/en/store/10275"
+website: https://www.homehardware.ca/en/store/10275

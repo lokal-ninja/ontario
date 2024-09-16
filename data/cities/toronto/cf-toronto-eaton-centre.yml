@@ -1,11 +1,11 @@
 id: 4321312
-type: way
+type: node
 latitude: 43.65266
 longitude: -79.38079
-postcode: "M5B 2H1"
+postcode: M5B 2H1
 city: Toronto
-street: "Yonge Street"
-housenumber: 220
-phone: "+1-416-598-8547"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-19:00"
-website: "http://www.torontoeatoncentre.com/"
+street: Yonge Street
+housenumber: "220"
+phone: +1-416-598-8547
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-19:00
+website: http://www.torontoeatoncentre.com/

@@ -1,11 +1,11 @@
 id: 398945827
-type: way
+type: node
 latitude: 43.52565
 longitude: -80.26701
 postcode: ""
 city: Guelph
-street: "Wellington Street West"
-housenumber: 575
+street: Wellington Street West
+housenumber: "575"
 phone: ""
 opening_hours: ""
-website: "https://www.homehardware.ca/en/store/17455"
+website: https://www.homehardware.ca/en/store/17455

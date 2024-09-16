@@ -1,11 +1,11 @@
 id: 149825110
-type: way
+type: node
 latitude: 43.46466
 longitude: -80.52165
-postcode: "N2J 1N9"
+postcode: N2J 1N9
 city: Waterloo
-street: "King Street South"
-housenumber: 32
+street: King Street South
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

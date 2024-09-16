@@ -1,11 +1,11 @@
 id: 279006971
-type: way
+type: node
 latitude: 43.62606
 longitude: -79.50284
 postcode: ""
 city: Etobicoke
-street: "Royal York Road"
-housenumber: 735
+street: Royal York Road
+housenumber: "735"
 phone: ""
 opening_hours: ""
 website: ""

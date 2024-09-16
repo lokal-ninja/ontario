@@ -1,11 +1,11 @@
 id: 180864220
-type: way
+type: node
 latitude: 43.5268
 longitude: -79.87003
 postcode: ""
 city: Milton
-street: "Main Street East"
-housenumber: 801
+street: Main Street East
+housenumber: "801"
 phone: ""
 opening_hours: ""
-website: "https://www.wallacechev.com/"
+website: https://www.wallacechev.com/

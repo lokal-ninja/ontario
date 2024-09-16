@@ -2,10 +2,10 @@ id: 5473835021
 type: node
 latitude: 43.64485
 longitude: -79.4132
-postcode: "M6J 2S9"
+postcode: M6J 2S9
 city: Toronto
-street: "Strachan Avenue"
-housenumber: 188
-phone: "+1-416-850-7890"
+street: Strachan Avenue
+housenumber: "188"
+phone: +1-416-850-7890
 opening_hours: ""
-website: "https://www.ellaandelliot.com/"
+website: https://www.ellaandelliot.com/

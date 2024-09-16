@@ -2,10 +2,10 @@ id: 5508996721
 type: node
 latitude: 43.64598
 longitude: -79.41058
-postcode: "M6J 1E9"
+postcode: M6J 1E9
 city: Toronto
-street: "Queen Street West"
-housenumber: 764
-phone: "+1-416-901-4998"
+street: Queen Street West
+housenumber: "764"
+phone: +1-416-901-4998
 opening_hours: ""
-website: "https://thehankypankystore.com/"
+website: https://thehankypankystore.com/

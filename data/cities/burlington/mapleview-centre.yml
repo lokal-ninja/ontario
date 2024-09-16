@@ -1,11 +1,11 @@
 id: 232722933
-type: way
+type: node
 latitude: 43.32613
 longitude: -79.82114
-postcode: "L7S 2J8"
+postcode: L7S 2J8
 city: Burlington
-street: "Maple Avenue"
-housenumber: 900
-phone: "+1-905-681-2900"
+street: Maple Avenue
+housenumber: "900"
+phone: +1-905-681-2900
 opening_hours: ""
-website: "https://www.mapleviewcentre.com/"
+website: https://www.mapleviewcentre.com/

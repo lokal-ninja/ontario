@@ -1,11 +1,11 @@
 id: 282627155
-type: way
+type: node
 latitude: 43.36337
 longitude: -80.98989
 postcode: ""
 city: Stratford
-street: "Erie Street"
-housenumber: 342
+street: Erie Street
+housenumber: "342"
 phone: ""
 opening_hours: ""
 website: ""

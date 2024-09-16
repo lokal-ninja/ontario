@@ -1,11 +1,11 @@
 id: 33551190
-type: way
+type: node
 latitude: 43.85313
 longitude: -79.25175
 postcode: ""
 city: Markham
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "http://www.homedepot.ca/"
+website: http://www.homedepot.ca/

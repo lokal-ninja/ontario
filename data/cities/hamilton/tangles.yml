@@ -1,11 +1,11 @@
 id: 312542970
-type: way
+type: node
 latitude: 43.25877
 longitude: -79.87616
-postcode: "L8P 1A9"
+postcode: L8P 1A9
 city: Hamilton
-street: "King Street West"
-housenumber: 230
+street: King Street West
+housenumber: "230"
 phone: ""
 opening_hours: ""
 website: ""

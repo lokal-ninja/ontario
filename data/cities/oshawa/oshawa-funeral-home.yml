@@ -1,11 +1,11 @@
 id: 264452655
-type: way
+type: node
 latitude: 43.88988
 longitude: -78.89543
-postcode: "L1J 2L4"
+postcode: L1J 2L4
 city: Oshawa
-street: "King Street West"
-housenumber: 847
-phone: "+1-905-721-1234"
+street: King Street West
+housenumber: "847"
+phone: +1-905-721-1234
 opening_hours: ""
-website: "http://www.dignitymemorial.ca/oshawa-funeral-home/"
+website: http://www.dignitymemorial.ca/oshawa-funeral-home/

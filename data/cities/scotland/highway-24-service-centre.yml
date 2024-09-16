@@ -1,11 +1,11 @@
 id: 527818648
-type: way
+type: node
 latitude: 43.05163
 longitude: -80.36957
-postcode: "N0E 1R0"
+postcode: N0E 1R0
 city: Scotland
-street: "Maple Grove Road"
-housenumber: 75
-phone: "+1-519-446-1123"
+street: Maple Grove Road
+housenumber: "75"
+phone: +1-519-446-1123
 opening_hours: ""
-website: "https://www.hwy24servicecentre.com/"
+website: https://www.hwy24servicecentre.com/

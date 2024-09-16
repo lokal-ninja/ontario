@@ -1,11 +1,11 @@
 id: 121429570
-type: way
+type: node
 latitude: 43.52107
 longitude: -80.23334
-postcode: "N1G 4Z1"
+postcode: N1G 4Z1
 city: Guelph
-street: "Edinburgh Road South"
-housenumber: 500
+street: Edinburgh Road South
+housenumber: "500"
 phone: ""
 opening_hours: ""
-website: "https://www.metro.ca/"
+website: https://www.metro.ca/

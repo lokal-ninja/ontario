@@ -1,11 +1,11 @@
 id: 76910399
-type: way
+type: node
 latitude: 43.58799
 longitude: -79.60809
 postcode: ""
 city: Mississauga
-street: "Dundas Street East"
-housenumber: 355
+street: Dundas Street East
+housenumber: "355"
 phone: ""
 opening_hours: ""
 website: ""

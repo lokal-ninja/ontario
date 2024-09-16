@@ -1,11 +1,11 @@
 id: 914809720
-type: way
+type: node
 latitude: 48.4946
 longitude: -81.35639
-postcode: "P4P 1B3"
+postcode: P4P 1B3
 city: Timmins
-street: "River Park Road"
-housenumber: 685
-phone: "+1 705 531 3411"
+street: River Park Road
+housenumber: "685"
+phone: +1 705 531 3411
 opening_hours: ""
 website: ""

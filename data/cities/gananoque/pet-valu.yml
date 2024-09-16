@@ -1,11 +1,11 @@
 id: 569139784
-type: way
+type: node
 latitude: 44.33731
 longitude: -76.14878
 postcode: ""
 city: Gananoque
-street: "King Street East"
-housenumber: 711
+street: King Street East
+housenumber: "711"
 phone: ""
-opening_hours: "Mo-Fr 09:00-21:00; Sa-Su 09:00-18:00"
-website: "https://store.petvalu.ca/location/2280"
+opening_hours: Mo-Fr 09:00-21:00; Sa-Su 09:00-18:00
+website: https://store.petvalu.ca/location/2280

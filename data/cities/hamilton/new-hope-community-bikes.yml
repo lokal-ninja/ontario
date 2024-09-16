@@ -2,10 +2,10 @@ id: 2606905634
 type: node
 latitude: 43.2419
 longitude: -79.81629
-postcode: "L8K 1A8"
+postcode: L8K 1A8
 city: Hamilton
-street: "Main Street East"
-housenumber: 1249
-phone: "+1-905-545-1991"
-opening_hours: "Tu-Sa 10:00-17:00"
-website: "https://www.newhopecommunitybikes.com/"
+street: Main Street East
+housenumber: "1249"
+phone: +1-905-545-1991
+opening_hours: Tu-Sa 10:00-17:00
+website: https://www.newhopecommunitybikes.com/

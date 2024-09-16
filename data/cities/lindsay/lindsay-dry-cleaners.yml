@@ -1,11 +1,11 @@
 id: 526248173
-type: way
+type: node
 latitude: 44.35353
 longitude: -78.74211
-postcode: "K9V 2Y9"
+postcode: K9V 2Y9
 city: Lindsay
-street: "Kent Street West"
-housenumber: 211
-phone: "+1-705-324-2166"
+street: Kent Street West
+housenumber: "211"
+phone: +1-705-324-2166
 opening_hours: ""
 website: ""

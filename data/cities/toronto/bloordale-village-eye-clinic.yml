@@ -1,11 +1,11 @@
 id: 677252034
-type: way
+type: node
 latitude: 43.65841
 longitude: -79.44293
 postcode: ""
 city: Toronto
-street: "Bloor Street West"
-housenumber: 1314
-phone: "+1-416-536-2520"
+street: Bloor Street West
+housenumber: "1314"
+phone: +1-416-536-2520
 opening_hours: ""
-website: "https://bloordalevillageeyeclinic.com/"
+website: https://bloordalevillageeyeclinic.com/

@@ -4,8 +4,8 @@ latitude: 43.65901
 longitude: -79.43886
 postcode: ""
 city: Toronto
-street: "Bloor Street West"
-housenumber: 1187
-phone: "+1-647-748-8696"
-opening_hours: "Mo off; Tu-Fr 10:00-18:00; Sa 11:00-18:00; Su 12:00-17:00"
-website: "https://www.townthestore.com/"
+street: Bloor Street West
+housenumber: "1187"
+phone: +1-647-748-8696
+opening_hours: Mo off; Tu-Fr 10:00-18:00; Sa 11:00-18:00; Su 12:00-17:00
+website: https://www.townthestore.com/

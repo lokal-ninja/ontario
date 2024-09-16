@@ -1,11 +1,11 @@
 id: 809012290
-type: way
+type: node
 latitude: 43.18101
 longitude: -79.5083
-postcode: "L0R 1B3"
+postcode: L0R 1B3
 city: Beamsville
-street: "King Street"
-housenumber: 5665
-phone: "+1-905-945-3545"
+street: King Street
+housenumber: "5665"
+phone: +1-905-945-3545
 opening_hours: ""
-website: "https://durhamautomotive.ca/"
+website: https://durhamautomotive.ca/

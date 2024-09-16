@@ -1,11 +1,11 @@
 id: 690231091
-type: way
+type: node
 latitude: 44.26738
 longitude: -76.96524
-postcode: "K7R 3K6"
+postcode: K7R 3K6
 city: Napanee
-street: "County Road 41"
-housenumber: 401
-phone: "+1-833-942-1533"
+street: County Road 41
+housenumber: "401"
+phone: +1-833-942-1533
 opening_hours: ""
-website: "https://www.boyernapanee.com"
+website: https://www.boyernapanee.com

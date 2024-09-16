@@ -1,11 +1,11 @@
 id: 75703478
-type: way
+type: node
 latitude: 44.87898
 longitude: -76.03809
-postcode: "K7A 5B8"
+postcode: K7A 5B8
 city: Smiths Falls
-street: "Highway 15"
-housenumber: 264
-phone: "+1-613-283-8354"
-opening_hours: "Mo-Fr 07:00-17:30; Sa 08:00-12:00; Su closed"
-website: "https://www.carquest.com/stores/on/smith-falls/6880"
+street: Highway 15
+housenumber: "264"
+phone: +1-613-283-8354
+opening_hours: Mo-Fr 07:00-17:30; Sa 08:00-12:00; Su closed
+website: https://www.carquest.com/stores/on/smith-falls/6880

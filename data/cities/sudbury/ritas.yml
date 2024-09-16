@@ -1,11 +1,11 @@
 id: 222908405
-type: way
+type: node
 latitude: 46.50476
 longitude: -80.98753
-postcode: "P3C 5L1"
+postcode: P3C 5L1
 city: Sudbury
-street: "Notre Dame Avenue"
-housenumber: 517
+street: Notre Dame Avenue
+housenumber: "517"
 phone: ""
 opening_hours: ""
 website: ""

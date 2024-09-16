@@ -1,11 +1,11 @@
 id: 659549418
-type: way
+type: node
 latitude: 43.83409
 longitude: -79.25455
 postcode: ""
 city: Toronto
-street: "Steeles Avenue East"
-housenumber: 5995
-phone: "+1-416-298-1210"
-opening_hours: "08:00-22:00"
-website: "https://www.walmart.ca/en/stores-near-me/scarborough-on-1080"
+street: Steeles Avenue East
+housenumber: "5995"
+phone: +1-416-298-1210
+opening_hours: 08:00-22:00
+website: https://www.walmart.ca/en/stores-near-me/scarborough-on-1080

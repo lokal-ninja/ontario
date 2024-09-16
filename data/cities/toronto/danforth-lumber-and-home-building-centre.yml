@@ -1,11 +1,11 @@
 id: 328674781
-type: way
+type: node
 latitude: 43.68889
 longitude: -79.29647
-postcode: "M4C 5A8"
+postcode: M4C 5A8
 city: Toronto
-street: "Dawes Road"
-housenumber: 25
-phone: "+1-416-699-9393"
-opening_hours: "Mo-We 07:00-19:00; Th-Fr 07:00-20:00; Sa 07:30-17:00; Su 10:00-16:00"
-website: "http://www.danforthlumberhbc.com"
+street: Dawes Road
+housenumber: "25"
+phone: +1-416-699-9393
+opening_hours: Mo-We 07:00-19:00; Th-Fr 07:00-20:00; Sa 07:30-17:00; Su 10:00-16:00
+website: http://www.danforthlumberhbc.com

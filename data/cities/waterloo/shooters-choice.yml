@@ -1,11 +1,11 @@
 id: 180905427
-type: way
+type: node
 latitude: 43.50698
 longitude: -80.54094
-postcode: "N2V 1B4"
+postcode: N2V 1B4
 city: Waterloo
-street: "Colby Drive"
-housenumber: 631
-phone: "+1-519-747-8139"
-opening_hours: "10:00-18:00"
-website: "https://www.shooterschoice.com/"
+street: Colby Drive
+housenumber: "631"
+phone: +1-519-747-8139
+opening_hours: 10:00-18:00
+website: https://www.shooterschoice.com/

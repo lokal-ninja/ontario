@@ -1,11 +1,11 @@
 id: 123274454
-type: way
+type: node
 latitude: 43.54619
 longitude: -80.24886
-postcode: "N1H 7T8"
+postcode: N1H 7T8
 city: Guelph
-street: "Wyndham Street North"
-housenumber: 55
-phone: "+1-519-837-0259"
+street: Wyndham Street North
+housenumber: "55"
+phone: +1-519-837-0259
 opening_hours: ""
-website: "https://oldquebecstreet.com/"
+website: https://oldquebecstreet.com/

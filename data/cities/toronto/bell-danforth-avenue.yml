@@ -2,10 +2,10 @@ id: 2120311168
 type: node
 latitude: 43.6766
 longitude: -79.35591
-postcode: "M4K 1N2"
+postcode: M4K 1N2
 city: Toronto
-street: "Danforth Avenue"
-housenumber: 209
-phone: "+1-416-465-4342"
+street: Danforth Avenue
+housenumber: "209"
+phone: +1-416-465-4342
 opening_hours: ""
-website: "http://storelocator.bell.ca/bellca/en/ON/Toronto/Bell-Danforth-and-Broadview/BE243"
+website: http://storelocator.bell.ca/bellca/en/ON/Toronto/Bell-Danforth-and-Broadview/BE243

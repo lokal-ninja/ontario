@@ -1,11 +1,11 @@
 id: 529543173
-type: way
+type: node
 latitude: 44.15967
 longitude: -79.84368
-postcode: "L9R 1K1"
+postcode: L9R 1K1
 city: Alliston
-street: "Victoria Street East"
-housenumber: 514
-phone: "+1-705-434-4763"
+street: Victoria Street East
+housenumber: "514"
+phone: +1-705-434-4763
 opening_hours: ""
 website: ""

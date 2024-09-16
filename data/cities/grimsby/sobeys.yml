@@ -1,11 +1,11 @@
 id: 1086863369
-type: way
+type: node
 latitude: 43.19783
 longitude: -79.5684
-postcode: "L3M 1L1"
+postcode: L3M 1L1
 city: Grimsby
-street: "Livingston Avenue"
-housenumber: 44
-phone: "+1-905-945-9973"
+street: Livingston Avenue
+housenumber: "44"
+phone: +1-905-945-9973
 opening_hours: ""
-website: "https://www.sobeys.com/"
+website: https://www.sobeys.com/

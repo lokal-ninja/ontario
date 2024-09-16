@@ -1,11 +1,11 @@
 id: 526888558
-type: way
+type: node
 latitude: 42.61729
 longitude: -81.83602
-postcode: "N0P 1C0"
+postcode: N0P 1C0
 city: Bothwell
-street: "Longwoods Road"
-housenumber: 15895
-phone: "+1-519-695-2902"
+street: Longwoods Road
+housenumber: "15895"
+phone: +1-519-695-2902
 opening_hours: ""
 website: ""

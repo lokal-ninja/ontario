@@ -1,11 +1,11 @@
 id: 377992359
-type: way
+type: node
 latitude: 43.86053
 longitude: -79.99686
-postcode: "L7K 0W9"
+postcode: L7K 0W9
 city: Caledon
-street: "George Street"
-housenumber: 17
-phone: "+1-519-927-1789"
+street: George Street
+housenumber: "17"
+phone: +1-519-927-1789
 opening_hours: ""
-website: "https://www.ccharm.com/"
+website: https://www.ccharm.com/

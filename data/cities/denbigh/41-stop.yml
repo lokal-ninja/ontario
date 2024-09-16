@@ -1,11 +1,11 @@
 id: 521541441
-type: way
+type: node
 latitude: 45.1282
 longitude: -77.26675
-postcode: "K0H 1L0"
+postcode: K0H 1L0
 city: Denbigh
-street: "Highway 41"
-housenumber: 22353
-phone: "+1-613-333-9333"
+street: Highway 41
+housenumber: "22353"
+phone: +1-613-333-9333
 opening_hours: ""
 website: ""

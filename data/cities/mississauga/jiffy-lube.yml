@@ -1,11 +1,11 @@
 id: 419240364
-type: way
+type: node
 latitude: 43.56966
 longitude: -79.72368
-postcode: "L5M5J3"
+postcode: L5M5J3
 city: Mississauga
-street: "Thomas Street"
-housenumber: 2525
-phone: "+1 905-821-1569"
+street: Thomas Street
+housenumber: "2525"
+phone: +1 905-821-1569
 opening_hours: ""
 website: ""

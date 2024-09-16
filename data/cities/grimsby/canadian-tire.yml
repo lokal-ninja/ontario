@@ -1,11 +1,11 @@
 id: 428676996
-type: way
+type: node
 latitude: 43.19812
 longitude: -79.56995
-postcode: "L3M 1L1"
+postcode: L3M 1L1
 city: Grimsby
-street: "Livingston Avenue"
-housenumber: 44
-phone: "+1 905-945-5441"
+street: Livingston Avenue
+housenumber: "44"
+phone: +1 905-945-5441
 opening_hours: ""
 website: ""

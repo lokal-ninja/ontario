@@ -1,11 +1,11 @@
 id: 32827380
-type: way
+type: node
 latitude: 43.79127
 longitude: -79.36718
 postcode: ""
 city: North York
-street: "Ravel Road"
-housenumber: 115
+street: Ravel Road
+housenumber: "115"
 phone: ""
 opening_hours: ""
 website: ""

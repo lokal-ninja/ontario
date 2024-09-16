@@ -1,11 +1,11 @@
 id: 138665005
-type: way
+type: node
 latitude: 45.28333
 longitude: -75.86628
-postcode: "K2M 0A7"
+postcode: K2M 0A7
 city: Kanata
-street: "Eagleson Road"
-housenumber: 760
-phone: "+1 613-254-6050"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.realcanadiansuperstore.ca/store-locator/details/2813"
+street: Eagleson Road
+housenumber: "760"
+phone: +1 613-254-6050
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.realcanadiansuperstore.ca/store-locator/details/2813

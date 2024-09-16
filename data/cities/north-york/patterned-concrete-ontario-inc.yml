@@ -2,10 +2,10 @@ id: 3925371747
 type: node
 latitude: 43.77731
 longitude: -79.47165
-postcode: "M3J 2M4"
+postcode: M3J 2M4
 city: North York
-street: "Supertest Road"
-housenumber: 249
-phone: "+1-800-252-4619"
+street: Supertest Road
+housenumber: "249"
+phone: +1-800-252-4619
 opening_hours: ""
-website: "https://patternedconcrete.ca/"
+website: https://patternedconcrete.ca/

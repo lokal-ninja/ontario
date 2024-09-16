@@ -1,11 +1,11 @@
 id: 23348456
-type: way
+type: node
 latitude: 42.31351
 longitude: -82.94159
-postcode: "N8T 1E6"
+postcode: N8T 1E6
 city: Windsor
-street: "Tecumseh Road East"
-housenumber: 7126
+street: Tecumseh Road East
+housenumber: "7126"
 phone: ""
 opening_hours: ""
-website: "https://stores.staples.ca/on/windsor/office-supplies-ca-112.html"
+website: https://stores.staples.ca/on/windsor/office-supplies-ca-112.html

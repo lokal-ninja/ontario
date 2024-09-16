@@ -1,11 +1,11 @@
 id: 77377023
-type: way
+type: node
 latitude: 44.38053
 longitude: -79.70508
 postcode: ""
 city: Barrie
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.thebeerstore.ca/locations/anne-george"
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.thebeerstore.ca/locations/anne-george

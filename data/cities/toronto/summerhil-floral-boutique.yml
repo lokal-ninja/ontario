@@ -1,11 +1,11 @@
 id: 224667650
-type: way
+type: node
 latitude: 43.71573
 longitude: -79.39266
-postcode: "M4P 2M5"
+postcode: M4P 2M5
 city: Toronto
-street: "Mount Pleasant Road"
-housenumber: 1057
+street: Mount Pleasant Road
+housenumber: "1057"
 phone: ""
 opening_hours: ""
 website: ""

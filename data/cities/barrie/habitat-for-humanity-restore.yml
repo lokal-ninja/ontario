@@ -1,11 +1,11 @@
 id: 109937298
-type: way
+type: node
 latitude: 44.41762
 longitude: -79.71381
 postcode: ""
 city: Barrie
-street: "Bayfield Street"
-housenumber: 571
-phone: "+1 877 835 2001"
+street: Bayfield Street
+housenumber: "571"
+phone: +1 877 835 2001
 opening_hours: ""
-website: "https://www.habitathuronia.com/restore/"
+website: https://www.habitathuronia.com/restore/

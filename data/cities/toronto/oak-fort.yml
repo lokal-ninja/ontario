@@ -4,8 +4,8 @@ latitude: 43.64669
 longitude: -79.40709
 postcode: ""
 city: Toronto
-street: "Queen Street West"
-housenumber: 666
+street: Queen Street West
+housenumber: "666"
 phone: ""
 opening_hours: ""
-website: "https://ca.oakandfort.com/"
+website: https://ca.oakandfort.com/

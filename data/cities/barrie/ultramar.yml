@@ -1,11 +1,11 @@
 id: 297826374
-type: way
+type: node
 latitude: 44.32841
 longitude: -79.71546
-postcode: "L4N 9G4"
+postcode: L4N 9G4
 city: Barrie
-street: "Mapleview Drive West"
-housenumber: 375
-phone: "+1-705-792-2200"
+street: Mapleview Drive West
+housenumber: "375"
+phone: +1-705-792-2200
 opening_hours: ""
 website: ""

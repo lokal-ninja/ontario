@@ -4,8 +4,8 @@ latitude: 43.64689
 longitude: -79.40618
 postcode: ""
 city: Toronto
-street: "Queen Street West"
-housenumber: 648
-phone: "+1-416-551-7095"
-opening_hours: "Tu-Sa 10:00-19:00; Su 11:00-16:00; Mo closed"
-website: "https://chdreamsalon.com/"
+street: Queen Street West
+housenumber: "648"
+phone: +1-416-551-7095
+opening_hours: Tu-Sa 10:00-19:00; Su 11:00-16:00; Mo closed
+website: https://chdreamsalon.com/

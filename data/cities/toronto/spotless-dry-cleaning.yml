@@ -1,11 +1,11 @@
 id: 899348831
-type: way
+type: node
 latitude: 43.6399
 longitude: -79.41895
 postcode: ""
 city: Toronto
-street: "Hanna Avenue"
-housenumber: 75
+street: Hanna Avenue
+housenumber: "75"
 phone: ""
 opening_hours: ""
 website: ""

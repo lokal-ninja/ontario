@@ -1,11 +1,11 @@
 id: 344186647
-type: way
+type: node
 latitude: 44.24855
 longitude: -79.33991
 postcode: ""
 city: Georgina
-street: "Highway 48"
-housenumber: 23906
-phone: "+1-647-281-8496"
-opening_hours: "Th-Mo 10:00-18:00; Tu-We off"
-website: "https://www.antiquesonhwy48.com/"
+street: Highway 48
+housenumber: "23906"
+phone: +1-647-281-8496
+opening_hours: Th-Mo 10:00-18:00; Tu-We off
+website: https://www.antiquesonhwy48.com/

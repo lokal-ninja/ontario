@@ -1,11 +1,11 @@
 id: 220474601
-type: way
+type: node
 latitude: 46.5025
 longitude: -80.98961
-postcode: "P3C 5H9"
+postcode: P3C 5H9
 city: Sudbury
-street: "Laforest Avenue"
-housenumber: 433
+street: Laforest Avenue
+housenumber: "433"
 phone: ""
 opening_hours: ""
 website: ""

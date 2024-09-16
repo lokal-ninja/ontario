@@ -1,11 +1,11 @@
 id: 772542494
-type: way
+type: node
 latitude: 42.96258
 longitude: -81.22861
-postcode: "N6C 4P6"
+postcode: N6C 4P6
 city: London
-street: "Wellington Road"
-housenumber: 332
+street: Wellington Road
+housenumber: "332"
 phone: ""
 opening_hours: ""
-website: "https://stores.staples.ca/on/london/office-supplies-ca-8.html"
+website: https://stores.staples.ca/on/london/office-supplies-ca-8.html

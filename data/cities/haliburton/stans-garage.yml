@@ -1,11 +1,11 @@
 id: 520300749
-type: way
+type: node
 latitude: 45.04236
 longitude: -78.48764
-postcode: "K0M 1S0"
+postcode: K0M 1S0
 city: Haliburton
-street: "Highway 118"
-housenumber: 14367
-phone: "+1-705-455-9001"
+street: Highway 118
+housenumber: "14367"
+phone: +1-705-455-9001
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 67138730
-type: way
+type: node
 latitude: 43.86912
 longitude: -79.27871
-postcode: "L3P 1B9"
+postcode: L3P 1B9
 city: Markham
-street: "Highway 7"
-housenumber: 5396
-phone: "+1 888 520 5921"
-opening_hours: "Mo-Th 09:00-19:00, Fr-Sa 09:00-17:00"
-website: "https://www.longmansmarkhamkia.ca/"
+street: Highway 7
+housenumber: "5396"
+phone: +1 888 520 5921
+opening_hours: Mo-Th 09:00-19:00, Fr-Sa 09:00-17:00
+website: https://www.longmansmarkhamkia.ca/

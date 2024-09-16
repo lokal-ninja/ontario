@@ -1,11 +1,11 @@
 id: 1120989082
-type: way
+type: node
 latitude: 43.96476
 longitude: -78.90605
-postcode: "L1L 0R1"
+postcode: L1L 0R1
 city: Oshawa
-street: "Simcoe Street North"
-housenumber: 2680
-phone: "+1-905-432-0036"
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-19:00; Su 10:00-17:00"
-website: "https://www.dollarama.com/en-CA/locations/on/oshawa-2680-simcoe-st-n"
+street: Simcoe Street North
+housenumber: "2680"
+phone: +1-905-432-0036
+opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-19:00; Su 10:00-17:00
+website: https://www.dollarama.com/en-CA/locations/on/oshawa-2680-simcoe-st-n

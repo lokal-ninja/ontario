@@ -1,11 +1,11 @@
 id: 111469064
-type: way
+type: node
 latitude: 43.94167
 longitude: -78.85005
 postcode: ""
 city: Oshawa
-street: "Harmony Road North"
-housenumber: 1421
+street: Harmony Road North
+housenumber: "1421"
 phone: ""
 opening_hours: ""
-website: "https://www.bestbuy.ca/"
+website: https://www.bestbuy.ca/

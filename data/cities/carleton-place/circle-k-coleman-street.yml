@@ -1,11 +1,11 @@
 id: 195438038
-type: way
+type: node
 latitude: 45.13968
 longitude: -76.1279
-postcode: "K7C 4M7"
+postcode: K7C 4M7
 city: Carleton Place
-street: "Coleman Street"
-housenumber: 324
-phone: "+1-613-257-4666"
+street: Coleman Street
+housenumber: "324"
+phone: +1-613-257-4666
 opening_hours: ""
 website: ""

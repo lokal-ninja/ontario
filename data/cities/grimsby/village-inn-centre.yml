@@ -1,11 +1,11 @@
 id: 97918043
-type: way
+type: node
 latitude: 43.19326
 longitude: -79.56412
-postcode: "L3M 4H1"
+postcode: L3M 4H1
 city: Grimsby
-street: "Main Street West"
-housenumber: 63
+street: Main Street West
+housenumber: "63"
 phone: ""
 opening_hours: ""
 website: ""

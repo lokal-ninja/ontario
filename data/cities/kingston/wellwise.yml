@@ -2,10 +2,10 @@ id: 662558889
 type: node
 latitude: 44.24344
 longitude: -76.51455
-postcode: "K7L 1H3"
+postcode: K7L 1H3
 city: Kingston
-street: "Princess Street"
-housenumber: 1011
-phone: "+1-613-531-4104"
-opening_hours: "Mo-We,Fr 09:30-19:00; Th 09:30-20:00; Sa 09:30-18:00; Su 11:00-17:00"
-website: "https://www.wellwise.ca/stores/store/8466"
+street: Princess Street
+housenumber: "1011"
+phone: +1-613-531-4104
+opening_hours: Mo-We,Fr 09:30-19:00; Th 09:30-20:00; Sa 09:30-18:00; Su 11:00-17:00
+website: https://www.wellwise.ca/stores/store/8466

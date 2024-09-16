@@ -1,11 +1,11 @@
 id: 523464646
-type: way
+type: node
 latitude: 45.88665
 longitude: -77.25737
-postcode: "K8H 1Y1"
+postcode: K8H 1Y1
 city: Petawawa
-street: "Petawawa Boulevard"
-housenumber: 2959
-phone: "+1-613-687-5753"
-opening_hours: "24/7"
+street: Petawawa Boulevard
+housenumber: "2959"
+phone: +1-613-687-5753
+opening_hours: 24/7
 website: ""

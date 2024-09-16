@@ -1,11 +1,11 @@
 id: 1011287602
-type: way
+type: node
 latitude: 44.38988
 longitude: -78.40265
-postcode: "K0L 1T0"
+postcode: K0L 1T0
 city: Ennismore
-street: "Robinson Road"
-housenumber: 470
+street: Robinson Road
+housenumber: "470"
 phone: ""
 opening_hours: ""
 website: ""

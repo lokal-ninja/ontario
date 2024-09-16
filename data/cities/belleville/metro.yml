@@ -1,11 +1,11 @@
 id: 223481663
-type: way
+type: node
 latitude: 44.17564
 longitude: -77.3913
 postcode: ""
 city: Belleville
-street: "North Front Street"
-housenumber: 110
+street: North Front Street
+housenumber: "110"
 phone: ""
 opening_hours: ""
 website: ""

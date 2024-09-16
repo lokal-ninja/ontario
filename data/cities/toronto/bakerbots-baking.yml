@@ -4,8 +4,8 @@ latitude: 43.66186
 longitude: -79.42803
 postcode: ""
 city: Toronto
-street: "Delaware Avenue"
-housenumber: 205
-phone: "+1-416-901-3500"
+street: Delaware Avenue
+housenumber: "205"
+phone: +1-416-901-3500
 opening_hours: ""
-website: "https://bakerbotsbaking.com/"
+website: https://bakerbotsbaking.com/

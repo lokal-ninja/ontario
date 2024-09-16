@@ -1,11 +1,11 @@
 id: 120623050
-type: way
+type: node
 latitude: 46.50349
 longitude: -80.94551
-postcode: "P3B 4K4"
+postcode: P3B 4K4
 city: Sudbury
-street: "Kingsway"
-housenumber: 1465
+street: Kingsway
+housenumber: "1465"
 phone: ""
 opening_hours: ""
-website: "https://www.costco.ca/warehouse-locations/sudbury-on-257.html"
+website: https://www.costco.ca/warehouse-locations/sudbury-on-257.html

@@ -1,11 +1,11 @@
 id: 651639754
-type: way
+type: node
 latitude: 45.42492
 longitude: -75.69053
 postcode: ""
 city: Ottawa
-street: "Rideau Street"
-housenumber: 50
+street: Rideau Street
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

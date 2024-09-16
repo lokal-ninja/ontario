@@ -1,11 +1,11 @@
 id: 388920813
-type: way
+type: node
 latitude: 44.25751
 longitude: -79.18365
 postcode: ""
 city: Udora
-street: "Victoria Street"
-housenumber: 9
+street: Victoria Street
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

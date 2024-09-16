@@ -1,11 +1,11 @@
 id: 524422238
-type: way
+type: node
 latitude: 45.28838
 longitude: -74.85499
-postcode: "K0C 1T0"
+postcode: K0C 1T0
 city: Maxville
-street: "Main Street North"
-housenumber: 3
-phone: "+1-613-527-3120"
+street: Main Street North
+housenumber: "3"
+phone: +1-613-527-3120
 opening_hours: ""
 website: ""

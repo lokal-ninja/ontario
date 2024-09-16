@@ -1,11 +1,11 @@
 id: 527270260
-type: way
+type: node
 latitude: 44.59516
 longitude: -79.45349
-postcode: "L3V 6H2"
+postcode: L3V 6H2
 city: Orillia
-street: "University Avenue"
-housenumber: 625
+street: University Avenue
+housenumber: "625"
 phone: ""
 opening_hours: ""
-website: "https://www.costco.ca/warehouse-locations/orillia-on-1265.html"
+website: https://www.costco.ca/warehouse-locations/orillia-on-1265.html

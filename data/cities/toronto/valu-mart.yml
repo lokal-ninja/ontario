@@ -1,11 +1,11 @@
 id: 69964612
-type: way
+type: node
 latitude: 43.70373
 longitude: -79.37457
-postcode: "M4G 3B4"
+postcode: M4G 3B4
 city: Toronto
-street: "Bayview Avenue"
-housenumber: 1500
-phone: "+1-416-486-8294"
-opening_hours: "Mo-Su 07:00-23:00"
+street: Bayview Avenue
+housenumber: "1500"
+phone: +1-416-486-8294
+opening_hours: Mo-Su 07:00-23:00
 website: ""

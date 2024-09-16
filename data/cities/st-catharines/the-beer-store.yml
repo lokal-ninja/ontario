@@ -1,11 +1,11 @@
 id: 256076702
-type: way
+type: node
 latitude: 43.13273
 longitude: -79.22292
 postcode: ""
 city: St. Catharines
-street: "Tremont Drive"
-housenumber: 10
-phone: "+1-905-682-7495"
-opening_hours: "Mo-Sa 10:00-21:00; Su 12:00-17:00"
-website: "https://www.thebeerstore.ca/locations/tremont-square"
+street: Tremont Drive
+housenumber: "10"
+phone: +1-905-682-7495
+opening_hours: Mo-Sa 10:00-21:00; Su 12:00-17:00
+website: https://www.thebeerstore.ca/locations/tremont-square

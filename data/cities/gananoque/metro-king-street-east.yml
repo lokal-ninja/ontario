@@ -1,11 +1,11 @@
 id: 42395071
-type: way
+type: node
 latitude: 44.33147
 longitude: -76.15792
 postcode: ""
 city: Gananoque
-street: "King Street East"
-housenumber: 333
+street: King Street East
+housenumber: "333"
 phone: ""
 opening_hours: ""
 website: ""

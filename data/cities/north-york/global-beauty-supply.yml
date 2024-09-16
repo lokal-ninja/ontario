@@ -1,11 +1,11 @@
 id: 111664086
-type: way
+type: node
 latitude: 43.75433
 longitude: -79.51778
 postcode: ""
 city: North York
-street: "Jane Street"
-housenumber: 2950
+street: Jane Street
+housenumber: "2950"
 phone: ""
 opening_hours: ""
 website: ""

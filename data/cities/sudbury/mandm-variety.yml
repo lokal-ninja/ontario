@@ -1,11 +1,11 @@
 id: 220509014
-type: way
+type: node
 latitude: 46.49926
 longitude: -80.98399
-postcode: "P3B 2T4"
+postcode: P3B 2T4
 city: Sudbury
-street: "Leslie Street"
-housenumber: 257
+street: Leslie Street
+housenumber: "257"
 phone: ""
 opening_hours: ""
 website: ""

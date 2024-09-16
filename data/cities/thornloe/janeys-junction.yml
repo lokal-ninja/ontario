@@ -1,11 +1,11 @@
 id: 518583147
-type: way
+type: node
 latitude: 47.66764
 longitude: -79.73881
-postcode: "P0J 1S0"
+postcode: P0J 1S0
 city: Thornloe
-street: "Highway 11"
-housenumber: 999958
-phone: "+1-705-563-2770"
+street: Highway 11
+housenumber: "999958"
+phone: +1-705-563-2770
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 5741810847
 type: node
 latitude: 43.66385
 longitude: -79.38004
-postcode: "M4Y 2C5"
+postcode: M4Y 2C5
 city: Toronto
-street: "Church Street"
-housenumber: 445
-phone: "+1-416-967-3564"
+street: Church Street
+housenumber: "445"
+phone: +1-416-967-3564
 opening_hours: ""
 website: ""

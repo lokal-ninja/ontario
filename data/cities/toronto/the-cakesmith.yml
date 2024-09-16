@@ -4,8 +4,8 @@ latitude: 43.65021
 longitude: -79.48123
 postcode: ""
 city: Toronto
-street: "Bloor Street West"
-housenumber: 2352
+street: Bloor Street West
+housenumber: "2352"
 phone: ""
 opening_hours: ""
-website: "https://www.thecakesmithinc.com/"
+website: https://www.thecakesmithinc.com/

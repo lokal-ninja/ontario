@@ -1,11 +1,11 @@
 id: 358576542
-type: way
+type: node
 latitude: 50.64167
 longitude: -93.23996
-postcode: "P0V 1T0"
+postcode: P0V 1T0
 city: Ear Falls
-street: "Highway 105 North"
-housenumber: 46
-phone: "+1-807-222-3273"
+street: Highway 105 North
+housenumber: "46"
+phone: +1-807-222-3273
 opening_hours: ""
 website: ""

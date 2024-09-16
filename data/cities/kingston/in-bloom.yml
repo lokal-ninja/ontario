@@ -1,11 +1,11 @@
 id: 1030246377
-type: way
+type: node
 latitude: 44.25835
 longitude: -76.45566
 postcode: ""
 city: Kingston
-street: "Gore Road"
-housenumber: 235
+street: Gore Road
+housenumber: "235"
 phone: ""
 opening_hours: ""
-website: "https://www.inbloomkingston.com/"
+website: https://www.inbloomkingston.com/

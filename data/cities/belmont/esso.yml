@@ -1,11 +1,11 @@
 id: 129468540
-type: way
+type: node
 latitude: 42.9453
 longitude: -81.10802
-postcode: "N0L 1B0"
+postcode: N0L 1B0
 city: Belmont
-street: "Highway 74"
-housenumber: 399
-phone: "+1-519-644-0200"
+street: Highway 74
+housenumber: "399"
+phone: +1-519-644-0200
 opening_hours: ""
 website: ""

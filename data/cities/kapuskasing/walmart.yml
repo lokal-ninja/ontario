@@ -1,11 +1,11 @@
 id: 240061686
-type: way
+type: node
 latitude: 49.40256
 longitude: -82.37975
 postcode: ""
 city: Kapuskasing
-street: "Government Road"
-housenumber: 350
+street: Government Road
+housenumber: "350"
 phone: ""
 opening_hours: ""
-website: "https://www.walmart.ca/en/stores-near-me/kapuskasing-ontario-3041"
+website: https://www.walmart.ca/en/stores-near-me/kapuskasing-ontario-3041

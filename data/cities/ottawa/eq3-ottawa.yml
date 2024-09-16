@@ -1,11 +1,11 @@
 id: 452702787
-type: way
+type: node
 latitude: 45.42709
 longitude: -75.69244
-postcode: "K1N 7A2"
+postcode: K1N 7A2
 city: Ottawa
-street: "By Ward Market Square"
-housenumber: 60
-phone: "+1 613-562-9111"
+street: By Ward Market Square
+housenumber: "60"
+phone: +1 613-562-9111
 opening_hours: ""
-website: "https://www.eq3.com/ca/en/shopwithus/eq3-locations/cjw10z96r006i6gs06enveott/ottawa/eq3-ottawa"
+website: https://www.eq3.com/ca/en/shopwithus/eq3-locations/cjw10z96r006i6gs06enveott/ottawa/eq3-ottawa

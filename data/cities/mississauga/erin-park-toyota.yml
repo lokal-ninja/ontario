@@ -1,11 +1,11 @@
 id: 33042620
-type: way
+type: node
 latitude: 43.52973
 longitude: -79.67636
 postcode: ""
 city: Mississauga
-street: "Motorway Boulevard"
-housenumber: 2411
+street: Motorway Boulevard
+housenumber: "2411"
 phone: ""
 opening_hours: ""
-website: "https://www.erinparktoyota.com/"
+website: https://www.erinparktoyota.com/

@@ -1,11 +1,11 @@
 id: 1230109200
-type: way
+type: node
 latitude: 43.77772
 longitude: -79.34351
-postcode: "M2J 5A7"
+postcode: M2J 5A7
 city: North York
-street: "Sheppard Avenue East"
-housenumber: 1800
-phone: "+1-416-646-4412"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
-website: "https://www.apple.com/ca/retail/fairview/"
+street: Sheppard Avenue East
+housenumber: "1800"
+phone: +1-416-646-4412
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
+website: https://www.apple.com/ca/retail/fairview/

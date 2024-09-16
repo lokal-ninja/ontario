@@ -2,10 +2,10 @@ id: 5798912053
 type: node
 latitude: 43.66179
 longitude: -79.36907
-postcode: "M5A 2G1"
+postcode: M5A 2G1
 city: Toronto
-street: "Gerrard Street East"
-housenumber: 251
-phone: "+1-647-527-5276"
+street: Gerrard Street East
+housenumber: "251"
+phone: +1-647-527-5276
 opening_hours: ""
-website: "https://hastingsbarbershop.com/"
+website: https://hastingsbarbershop.com/

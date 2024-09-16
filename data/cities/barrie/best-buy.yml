@@ -2,10 +2,10 @@ id: 3442201034
 type: node
 latitude: 44.33843
 longitude: -79.68406
-postcode: "L4N 6N5"
+postcode: L4N 6N5
 city: Barrie
-street: "Concert Way"
-housenumber: 80
-phone: "+1-705-797-5330"
-opening_hours: "Mo-Sa 11:00-19:00; Su 11:00-18:00"
-website: "https://stores.bestbuy.ca/en-ca/on/barrie/80-concert-way-unit-2"
+street: Concert Way
+housenumber: "80"
+phone: +1-705-797-5330
+opening_hours: Mo-Sa 11:00-19:00; Su 11:00-18:00
+website: https://stores.bestbuy.ca/en-ca/on/barrie/80-concert-way-unit-2

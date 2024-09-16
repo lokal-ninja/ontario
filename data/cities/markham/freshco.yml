@@ -1,11 +1,11 @@
 id: 163041199
-type: way
+type: node
 latitude: 43.89291
 longitude: -79.29357
-postcode: "L3P 3J3"
+postcode: L3P 3J3
 city: Markham
-street: "McCowan Road"
-housenumber: 9580
-phone: "+1 905 887 4366"
-opening_hours: "Mo-Su 07:00-22:00"
+street: McCowan Road
+housenumber: "9580"
+phone: +1 905 887 4366
+opening_hours: Mo-Su 07:00-22:00
 website: ""

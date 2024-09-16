@@ -1,11 +1,11 @@
 id: 616359879
-type: way
+type: node
 latitude: 45.01841
 longitude: -75.65558
-postcode: "K0G 1J0"
+postcode: K0G 1J0
 city: Kemptville
-street: "County Road 43"
-housenumber: 2600
-phone: "+1-613-258-5966"
+street: County Road 43
+housenumber: "2600"
+phone: +1-613-258-5966
 opening_hours: ""
 website: ""

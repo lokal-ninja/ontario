@@ -1,11 +1,11 @@
 id: 659058827
-type: way
+type: node
 latitude: 45.03644
 longitude: -79.30538
-postcode: "P1L 1H3"
+postcode: P1L 1H3
 city: Bracebridge
-street: "Entrance Drive"
-housenumber: 101
-phone: "+1-705-646-2828"
+street: Entrance Drive
+housenumber: "101"
+phone: +1-705-646-2828
 opening_hours: ""
-website: "https://www.simplycottage.com/"
+website: https://www.simplycottage.com/

@@ -1,11 +1,11 @@
 id: 1011287600
-type: way
+type: node
 latitude: 44.38972
 longitude: -78.40374
-postcode: "K9J 6X2"
+postcode: K9J 6X2
 city: Ennismore
-street: "Robinson Road"
-housenumber: 476
+street: Robinson Road
+housenumber: "476"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 68282539
-type: way
+type: node
 latitude: 43.41946
 longitude: -80.44593
-postcode: "N2G 4A2"
+postcode: N2G 4A2
 city: Kitchener
-street: "Fairway Road South"
-housenumber: 549
-phone: "+1-888-610-5691"
-opening_hours: "Mo-Th 09:00-21:00; Fr 09:00-17:30; Sa 09:00-17:00"
-website: "https://www.wendellmotor.com/"
+street: Fairway Road South
+housenumber: "549"
+phone: +1-888-610-5691
+opening_hours: Mo-Th 09:00-21:00; Fr 09:00-17:30; Sa 09:00-17:00
+website: https://www.wendellmotor.com/

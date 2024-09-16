@@ -1,11 +1,12 @@
 id: 1101533404
-type: way
+type: node
 latitude: 44.15937
 longitude: -79.84092
 postcode: ""
 city: Alliston
-street: "Victoria Street East"
-housenumber: 535
-phone: "+1-705-435-5701"
-opening_hours: "Mo 08:00-17:00; Tu 08:00-17:00; We 08:00-17:00; Th 08:00-17:00; Fr 08:00-17:00; Sa closed; Su closed"
+street: Victoria Street East
+housenumber: "535"
+phone: +1-705-435-5701
+opening_hours: Mo 08:00-17:00; Tu 08:00-17:00; We 08:00-17:00; Th 08:00-17:00; Fr
+    08:00-17:00; Sa closed; Su closed
 website: ""

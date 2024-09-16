@@ -1,11 +1,11 @@
 id: 622120550
-type: way
+type: node
 latitude: 43.95165
 longitude: -77.3495
-postcode: "K0K 3L0"
+postcode: K0K 3L0
 city: Wellington
-street: "Main Street"
-housenumber: 279
+street: Main Street
+housenumber: "279"
 phone: ""
 opening_hours: ""
 website: ""

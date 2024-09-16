@@ -4,8 +4,8 @@ latitude: 43.64913
 longitude: -79.38699
 postcode: ""
 city: Toronto
-street: "Simcoe Street"
-housenumber: 126
-phone: "+1-416-977-5463"
-opening_hours: "24/7"
-website: "https://www.rabba.com/"
+street: Simcoe Street
+housenumber: "126"
+phone: +1-416-977-5463
+opening_hours: 24/7
+website: https://www.rabba.com/

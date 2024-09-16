@@ -1,11 +1,11 @@
 id: 255488128
-type: way
+type: node
 latitude: 43.23202
 longitude: -79.84712
 postcode: ""
 city: Hamilton
-street: "Upper Sherman Avenue"
-housenumber: 521
+street: Upper Sherman Avenue
+housenumber: "521"
 phone: ""
 opening_hours: ""
 website: ""

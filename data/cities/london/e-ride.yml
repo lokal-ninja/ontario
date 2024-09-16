@@ -1,11 +1,11 @@
 id: 777850101
-type: way
+type: node
 latitude: 42.9757
 longitude: -81.2404
 postcode: ""
 city: London
-street: "Wellington Street"
-housenumber: 92
-phone: "+1 5196017433"
+street: Wellington Street
+housenumber: "92"
+phone: +1 5196017433
 opening_hours: ""
-website: "http://www.e-ridelondon.ca/"
+website: http://www.e-ridelondon.ca/

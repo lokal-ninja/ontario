@@ -1,11 +1,11 @@
 id: 195237438
-type: way
+type: node
 latitude: 43.81941
 longitude: -79.50372
-postcode: "L4K 2N1"
+postcode: L4K 2N1
 city: Concord
-street: "Keele Street"
-housenumber: 8555
-phone: "+1 905 660 3113"
-opening_hours: "24/7"
-website: "https://www.circlek.com/ca/ontario/store-locator/CA/concord/8555-keele-st/0852566"
+street: Keele Street
+housenumber: "8555"
+phone: +1 905 660 3113
+opening_hours: 24/7
+website: https://www.circlek.com/ca/ontario/store-locator/CA/concord/8555-keele-st/0852566

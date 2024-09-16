@@ -2,10 +2,10 @@ id: 9460752786
 type: node
 latitude: 44.32081
 longitude: -79.88578
-postcode: "l0m1b2"
+postcode: l0m1b2
 city: Angus
-street: "King Street"
-housenumber: 17
-phone: "+1 (705) 424-5601"
-opening_hours: "Mo-Th 10:00-20:00; Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-18:00"
-website: "https://www.thebeerstore.ca/locations/angus"
+street: King Street
+housenumber: "17"
+phone: +1 (705) 424-5601
+opening_hours: Mo-Th 10:00-20:00; Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-18:00
+website: https://www.thebeerstore.ca/locations/angus

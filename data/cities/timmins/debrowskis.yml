@@ -1,11 +1,11 @@
 id: 699152863
-type: way
+type: node
 latitude: 48.47504
 longitude: -81.33913
-postcode: "P4N 2S8"
+postcode: P4N 2S8
 city: Timmins
-street: "Wilson Avenue"
-housenumber: 125
-phone: "+1 705 268 1955"
+street: Wilson Avenue
+housenumber: "125"
+phone: +1 705 268 1955
 opening_hours: ""
 website: ""

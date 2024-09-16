@@ -2,10 +2,10 @@ id: 10973938397
 type: node
 latitude: 43.74729
 longitude: -79.31237
-postcode: "M1R 5G7"
+postcode: M1R 5G7
 city: North York
-street: "Victoria Park Avenue"
-housenumber: 1964
-phone: "+1-416-510-1234"
-opening_hours: "24/7"
-website: "https://sprintautoglass.ca/"
+street: Victoria Park Avenue
+housenumber: "1964"
+phone: +1-416-510-1234
+opening_hours: 24/7
+website: https://sprintautoglass.ca/

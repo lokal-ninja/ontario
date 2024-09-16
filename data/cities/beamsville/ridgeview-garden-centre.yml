@@ -1,11 +1,11 @@
 id: 961657268
-type: way
+type: node
 latitude: 43.18246
 longitude: -79.51071
-postcode: "L0R 1B3"
+postcode: L0R 1B3
 city: Beamsville
-street: "King Street"
-housenumber: 5677
-phone: "+1-888-770-0333"
+street: King Street
+housenumber: "5677"
+phone: +1-888-770-0333
 opening_hours: ""
-website: "https://ridgeviewgardencentre.com/"
+website: https://ridgeviewgardencentre.com/

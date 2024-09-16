@@ -1,11 +1,11 @@
 id: 527345755
-type: way
+type: node
 latitude: 42.90242
 longitude: -80.76008
-postcode: "N4G 4H1"
+postcode: N4G 4H1
 city: Tillsonburg
-street: "Highway 19"
-housenumber: 332543
-phone: "+1-519-842-2261"
+street: Highway 19
+housenumber: "332543"
+phone: +1-519-842-2261
 opening_hours: ""
 website: ""

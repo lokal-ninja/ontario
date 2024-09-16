@@ -1,11 +1,11 @@
 id: 524484797
-type: way
+type: node
 latitude: 45.25807
 longitude: -75.35937
-postcode: "K4R 1C8"
+postcode: K4R 1C8
 city: Russell
-street: "Concession Street"
-housenumber: 1112
-phone: "+1-613-445-5332"
+street: Concession Street
+housenumber: "1112"
+phone: +1-613-445-5332
 opening_hours: ""
 website: ""

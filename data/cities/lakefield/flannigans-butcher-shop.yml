@@ -1,11 +1,11 @@
 id: 1233855826
-type: way
+type: node
 latitude: 44.42716
 longitude: -78.27038
-postcode: "K0L 2H0"
+postcode: K0L 2H0
 city: Lakefield
-street: "Queen Street"
-housenumber: 102
-phone: "+1 705-652-1305"
+street: Queen Street
+housenumber: "102"
+phone: +1 705-652-1305
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 11949218512
 type: node
 latitude: 43.64915
 longitude: -79.37954
-postcode: "M5H 3Y2"
+postcode: M5H 3Y2
 city: Toronto
-street: "King Street West"
-housenumber: 40
-phone: "+1-416-782-3232"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.nutcrackersweet.com/"
+street: King Street West
+housenumber: "40"
+phone: +1-416-782-3232
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.nutcrackersweet.com/

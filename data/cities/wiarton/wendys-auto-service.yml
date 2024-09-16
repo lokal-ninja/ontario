@@ -1,11 +1,11 @@
 id: 523800319
-type: way
+type: node
 latitude: 44.76775
 longitude: -81.14292
-postcode: "N0H 2T0"
+postcode: N0H 2T0
 city: Wiarton
-street: "Highway 6"
-housenumber: 151
+street: Highway 6
+housenumber: "151"
 phone: ""
 opening_hours: ""
 website: ""

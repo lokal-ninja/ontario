@@ -1,11 +1,11 @@
 id: 400293560
-type: way
+type: node
 latitude: 44.35347
 longitude: -78.73838
-postcode: "K9V 2W9"
+postcode: K9V 2W9
 city: Lindsay
-street: "Russell Street West"
-housenumber: 60
+street: Russell Street West
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 277288766
-type: way
+type: node
 latitude: 43.79424
 longitude: -79.2422
 postcode: ""
 city: Toronto
-street: "Sheppard Avenue East"
-housenumber: 5060
+street: Sheppard Avenue East
+housenumber: "5060"
 phone: ""
 opening_hours: ""
-website: "https://www.brimelltoyota.com/"
+website: https://www.brimelltoyota.com/

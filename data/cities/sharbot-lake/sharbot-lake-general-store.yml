@@ -1,11 +1,11 @@
 id: 259682730
-type: way
+type: node
 latitude: 44.79864
 longitude: -76.67991
-postcode: "K0H 2P0"
+postcode: K0H 2P0
 city: Sharbot Lake
-street: "Highway 7"
-housenumber: 24544
-phone: "+1-613-279-2382"
+street: Highway 7
+housenumber: "24544"
+phone: +1-613-279-2382
 opening_hours: ""
 website: ""

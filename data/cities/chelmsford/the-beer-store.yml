@@ -1,11 +1,11 @@
 id: 361580479
-type: way
+type: node
 latitude: 46.5674
 longitude: -81.18816
-postcode: "P0M 1L0"
+postcode: P0M 1L0
 city: Chelmsford
-street: "Aurore Street"
-housenumber: 199
+street: Aurore Street
+housenumber: "199"
 phone: ""
-opening_hours: "Mo-Th 10:00-18:00; Fr 10:00-20:00; Sa 10:00-18:00; Su 12:00-17:00"
-website: "https://www.thebeerstore.ca/locations/chelmsford"
+opening_hours: Mo-Th 10:00-18:00; Fr 10:00-20:00; Sa 10:00-18:00; Su 12:00-17:00
+website: https://www.thebeerstore.ca/locations/chelmsford

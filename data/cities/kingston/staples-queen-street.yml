@@ -1,11 +1,11 @@
 id: 13728385
-type: way
+type: node
 latitude: 44.23325
 longitude: -76.48365
-postcode: "K7K 1A5"
+postcode: K7K 1A5
 city: Kingston
-street: "Queen Street"
-housenumber: 105
+street: Queen Street
+housenumber: "105"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00, Sa 09:00-18:00, Su 11:00-17:00"
-website: "https://stores.staples.ca/on/kingston/office-supplies-ca-23.html"
+opening_hours: Mo-Fr 08:00-21:00, Sa 09:00-18:00, Su 11:00-17:00
+website: https://stores.staples.ca/on/kingston/office-supplies-ca-23.html

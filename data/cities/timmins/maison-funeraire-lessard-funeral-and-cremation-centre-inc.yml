@@ -1,11 +1,11 @@
 id: 1290312703
-type: way
+type: node
 latitude: 48.47604
 longitude: -81.33509
-postcode: "P4N 1W4"
+postcode: P4N 1W4
 city: Timmins
-street: "Elm Street South"
-housenumber: 21
+street: Elm Street South
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

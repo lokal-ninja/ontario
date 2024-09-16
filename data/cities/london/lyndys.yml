@@ -2,10 +2,11 @@ id: 4455934363
 type: node
 latitude: 43.00491
 longitude: -81.22193
-postcode: "N5Y 3K7"
+postcode: N5Y 3K7
 city: London
-street: "Oxford Street East"
-housenumber: 1016
+street: Oxford Street East
+housenumber: "1016"
 phone: ""
-opening_hours: "We 09:00-17:00; Th 09:00-18:00; Fr 09:00-18:00; Sa 09:00-17:00; Su closed; Mo 09:00-17:00; Tu 09:00-17:00"
+opening_hours: We 09:00-17:00; Th 09:00-18:00; Fr 09:00-18:00; Sa 09:00-17:00; Su
+    closed; Mo 09:00-17:00; Tu 09:00-17:00
 website: ""

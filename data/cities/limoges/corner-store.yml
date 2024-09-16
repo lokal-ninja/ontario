@@ -1,11 +1,11 @@
 id: 516203604
-type: way
+type: node
 latitude: 45.3186
 longitude: -75.24444
-postcode: "K0A 1W0"
+postcode: K0A 1W0
 city: Limoges
-street: "Limoges Road"
-housenumber: 715
+street: Limoges Road
+housenumber: "715"
 phone: ""
 opening_hours: ""
 website: ""

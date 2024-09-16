@@ -2,10 +2,10 @@ id: 5720831422
 type: node
 latitude: 43.65639
 longitude: -79.38165
-postcode: "M5G 2C2"
+postcode: M5G 2C2
 city: Toronto
-street: "Bay Street"
-housenumber: 595
-phone: "+1-416-596-7273"
+street: Bay Street
+housenumber: "595"
+phone: +1-416-596-7273
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 43807753
-type: way
+type: node
 latitude: 43.6569
 longitude: -79.44456
 postcode: ""
 city: Toronto
-street: "Bloor Street West"
-housenumber: 1319
+street: Bloor Street West
+housenumber: "1319"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-20:00"
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.35231
 longitude: -79.78722
 postcode: ""
 city: Burlington
-street: "Cumberland Avenue"
-housenumber: 710
-phone: "+1-905-631-6609"
-opening_hours: "Mo 10:00-15:00; Tu,Th,Fr,Sa 09:30-17:00; We 09:30-19:00; PH off"
-website: "https://winekitzburlington.ca/"
+street: Cumberland Avenue
+housenumber: "710"
+phone: +1-905-631-6609
+opening_hours: Mo 10:00-15:00; Tu,Th,Fr,Sa 09:30-17:00; We 09:30-19:00; PH off
+website: https://winekitzburlington.ca/

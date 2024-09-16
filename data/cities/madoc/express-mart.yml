@@ -1,11 +1,11 @@
 id: 318664475
-type: way
+type: node
 latitude: 44.51255
 longitude: -77.48122
-postcode: "K0K 2K0"
+postcode: K0K 2K0
 city: Madoc
-street: "Bonjour Boulevard"
-housenumber: 114
+street: Bonjour Boulevard
+housenumber: "114"
 phone: ""
 opening_hours: ""
 website: ""

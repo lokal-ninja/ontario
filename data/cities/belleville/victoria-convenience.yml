@@ -1,11 +1,11 @@
 id: 1160072295
-type: way
+type: node
 latitude: 44.16791
 longitude: -77.37809
 postcode: ""
 city: Belleville
-street: "Victoria Avenue"
-housenumber: 113
+street: Victoria Avenue
+housenumber: "113"
 phone: ""
 opening_hours: ""
 website: ""

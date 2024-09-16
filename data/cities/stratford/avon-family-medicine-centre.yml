@@ -1,11 +1,11 @@
 id: 237524657
-type: way
+type: node
 latitude: 43.37886
 longitude: -81.00178
 postcode: ""
 city: Stratford
-street: "Huron Street"
-housenumber: 511
+street: Huron Street
+housenumber: "511"
 phone: ""
 opening_hours: ""
 website: ""

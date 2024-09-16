@@ -1,11 +1,11 @@
 id: 195380337
-type: way
+type: node
 latitude: 45.82019
 longitude: -77.0828
 postcode: ""
 city: Pembroke
-street: "Pembroke Street East"
-housenumber: 1100
+street: Pembroke Street East
+housenumber: "1100"
 phone: ""
 opening_hours: ""
-website: "https://www.pembrokemall.ca/"
+website: https://www.pembrokemall.ca/

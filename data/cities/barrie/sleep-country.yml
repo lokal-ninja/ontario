@@ -1,11 +1,11 @@
 id: 109969451
-type: way
+type: node
 latitude: 44.40827
 longitude: -79.70559
 postcode: ""
 city: Barrie
-street: "Bayfield Street"
-housenumber: 407
+street: Bayfield Street
+housenumber: "407"
 phone: ""
 opening_hours: ""
 website: ""

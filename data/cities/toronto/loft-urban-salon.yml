@@ -4,8 +4,8 @@ latitude: 43.64699
 longitude: -79.40446
 postcode: ""
 city: Toronto
-street: "Queen Street West"
-housenumber: 663
-phone: "+1-416-868-0202"
+street: Queen Street West
+housenumber: "663"
+phone: +1-416-868-0202
 opening_hours: ""
-website: "https://lofturbansalon.ca/"
+website: https://lofturbansalon.ca/

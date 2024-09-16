@@ -1,11 +1,11 @@
 id: 362872976
-type: way
+type: node
 latitude: 43.6639
 longitude: -79.41645
 postcode: ""
 city: Toronto
-street: "Bloor Street West"
-housenumber: 675
+street: Bloor Street West
+housenumber: "675"
 phone: ""
 opening_hours: ""
-website: "https://www.patmart.ca/"
+website: https://www.patmart.ca/

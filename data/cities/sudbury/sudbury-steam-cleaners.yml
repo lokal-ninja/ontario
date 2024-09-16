@@ -1,11 +1,11 @@
 id: 180127241
-type: way
+type: node
 latitude: 46.49016
 longitude: -81.0046
-postcode: "P3C 1L7"
+postcode: P3C 1L7
 city: Sudbury
-street: "Walnut Street"
-housenumber: 210
+street: Walnut Street
+housenumber: "210"
 phone: ""
 opening_hours: ""
 website: ""

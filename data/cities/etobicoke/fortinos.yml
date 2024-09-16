@@ -1,11 +1,11 @@
 id: 29443312
-type: way
+type: node
 latitude: 43.72205
 longitude: -79.59562
 postcode: ""
 city: Etobicoke
-street: "Queen's Plate Drive"
-housenumber: 330
+street: Queen's Plate Drive
+housenumber: "330"
 phone: ""
 opening_hours: ""
 website: ""

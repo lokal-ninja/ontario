@@ -1,11 +1,11 @@
 id: 523808327
-type: way
+type: node
 latitude: 44.60981
 longitude: -80.59309
-postcode: "N4L 1P3"
+postcode: N4L 1P3
 city: Meaford
-street: "Sykes Street North"
-housenumber: 136
-phone: "+1-519-538-2024"
-opening_hours: "24/7"
+street: Sykes Street North
+housenumber: "136"
+phone: +1-519-538-2024
+opening_hours: 24/7
 website: ""

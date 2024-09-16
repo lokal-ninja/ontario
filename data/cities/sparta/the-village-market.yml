@@ -1,11 +1,11 @@
 id: 527817062
-type: way
+type: node
 latitude: 42.70152
 longitude: -81.07924
-postcode: "N0L 2H0"
+postcode: N0L 2H0
 city: Sparta
-street: "Quaker Road"
-housenumber: 6091
-phone: "+1-519-775-2536"
+street: Quaker Road
+housenumber: "6091"
+phone: +1-519-775-2536
 opening_hours: ""
 website: ""

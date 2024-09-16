@@ -2,10 +2,10 @@ id: 5438908213
 type: node
 latitude: 43.64811
 longitude: -79.39881
-postcode: "M5V 2V4"
+postcode: M5V 2V4
 city: Toronto
-street: "Queen Street West"
-housenumber: 511
-phone: "+1-416-536-9000"
+street: Queen Street West
+housenumber: "511"
+phone: +1-416-536-9000
 opening_hours: ""
-website: "https://worldsewcentre.com/"
+website: https://worldsewcentre.com/

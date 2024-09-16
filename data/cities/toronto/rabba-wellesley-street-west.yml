@@ -4,8 +4,8 @@ latitude: 43.66478
 longitude: -79.38578
 postcode: ""
 city: Toronto
-street: "Wellesley Street West"
-housenumber: 24
-phone: "+1-416-922-4451"
-opening_hours: "24/7"
+street: Wellesley Street West
+housenumber: "24"
+phone: +1-416-922-4451
+opening_hours: 24/7
 website: ""

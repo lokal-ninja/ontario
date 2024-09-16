@@ -2,10 +2,10 @@ id: 3427717623
 type: node
 latitude: 44.01284
 longitude: -79.41227
-postcode: "L4G 0G2"
+postcode: L4G 0G2
 city: Aurora
-street: "First Commerce Drive"
-housenumber: 43
-phone: "+1-905-713-9968"
+street: First Commerce Drive
+housenumber: "43"
+phone: +1-905-713-9968
 opening_hours: ""
-website: "https://www.cartersoshkosh.ca/"
+website: https://www.cartersoshkosh.ca/

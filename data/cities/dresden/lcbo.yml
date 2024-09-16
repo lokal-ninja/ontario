@@ -1,11 +1,11 @@
 id: 657970675
-type: way
+type: node
 latitude: 42.59199
 longitude: -82.18042
 postcode: ""
 city: Dresden
-street: "Lindsley Street West"
-housenumber: 188
+street: Lindsley Street West
+housenumber: "188"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.64534
 longitude: -79.41261
 postcode: ""
 city: Toronto
-street: "Queen Street West"
-housenumber: 919
+street: Queen Street West
+housenumber: "919"
 phone: ""
 opening_hours: ""
-website: "https://thesiistar.com/"
+website: https://thesiistar.com/

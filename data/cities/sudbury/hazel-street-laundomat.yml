@@ -1,11 +1,11 @@
 id: 180842454
-type: way
+type: node
 latitude: 46.48749
 longitude: -81.00514
-postcode: "P3C 1J2"
+postcode: P3C 1J2
 city: Sudbury
-street: "Hazel Street"
-housenumber: 254
+street: Hazel Street
+housenumber: "254"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 134221216
-type: way
+type: node
 latitude: 43.54278
 longitude: -79.86807
-postcode: "L9T 6R1"
+postcode: L9T 6R1
 city: Milton
-street: "Steeles Avenue East"
-housenumber: 1280
+street: Steeles Avenue East
+housenumber: "1280"
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.walmart.ca/en/stores-near-me/milton-on-1000"
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.walmart.ca/en/stores-near-me/milton-on-1000

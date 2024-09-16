@@ -4,8 +4,8 @@ latitude: 43.51661
 longitude: -79.87964
 postcode: ""
 city: Milton
-street: "Main Street East"
-housenumber: 365
+street: Main Street East
+housenumber: "365"
 phone: ""
 opening_hours: ""
-website: "https://matadoreyeworks.com/"
+website: https://matadoreyeworks.com/

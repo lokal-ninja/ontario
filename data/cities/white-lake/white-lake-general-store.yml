@@ -1,11 +1,11 @@
 id: 433771697
-type: way
+type: node
 latitude: 45.35526
 longitude: -76.49115
-postcode: "K0A 3L0"
+postcode: K0A 3L0
 city: White Lake
-street: "Burnstown Road"
-housenumber: 6
-phone: "+1-613-623-2771"
+street: Burnstown Road
+housenumber: "6"
+phone: +1-613-623-2771
 opening_hours: ""
 website: ""

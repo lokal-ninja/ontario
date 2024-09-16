@@ -1,11 +1,11 @@
 id: 999293782
-type: way
+type: node
 latitude: 47.96556
 longitude: -84.79103
-postcode: "P0S 1K0"
+postcode: P0S 1K0
 city: Wawa
-street: "Pinewood Drive"
-housenumber: 70
-phone: "+1-705-856-2111"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.fountaintire.com/"
+street: Pinewood Drive
+housenumber: "70"
+phone: +1-705-856-2111
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.fountaintire.com/

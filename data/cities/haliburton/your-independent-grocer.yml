@@ -1,11 +1,11 @@
 id: 274454426
-type: way
+type: node
 latitude: 45.0469
 longitude: -78.53642
-postcode: "K0M 1S0"
+postcode: K0M 1S0
 city: Haliburton
-street: "County Road 21"
-housenumber: 5121
+street: County Road 21
+housenumber: "5121"
 phone: ""
 opening_hours: ""
-website: "https://www.yourindependentgrocer.ca/LCLOnline/store_details_landing_page.jsp?storeId=567"
+website: https://www.yourindependentgrocer.ca/LCLOnline/store_details_landing_page.jsp?storeId=567

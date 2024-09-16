@@ -1,11 +1,11 @@
 id: 1193147837
-type: way
+type: node
 latitude: 43.65073
 longitude: -79.44506
 postcode: ""
 city: Toronto
-street: "Sorauren Avenue"
-housenumber: 393
-phone: "+1-416-533-8591"
+street: Sorauren Avenue
+housenumber: "393"
+phone: +1-416-533-8591
 opening_hours: ""
-website: "https://downtownrental.net/"
+website: https://downtownrental.net/

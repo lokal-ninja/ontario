@@ -1,11 +1,11 @@
 id: 657934772
-type: way
+type: node
 latitude: 43.63553
 longitude: -79.5202
 postcode: ""
 city: Toronto
-street: "Islington Avenue"
-housenumber: 1078
-phone: "+1-416-516-7261"
+street: Islington Avenue
+housenumber: "1078"
+phone: +1-416-516-7261
 opening_hours: ""
 website: ""

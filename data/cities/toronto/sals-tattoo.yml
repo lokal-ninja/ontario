@@ -1,11 +1,11 @@
 id: 660800730
-type: way
+type: node
 latitude: 43.65702
 longitude: -79.40563
-postcode: "M5T 1S7"
+postcode: M5T 1S7
 city: Toronto
-street: "College Street"
-housenumber: 390
+street: College Street
+housenumber: "390"
 phone: ""
-opening_hours: "Mo-Su 12:00-20:00"
+opening_hours: Mo-Su 12:00-20:00
 website: ""

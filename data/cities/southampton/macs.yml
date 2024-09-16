@@ -1,11 +1,11 @@
 id: 482253959
-type: way
+type: node
 latitude: 44.49122
 longitude: -81.37569
-postcode: "N0H 2L0"
+postcode: N0H 2L0
 city: Southampton
-street: "Albert Street South"
-housenumber: 145
-phone: "+1-519-797-2969"
+street: Albert Street South
+housenumber: "145"
+phone: +1-519-797-2969
 opening_hours: ""
 website: ""

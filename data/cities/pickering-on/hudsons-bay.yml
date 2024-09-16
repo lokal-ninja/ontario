@@ -1,11 +1,11 @@
 id: 702540909
-type: way
+type: node
 latitude: 43.83436
 longitude: -79.08562
-postcode: "L1V 2B8"
+postcode: L1V 2B8
 city: Pickering, ON
-street: "Kingston Road"
-housenumber: 1355
-phone: "+1-905-837-8691"
+street: Kingston Road
+housenumber: "1355"
+phone: +1-905-837-8691
 opening_hours: ""
 website: ""

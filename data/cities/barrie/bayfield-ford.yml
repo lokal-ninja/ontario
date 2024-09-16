@@ -1,11 +1,11 @@
 id: 77377052
-type: way
+type: node
 latitude: 44.40648
 longitude: -79.7036
-postcode: "L4M 3C5"
+postcode: L4M 3C5
 city: Barrie
-street: "Bayfield Street"
-housenumber: 379
-phone: "+1 877 722 3503"
+street: Bayfield Street
+housenumber: "379"
+phone: +1 877 722 3503
 opening_hours: ""
-website: "https://www.bayfieldford.com"
+website: https://www.bayfieldford.com

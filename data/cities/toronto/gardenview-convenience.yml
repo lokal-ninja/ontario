@@ -4,8 +4,8 @@ latitude: 43.64996
 longitude: -79.39132
 postcode: ""
 city: Toronto
-street: "Queen Street West"
-housenumber: 252
-phone: "+1-416-593-2560"
-opening_hours: "24/7"
+street: Queen Street West
+housenumber: "252"
+phone: +1-416-593-2560
+opening_hours: 24/7
 website: ""

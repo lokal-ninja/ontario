@@ -1,11 +1,11 @@
 id: 524242327
-type: way
+type: node
 latitude: 45.31492
 longitude: -75.0882
-postcode: "K0A 1M0"
+postcode: K0A 1M0
 city: Casselman
-street: "Principale Street"
-housenumber: 762
-phone: "+1-613-764-2970"
+street: Principale Street
+housenumber: "762"
+phone: +1-613-764-2970
 opening_hours: ""
 website: ""

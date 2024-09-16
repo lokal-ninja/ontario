@@ -1,11 +1,11 @@
 id: 77364339
-type: way
+type: node
 latitude: 44.48007
 longitude: -79.52758
-postcode: "L0L 2E0"
+postcode: L0L 2E0
 city: Township of Oro-Medonte
-street: "Highway 11 North"
-housenumber: 3105
-phone: "+1-705-487-6595"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://computerelite.net"
+street: Highway 11 North
+housenumber: "3105"
+phone: +1-705-487-6595
+opening_hours: Mo-Fr 09:00-17:00
+website: https://computerelite.net

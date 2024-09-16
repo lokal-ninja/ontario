@@ -1,11 +1,11 @@
 id: 636933404
-type: way
+type: node
 latitude: 43.91751
 longitude: -78.59114
 postcode: ""
 city: Newcastle
-street: "King Avenue West"
-housenumber: 80
+street: King Avenue West
+housenumber: "80"
 phone: ""
-opening_hours: "Mo-Su 08:00-21:00"
+opening_hours: Mo-Su 08:00-21:00
 website: ""

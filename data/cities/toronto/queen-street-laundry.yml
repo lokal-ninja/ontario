@@ -4,8 +4,8 @@ latitude: 43.64669
 longitude: -79.40596
 postcode: ""
 city: Toronto
-street: "Queen Street West"
-housenumber: 713
-phone: "+1-647-988-0740"
-opening_hours: "Mo-Su 07:00-22:00"
+street: Queen Street West
+housenumber: "713"
+phone: +1-647-988-0740
+opening_hours: Mo-Su 07:00-22:00
 website: ""

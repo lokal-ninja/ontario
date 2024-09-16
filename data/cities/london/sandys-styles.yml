@@ -1,11 +1,11 @@
 id: 135778597
-type: way
+type: node
 latitude: 42.98083
 longitude: -81.21904
 postcode: ""
 city: London
-street: "Hamilton Road"
-housenumber: 440
-phone: "+1-519-434-4807"
+street: Hamilton Road
+housenumber: "440"
+phone: +1-519-434-4807
 opening_hours: ""
 website: ""

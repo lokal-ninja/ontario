@@ -1,11 +1,11 @@
 id: 525464309
-type: way
+type: node
 latitude: 43.74392
 longitude: -81.24997
-postcode: "N0G1H0"
+postcode: N0G1H0
 city: Brussels
-street: "Turnberry Street"
-housenumber: 439
-phone: "+1-519-887-9682"
-opening_hours: "Tu,Fr 09:00-17:00; We-Th 09:00-20:00; Sa 09:30-14:00"
-website: "http://solacespa.ca"
+street: Turnberry Street
+housenumber: "439"
+phone: +1-519-887-9682
+opening_hours: Tu,Fr 09:00-17:00; We-Th 09:00-20:00; Sa 09:30-14:00
+website: http://solacespa.ca

@@ -1,11 +1,11 @@
 id: 170270157
-type: way
+type: node
 latitude: 43.65285
 longitude: -79.35985
 postcode: ""
 city: Toronto
-street: "Eastern Avenue"
-housenumber: 43
+street: Eastern Avenue
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 292583810
-type: way
+type: node
 latitude: 45.2942
 longitude: -76.73104
-postcode: "K0J 1H0"
+postcode: K0J 1H0
 city: Calabogie
-street: "Mill Street"
-housenumber: 699
-phone: "+1-613-752-0001"
+street: Mill Street
+housenumber: "699"
+phone: +1-613-752-0001
 opening_hours: ""
 website: ""

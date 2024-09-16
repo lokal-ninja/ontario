@@ -4,8 +4,8 @@ latitude: 43.59488
 longitude: -79.53354
 postcode: ""
 city: Etobicoke
-street: "Lake Shore Boulevard West"
-housenumber: 
+street: Lake Shore Boulevard West
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Th 10:00-21:00; Fr 10:00-23:00; Sa 09:00-23:00; Su 11:00-18:00"
-website: "https://www.thebeerstore.ca/locations/long-branch"
+opening_hours: Mo-Th 10:00-21:00; Fr 10:00-23:00; Sa 09:00-23:00; Su 11:00-18:00
+website: https://www.thebeerstore.ca/locations/long-branch

@@ -1,11 +1,11 @@
 id: 486830066
-type: way
+type: node
 latitude: 44.91554
 longitude: -75.8345
 postcode: ""
 city: Merrickville
-street: "Elgin Street"
-housenumber: 250
+street: Elgin Street
+housenumber: "250"
 phone: ""
 opening_hours: ""
 website: ""

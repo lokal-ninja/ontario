@@ -1,11 +1,11 @@
 id: 1108253762
-type: way
+type: node
 latitude: 46.33481
 longitude: -84.12049
 postcode: "49783"
 city: Sault Sainte Marie
-street: "South Homestead Road"
-housenumber: 11963
+street: South Homestead Road
+housenumber: "11963"
 phone: ""
 opening_hours: ""
 website: ""

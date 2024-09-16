@@ -2,10 +2,10 @@ id: 1327020787
 type: node
 latitude: 43.45412
 longitude: -80.51813
-postcode: "N2M 1P2"
+postcode: N2M 1P2
 city: Kitchener
-street: "Belmont Avenue West"
-housenumber: 714
-phone: "+1-519-745-4412"
-opening_hours: "Mo-Sa 10:00-16:00"
+street: Belmont Avenue West
+housenumber: "714"
+phone: +1-519-745-4412
+opening_hours: Mo-Sa 10:00-16:00
 website: ""

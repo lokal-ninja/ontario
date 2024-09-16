@@ -1,11 +1,11 @@
 id: 32782387
-type: way
+type: node
 latitude: 43.44436
 longitude: -79.69898
-postcode: "L6K 3X5"
+postcode: L6K 3X5
 city: Oakville
-street: "South Service Road"
-housenumber: 280
+street: South Service Road
+housenumber: "280"
 phone: "+19058451646"
 opening_hours: ""
 website: ""

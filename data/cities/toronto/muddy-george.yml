@@ -4,8 +4,8 @@ latitude: 43.66114
 longitude: -79.4289
 postcode: ""
 city: Toronto
-street: "Bloor Street West"
-housenumber: 973
-phone: "+1-647-748-9000"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-18:00; Su 12:00-17:00"
-website: "https://muddygeorge.com/"
+street: Bloor Street West
+housenumber: "973"
+phone: +1-647-748-9000
+opening_hours: Mo-Fr 11:00-19:00; Sa 11:00-18:00; Su 12:00-17:00
+website: https://muddygeorge.com/

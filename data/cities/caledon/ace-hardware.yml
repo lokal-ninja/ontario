@@ -1,11 +1,11 @@
 id: 383497830
-type: way
+type: node
 latitude: 43.77074
 longitude: -79.87528
 postcode: ""
 city: Caledon
-street: "Wiggins Road"
-housenumber: 10
+street: Wiggins Road
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

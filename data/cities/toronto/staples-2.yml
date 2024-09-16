@@ -1,11 +1,11 @@
 id: 58865706
-type: way
+type: node
 latitude: 43.8006
 longitude: -79.19653
 postcode: ""
 city: Toronto
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://stores.staples.ca/on/toronto/office-supplies-ca-127.html"
+website: https://stores.staples.ca/on/toronto/office-supplies-ca-127.html

@@ -1,11 +1,11 @@
 id: 75701992
-type: way
+type: node
 latitude: 44.88944
 longitude: -76.03364
-postcode: "K7A 4T2"
+postcode: K7A 4T2
 city: Smiths Falls
-street: "Lombard Street"
-housenumber: 146
+street: Lombard Street
+housenumber: "146"
 phone: ""
 opening_hours: ""
 website: ""

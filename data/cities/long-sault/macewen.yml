@@ -1,11 +1,11 @@
 id: 403998543
-type: way
+type: node
 latitude: 45.02791
 longitude: -74.89746
-postcode: "K0C 1P0"
+postcode: K0C 1P0
 city: Long Sault
-street: "County Road 2"
-housenumber: 15019
-phone: "+1-613-534-8529"
+street: County Road 2
+housenumber: "15019"
+phone: +1-613-534-8529
 opening_hours: ""
 website: ""

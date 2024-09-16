@@ -1,11 +1,11 @@
 id: 915531533
-type: way
+type: node
 latitude: 48.46604
 longitude: -81.33605
-postcode: "P4N 1V7"
+postcode: P4N 1V7
 city: Timmins
-street: "Mountjoy Street S"
-housenumber: 497
-phone: "+1 705 264 2874"
+street: Mountjoy Street S
+housenumber: "497"
+phone: +1 705 264 2874
 opening_hours: ""
 website: ""

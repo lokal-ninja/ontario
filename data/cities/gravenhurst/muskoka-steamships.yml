@@ -1,11 +1,11 @@
 id: 206170941
-type: way
+type: node
 latitude: 44.92132
 longitude: -79.38339
-postcode: "P1P 1Z9"
+postcode: P1P 1Z9
 city: Gravenhurst
-street: "Cherokee Lane"
-housenumber: 185
-phone: "+1-705-687-6667"
+street: Cherokee Lane
+housenumber: "185"
+phone: +1-705-687-6667
 opening_hours: ""
-website: "https://realmuskoka.com/discovery-centre/"
+website: https://realmuskoka.com/discovery-centre/

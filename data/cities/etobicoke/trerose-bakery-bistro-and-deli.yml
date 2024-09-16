@@ -1,11 +1,11 @@
 id: 58851675
-type: way
+type: node
 latitude: 43.7164
 longitude: -79.56994
-postcode: "M9W 4K5"
+postcode: M9W 4K5
 city: Etobicoke
-street: "Kipling Avenue"
-housenumber: 2098
-phone: "+1-416-747-5343"
-opening_hours: "Mo-Su 10:00-19:00"
+street: Kipling Avenue
+housenumber: "2098"
+phone: +1-416-747-5343
+opening_hours: Mo-Su 10:00-19:00
 website: ""

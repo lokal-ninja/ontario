@@ -1,11 +1,11 @@
 id: 293133122
-type: way
+type: node
 latitude: 45.55868
 longitude: -79.228
-postcode: "P0A 1M0"
+postcode: P0A 1M0
 city: Kearney
-street: "Highway 518 East"
-housenumber: 1770
-phone: "+1-705-636-5375"
+street: Highway 518 East
+housenumber: "1770"
+phone: +1-705-636-5375
 opening_hours: ""
 website: ""

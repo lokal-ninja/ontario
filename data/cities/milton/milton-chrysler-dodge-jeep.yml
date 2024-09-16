@@ -1,11 +1,11 @@
 id: 67594570
-type: way
+type: node
 latitude: 43.52008
 longitude: -79.87918
 postcode: ""
 city: Milton
-street: "Ontario Street North"
-housenumber: 81
+street: Ontario Street North
+housenumber: "81"
 phone: ""
 opening_hours: ""
-website: "https://www.miltonchrysler.ca/"
+website: https://www.miltonchrysler.ca/

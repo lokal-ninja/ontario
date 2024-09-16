@@ -1,11 +1,11 @@
 id: 144562370
-type: way
+type: node
 latitude: 43.41827
 longitude: -80.50051
-postcode: "N2E 2M6"
+postcode: N2E 2M6
 city: Kitchener
-street: "Westmount Road East"
-housenumber: 720
+street: Westmount Road East
+housenumber: "720"
 phone: ""
-opening_hours: "07:00-24:00"
-website: "https://www.freshco.com/"
+opening_hours: 07:00-24:00
+website: https://www.freshco.com/

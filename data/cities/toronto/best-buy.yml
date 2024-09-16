@@ -4,8 +4,8 @@ latitude: 43.70925
 longitude: -79.36171
 postcode: ""
 city: Toronto
-street: "Laird Drive"
-housenumber: 147
+street: Laird Drive
+housenumber: "147"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.bestbuy.ca/"
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.bestbuy.ca/

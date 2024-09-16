@@ -1,11 +1,11 @@
 id: 36001796
-type: way
+type: node
 latitude: 43.5189
 longitude: -79.87623
 postcode: ""
 city: Milton
-street: "Ontario Street South"
-housenumber: 55
+street: Ontario Street South
+housenumber: "55"
 phone: ""
 opening_hours: ""
 website: ""

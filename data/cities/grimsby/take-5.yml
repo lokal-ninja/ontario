@@ -1,11 +1,11 @@
 id: 1087410411
-type: way
+type: node
 latitude: 43.19228
 longitude: -79.55836
-postcode: "L3M 1M7"
+postcode: L3M 1M7
 city: Grimsby
-street: "Main Street East"
-housenumber: 55
-phone: "+1 905-698-0013"
+street: Main Street East
+housenumber: "55"
+phone: +1 905-698-0013
 opening_hours: ""
-website: "https://www.take5oilchange.ca/locations/on/grimsby-4422/"
+website: https://www.take5oilchange.ca/locations/on/grimsby-4422/

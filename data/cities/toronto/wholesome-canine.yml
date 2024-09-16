@@ -4,8 +4,8 @@ latitude: 43.65247
 longitude: -79.44856
 postcode: ""
 city: Toronto
-street: "Dundas Street West"
-housenumber: 2096
+street: Dundas Street West
+housenumber: "2096"
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00; Sa 10:00-18:00; Su 11:00-17:00"
-website: "https://wholesomecanine.ca/"
+opening_hours: Mo-Fr 11:00-19:00; Sa 10:00-18:00; Su 11:00-17:00
+website: https://wholesomecanine.ca/

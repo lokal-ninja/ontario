@@ -1,11 +1,11 @@
 id: 366401298
-type: way
+type: node
 latitude: 45.98088
 longitude: -81.92642
 postcode: ""
 city: Little Current
-street: "Water Street East"
-housenumber: 17
+street: Water Street East
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

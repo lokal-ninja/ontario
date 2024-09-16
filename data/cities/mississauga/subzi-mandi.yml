@@ -4,8 +4,8 @@ latitude: 43.58684
 longitude: -79.69842
 postcode: ""
 city: Mississauga
-street: "Bristol Road West"
-housenumber: 1525
-phone: "+1 905-567-6999"
+street: Bristol Road West
+housenumber: "1525"
+phone: +1 905-567-6999
 opening_hours: ""
-website: "https://www.subzimandi.ca/"
+website: https://www.subzimandi.ca/

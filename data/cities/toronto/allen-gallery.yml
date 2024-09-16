@@ -4,8 +4,8 @@ latitude: 43.60043
 longitude: -79.50601
 postcode: ""
 city: Toronto
-street: "Lake Shore Boulevard West"
-housenumber: 2965
-phone: "+1-416-366-3195"
+street: Lake Shore Boulevard West
+housenumber: "2965"
+phone: +1-416-366-3195
 opening_hours: ""
-website: "https://www.allengallery.ca/"
+website: https://www.allengallery.ca/

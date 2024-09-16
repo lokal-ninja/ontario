@@ -1,11 +1,11 @@
 id: 444981367
-type: way
+type: node
 latitude: 42.82138
 longitude: -81.86924
-postcode: "N0N 1A0"
+postcode: N0N 1A0
 city: Alvinston
-street: "Nauvoo Road"
-housenumber: 3248
-phone: "+1-519-898-2854"
+street: Nauvoo Road
+housenumber: "3248"
+phone: +1-519-898-2854
 opening_hours: ""
 website: ""

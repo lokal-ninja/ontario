@@ -1,11 +1,11 @@
 id: 33076548
-type: way
+type: node
 latitude: 43.55537
 longitude: -79.7148
 postcode: ""
 city: Mississauga
-street: "Glen Erin Drive"
-housenumber: 5010
+street: Glen Erin Drive
+housenumber: "5010"
 phone: ""
 opening_hours: ""
 website: ""

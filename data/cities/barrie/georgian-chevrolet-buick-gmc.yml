@@ -1,11 +1,11 @@
 id: 110097051
-type: way
+type: node
 latitude: 44.33712
 longitude: -79.68736
-postcode: "L4N 8V4"
+postcode: L4N 8V4
 city: Barrie
-street: "Barrie View Drive"
-housenumber: 65
-phone: "+1 7057332222"
-opening_hours: "Mo-Th 09:00-20:00; Fr 09:00-18:00; Sa 09:00-17:00; Su off"
-website: "https://www.georgianchevrolet.com/"
+street: Barrie View Drive
+housenumber: "65"
+phone: +1 7057332222
+opening_hours: Mo-Th 09:00-20:00; Fr 09:00-18:00; Sa 09:00-17:00; Su off
+website: https://www.georgianchevrolet.com/

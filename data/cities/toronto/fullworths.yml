@@ -1,11 +1,11 @@
 id: 296572834
-type: way
+type: node
 latitude: 43.64071
 longitude: -79.43561
-postcode: "M6K 1M1"
+postcode: M6K 1M1
 city: Toronto
-street: "Queen Street West"
-housenumber: 1373
+street: Queen Street West
+housenumber: "1373"
 phone: ""
 opening_hours: ""
 website: ""

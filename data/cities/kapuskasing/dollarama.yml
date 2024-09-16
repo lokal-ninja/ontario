@@ -1,11 +1,11 @@
 id: 650414888
-type: way
+type: node
 latitude: 49.41863
 longitude: -82.42467
 postcode: ""
 city: Kapuskasing
-street: "Cain Avenue"
-housenumber: 25
+street: Cain Avenue
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

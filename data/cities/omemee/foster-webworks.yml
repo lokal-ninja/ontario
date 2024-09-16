@@ -4,8 +4,8 @@ latitude: 44.29571
 longitude: -78.57666
 postcode: ""
 city: Omemee
-street: "Sarah Crescent"
-housenumber: 20
-phone: "+1 705-313-5862"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://foster-webworks.com"
+street: Sarah Crescent
+housenumber: "20"
+phone: +1 705-313-5862
+opening_hours: Mo-Fr 09:00-17:00
+website: https://foster-webworks.com

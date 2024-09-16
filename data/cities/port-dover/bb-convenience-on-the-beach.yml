@@ -1,11 +1,11 @@
 id: 233076695
-type: way
+type: node
 latitude: 42.78442
 longitude: -80.19996
-postcode: "N0A 1N0"
+postcode: N0A 1N0
 city: Port Dover
-street: "Main Street"
-housenumber: 10
-phone: "+1-519-583-3364"
+street: Main Street
+housenumber: "10"
+phone: +1-519-583-3364
 opening_hours: ""
 website: ""

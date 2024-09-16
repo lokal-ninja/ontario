@@ -2,10 +2,10 @@ id: 2146960323
 type: node
 latitude: 43.80544
 longitude: -79.38413
-postcode: "M2M 3Y7"
+postcode: M2M 3Y7
 city: North York
-street: "Steeles Avenue East"
-housenumber: 1563
-phone: "+1-416-250-9200"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.lcbo.com/"
+street: Steeles Avenue East
+housenumber: "1563"
+phone: +1-416-250-9200
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.lcbo.com/

@@ -1,11 +1,11 @@
 id: 292581736
-type: way
+type: node
 latitude: 45.01831
 longitude: -76.36525
 postcode: ""
 city: Lanark
-street: "Clarence Street"
-housenumber: 99
+street: Clarence Street
+housenumber: "99"
 phone: ""
 opening_hours: ""
 website: ""

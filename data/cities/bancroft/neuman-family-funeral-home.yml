@@ -1,11 +1,11 @@
 id: 302308428
-type: way
+type: node
 latitude: 45.05638
 longitude: -77.85578
 postcode: ""
 city: Bancroft
-street: "Bridge Street West"
-housenumber: 38
-phone: "+1-613-332-3990"
+street: Bridge Street West
+housenumber: "38"
+phone: +1-613-332-3990
 opening_hours: ""
-website: "https://www.neumanfamilyfuneralhome.com/"
+website: https://www.neumanfamilyfuneralhome.com/

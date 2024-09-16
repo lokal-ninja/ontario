@@ -1,11 +1,11 @@
 id: 892479947
-type: way
+type: node
 latitude: 43.40474
 longitude: -80.66441
-postcode: "N3A 2V6"
+postcode: N3A 2V6
 city: Baden
-street: "Snyder's Road East"
-housenumber: 118
+street: Snyder's Road East
+housenumber: "118"
 phone: ""
-opening_hours: "Mo-Su 07:00-21:30"
+opening_hours: Mo-Su 07:00-21:30
 website: ""

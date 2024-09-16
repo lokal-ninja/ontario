@@ -1,11 +1,11 @@
 id: 192704735
-type: way
+type: node
 latitude: 42.98872
 longitude: -81.05601
-postcode: "N0L 1G0"
+postcode: N0L 1G0
 city: Dorchester
-street: "Hamilton Road"
-housenumber: 4112
+street: Hamilton Road
+housenumber: "4112"
 phone: ""
 opening_hours: ""
 website: ""

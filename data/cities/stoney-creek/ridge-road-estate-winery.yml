@@ -1,11 +1,11 @@
 id: 384776439
-type: way
+type: node
 latitude: 43.19671
 longitude: -79.66069
-postcode: "L8J 2X5"
+postcode: L8J 2X5
 city: Stoney Creek
-street: "Ridge Road"
-housenumber: 1205
-phone: "+1-289-649-0353"
+street: Ridge Road
+housenumber: "1205"
+phone: +1-289-649-0353
 opening_hours: ""
 website: ""

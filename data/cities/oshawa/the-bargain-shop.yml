@@ -1,11 +1,11 @@
 id: 368068275
-type: way
+type: node
 latitude: 43.89749
 longitude: -78.86429
-postcode: "L1H 1A3"
+postcode: L1H 1A3
 city: Oshawa
-street: "King Street West"
-housenumber: 16
+street: King Street West
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Th 09:00-19:00, Fr 09:00-21:00, Sa 09:00-19:00, Su 11:00-17:00"
-website: "https://www.redapplestores.com/store/52966/"
+opening_hours: Mo-Th 09:00-19:00, Fr 09:00-21:00, Sa 09:00-19:00, Su 11:00-17:00
+website: https://www.redapplestores.com/store/52966/

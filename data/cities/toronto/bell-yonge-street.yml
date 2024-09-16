@@ -2,10 +2,10 @@ id: 1112275283
 type: node
 latitude: 43.70834
 longitude: -79.39846
-postcode: "M4P 2C9"
+postcode: M4P 2C9
 city: Toronto
-street: "Yonge Street"
-housenumber: 2323
-phone: "+1-416-322-7091"
+street: Yonge Street
+housenumber: "2323"
+phone: +1-416-322-7091
 opening_hours: ""
-website: "http://storelocator.bell.ca/bellca/en/ON/Toronto/Bell-Yonge-and-Eglinton/BC711"
+website: http://storelocator.bell.ca/bellca/en/ON/Toronto/Bell-Yonge-and-Eglinton/BC711

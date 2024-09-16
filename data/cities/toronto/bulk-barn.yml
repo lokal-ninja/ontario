@@ -2,10 +2,10 @@ id: 310146977
 type: node
 latitude: 43.66557
 longitude: -79.40826
-postcode: "M5S 1Y2"
+postcode: M5S 1Y2
 city: Toronto
-street: "Bloor Street West"
-housenumber: 503
-phone: "+1-416-927-7964"
-opening_hours: "Mo-Sa 08:00-21:00; Su 10:00-19:00"
-website: "https://www.bulkbarn.ca/en-ca/locations/on/bulk-food-toronto-25.html"
+street: Bloor Street West
+housenumber: "503"
+phone: +1-416-927-7964
+opening_hours: Mo-Sa 08:00-21:00; Su 10:00-19:00
+website: https://www.bulkbarn.ca/en-ca/locations/on/bulk-food-toronto-25.html

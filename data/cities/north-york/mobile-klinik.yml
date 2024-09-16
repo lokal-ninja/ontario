@@ -1,11 +1,11 @@
 id: 1229816892
-type: way
+type: node
 latitude: 43.77842
 longitude: -79.34449
-postcode: "M2J 5A7"
+postcode: M2J 5A7
 city: North York
-street: "Sheppard Avenue East"
-housenumber: 1800
+street: Sheppard Avenue East
+housenumber: "1800"
 phone: ""
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
 website: ""

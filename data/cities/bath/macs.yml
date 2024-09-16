@@ -1,11 +1,11 @@
 id: 473715703
-type: way
+type: node
 latitude: 44.18522
 longitude: -76.76834
-postcode: "K0H 1G0"
+postcode: K0H 1G0
 city: Bath
-street: "Main Street"
-housenumber: 234
+street: Main Street
+housenumber: "234"
 phone: ""
 opening_hours: ""
 website: ""

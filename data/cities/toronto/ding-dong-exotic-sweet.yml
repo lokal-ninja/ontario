@@ -2,10 +2,10 @@ id: 6751461745
 type: node
 latitude: 43.65506
 longitude: -79.39986
-postcode: "M5T 3K7"
+postcode: M5T 3K7
 city: Toronto
-street: "Baldwin Street"
-housenumber: 160
-phone: "+1-416-260-1818"
+street: Baldwin Street
+housenumber: "160"
+phone: +1-416-260-1818
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 350600274
-type: way
+type: node
 latitude: 43.5594
 longitude: -79.58656
-postcode: "L5G 3H2"
+postcode: L5G 3H2
 city: Mississauga
-street: "Hurontario Street"
-housenumber: 1203
+street: Hurontario Street
+housenumber: "1203"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 447587665
-type: way
+type: node
 latitude: 45.38302
 longitude: -75.59572
-postcode: "K1G 3N2"
+postcode: K1G 3N2
 city: Ottawa
-street: "Stevenage Drive"
-housenumber: 2729
-phone: "+1-613-739-7121"
-opening_hours: "Mo-Fr 06:00-18:00 || 24/7 in emergancies"
-website: "https://www.lacroixrentals.ca/"
+street: Stevenage Drive
+housenumber: "2729"
+phone: +1-613-739-7121
+opening_hours: Mo-Fr 06:00-18:00 || "24/7 in emergancies"
+website: https://www.lacroixrentals.ca/

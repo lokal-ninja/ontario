@@ -1,11 +1,11 @@
 id: 481420926
-type: way
+type: node
 latitude: 42.77922
 longitude: -81.17715
 postcode: ""
 city: St Thomas
-street: "Talbot Street"
-housenumber: 995
+street: Talbot Street
+housenumber: "995"
 phone: ""
 opening_hours: ""
 website: ""

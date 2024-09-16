@@ -1,11 +1,11 @@
 id: 34228019
-type: way
+type: node
 latitude: 43.7078
 longitude: -79.39875
-postcode: "M4P 1E4"
+postcode: M4P 1E4
 city: Toronto
-street: "Yonge Street"
-housenumber: 2300
+street: Yonge Street
+housenumber: "2300"
 phone: ""
 opening_hours: ""
 website: ""

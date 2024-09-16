@@ -1,11 +1,11 @@
 id: 232292226
-type: way
+type: node
 latitude: 43.6863
 longitude: -79.37548
 postcode: ""
 city: Toronto
-street: "Summerhill Avenue"
-housenumber: 446
+street: Summerhill Avenue
+housenumber: "446"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 58647102
-type: way
+type: node
 latitude: 43.63243
 longitude: -79.54603
 postcode: ""
 city: Etobicoke
-street: "Dundas Street West"
-housenumber: 5476
+street: Dundas Street West
+housenumber: "5476"
 phone: ""
 opening_hours: ""
-website: "https://www.islingtonchrysler.ca/"
+website: https://www.islingtonchrysler.ca/

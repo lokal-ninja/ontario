@@ -1,11 +1,11 @@
 id: 75703115
-type: way
+type: node
 latitude: 44.88164
 longitude: -76.01465
 postcode: ""
 city: Smiths Falls
-street: "Brockville Street"
-housenumber: 275
-phone: "+1-613-283-0737"
-opening_hours: "Mo-Th 09:00-18:00; Fr 09:00-21:00; Sa 09:00-18:00; Su closed"
-website: "https://settlersridgecentre.com"
+street: Brockville Street
+housenumber: "275"
+phone: +1-613-283-0737
+opening_hours: Mo-Th 09:00-18:00; Fr 09:00-21:00; Sa 09:00-18:00; Su closed
+website: https://settlersridgecentre.com

@@ -1,11 +1,11 @@
 id: 804697449
-type: way
+type: node
 latitude: 43.65064
 longitude: -79.41462
 postcode: ""
 city: Toronto
-street: "Dundas Street West"
-housenumber: 966
-phone: "+1-416-534-4239"
+street: Dundas Street West
+housenumber: "966"
+phone: +1-416-534-4239
 opening_hours: ""
-website: "https://www.melodycrochet.ca/"
+website: https://www.melodycrochet.ca/

@@ -1,11 +1,11 @@
 id: 657721366
-type: way
+type: node
 latitude: 43.64824
 longitude: -79.529
 postcode: ""
 city: Toronto
-street: "Dundas Street West"
-housenumber: 4933
-phone: "+1-416-231-2283"
+street: Dundas Street West
+housenumber: "4933"
+phone: +1-416-231-2283
 opening_hours: ""
-website: "https://www.turnerporter.ca/"
+website: https://www.turnerporter.ca/

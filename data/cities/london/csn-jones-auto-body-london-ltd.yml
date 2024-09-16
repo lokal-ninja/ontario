@@ -1,11 +1,11 @@
 id: 143658808
-type: way
+type: node
 latitude: 43.01158
 longitude: -81.1895
-postcode: "N5V 2C2"
+postcode: N5V 2C2
 city: London
-street: "Third Street"
-housenumber: 620
+street: Third Street
+housenumber: "620"
 phone: "+15194553743"
-opening_hours: "Mo-Fr 07:30-17:00"
-website: "https://csncollision.com/locations/jones-collision-repair-centre-in-london/"
+opening_hours: Mo-Fr 07:30-17:00
+website: https://csncollision.com/locations/jones-collision-repair-centre-in-london/

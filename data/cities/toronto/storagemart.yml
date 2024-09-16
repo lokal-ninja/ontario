@@ -1,11 +1,11 @@
 id: 376616843
-type: way
+type: node
 latitude: 43.80628
 longitude: -79.25493
-postcode: "M1S 5A9"
+postcode: M1S 5A9
 city: Toronto
-street: "Middlefield Road"
-housenumber: 375
+street: Middlefield Road
+housenumber: "375"
 phone: ""
-opening_hours: "Mo-Fr 09:30-17:30"
+opening_hours: Mo-Fr 09:30-17:30
 website: ""

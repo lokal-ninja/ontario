@@ -1,11 +1,11 @@
 id: 43805214
-type: way
+type: node
 latitude: 43.72801
 longitude: -79.28482
-postcode: "M1L 2M3"
+postcode: M1L 2M3
 city: Scarborough
-street: "Eglinton Avenue East"
-housenumber: 1957
-phone: "+1-416-755-3322"
+street: Eglinton Avenue East
+housenumber: "1957"
+phone: +1-416-755-3322
 opening_hours: ""
-website: "https://www.kingscrosshyundai.ca/"
+website: https://www.kingscrosshyundai.ca/

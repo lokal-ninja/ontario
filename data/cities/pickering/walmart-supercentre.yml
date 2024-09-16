@@ -1,11 +1,11 @@
 id: 58942328
-type: way
+type: node
 latitude: 43.84347
 longitude: -79.06826
 postcode: ""
 city: Pickering
-street: "Brock Road"
-housenumber: 1899
+street: Brock Road
+housenumber: "1899"
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.walmart.ca/en/stores-near-me/pickering-ontario-3186"
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.walmart.ca/en/stores-near-me/pickering-ontario-3186

@@ -1,11 +1,11 @@
 id: 33191811
-type: way
+type: node
 latitude: 43.71404
 longitude: -79.72295
 postcode: ""
 city: Brampton
-street: "Peel Centre Drive"
-housenumber: 25
+street: Peel Centre Drive
+housenumber: "25"
 phone: ""
 opening_hours: ""
-website: "https://bramaleacitycentre.ca/"
+website: https://bramaleacitycentre.ca/

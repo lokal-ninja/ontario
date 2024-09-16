@@ -2,10 +2,10 @@ id: 5799142453
 type: node
 latitude: 43.66154
 longitude: -79.3713
-postcode: "M5A 2E6"
+postcode: M5A 2E6
 city: Toronto
-street: "Gerrard Street East"
-housenumber: 208
-phone: "+1-647-669-4622"
+street: Gerrard Street East
+housenumber: "208"
+phone: +1-647-669-4622
 opening_hours: ""
 website: ""

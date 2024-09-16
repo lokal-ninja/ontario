@@ -1,11 +1,11 @@
 id: 408993953
-type: way
+type: node
 latitude: 43.78353
 longitude: -79.57341
-postcode: "L4L 1S6"
+postcode: L4L 1S6
 city: Woodbridge
-street: "Highway 7"
-housenumber: 4515
-phone: "+1 905 264 2710"
-opening_hours: "24/7"
-website: "https://www.circlek.com/ca/ontario/store-locator/CA/woodbridge/4515-hwy-7/0852548"
+street: Highway 7
+housenumber: "4515"
+phone: +1 905 264 2710
+opening_hours: 24/7
+website: https://www.circlek.com/ca/ontario/store-locator/CA/woodbridge/4515-hwy-7/0852548

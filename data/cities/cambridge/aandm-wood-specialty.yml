@@ -1,11 +1,11 @@
 id: 67780939
-type: way
+type: node
 latitude: 43.40109
 longitude: -80.36035
-postcode: "N3H1C1"
+postcode: N3H1C1
 city: Cambridge
-street: "Eagle Street North"
-housenumber: 357
+street: Eagle Street North
+housenumber: "357"
 phone: ""
 opening_hours: ""
 website: ""

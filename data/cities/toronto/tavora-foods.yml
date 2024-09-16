@@ -1,11 +1,11 @@
 id: 438819829
-type: way
+type: node
 latitude: 43.67479
 longitude: -79.45671
-postcode: "M6N 1H7"
+postcode: M6N 1H7
 city: Toronto
-street: "St. Clair Avenue West"
-housenumber: 1625
-phone: "+1-416-656-1592"
-opening_hours: "Mo-Th 08:00-19:30; Fr 08:00-20:00; Sa 08:00-19:00; Su 08:00-16:00"
-website: "https://www.tavora.ca/"
+street: St. Clair Avenue West
+housenumber: "1625"
+phone: +1-416-656-1592
+opening_hours: Mo-Th 08:00-19:30; Fr 08:00-20:00; Sa 08:00-19:00; Su 08:00-16:00
+website: https://www.tavora.ca/

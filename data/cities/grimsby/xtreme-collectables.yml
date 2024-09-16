@@ -1,11 +1,11 @@
 id: 955170570
-type: way
+type: node
 latitude: 43.19424
 longitude: -79.56192
 postcode: ""
 city: Grimsby
-street: "Main Street West"
-housenumber: 50
-phone: "+1 905-945-4456"
+street: Main Street West
+housenumber: "50"
+phone: +1 905-945-4456
 opening_hours: ""
-website: "https://www.xtremecollectables.com/"
+website: https://www.xtremecollectables.com/

@@ -1,11 +1,11 @@
 id: 13355899
-type: way
+type: node
 latitude: 44.26053
 longitude: -76.57077
 postcode: ""
 city: Kingston
-street: "Princess Street"
-housenumber: 2560
-phone: "+1-613-384-0011"
+street: Princess Street
+housenumber: "2560"
+phone: +1-613-384-0011
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 521354581
-type: way
+type: node
 latitude: 44.54285
 longitude: -76.6794
-postcode: "K0H 1T0"
+postcode: K0H 1T0
 city: Godfrey
-street: "Road 38"
-housenumber: 8111
-phone: "+1-613-374-5318"
+street: Road 38
+housenumber: "8111"
+phone: +1-613-374-5318
 opening_hours: ""
 website: ""

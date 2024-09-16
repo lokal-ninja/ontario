@@ -1,11 +1,11 @@
 id: 529758158
-type: way
+type: node
 latitude: 43.20264
 longitude: -80.39553
-postcode: "N3L 3A4"
+postcode: N3L 3A4
 city: Paris
-street: "Market Street"
-housenumber: 14
-phone: "+1-519-442-3566"
+street: Market Street
+housenumber: "14"
+phone: +1-519-442-3566
 opening_hours: ""
 website: ""

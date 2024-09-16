@@ -1,11 +1,11 @@
 id: 1126605048
-type: way
+type: node
 latitude: 42.33385
 longitude: -81.99872
-postcode: "N0P 1A0"
+postcode: N0P 1A0
 city: Blenheim
-street: "Talbot Street West"
-housenumber: 68
-phone: "+1 519 676 5195"
+street: Talbot Street West
+housenumber: "68"
+phone: +1 519 676 5195
 opening_hours: ""
-website: "https://jjsportsandcollectibles.ca/"
+website: https://jjsportsandcollectibles.ca/

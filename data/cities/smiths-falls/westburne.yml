@@ -1,11 +1,11 @@
 id: 75702743
-type: way
+type: node
 latitude: 44.9065
 longitude: -76.03027
-postcode: "K7A 4W7"
+postcode: K7A 4W7
 city: Smiths Falls
-street: "Cornelia Street West"
-housenumber: 94
-phone: "+1-613-283-2270"
-opening_hours: "Mo-Fr 07:30-16:30; Sa-Su closed"
+street: Cornelia Street West
+housenumber: "94"
+phone: +1-613-283-2270
+opening_hours: Mo-Fr 07:30-16:30; Sa-Su closed
 website: ""

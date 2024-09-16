@@ -1,11 +1,11 @@
 id: 42395062
-type: way
+type: node
 latitude: 44.33599
 longitude: -76.15023
-postcode: "K7G 1H4"
+postcode: K7G 1H4
 city: Gananoque
-street: "King Street East"
-housenumber: 703
+street: King Street East
+housenumber: "703"
 phone: ""
 opening_hours: ""
 website: ""

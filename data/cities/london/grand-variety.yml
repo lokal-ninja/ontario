@@ -1,11 +1,11 @@
 id: 134605038
-type: way
+type: node
 latitude: 42.97242
 longitude: -81.23942
 postcode: ""
 city: London
-street: "High Street"
-housenumber: 45
-phone: "+1 5194390007"
+street: High Street
+housenumber: "45"
+phone: +1 5194390007
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 9784277833
 type: node
 latitude: 44.1911
 longitude: -78.48583
-postcode: "L0A 1C0"
+postcode: L0A 1C0
 city: Cavan
-street: "Ford Cres"
-housenumber: 715
-phone: "+1 705-944-5407"
-opening_hours: "Mo-Fr 09:00-17:30"
-website: "https://www.csplus.ca"
+street: Ford Cres
+housenumber: "715"
+phone: +1 705-944-5407
+opening_hours: Mo-Fr 09:00-17:30
+website: https://www.csplus.ca

@@ -1,11 +1,11 @@
 id: 33541951
-type: way
+type: node
 latitude: 43.74324
 longitude: -79.21611
 postcode: ""
 city: Toronto
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

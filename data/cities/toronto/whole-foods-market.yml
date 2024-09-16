@@ -2,10 +2,10 @@ id: 763638337
 type: node
 latitude: 43.67202
 longitude: -79.39516
-postcode: "M5R 3R9"
+postcode: M5R 3R9
 city: Toronto
-street: "Avenue Road"
-housenumber: 87
-phone: "+1 416-944-0500"
-opening_hours: "Mo-Fr 09:00-22:00; Sa-Su 09:00-21:00"
-website: "https://www.wholefoodsmarket.com/stores/toronto"
+street: Avenue Road
+housenumber: "87"
+phone: +1 416-944-0500
+opening_hours: Mo-Fr 09:00-22:00; Sa-Su 09:00-21:00
+website: https://www.wholefoodsmarket.com/stores/toronto

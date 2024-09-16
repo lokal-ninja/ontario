@@ -1,11 +1,11 @@
 id: 638640814
-type: way
+type: node
 latitude: 45.46961
 longitude: -76.66781
 postcode: ""
 city: Town Of Renfrew
-street: "O'Brien Road"
-housenumber: 383
+street: O'Brien Road
+housenumber: "383"
 phone: ""
 opening_hours: ""
 website: ""

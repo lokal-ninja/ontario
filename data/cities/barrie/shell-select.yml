@@ -1,11 +1,11 @@
 id: 693129292
-type: way
+type: node
 latitude: 44.40433
 longitude: -79.68219
-postcode: "L4M 3Z6"
+postcode: L4M 3Z6
 city: Barrie
-street: "Grove Street East"
-housenumber: 204
+street: Grove Street East
+housenumber: "204"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -2,10 +2,10 @@ id: 930513746
 type: node
 latitude: 43.70655
 longitude: -79.39991
-postcode: "M4R 1A1"
+postcode: M4R 1A1
 city: Toronto
-street: "Eglinton Avenue West"
-housenumber: 34
-phone: "+1-416-482-5855"
+street: Eglinton Avenue West
+housenumber: "34"
+phone: +1-416-482-5855
 opening_hours: ""
 website: ""

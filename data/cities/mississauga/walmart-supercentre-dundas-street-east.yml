@@ -1,11 +1,11 @@
 id: 148808775
-type: way
+type: node
 latitude: 43.60881
 longitude: -79.57849
-postcode: "L4X 1L4"
+postcode: L4X 1L4
 city: Mississauga
-street: "Dundas Street East"
-housenumber: 1500
-phone: "+1-905-615-1018"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.walmart.ca/en/stores-near-me/mississauga-east-1126"
+street: Dundas Street East
+housenumber: "1500"
+phone: +1-905-615-1018
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.walmart.ca/en/stores-near-me/mississauga-east-1126

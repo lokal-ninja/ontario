@@ -1,11 +1,11 @@
 id: 773836902
-type: way
+type: node
 latitude: 42.97865
 longitude: -82.35284
-postcode: "N7S 1P6"
+postcode: N7S 1P6
 city: Sarnia
-street: "London Road"
-housenumber: 1379
+street: London Road
+housenumber: "1379"
 phone: ""
 opening_hours: ""
-website: "https://stores.staples.ca/on/sarnia/office-supplies-ca-89.html"
+website: https://stores.staples.ca/on/sarnia/office-supplies-ca-89.html

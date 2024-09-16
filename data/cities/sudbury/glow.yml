@@ -1,11 +1,11 @@
 id: 168899927
-type: way
+type: node
 latitude: 46.49284
 longitude: -80.99541
-postcode: "P3C 1R6"
+postcode: P3C 1R6
 city: Sudbury
-street: "Elm Street"
-housenumber: 61
+street: Elm Street
+housenumber: "61"
 phone: ""
 opening_hours: ""
 website: ""

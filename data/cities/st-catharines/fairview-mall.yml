@@ -1,11 +1,11 @@
 id: 31313825
-type: way
+type: node
 latitude: 43.17895
 longitude: -79.24331
-postcode: "L2N 2G1"
+postcode: L2N 2G1
 city: St. Catharines
-street: "Geneva St"
-housenumber: 285
-phone: "+1-905-646-3165"
+street: Geneva St
+housenumber: "285"
+phone: +1-905-646-3165
 opening_hours: ""
-website: "https://fairviewmallstcatharines.com/"
+website: https://fairviewmallstcatharines.com/

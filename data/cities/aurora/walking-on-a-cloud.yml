@@ -4,8 +4,8 @@ latitude: 44.01275
 longitude: -79.41427
 postcode: ""
 city: Aurora
-street: "First Commerce Drive"
-housenumber: 15
-phone: "+1-905-727-5526"
-opening_hours: "Mo-We 10:00-19:00; Th-Fr 10:00-21:00; Sa 09:30-18:00; Su 12:00-17:00"
-website: "https://www.walkingonacloud.ca/default.aspx"
+street: First Commerce Drive
+housenumber: "15"
+phone: +1-905-727-5526
+opening_hours: Mo-We 10:00-19:00; Th-Fr 10:00-21:00; Sa 09:30-18:00; Su 12:00-17:00
+website: https://www.walkingonacloud.ca/default.aspx

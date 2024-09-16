@@ -1,11 +1,11 @@
 id: 902367864
-type: way
+type: node
 latitude: 43.9497
 longitude: -78.28313
-postcode: "L1A 1C5"
+postcode: L1A 1C5
 city: Port Hope
-street: "Peter Street"
-housenumber: 129
+street: Peter Street
+housenumber: "129"
 phone: ""
-opening_hours: "Mo-We 09:00-19:00; Th-Fr 09:00-21:00; Sa 09:00-18:00; Su 10:00-18:00"
-website: "https://store.petvalu.ca/location/2145"
+opening_hours: Mo-We 09:00-19:00; Th-Fr 09:00-21:00; Sa 09:00-18:00; Su 10:00-18:00
+website: https://store.petvalu.ca/location/2145

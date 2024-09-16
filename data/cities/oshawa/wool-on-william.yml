@@ -2,10 +2,10 @@ id: 904867961
 type: node
 latitude: 43.89997
 longitude: -78.86512
-postcode: "L1G 1J8"
+postcode: L1G 1J8
 city: Oshawa
-street: "William Street West"
-housenumber: 5
-phone: "+1-905-579-9665"
+street: William Street West
+housenumber: "5"
+phone: +1-905-579-9665
 opening_hours: ""
-website: "https://www.woolonwilliam.ca/"
+website: https://www.woolonwilliam.ca/

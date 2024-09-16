@@ -2,10 +2,10 @@ id: 401522274
 type: node
 latitude: 43.64942
 longitude: -79.39415
-postcode: "M5V 2A2"
+postcode: M5V 2A2
 city: Toronto
-street: "Queen Street West"
-housenumber: 312
-phone: "+1-416-599-5874"
+street: Queen Street West
+housenumber: "312"
+phone: +1-416-599-5874
 opening_hours: ""
-website: "https://lush.ca/"
+website: https://lush.ca/

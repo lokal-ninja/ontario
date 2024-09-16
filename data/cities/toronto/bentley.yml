@@ -2,10 +2,10 @@ id: 936000362
 type: node
 latitude: 43.65539
 longitude: -79.3809
-postcode: "M5B 2H1"
+postcode: M5B 2H1
 city: Toronto
-street: "Yonge Street"
-housenumber: 220
-phone: "+1-416-593-0022"
+street: Yonge Street
+housenumber: "220"
+phone: +1-416-593-0022
 opening_hours: ""
-website: "https://www.onlinebags.com/"
+website: https://www.onlinebags.com/

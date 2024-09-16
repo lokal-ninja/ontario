@@ -1,11 +1,11 @@
 id: 171853894
-type: way
+type: node
 latitude: 43.95685
 longitude: -78.9606
-postcode: "L1M 1A2"
+postcode: L1M 1A2
 city: Brooklin
-street: "Baldwin Street"
-housenumber: 51
-phone: "+1-905-440-0040"
+street: Baldwin Street
+housenumber: "51"
+phone: +1-905-440-0040
 opening_hours: ""
-website: "http://www.floorsinmotion.com"
+website: http://www.floorsinmotion.com

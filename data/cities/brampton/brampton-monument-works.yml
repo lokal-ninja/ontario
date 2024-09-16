@@ -1,11 +1,11 @@
 id: 1148108124
-type: way
+type: node
 latitude: 43.69455
 longitude: -79.77208
 postcode: ""
 city: Brampton
-street: "Main Street North"
-housenumber: 375
-phone: "+1 905-451-0445"
+street: Main Street North
+housenumber: "375"
+phone: +1 905-451-0445
 opening_hours: ""
-website: "https://www.bramptonmonuments.com/"
+website: https://www.bramptonmonuments.com/

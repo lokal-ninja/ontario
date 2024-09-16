@@ -1,11 +1,11 @@
 id: 375278121
-type: way
+type: node
 latitude: 45.25081
 longitude: -81.66082
-postcode: "N0H 2R0"
+postcode: N0H 2R0
 city: Tobermory
-street: "Highway 6"
-housenumber: 7392
-phone: "+1-519-596-2486"
+street: Highway 6
+housenumber: "7392"
+phone: +1-519-596-2486
 opening_hours: ""
 website: ""

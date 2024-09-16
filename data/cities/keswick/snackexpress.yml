@@ -1,11 +1,11 @@
 id: 281049682
-type: way
+type: node
 latitude: 44.22746
 longitude: -79.46501
-postcode: "L4P 2B1"
+postcode: L4P 2B1
 city: Keswick
-street: "The Queensway South"
-housenumber: 252
-phone: "+1-905-476-7432"
+street: The Queensway South
+housenumber: "252"
+phone: +1-905-476-7432
 opening_hours: ""
 website: ""

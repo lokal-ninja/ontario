@@ -1,11 +1,11 @@
 id: 1307310939
-type: way
+type: node
 latitude: 44.42473
 longitude: -78.27199
-postcode: "K0L 2H0"
+postcode: K0L 2H0
 city: Lakefield
-street: "Queen Street"
-housenumber: 55
-phone: "+1 705-652-8507"
+street: Queen Street
+housenumber: "55"
+phone: +1 705-652-8507
 opening_hours: ""
-website: "https://www.inncuisine.ca/"
+website: https://www.inncuisine.ca/

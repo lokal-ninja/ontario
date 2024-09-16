@@ -4,8 +4,8 @@ latitude: 43.66587
 longitude: -79.38066
 postcode: ""
 city: Toronto
-street: "Wellesley Street East"
-housenumber: 72
-phone: "+1 487 989 4475"
-opening_hours: "Mo-Th,Sa 07:00-19:00; Fr 07:00-20:00; Su 07:00-16:00"
-website: "https://whiskfulthinking.ca/"
+street: Wellesley Street East
+housenumber: "72"
+phone: +1 487 989 4475
+opening_hours: Mo-Th,Sa 07:00-19:00; Fr 07:00-20:00; Su 07:00-16:00
+website: https://whiskfulthinking.ca/

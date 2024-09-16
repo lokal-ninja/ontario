@@ -1,11 +1,11 @@
 id: 759226883
-type: way
+type: node
 latitude: 48.47732
 longitude: -81.3401
-postcode: "P4N 1A9"
+postcode: P4N 1A9
 city: Timmins
-street: "Algonquin Boulevard West"
-housenumber: 140
-phone: "+1 705 268 5481"
+street: Algonquin Boulevard West
+housenumber: "140"
+phone: +1 705 268 5481
 opening_hours: ""
-website: "https://www.metro.ca/en/find-a-grocery/253"
+website: https://www.metro.ca/en/find-a-grocery/253

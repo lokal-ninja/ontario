@@ -1,11 +1,11 @@
 id: 524834098
-type: way
+type: node
 latitude: 44.30803
 longitude: -77.79705
 postcode: ""
 city: Campbellford
-street: "Bridge Street East"
-housenumber: 61
-phone: "+1-705-653-1460"
+street: Bridge Street East
+housenumber: "61"
+phone: +1-705-653-1460
 opening_hours: ""
-website: "https://doohers.com/"
+website: https://doohers.com/

@@ -1,11 +1,11 @@
 id: 357026000
-type: way
+type: node
 latitude: 43.645
 longitude: -79.41902
 postcode: ""
 city: Toronto
-street: "Ossington Avenue"
-housenumber: 21
-phone: "+1-416-535-1085"
+street: Ossington Avenue
+housenumber: "21"
+phone: +1-416-535-1085
 opening_hours: ""
 website: ""

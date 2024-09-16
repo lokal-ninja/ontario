@@ -2,10 +2,10 @@ id: 5448790225
 type: node
 latitude: 43.66409
 longitude: -79.3677
-postcode: "M5A 3A3"
+postcode: M5A 3A3
 city: Toronto
-street: "Parliament Street"
-housenumber: 473
-phone: "+1-416-928-0291"
+street: Parliament Street
+housenumber: "473"
+phone: +1-416-928-0291
 opening_hours: ""
-website: "https://www.theepicureshop.com"
+website: https://www.theepicureshop.com

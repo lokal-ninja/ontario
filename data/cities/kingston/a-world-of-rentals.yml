@@ -1,11 +1,11 @@
 id: 55701880
-type: way
+type: node
 latitude: 44.24797
 longitude: -76.49396
 postcode: ""
 city: Kingston
-street: "Railway Street"
-housenumber: 154
+street: Railway Street
+housenumber: "154"
 phone: ""
 opening_hours: ""
 website: ""

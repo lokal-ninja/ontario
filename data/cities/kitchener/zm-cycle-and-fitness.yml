@@ -1,11 +1,11 @@
 id: 67691579
-type: way
+type: node
 latitude: 43.44981
 longitude: -80.50953
 postcode: ""
 city: Kitchener
-street: "Strange Street"
-housenumber: 131
-phone: "+1-519-208-5080"
+street: Strange Street
+housenumber: "131"
+phone: +1-519-208-5080
 opening_hours: ""
-website: "https://zmcyclefitness.com/"
+website: https://zmcyclefitness.com/

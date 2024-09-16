@@ -1,11 +1,11 @@
 id: 955170569
-type: way
+type: node
 latitude: 43.19416
 longitude: -79.56214
-postcode: "L3M 1R4"
+postcode: L3M 1R4
 city: Grimsby
-street: "Main Street West"
-housenumber: 52
+street: Main Street West
+housenumber: "52"
 phone: ""
 opening_hours: ""
-website: "https://www.dutchshop.ca/"
+website: https://www.dutchshop.ca/

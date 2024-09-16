@@ -1,11 +1,11 @@
 id: 33541163
-type: way
+type: node
 latitude: 43.72136
 longitude: -79.23819
 postcode: ""
 city: Toronto
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.canadiantire.ca/"
+website: https://www.canadiantire.ca/

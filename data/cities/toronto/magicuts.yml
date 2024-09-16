@@ -1,11 +1,11 @@
 id: 90306824
-type: way
+type: node
 latitude: 43.68602
 longitude: -79.31257
-postcode: "M4C 1J8"
+postcode: M4C 1J8
 city: Toronto
-street: "Danforth Avenue"
-housenumber: 2086
-phone: "+1-416-425-9119"
+street: Danforth Avenue
+housenumber: "2086"
+phone: +1-416-425-9119
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 809000101
-type: way
+type: node
 latitude: 43.19367
 longitude: -79.56047
 postcode: ""
 city: Grimsby
-street: "Ontario Street"
-housenumber: 7
-phone: "+1-289-235-7501"
+street: Ontario Street
+housenumber: "7"
+phone: +1-289-235-7501
 opening_hours: ""
 website: ""

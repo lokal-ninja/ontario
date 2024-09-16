@@ -1,11 +1,11 @@
 id: 527334101
-type: way
+type: node
 latitude: 42.82766
 longitude: -81.42706
-postcode: "N0L 2G0"
+postcode: N0L 2G0
 city: Muncey
-street: "Oneida Road"
-housenumber: 492
-phone: "+1-519-652-6003"
+street: Oneida Road
+housenumber: "492"
+phone: +1-519-652-6003
 opening_hours: ""
 website: ""

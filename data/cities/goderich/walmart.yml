@@ -1,11 +1,11 @@
 id: 200074787
-type: way
+type: node
 latitude: 43.73178
 longitude: -81.68785
 postcode: ""
 city: Goderich
-street: "Huron Road"
-housenumber: 263
+street: Huron Road
+housenumber: "263"
 phone: ""
 opening_hours: ""
-website: "https://www.walmart.ca/en/stores-near-me/goderich-on-3126"
+website: https://www.walmart.ca/en/stores-near-me/goderich-on-3126

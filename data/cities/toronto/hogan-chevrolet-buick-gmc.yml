@@ -1,11 +1,11 @@
 id: 70513861
-type: way
+type: node
 latitude: 43.79388
 longitude: -79.24484
 postcode: ""
 city: Toronto
-street: "Sheppard Avenue East"
-housenumber: 5000
+street: Sheppard Avenue East
+housenumber: "5000"
 phone: ""
 opening_hours: ""
 website: ""

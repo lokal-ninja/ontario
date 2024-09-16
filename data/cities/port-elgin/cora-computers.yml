@@ -1,11 +1,11 @@
 id: 482250925
-type: way
+type: node
 latitude: 44.45171
 longitude: -81.37605
-postcode: "N0H 2C6"
+postcode: N0H 2C6
 city: Port Elgin
-street: "Hepner Court"
-housenumber: 582
-phone: "+1 519-389-2672"
-opening_hours: "Mo-Fr 08:30-17:30, Sa 10:00-16:00"
-website: "http://coracomputers.com"
+street: Hepner Court
+housenumber: "582"
+phone: +1 519-389-2672
+opening_hours: Mo-Fr 08:30-17:30, Sa 10:00-16:00
+website: http://coracomputers.com

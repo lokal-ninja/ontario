@@ -2,10 +2,10 @@ id: 5798976353
 type: node
 latitude: 43.66412
 longitude: -79.36937
-postcode: "M5A 2L1"
+postcode: M5A 2L1
 city: Toronto
-street: "Carlton Street"
-housenumber: 224
-phone: "+1-647-748-5286"
+street: Carlton Street
+housenumber: "224"
+phone: +1-647-748-5286
 opening_hours: ""
-website: "https://www.hilarymacmillan.com"
+website: https://www.hilarymacmillan.com

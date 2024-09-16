@@ -2,10 +2,10 @@ id: 2592006298
 type: node
 latitude: 43.64339
 longitude: -79.38228
-postcode: "M5J 2Z1"
+postcode: M5J 2Z1
 city: Toronto
-street: "York Street"
-housenumber: 18
-phone: "+1-416-304-4224"
+street: York Street
+housenumber: "18"
+phone: +1-416-304-4224
 opening_hours: ""
 website: ""

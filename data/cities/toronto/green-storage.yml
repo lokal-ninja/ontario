@@ -1,11 +1,11 @@
 id: 338717382
-type: way
+type: node
 latitude: 43.65375
 longitude: -79.35791
-postcode: "M5A 1H7"
+postcode: M5A 1H7
 city: Toronto
-street: "Eastern Avenue"
-housenumber: 145
+street: Eastern Avenue
+housenumber: "145"
 phone: ""
 opening_hours: ""
 website: ""

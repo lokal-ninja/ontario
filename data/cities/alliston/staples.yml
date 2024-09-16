@@ -1,11 +1,11 @@
 id: 385503464
-type: way
+type: node
 latitude: 44.14994
 longitude: -79.88298
-postcode: "L9R 1P8"
+postcode: L9R 1P8
 city: Alliston
-street: "Young Street"
-housenumber: 92
-phone: "+1-705-434-4992"
-opening_hours: "Mo-Fr 09:00-21:00, Sa 09:00-18:00"
-website: "https://stores.staples.ca/on/newtecumseth/office-supplies-ca-283.html"
+street: Young Street
+housenumber: "92"
+phone: +1-705-434-4992
+opening_hours: Mo-Fr 09:00-21:00, Sa 09:00-18:00
+website: https://stores.staples.ca/on/newtecumseth/office-supplies-ca-283.html

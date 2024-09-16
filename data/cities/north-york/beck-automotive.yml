@@ -1,11 +1,11 @@
 id: 79436192
-type: way
+type: node
 latitude: 43.78783
 longitude: -79.38149
 postcode: ""
 city: North York
-street: "Finch Avenue East"
-housenumber: 630
+street: Finch Avenue East
+housenumber: "630"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 255085585
-type: way
+type: node
 latitude: 43.23657
 longitude: -79.84175
-postcode: "L8V 1H5"
+postcode: L8V 1H5
 city: Hamilton
-street: "Crockett Street"
-housenumber: 301
-phone: "+1-905-389-4427"
+street: Crockett Street
+housenumber: "301"
+phone: +1-905-389-4427
 opening_hours: ""
 website: ""

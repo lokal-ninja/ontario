@@ -1,11 +1,11 @@
 id: 43810060
-type: way
+type: node
 latitude: 43.73316
 longitude: -79.28844
 postcode: ""
 city: Scarborough
-street: "Warden Avenue"
-housenumber: 939
-phone: "+1-416-335-5122"
+street: Warden Avenue
+housenumber: "939"
+phone: +1-416-335-5122
 opening_hours: ""
-website: "www.wcfungshing.com"
+website: www.wcfungshing.com

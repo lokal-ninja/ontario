@@ -1,11 +1,11 @@
 id: 55781114
-type: way
+type: node
 latitude: 43.13562
 longitude: -79.22247
-postcode: "L2T 2K9"
+postcode: L2T 2K9
 city: St. Catharines
-street: "Glendale Avenue"
-housenumber: 221
-phone: "+1-905-684-3657"
+street: Glendale Avenue
+housenumber: "221"
+phone: +1-905-684-3657
 opening_hours: ""
-website: "https://www.homesense.ca/en/index.asp"
+website: https://www.homesense.ca/en/index.asp

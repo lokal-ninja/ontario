@@ -1,11 +1,11 @@
 id: 172666713
-type: way
+type: node
 latitude: 43.84996
 longitude: -79.5377
-postcode: "L6A 1S1"
+postcode: L6A 1S1
 city: Maple
-street: "Major MacKenzie Drive West"
-housenumber: 3100
-phone: "+1 905 832 2517"
-opening_hours: "24/7"
-website: "https://www.circlek.com/ca/ontario/store-locator/CA/maple/3100-major-mackenzie-dr-w/0852605"
+street: Major MacKenzie Drive West
+housenumber: "3100"
+phone: +1 905 832 2517
+opening_hours: 24/7
+website: https://www.circlek.com/ca/ontario/store-locator/CA/maple/3100-major-mackenzie-dr-w/0852605

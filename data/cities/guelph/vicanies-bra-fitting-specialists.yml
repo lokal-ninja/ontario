@@ -1,11 +1,11 @@
 id: 802124536
-type: way
+type: node
 latitude: 43.56278
 longitude: -80.27343
 postcode: ""
 city: Guelph
-street: "Woolwich Street"
-housenumber: 731
-phone: "+1-519-780-2103"
+street: Woolwich Street
+housenumber: "731"
+phone: +1-519-780-2103
 opening_hours: ""
-website: "https://vicanies.com/"
+website: https://vicanies.com/

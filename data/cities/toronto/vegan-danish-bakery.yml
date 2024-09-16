@@ -4,8 +4,8 @@ latitude: 43.64185
 longitude: -79.43102
 postcode: ""
 city: Toronto
-street: "Queen Street West"
-housenumber: 1312
-phone: "+1-647-352-1312"
+street: Queen Street West
+housenumber: "1312"
+phone: +1-647-352-1312
 opening_hours: ""
-website: "http://www.vegandanishbakery.com/"
+website: http://www.vegandanishbakery.com/

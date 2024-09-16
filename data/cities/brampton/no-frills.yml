@@ -1,11 +1,11 @@
 id: 91521734
-type: way
+type: node
 latitude: 43.66426
 longitude: -79.7346
-postcode: "L6Y 0B5"
+postcode: L6Y 0B5
 city: Brampton
-street: "Steeles Avenue West"
-housenumber: 85
-phone: "+1-905-451-4999"
-opening_hours: "Mo-Su 07:00-23:00"
+street: Steeles Avenue West
+housenumber: "85"
+phone: +1-905-451-4999
+opening_hours: Mo-Su 07:00-23:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.65501
 longitude: -79.37632
 postcode: ""
 city: Toronto
-street: "Church Street"
-housenumber: 185
+street: Church Street
+housenumber: "185"
 phone: ""
 opening_hours: ""
-website: "https://www.henrys.com/stores/toronto"
+website: https://www.henrys.com/stores/toronto

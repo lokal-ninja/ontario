@@ -1,11 +1,11 @@
 id: 194430182
-type: way
+type: node
 latitude: 44.61346
 longitude: -79.46616
-postcode: "L3V 6K5"
+postcode: L3V 6K5
 city: Orillia
-street: "Highway 12"
-housenumber: 8201
-phone: "+1-705-325-4000"
+street: Highway 12
+housenumber: "8201"
+phone: +1-705-325-4000
 opening_hours: ""
-website: "https://www.sunrisetoyotaorillia.ca/"
+website: https://www.sunrisetoyotaorillia.ca/

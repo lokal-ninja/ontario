@@ -1,11 +1,11 @@
 id: 1215367205
-type: way
+type: node
 latitude: 42.93546
 longitude: -81.10165
-postcode: "N0L 1B0"
+postcode: N0L 1B0
 city: Belmont
-street: "Westchester Bourne"
-housenumber: 4009
+street: Westchester Bourne
+housenumber: "4009"
 phone: "+15196440380"
 opening_hours: ""
-website: "https://thamesautosales.ca/"
+website: https://thamesautosales.ca/

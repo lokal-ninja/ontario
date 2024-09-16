@@ -1,11 +1,11 @@
 id: 122862196
-type: way
+type: node
 latitude: 42.94822
 longitude: -81.29365
-postcode: "N6K 1M6"
+postcode: N6K 1M6
 city: London
-street: "Wonderland Road South"
-housenumber: 785
+street: Wonderland Road South
+housenumber: "785"
 phone: ""
 opening_hours: ""
-website: "https://www.westmountshoppingcentre.com/"
+website: https://www.westmountshoppingcentre.com/

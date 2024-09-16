@@ -1,11 +1,11 @@
 id: 59252041
-type: way
+type: node
 latitude: 43.62573
 longitude: -79.52805
 postcode: ""
 city: Toronto
-street: "Kipling Avenue"
-housenumber: 719
+street: Kipling Avenue
+housenumber: "719"
 phone: ""
 opening_hours: ""
-website: "https://www.hilti.ca/"
+website: https://www.hilti.ca/

@@ -2,10 +2,10 @@ id: 9152922826
 type: node
 latitude: 43.54453
 longitude: -80.25206
-postcode: "N1H2T7"
+postcode: N1H2T7
 city: Guelph
-street: "Commercial Street"
-housenumber: 14
+street: Commercial Street
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

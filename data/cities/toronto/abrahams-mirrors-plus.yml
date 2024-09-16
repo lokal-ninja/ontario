@@ -4,8 +4,8 @@ latitude: 43.64722
 longitude: -79.40327
 postcode: ""
 city: Toronto
-street: "Queen Street West"
-housenumber: 635
-phone: "+1-416-504-6210"
+street: Queen Street West
+housenumber: "635"
+phone: +1-416-504-6210
 opening_hours: ""
-website: "https://abrahamsmirrorplus.com/"
+website: https://abrahamsmirrorplus.com/

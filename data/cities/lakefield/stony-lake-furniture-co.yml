@@ -1,11 +1,11 @@
 id: 1307398500
-type: way
+type: node
 latitude: 44.42652
 longitude: -78.26991
-postcode: "K0L 2H0"
+postcode: K0L 2H0
 city: Lakefield
-street: "Stanley Street"
-housenumber: 1
-phone: "+1-705-652-7444"
+street: Stanley Street
+housenumber: "1"
+phone: +1-705-652-7444
 opening_hours: ""
-website: "https://stonylakefurniture.ca/"
+website: https://stonylakefurniture.ca/

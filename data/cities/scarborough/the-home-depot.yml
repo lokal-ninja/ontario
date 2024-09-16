@@ -1,11 +1,11 @@
 id: 67141280
-type: way
+type: node
 latitude: 43.76362
 longitude: -79.29777
-postcode: "M1R 4E6"
+postcode: M1R 4E6
 city: Scarborough
-street: "Ellesmere Road"
-housenumber: 428
+street: Ellesmere Road
+housenumber: "428"
 phone: ""
 opening_hours: ""
-website: "http://www.homedepot.ca/"
+website: http://www.homedepot.ca/

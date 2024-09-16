@@ -1,11 +1,11 @@
 id: 137624472
-type: way
+type: node
 latitude: 43.44906
 longitude: -80.48877
-postcode: "N2G 2K4"
+postcode: N2G 2K4
 city: Kitchener
-street: "King Street East"
-housenumber: 61
-phone: "+1 519 584 7254"
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-18:00; Su 10:00-17:00"
-website: "https://www.dollarama.com/en-CA/locations/on/kitchener-61-king-st-e"
+street: King Street East
+housenumber: "61"
+phone: +1 519 584 7254
+opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-18:00; Su 10:00-17:00
+website: https://www.dollarama.com/en-CA/locations/on/kitchener-61-king-st-e

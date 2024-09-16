@@ -1,11 +1,11 @@
 id: 97928434
-type: way
+type: node
 latitude: 43.24504
 longitude: -79.78738
-postcode: "L8H 5X9"
+postcode: L8H 5X9
 city: Hamilton
-street: "Parkdale Avenue North"
-housenumber: 324
-phone: "+1 905 545 5150"
+street: Parkdale Avenue North
+housenumber: "324"
+phone: +1 905 545 5150
 opening_hours: ""
-website: "https://hamiltonhyundai.ca/"
+website: https://hamiltonhyundai.ca/

@@ -1,11 +1,11 @@
 id: 524437297
-type: way
+type: node
 latitude: 44.99442
 longitude: -74.99189
-postcode: "K0C 1M0"
+postcode: K0C 1M0
 city: Ingleside
-street: "County Road 2"
-housenumber: 14805
-phone: "+1-613-537-2123"
+street: County Road 2
+housenumber: "14805"
+phone: +1-613-537-2123
 opening_hours: ""
 website: ""

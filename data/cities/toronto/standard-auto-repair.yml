@@ -1,11 +1,11 @@
 id: 657936288
-type: way
+type: node
 latitude: 43.63579
 longitude: -79.53084
 postcode: ""
 city: Toronto
-street: "Olivewood Road"
-housenumber: 369
-phone: "+1-416-234-8304"
+street: Olivewood Road
+housenumber: "369"
+phone: +1-416-234-8304
 opening_hours: ""
 website: ""

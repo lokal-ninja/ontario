@@ -1,11 +1,11 @@
 id: 58563138
-type: way
+type: node
 latitude: 43.62747
 longitude: -79.56639
 postcode: ""
 city: Mississauga
-street: "Dundas Street East"
-housenumber: 2215
+street: Dundas Street East
+housenumber: "2215"
 phone: ""
 opening_hours: ""
-website: "https://www.mississaugatoyota.com/"
+website: https://www.mississaugatoyota.com/

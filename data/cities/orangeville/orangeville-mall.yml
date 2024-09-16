@@ -1,11 +1,11 @@
 id: 66487874
-type: way
+type: node
 latitude: 43.93107
 longitude: -80.10318
 postcode: ""
 city: Orangeville
-street: "1st Street"
-housenumber: 150
+street: 1st Street
+housenumber: "150"
 phone: ""
 opening_hours: ""
 website: ""

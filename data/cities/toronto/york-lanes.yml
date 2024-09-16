@@ -1,11 +1,11 @@
 id: 144346950
-type: way
+type: node
 latitude: 43.77475
 longitude: -79.5008
 postcode: ""
 city: Toronto
-street: "York Boulevard"
-housenumber: 84
+street: York Boulevard
+housenumber: "84"
 phone: ""
 opening_hours: ""
 website: ""

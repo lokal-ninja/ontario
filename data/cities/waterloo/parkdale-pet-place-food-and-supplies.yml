@@ -1,11 +1,11 @@
 id: 467842062
-type: way
+type: node
 latitude: 43.4866
 longitude: -80.54
-postcode: "N2L 3V4"
+postcode: N2L 3V4
 city: Waterloo
-street: "Albert Street"
-housenumber: 478
+street: Albert Street
+housenumber: "478"
 phone: ""
 opening_hours: ""
 website: ""

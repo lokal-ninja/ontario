@@ -1,11 +1,11 @@
 id: 759224433
-type: way
+type: node
 latitude: 48.47578
 longitude: -81.34928
-postcode: "P4N 2V1"
+postcode: P4N 2V1
 city: Timmins
-street: "Algonquin Boulevard West"
-housenumber: 445
-phone: "+1 705 268 3673"
+street: Algonquin Boulevard West
+housenumber: "445"
+phone: +1 705 268 3673
 opening_hours: ""
-website: "https://www.timberlandford.ca/"
+website: https://www.timberlandford.ca/

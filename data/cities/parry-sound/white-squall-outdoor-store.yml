@@ -1,11 +1,11 @@
 id: 1267736864
-type: way
+type: node
 latitude: 45.34315
 longitude: -80.03378
 postcode: ""
 city: Parry Sound
-street: "James Street"
-housenumber: 19
-phone: "+1-705-746-4936"
+street: James Street
+housenumber: "19"
+phone: +1-705-746-4936
 opening_hours: ""
 website: ""

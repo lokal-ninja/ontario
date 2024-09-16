@@ -1,11 +1,11 @@
 id: 163637927
-type: way
+type: node
 latitude: 43.66953
 longitude: -79.47124
 postcode: ""
 city: Toronto
-street: "Old Stock Yards Road"
-housenumber: 10
-phone: "+1-416-766-1577"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://www.bestbuy.ca/"
+street: Old Stock Yards Road
+housenumber: "10"
+phone: +1-416-766-1577
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 11:00-18:00
+website: https://www.bestbuy.ca/

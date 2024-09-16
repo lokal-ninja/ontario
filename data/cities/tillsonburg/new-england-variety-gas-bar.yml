@@ -1,11 +1,11 @@
 id: 527131160
-type: way
+type: node
 latitude: 42.80756
 longitude: -80.73642
-postcode: "N4G 4G9"
+postcode: N4G 4G9
 city: Tillsonburg
-street: "Plank Road"
-housenumber: 12252
-phone: "+1-519-866-3455"
+street: Plank Road
+housenumber: "12252"
+phone: +1-519-866-3455
 opening_hours: ""
 website: ""

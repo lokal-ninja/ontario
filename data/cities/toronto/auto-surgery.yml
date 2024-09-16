@@ -1,11 +1,11 @@
 id: 663569979
-type: way
+type: node
 latitude: 43.69587
 longitude: -79.33927
 postcode: ""
 city: Toronto
-street: "O'Connor Drive"
-housenumber: 364
-phone: "+1 416 696 9025"
-opening_hours: "Mo-Sa 08:00-19:00"
+street: O'Connor Drive
+housenumber: "364"
+phone: +1 416 696 9025
+opening_hours: Mo-Sa 08:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 31582988
-type: way
+type: node
 latitude: 43.67546
 longitude: -79.35833
 postcode: ""
 city: Toronto
-street: "Broadview Avenue"
-housenumber: 720
-phone: "+1-416-788-8762"
+street: Broadview Avenue
+housenumber: "720"
+phone: +1-416-788-8762
 opening_hours: ""
 website: ""

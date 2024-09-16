@@ -1,11 +1,11 @@
 id: 33300567
-type: way
+type: node
 latitude: 43.70364
 longitude: -79.75711
-postcode: "L6V 1N2"
+postcode: L6V 1N2
 city: Brampton
-street: "Vodden Street East"
-housenumber: 227
-phone: "+1-905-460-9720"
+street: Vodden Street East
+housenumber: "227"
+phone: +1-905-460-9720
 opening_hours: ""
 website: ""

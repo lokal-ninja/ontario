@@ -4,8 +4,8 @@ latitude: 43.65047
 longitude: -79.3876
 postcode: ""
 city: Toronto
-street: "Queen Street West"
-housenumber: 205
+street: Queen Street West
+housenumber: "205"
 phone: ""
 opening_hours: ""
-website: "https://locations.cibc.com/on/toronto/00602"
+website: https://locations.cibc.com/on/toronto/00602

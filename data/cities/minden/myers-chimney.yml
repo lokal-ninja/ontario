@@ -2,10 +2,10 @@ id: 10197651261
 type: node
 latitude: 44.9215
 longitude: -78.65519
-postcode: "K0M 2K0"
+postcode: K0M 2K0
 city: Minden
-street: "South Lake Road"
-housenumber: 2224
-phone: "+1-705-286-1245"
-opening_hours: "by appointment"
-website: "https://www.myerschimney.ca/"
+street: South Lake Road
+housenumber: "2224"
+phone: +1-705-286-1245
+opening_hours: '"by appointment"'
+website: https://www.myerschimney.ca/

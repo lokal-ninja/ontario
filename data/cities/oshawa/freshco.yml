@@ -1,11 +1,11 @@
 id: 1034571968
-type: way
+type: node
 latitude: 43.9636
 longitude: -78.90643
-postcode: "L1L 0R1"
+postcode: L1L 0R1
 city: Oshawa
-street: "Simcoe Street North"
-housenumber: 2650
-phone: "+1 905 436 9851"
-opening_hours: "07:00-22:00"
-website: "https://freshco.com/stores/freshco-simcoe-winchester/"
+street: Simcoe Street North
+housenumber: "2650"
+phone: +1 905 436 9851
+opening_hours: 07:00-22:00
+website: https://freshco.com/stores/freshco-simcoe-winchester/

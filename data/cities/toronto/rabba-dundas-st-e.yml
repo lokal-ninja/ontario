@@ -2,10 +2,10 @@ id: 9525954007
 type: node
 latitude: 43.66079
 longitude: -79.35836
-postcode: "M5A 1X6"
+postcode: M5A 1X6
 city: Toronto
-street: "Dundas St E"
-housenumber: 699
-phone: "+1 (416) 306-0187"
-opening_hours: "24/7"
-website: "https://rabba.com"
+street: Dundas St E
+housenumber: "699"
+phone: +1 (416) 306-0187
+opening_hours: 24/7
+website: https://rabba.com

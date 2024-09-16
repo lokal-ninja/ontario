@@ -2,10 +2,10 @@ id: 5782285553
 type: node
 latitude: 43.67224
 longitude: -79.383
-postcode: "M5A 2L1"
+postcode: M5A 2L1
 city: Toronto
-street: "Carlton Street"
-housenumber: 200
-phone: "+1-416-966-2637"
+street: Carlton Street
+housenumber: "200"
+phone: +1-416-966-2637
 opening_hours: ""
 website: ""

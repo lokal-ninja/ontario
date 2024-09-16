@@ -1,11 +1,11 @@
 id: 101132480
-type: way
+type: node
 latitude: 43.79702
 longitude: -79.20495
 postcode: ""
 city: Toronto
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.lcbo.com/"
+website: https://www.lcbo.com/

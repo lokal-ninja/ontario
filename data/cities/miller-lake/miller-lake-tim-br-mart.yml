@@ -1,11 +1,11 @@
 id: 109263010
-type: way
+type: node
 latitude: 45.08886
 longitude: -81.4342
-postcode: "N0H 1Z0"
+postcode: N0H 1Z0
 city: Miller Lake
-street: "Highway 6"
-housenumber: 4707
-phone: "+1-519-795-7729"
-opening_hours: "Mo-Fr 07:30-17:30; Sa 07:30-16:00; Su 10:00-14:00"
-website: "http://millerlaketimbermart.ca/"
+street: Highway 6
+housenumber: "4707"
+phone: +1-519-795-7729
+opening_hours: Mo-Fr 07:30-17:30; Sa 07:30-16:00; Su 10:00-14:00
+website: http://millerlaketimbermart.ca/

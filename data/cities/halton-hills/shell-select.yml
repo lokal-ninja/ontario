@@ -1,11 +1,11 @@
 id: 211321830
-type: way
+type: node
 latitude: 43.57475
 longitude: -79.83364
-postcode: "L0P1E0"
+postcode: L0P1E0
 city: Halton Hills
-street: "Trafalgar Road"
-housenumber: 7975
-phone: "+1 905-873-3002"
-opening_hours: "24/7"
-website: "https://find.shell.com/ca/fuel/10052741-w-churchill-blvd-argentia/en_CA"
+street: Trafalgar Road
+housenumber: "7975"
+phone: +1 905-873-3002
+opening_hours: 24/7
+website: https://find.shell.com/ca/fuel/10052741-w-churchill-blvd-argentia/en_CA

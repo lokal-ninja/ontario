@@ -1,11 +1,11 @@
 id: 832380042
-type: way
+type: node
 latitude: 43.42433
 longitude: -79.93864
 postcode: ""
 city: Kilbride
-street: "Kilbride Street"
-housenumber: 2090
-phone: "+1-905-335-2545"
+street: Kilbride Street
+housenumber: "2090"
+phone: +1-905-335-2545
 opening_hours: ""
 website: ""

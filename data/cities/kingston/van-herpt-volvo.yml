@@ -1,11 +1,11 @@
 id: 31987777
-type: way
+type: node
 latitude: 44.23778
 longitude: -76.55454
 postcode: ""
 city: Kingston
-street: "Bath Road"
-housenumber: 1468
+street: Bath Road
+housenumber: "1468"
 phone: ""
 opening_hours: ""
-website: "https://www.vanherptvolvo.com/"
+website: https://www.vanherptvolvo.com/

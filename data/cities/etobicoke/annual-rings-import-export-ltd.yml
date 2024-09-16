@@ -1,11 +1,11 @@
 id: 58559242
-type: way
+type: node
 latitude: 43.61811
 longitude: -79.54226
 postcode: ""
 city: Etobicoke
-street: "The Queensway"
-housenumber: 1586
+street: The Queensway
+housenumber: "1586"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 386489548
-type: way
+type: node
 latitude: 43.46714
 longitude: -79.74619
 postcode: ""
 city: Oakville
-street: "Dundas Street West"
-housenumber: 493
+street: Dundas Street West
+housenumber: "493"
 phone: ""
 opening_hours: ""
 website: ""

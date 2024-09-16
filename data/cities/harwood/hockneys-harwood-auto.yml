@@ -1,11 +1,11 @@
 id: 528471116
-type: way
+type: node
 latitude: 44.13833
 longitude: -78.18035
-postcode: "K0K 2H0"
+postcode: K0K 2H0
 city: Harwood
-street: "Rice Lake Drive"
-housenumber: 6206
-phone: "+1-905-342-9379"
+street: Rice Lake Drive
+housenumber: "6206"
+phone: +1-905-342-9379
 opening_hours: ""
 website: ""

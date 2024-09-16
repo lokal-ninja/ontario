@@ -1,11 +1,11 @@
 id: 233155829
-type: way
+type: node
 latitude: 43.63355
 longitude: -79.54368
 postcode: ""
 city: Etobicoke
-street: "Dundas Street West"
-housenumber: 5454
+street: Dundas Street West
+housenumber: "5454"
 phone: ""
 opening_hours: ""
 website: ""

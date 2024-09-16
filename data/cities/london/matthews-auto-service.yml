@@ -1,11 +1,11 @@
 id: 136556523
-type: way
+type: node
 latitude: 42.97835
 longitude: -81.19645
 postcode: ""
 city: London
-street: "Hamilton Road"
-housenumber: 920
+street: Hamilton Road
+housenumber: "920"
 phone: ""
 opening_hours: ""
 website: ""

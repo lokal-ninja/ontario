@@ -1,11 +1,11 @@
 id: 195025199
-type: way
+type: node
 latitude: 44.27959
 longitude: -76.56748
-postcode: "K7L 4V2"
+postcode: K7L 4V2
 city: Kingston
-street: "Centennial Drive"
-housenumber: 1525
-phone: "+1-613-384-8888"
+street: Centennial Drive
+housenumber: "1525"
+phone: +1-613-384-8888
 opening_hours: ""
 website: ""

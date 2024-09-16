@@ -1,11 +1,11 @@
 id: 32556101
-type: way
+type: node
 latitude: 43.72264
 longitude: -79.46665
 postcode: ""
 city: Toronto
-street: "Cartwright Avenue"
-housenumber: 122
+street: Cartwright Avenue
+housenumber: "122"
 phone: ""
 opening_hours: ""
 website: ""

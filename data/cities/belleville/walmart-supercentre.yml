@@ -1,11 +1,11 @@
 id: 110354958
-type: way
+type: node
 latitude: 44.1961
 longitude: -77.39663
 postcode: ""
 city: Belleville
-street: "Millennium Parkway"
-housenumber: 274
+street: Millennium Parkway
+housenumber: "274"
 phone: ""
 opening_hours: ""
-website: "https://www.walmart.ca/en/stores-near-me/belleville-on-3122"
+website: https://www.walmart.ca/en/stores-near-me/belleville-on-3122

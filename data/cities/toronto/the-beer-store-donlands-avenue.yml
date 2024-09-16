@@ -1,11 +1,11 @@
 id: 207362124
-type: way
+type: node
 latitude: 43.69432
 longitude: -79.3436
 postcode: ""
 city: Toronto
-street: "Donlands Avenue"
-housenumber: 380
+street: Donlands Avenue
+housenumber: "380"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 12:00-17:00"
-website: "https://www.thebeerstore.ca/locations/donlands-oconnor"
+opening_hours: Mo-Sa 10:00-21:00; Su 12:00-17:00
+website: https://www.thebeerstore.ca/locations/donlands-oconnor

@@ -1,11 +1,11 @@
 id: 333932112
-type: way
+type: node
 latitude: 46.24694
 longitude: -81.75887
-postcode: "P5E 1S8"
+postcode: P5E 1S8
 city: Espanola
-street: "Centre Street"
-housenumber: 745
+street: Centre Street
+housenumber: "745"
 phone: ""
 opening_hours: ""
 website: ""

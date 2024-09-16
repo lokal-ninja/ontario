@@ -1,11 +1,11 @@
 id: 650304206
-type: way
+type: node
 latitude: 45.31356
 longitude: -79.24909
-postcode: "P1H"
+postcode: P1H
 city: Huntsville
-street: "Bickley Country Drive"
-housenumber: 1
+street: Bickley Country Drive
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

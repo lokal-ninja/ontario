@@ -1,11 +1,11 @@
 id: 76824980
-type: way
+type: node
 latitude: 43.89035
 longitude: -78.89379
 postcode: ""
 city: Oshawa
-street: "King Street West"
-housenumber: 815
+street: King Street West
+housenumber: "815"
 phone: ""
 opening_hours: ""
 website: ""

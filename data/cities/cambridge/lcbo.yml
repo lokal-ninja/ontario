@@ -1,11 +1,11 @@
 id: 1300125340
-type: way
+type: node
 latitude: 43.3928
 longitude: -80.35218
-postcode: "N3H3P7"
+postcode: N3H3P7
 city: Cambridge
-street: "King Street East"
-housenumber: 1145
+street: King Street East
+housenumber: "1145"
 phone: ""
 opening_hours: ""
 website: ""

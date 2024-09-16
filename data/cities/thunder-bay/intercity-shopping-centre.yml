@@ -1,11 +1,11 @@
 id: 75166978
-type: way
+type: node
 latitude: 48.4018
 longitude: -89.24339
-postcode: "P7B 6B9"
+postcode: P7B 6B9
 city: Thunder Bay
-street: "Fort William Road"
-housenumber: 1000
-phone: "+1 (807) 623-6646"
-opening_hours: "Mo-We 10:00-19:00; Th-Fr 10:00-20:00; Sa 10:00-18:00; Su 11:00-17:00"
-website: "https://www.intercityshoppingcentre.com/"
+street: Fort William Road
+housenumber: "1000"
+phone: +1 (807) 623-6646
+opening_hours: Mo-We 10:00-19:00; Th-Fr 10:00-20:00; Sa 10:00-18:00; Su 11:00-17:00
+website: https://www.intercityshoppingcentre.com/

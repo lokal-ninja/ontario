@@ -1,11 +1,11 @@
 id: 191521806
-type: way
+type: node
 latitude: 44.1816
 longitude: -77.39208
-postcode: "K8P 3C3"
+postcode: K8P 3C3
 city: Belleville
-street: "North Front Street"
-housenumber: 239
+street: North Front Street
+housenumber: "239"
 phone: ""
 opening_hours: ""
 website: ""

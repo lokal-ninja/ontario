@@ -1,11 +1,11 @@
 id: 673997323
-type: way
+type: node
 latitude: 43.6308
 longitude: -79.55572
 postcode: ""
 city: Etobicoke
-street: "The West Mall"
-housenumber: 250
-phone: "+1-416-233-4149"
-opening_hours: "Mo-Su 07:00-22:00"
+street: The West Mall
+housenumber: "250"
+phone: +1-416-233-4149
+opening_hours: Mo-Su 07:00-22:00
 website: ""

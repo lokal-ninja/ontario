@@ -2,10 +2,10 @@ id: 4315311829
 type: node
 latitude: 43.65078
 longitude: -79.36986
-postcode: "M5A 1J5"
+postcode: M5A 1J5
 city: Toronto
-street: "King Street East"
-housenumber: 201
+street: King Street East
+housenumber: "201"
 phone: ""
 opening_hours: ""
 website: ""

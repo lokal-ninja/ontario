@@ -1,11 +1,11 @@
 id: 683625143
-type: way
+type: node
 latitude: 45.04589
 longitude: -78.50995
-postcode: "K0M 1S0"
+postcode: K0M 1S0
 city: Haliburton
-street: "Highland Street"
-housenumber: 192
-phone: "+1-705-935-0223"
-opening_hours: "Mo-Th 11:00-19:00; Fr-Sa 10:00-19:00; Su 10:00-16:00"
-website: "https://www.capturingeden.com/"
+street: Highland Street
+housenumber: "192"
+phone: +1-705-935-0223
+opening_hours: Mo-Th 11:00-19:00; Fr-Sa 10:00-19:00; Su 10:00-16:00
+website: https://www.capturingeden.com/

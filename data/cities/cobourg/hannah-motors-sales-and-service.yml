@@ -1,11 +1,11 @@
 id: 309664563
-type: way
+type: node
 latitude: 43.95945
 longitude: -78.17574
-postcode: "K9A 2N3"
+postcode: K9A 2N3
 city: Cobourg
-street: "King Street West"
-housenumber: 240
+street: King Street West
+housenumber: "240"
 phone: ""
 opening_hours: ""
 website: ""

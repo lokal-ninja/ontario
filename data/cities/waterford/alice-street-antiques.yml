@@ -1,11 +1,11 @@
 id: 662190771
-type: way
+type: node
 latitude: 42.93488
 longitude: -80.29174
-postcode: "N0E 1Y0"
+postcode: N0E 1Y0
 city: Waterford
-street: "Alice Street"
-housenumber: 14
-phone: "+1 519-410-8821"
+street: Alice Street
+housenumber: "14"
+phone: +1 519-410-8821
 opening_hours: ""
 website: ""

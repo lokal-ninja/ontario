@@ -1,11 +1,11 @@
 id: 262082738
-type: way
+type: node
 latitude: 43.59272
 longitude: -79.57496
 postcode: ""
 city: Mississauga
-street: "North Service Road"
-housenumber: 1125
+street: North Service Road
+housenumber: "1125"
 phone: ""
 opening_hours: ""
 website: ""

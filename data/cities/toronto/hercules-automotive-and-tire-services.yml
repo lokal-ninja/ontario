@@ -1,11 +1,11 @@
 id: 106971409
-type: way
+type: node
 latitude: 43.68315
 longitude: -79.42158
 postcode: ""
 city: Toronto
-street: "Vaughan Road"
-housenumber: 70
-phone: "+1 416-960-0400"
+street: Vaughan Road
+housenumber: "70"
+phone: +1 416-960-0400
 opening_hours: ""
 website: ""

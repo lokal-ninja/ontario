@@ -1,11 +1,11 @@
 id: 419776355
-type: way
+type: node
 latitude: 43.90928
 longitude: -78.71672
-postcode: "L1C 1R2"
+postcode: L1C 1R2
 city: Bowmanville
-street: "Highway 2"
-housenumber: 2305
-phone: "+1-905-623-8521"
+street: Highway 2
+housenumber: "2305"
+phone: +1-905-623-8521
 opening_hours: ""
 website: ""

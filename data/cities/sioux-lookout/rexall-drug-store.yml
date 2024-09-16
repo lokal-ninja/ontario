@@ -1,11 +1,11 @@
 id: 503374147
-type: way
+type: node
 latitude: 50.0983
 longitude: -91.91772
 postcode: ""
 city: Sioux Lookout
-street: "Front Street"
-housenumber: 60
+street: Front Street
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

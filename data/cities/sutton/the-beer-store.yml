@@ -1,11 +1,11 @@
 id: 59728372
-type: way
+type: node
 latitude: 44.30958
 longitude: -79.36458
 postcode: ""
 city: Sutton
-street: "Dalton Road"
-housenumber: 20903
+street: Dalton Road
+housenumber: "20903"
 phone: ""
-opening_hours: "Mo-Th 10:00-18:00; Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-17:00"
-website: "https://www.thebeerstore.ca/locations/sutton-west"
+opening_hours: Mo-Th 10:00-18:00; Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-17:00
+website: https://www.thebeerstore.ca/locations/sutton-west

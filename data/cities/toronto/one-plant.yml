@@ -4,8 +4,8 @@ latitude: 43.65475
 longitude: -79.40197
 postcode: ""
 city: Toronto
-street: "Augusta Avenue"
-housenumber: 241
+street: Augusta Avenue
+housenumber: "241"
 phone: ""
-opening_hours: "Mo-Sa 10:00-22:00; Su 10:00-20:00"
-website: "https://www.oneplant.ca/"
+opening_hours: Mo-Sa 10:00-22:00; Su 10:00-20:00
+website: https://www.oneplant.ca/

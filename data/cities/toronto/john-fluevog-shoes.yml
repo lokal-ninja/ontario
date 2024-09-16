@@ -1,11 +1,11 @@
 id: 804644406
-type: way
+type: node
 latitude: 43.64664
 longitude: -79.408
-postcode: "M6J 1E7"
+postcode: M6J 1E7
 city: Toronto
-street: "Queen Street West"
-housenumber: 686
-phone: "+1-416-581-1420"
-opening_hours: "Mo-We 11:00-19:00; Th-Sa 10:00-20:00; Su 11:00-18:00"
-website: "http://fluevog.com"
+street: Queen Street West
+housenumber: "686"
+phone: +1-416-581-1420
+opening_hours: Mo-We 11:00-19:00; Th-Sa 10:00-20:00; Su 11:00-18:00
+website: http://fluevog.com

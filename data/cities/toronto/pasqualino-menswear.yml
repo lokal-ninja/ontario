@@ -2,10 +2,10 @@ id: 5721042421
 type: node
 latitude: 43.65519
 longitude: -79.41629
-postcode: "M6G 1B8"
+postcode: M6G 1B8
 city: Toronto
-street: "College Street"
-housenumber: 654
-phone: "+1-416-533-3923"
+street: College Street
+housenumber: "654"
+phone: +1-416-533-3923
 opening_hours: ""
 website: ""

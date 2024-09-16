@@ -1,11 +1,11 @@
 id: 32706572
-type: way
+type: node
 latitude: 43.73226
 longitude: -79.45346
 postcode: ""
 city: North York
-street: "Billy Bishop Way"
-housenumber: 90
-phone: "+1-416-373-6000"
-opening_hours: "Mo-Fr 06:00-21:00; Sa 07:00-21:00; Su 07:00-20:00"
-website: "https://stores.homedepot.ca/on/toronto/home-improvement-toronto-on-7129.html"
+street: Billy Bishop Way
+housenumber: "90"
+phone: +1-416-373-6000
+opening_hours: Mo-Fr 06:00-21:00; Sa 07:00-21:00; Su 07:00-20:00
+website: https://stores.homedepot.ca/on/toronto/home-improvement-toronto-on-7129.html

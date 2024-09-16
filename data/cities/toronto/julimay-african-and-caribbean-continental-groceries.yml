@@ -1,11 +1,11 @@
 id: 657696700
-type: way
+type: node
 latitude: 43.66789
 longitude: -79.50051
 postcode: ""
 city: Toronto
-street: "Scarlett Road"
-housenumber: 36
-phone: "+1 416-766-8427"
+street: Scarlett Road
+housenumber: "36"
+phone: +1 416-766-8427
 opening_hours: ""
 website: ""

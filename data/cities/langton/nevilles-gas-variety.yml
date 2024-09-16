@@ -1,11 +1,11 @@
 id: 527130425
-type: way
+type: node
 latitude: 42.74229
 longitude: -80.57773
-postcode: "N0E 1G0"
+postcode: N0E 1G0
 city: Langton
-street: "Queen Street"
-housenumber: 25
-phone: "+1-519-875-4435"
+street: Queen Street
+housenumber: "25"
+phone: +1-519-875-4435
 opening_hours: ""
 website: ""

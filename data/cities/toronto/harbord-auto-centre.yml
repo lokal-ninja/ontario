@@ -1,11 +1,11 @@
 id: 334493785
-type: way
+type: node
 latitude: 43.65839
 longitude: -79.42487
-postcode: "M6G 3T5"
+postcode: M6G 3T5
 city: Toronto
-street: "Ossington Avenue"
-housenumber: 596
-phone: "+1-416-537-7394"
+street: Ossington Avenue
+housenumber: "596"
+phone: +1-416-537-7394
 opening_hours: ""
 website: ""

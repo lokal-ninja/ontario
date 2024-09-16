@@ -1,11 +1,11 @@
 id: 171287196
-type: way
+type: node
 latitude: 46.49162
 longitude: -81.00173
-postcode: "P3C 1N2"
+postcode: P3C 1N2
 city: Sudbury
-street: "Applegrove Street"
-housenumber: 153
+street: Applegrove Street
+housenumber: "153"
 phone: ""
-opening_hours: "Mo-Fr 10:00-16:00; Sa 10:00-15:00"
+opening_hours: Mo-Fr 10:00-16:00; Sa 10:00-15:00
 website: ""

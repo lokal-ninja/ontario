@@ -1,11 +1,11 @@
 id: 1079580460
-type: way
+type: node
 latitude: 43.08912
 longitude: -82.00021
-postcode: "N0N 1J0"
+postcode: N0N 1J0
 city: Forest
-street: "Main Street South"
-housenumber: 89
+street: Main Street South
+housenumber: "89"
 phone: "+15197865391"
-opening_hours: "Mo-Th 10:00-18:00; Fr 10:00-20:00; Sa 10:00-18:00; Su 12:00-17:00"
-website: "https://www.thebeerstore.ca/locations/forest"
+opening_hours: Mo-Th 10:00-18:00; Fr 10:00-20:00; Sa 10:00-18:00; Su 12:00-17:00
+website: https://www.thebeerstore.ca/locations/forest

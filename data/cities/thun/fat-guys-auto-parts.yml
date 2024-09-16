@@ -1,11 +1,11 @@
 id: 373222925
-type: way
+type: node
 latitude: 48.42683
 longitude: -89.23343
-postcode: "P7B 3Y4"
+postcode: P7B 3Y4
 city: THun
-street: "Memorial Avenue"
-housenumber: 333
-phone: "+1-807-345-1148"
-opening_hours: "Mo-Fr 07:30-21:00; Sa 08:00-18:00; Su 08:00-17:00"
+street: Memorial Avenue
+housenumber: "333"
+phone: +1-807-345-1148
+opening_hours: Mo-Fr 07:30-21:00; Sa 08:00-18:00; Su 08:00-17:00
 website: ""

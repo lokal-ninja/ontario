@@ -1,11 +1,11 @@
 id: 42790801
-type: way
+type: node
 latitude: 43.66262
 longitude: -79.51977
 postcode: ""
 city: Etobicoke
-street: "The Kingsway"
-housenumber: 270
+street: The Kingsway
+housenumber: "270"
 phone: ""
 opening_hours: ""
-website: "https://humbertown.com/"
+website: https://humbertown.com/

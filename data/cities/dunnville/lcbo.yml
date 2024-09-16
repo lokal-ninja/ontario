@@ -2,10 +2,10 @@ id: 11209106890
 type: node
 latitude: 42.90321
 longitude: -79.61556
-postcode: "N1A 1G2"
+postcode: N1A 1G2
 city: Dunnville
-street: "Broad Street East"
-housenumber: 222
-phone: "+1-905-774-5312"
-opening_hours: "Su 11:00-18:00; Mo-Th 10:00-18:00; Fr 10:00-21:00; Sa 10:00-18:00"
-website: "https://www.lcbo.com/en/stores/broad-maple-st-28"
+street: Broad Street East
+housenumber: "222"
+phone: +1-905-774-5312
+opening_hours: Su 11:00-18:00; Mo-Th 10:00-18:00; Fr 10:00-21:00; Sa 10:00-18:00
+website: https://www.lcbo.com/en/stores/broad-maple-st-28

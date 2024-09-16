@@ -1,11 +1,11 @@
 id: 58560219
-type: way
+type: node
 latitude: 43.60366
 longitude: -79.5896
 postcode: ""
 city: Mississauga
-street: "Dundas Street East"
-housenumber: 1116
-phone: "+1-905-270-7070"
+street: Dundas Street East
+housenumber: "1116"
+phone: +1-905-270-7070
 opening_hours: ""
-website: "https://www.midas.com/"
+website: https://www.midas.com/

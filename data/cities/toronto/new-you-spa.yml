@@ -4,8 +4,8 @@ latitude: 43.65003
 longitude: -79.39091
 postcode: ""
 city: Toronto
-street: "Queen Street West"
-housenumber: 248
-phone: "+1-416-205-1119"
+street: Queen Street West
+housenumber: "248"
+phone: +1-416-205-1119
 opening_hours: ""
-website: "https://newyouspas.com/"
+website: https://newyouspas.com/

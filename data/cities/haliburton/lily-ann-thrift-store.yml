@@ -1,11 +1,11 @@
 id: 380703091
-type: way
+type: node
 latitude: 45.04677
 longitude: -78.51063
-postcode: "K0M 1S0"
+postcode: K0M 1S0
 city: Haliburton
-street: "York Street"
-housenumber: 33
-phone: "+1-705-457-3331"
+street: York Street
+housenumber: "33"
+phone: +1-705-457-3331
 opening_hours: ""
 website: ""

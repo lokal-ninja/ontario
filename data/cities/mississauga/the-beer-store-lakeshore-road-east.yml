@@ -1,11 +1,11 @@
 id: 77743178
-type: way
+type: node
 latitude: 43.56431
 longitude: -79.57125
 postcode: ""
 city: Mississauga
-street: "Lakeshore Road East"
-housenumber: 420
+street: Lakeshore Road East
+housenumber: "420"
 phone: ""
-opening_hours: "Mo-Th 10:00-21:00; Fr 10:00-22:00; Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.thebeerstore.ca/locations/port-credit"
+opening_hours: Mo-Th 10:00-21:00; Fr 10:00-22:00; Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.thebeerstore.ca/locations/port-credit

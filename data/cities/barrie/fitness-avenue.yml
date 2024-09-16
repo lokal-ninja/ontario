@@ -2,10 +2,10 @@ id: 3000273144
 type: node
 latitude: 44.3267
 longitude: -79.69382
-postcode: "L4N 6J9"
+postcode: L4N 6J9
 city: Barrie
-street: "Mills Road"
-housenumber: 40
-phone: "+1-705-970-0222"
-opening_hours: "Mo-Sa 11:00-18:00; Su off"
-website: "https://www.fitnessavenue.ca/"
+street: Mills Road
+housenumber: "40"
+phone: +1-705-970-0222
+opening_hours: Mo-Sa 11:00-18:00; Su off
+website: https://www.fitnessavenue.ca/

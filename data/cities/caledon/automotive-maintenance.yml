@@ -1,11 +1,11 @@
 id: 530807101
-type: way
+type: node
 latitude: 43.87094
 longitude: -79.86857
-postcode: "L0N 1E0"
+postcode: L0N 1E0
 city: Caledon
-street: "Airport Road"
-housenumber: 16040
+street: Airport Road
+housenumber: "16040"
 phone: ""
 opening_hours: ""
 website: ""

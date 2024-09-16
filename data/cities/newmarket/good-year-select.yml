@@ -1,11 +1,11 @@
 id: 499730281
-type: way
+type: node
 latitude: 44.05666
 longitude: -79.47401
 postcode: ""
 city: Newmarket
-street: "Davis Drive"
-housenumber: 135
+street: Davis Drive
+housenumber: "135"
 phone: ""
 opening_hours: ""
 website: ""

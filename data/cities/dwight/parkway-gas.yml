@@ -1,11 +1,11 @@
 id: 127012570
-type: way
+type: node
 latitude: 45.37946
 longitude: -78.9192
-postcode: "P0A 1H0"
+postcode: P0A 1H0
 city: Dwight
-street: "Highway 60"
-housenumber: 4412
-phone: "+1-705-635-2763"
+street: Highway 60
+housenumber: "4412"
+phone: +1-705-635-2763
 opening_hours: ""
 website: ""

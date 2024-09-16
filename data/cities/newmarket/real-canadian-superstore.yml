@@ -1,11 +1,11 @@
 id: 161391165
-type: way
+type: node
 latitude: 44.0704
 longitude: -79.48556
-postcode: "L3Y 4V8"
+postcode: L3Y 4V8
 city: Newmarket
-street: "Yonge Street"
-housenumber: 18120
-phone: "+1-905-830-4072"
-opening_hours: "Mo-Su 07:00-23:00; "
-website: "https://www.realcanadiansuperstore.ca/store-locator/details/1018"
+street: Yonge Street
+housenumber: "18120"
+phone: +1-905-830-4072
+opening_hours: 'Mo-Su 07:00-23:00; '
+website: https://www.realcanadiansuperstore.ca/store-locator/details/1018

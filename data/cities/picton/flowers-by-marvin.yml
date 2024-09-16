@@ -4,8 +4,8 @@ latitude: 44.00449
 longitude: -77.14777
 postcode: ""
 city: Picton
-street: "Main St"
-housenumber: 80
-phone: "+1-613-476-7012"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-14:00; Su off"
+street: Main St
+housenumber: "80"
+phone: +1-613-476-7012
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-14:00; Su off
 website: ""

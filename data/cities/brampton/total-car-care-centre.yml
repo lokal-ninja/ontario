@@ -1,11 +1,11 @@
 id: 170022216
-type: way
+type: node
 latitude: 43.72812
 longitude: -79.79426
 postcode: ""
 city: Brampton
-street: "Sandalwood Parkway East"
-housenumber: 200
-phone: "+1 905-846-5555"
+street: Sandalwood Parkway East
+housenumber: "200"
+phone: +1 905-846-5555
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 33791157
-type: way
+type: node
 latitude: 43.77012
 longitude: -79.38391
 postcode: ""
 city: North York
-street: "Bayview Avenue"
-housenumber: 2901
-phone: "+1-416-226-0404"
-opening_hours: "Mo-Fr 10:00-21:00; Sa 09:30-18:00; Su 10:00-17:00"
-website: "https://www.bayviewvillageshops.com/"
+street: Bayview Avenue
+housenumber: "2901"
+phone: +1-416-226-0404
+opening_hours: Mo-Fr 10:00-21:00; Sa 09:30-18:00; Su 10:00-17:00
+website: https://www.bayviewvillageshops.com/

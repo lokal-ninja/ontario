@@ -1,11 +1,11 @@
 id: 661957385
-type: way
+type: node
 latitude: 43.78504
 longitude: -79.29052
 postcode: ""
 city: Scarborough
-street: "Sheppard Avenue East"
-housenumber: 3850
+street: Sheppard Avenue East
+housenumber: "3850"
 phone: ""
 opening_hours: ""
 website: ""

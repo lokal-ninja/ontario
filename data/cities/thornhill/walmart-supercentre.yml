@@ -1,11 +1,11 @@
 id: 169359194
-type: way
+type: node
 latitude: 43.81127
 longitude: -79.45162
 postcode: ""
 city: Thornhill
-street: "Centre Street"
-housenumber: 700
-phone: "+1 905-709-4494"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.walmart.ca/en/stores-near-me/thornhill-on-5831"
+street: Centre Street
+housenumber: "700"
+phone: +1 905-709-4494
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.walmart.ca/en/stores-near-me/thornhill-on-5831

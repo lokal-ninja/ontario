@@ -4,8 +4,8 @@ latitude: 44.23554
 longitude: -76.49734
 postcode: ""
 city: Kingston
-street: "Alfred Street"
-housenumber: 349
-phone: "+1 613-767-3743"
-opening_hours: "Mo-Fr 10:00-18:00"
-website: "https://www.iservice.ca/"
+street: Alfred Street
+housenumber: "349"
+phone: +1 613-767-3743
+opening_hours: Mo-Fr 10:00-18:00
+website: https://www.iservice.ca/

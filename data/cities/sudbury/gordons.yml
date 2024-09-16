@@ -1,11 +1,11 @@
 id: 168731641
-type: way
+type: node
 latitude: 46.49356
 longitude: -80.99523
-postcode: "P3C 5E2"
+postcode: P3C 5E2
 city: Sudbury
-street: "Durham Street"
-housenumber: 19
+street: Durham Street
+housenumber: "19"
 phone: ""
-opening_hours: "Tu-Fr 08:00-15:00; Sa 08:00-13:00"
+opening_hours: Tu-Fr 08:00-15:00; Sa 08:00-13:00
 website: ""

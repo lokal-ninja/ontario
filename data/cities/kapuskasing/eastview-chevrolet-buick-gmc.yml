@@ -1,11 +1,11 @@
 id: 259388130
-type: way
+type: node
 latitude: 49.40763
 longitude: -82.39688
 postcode: ""
 city: Kapuskasing
-street: "Government Road"
-housenumber: 222
+street: Government Road
+housenumber: "222"
 phone: ""
 opening_hours: ""
 website: ""

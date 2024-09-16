@@ -1,11 +1,11 @@
 id: 39949026
-type: way
+type: node
 latitude: 43.88538
 longitude: -78.87513
-postcode: "L1J 1Z4"
+postcode: L1J 1Z4
 city: Oshawa
-street: "Gibb Street"
-housenumber: 441
-phone: "+1-905-728-6272"
-opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-19:00; Su 09:00-18:00"
-website: "https://www.canadiantire.ca/en/store-details/on/oshawa-mid-on-75.html"
+street: Gibb Street
+housenumber: "441"
+phone: +1-905-728-6272
+opening_hours: Mo-Fr 08:00-21:00; Sa 08:00-19:00; Su 09:00-18:00
+website: https://www.canadiantire.ca/en/store-details/on/oshawa-mid-on-75.html

@@ -4,8 +4,8 @@ latitude: 43.45006
 longitude: -80.48937
 postcode: ""
 city: Kitchener
-street: "King Street West"
-housenumber: 10
+street: King Street West
+housenumber: "10"
 phone: ""
-opening_hours: "Mo,Tu,Th,Sa 11:00-16:00; We,Fr 11:00-17:30"
+opening_hours: Mo,Tu,Th,Sa 11:00-16:00; We,Fr 11:00-17:30
 website: ""

@@ -1,11 +1,11 @@
 id: 995767882
-type: way
+type: node
 latitude: 47.98896
 longitude: -84.77688
-postcode: "P0S 1K0"
+postcode: P0S 1K0
 city: Wawa
-street: "Mission Road"
-housenumber: 156
-phone: "+1-705-856-4355"
-opening_hours: "Mo-Sa 10:00-18:00; Su 12:00-16:00"
-website: "https://www.thebeerstore.ca/locations/wawa"
+street: Mission Road
+housenumber: "156"
+phone: +1-705-856-4355
+opening_hours: Mo-Sa 10:00-18:00; Su 12:00-16:00
+website: https://www.thebeerstore.ca/locations/wawa

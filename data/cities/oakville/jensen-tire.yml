@@ -1,11 +1,11 @@
 id: 318470982
-type: way
+type: node
 latitude: 43.49535
 longitude: -79.64477
 postcode: ""
 city: Oakville
-street: "Winston Churchill Boulevard"
-housenumber: 928
+street: Winston Churchill Boulevard
+housenumber: "928"
 phone: ""
 opening_hours: ""
-website: "https://jensentire.ca/"
+website: https://jensentire.ca/

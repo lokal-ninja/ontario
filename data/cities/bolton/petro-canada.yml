@@ -1,11 +1,11 @@
 id: 264693491
-type: way
+type: node
 latitude: 43.87332
 longitude: -79.73028
-postcode: "L7E 4Z5"
+postcode: L7E 4Z5
 city: Bolton
-street: "Queen Street South"
-housenumber: 306
+street: Queen Street South
+housenumber: "306"
 phone: ""
 opening_hours: ""
 website: ""

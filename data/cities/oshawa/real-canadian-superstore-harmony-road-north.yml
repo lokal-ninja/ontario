@@ -1,11 +1,11 @@
 id: 115859855
-type: way
+type: node
 latitude: 43.94235
 longitude: -78.84447
-postcode: "L1H 7K5"
+postcode: L1H 7K5
 city: Oshawa
-street: "Harmony Road North"
-housenumber: 1385
-phone: "+1 905-433-9569"
-opening_hours: "Su-Mo 07:00-23:00"
-website: "https://www.realcanadiansuperstore.ca/store-locator/details/1043"
+street: Harmony Road North
+housenumber: "1385"
+phone: +1 905-433-9569
+opening_hours: Su-Mo 07:00-23:00
+website: https://www.realcanadiansuperstore.ca/store-locator/details/1043

@@ -4,8 +4,8 @@ latitude: 43.64795
 longitude: -79.4008
 postcode: ""
 city: Toronto
-street: "Queen Street West"
-housenumber: 486
+street: Queen Street West
+housenumber: "486"
 phone: ""
 opening_hours: ""
-website: "https://thedenizen.ca/"
+website: https://thedenizen.ca/

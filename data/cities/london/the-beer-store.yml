@@ -1,11 +1,11 @@
 id: 135778674
-type: way
+type: node
 latitude: 42.98075
 longitude: -81.21473
 postcode: ""
 city: London
-street: "Hamilton Road"
-housenumber: 552
-phone: "+1-519-455-3083"
-opening_hours: "Mo-Sa 10:00-21:00; Su 12:00-17:00"
-website: "https://www.thebeerstore.ca/locations/hamilton-sackville"
+street: Hamilton Road
+housenumber: "552"
+phone: +1-519-455-3083
+opening_hours: Mo-Sa 10:00-21:00; Su 12:00-17:00
+website: https://www.thebeerstore.ca/locations/hamilton-sackville

@@ -1,11 +1,11 @@
 id: 33296345
-type: way
+type: node
 latitude: 43.70594
 longitude: -79.78347
-postcode: "L6V 4K2"
+postcode: L6V 4K2
 city: Brampton
-street: "Quarry Edge Drive"
-housenumber: 50
-phone: "+1-905-874-0112"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.walmart.ca/en/stores-near-me/n-brampton-on-3130"
+street: Quarry Edge Drive
+housenumber: "50"
+phone: +1-905-874-0112
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.walmart.ca/en/stores-near-me/n-brampton-on-3130

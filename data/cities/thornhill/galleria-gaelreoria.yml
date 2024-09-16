@@ -1,11 +1,11 @@
 id: 67579898
-type: way
+type: node
 latitude: 43.79911
 longitude: -79.42099
-postcode: "L4J 1V7"
+postcode: L4J 1V7
 city: Thornhill
-street: "Yonge Street"
-housenumber: 7040
-phone: "+1-905-882-0040"
-opening_hours: "24/7"
-website: "http://www.galleriasm.com"
+street: Yonge Street
+housenumber: "7040"
+phone: +1-905-882-0040
+opening_hours: 24/7
+website: http://www.galleriasm.com

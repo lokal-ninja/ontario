@@ -1,11 +1,11 @@
 id: 526005645
-type: way
+type: node
 latitude: 42.84724
 longitude: -80.98693
-postcode: "N0L 2J0"
+postcode: N0L 2J0
 city: Aylmer
-street: "Imperial Road"
-housenumber: 13315
-phone: "+1-519-765-4604"
+street: Imperial Road
+housenumber: "13315"
+phone: +1-519-765-4604
 opening_hours: ""
 website: ""

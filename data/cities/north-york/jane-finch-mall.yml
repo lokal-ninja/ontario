@@ -1,11 +1,11 @@
 id: 32518606
-type: way
+type: node
 latitude: 43.75572
 longitude: -79.51698
-postcode: "M3N 2V2"
+postcode: M3N 2V2
 city: North York
-street: "Finch Avenue West"
-housenumber: 1911
-phone: "+1-416-635-5286"
-opening_hours: "Mo-Fr 10:00-21:00; Sa 09:30-18:00; Su 12:00-17:00"
-website: "http://janeandfinchmall.com"
+street: Finch Avenue West
+housenumber: "1911"
+phone: +1-416-635-5286
+opening_hours: Mo-Fr 10:00-21:00; Sa 09:30-18:00; Su 12:00-17:00
+website: http://janeandfinchmall.com

@@ -2,10 +2,11 @@ id: 4830853600
 type: node
 latitude: 43.99864
 longitude: -79.47531
-postcode: "L4G 2N9"
+postcode: L4G 2N9
 city: Aurora
-street: "Wellington Street West"
-housenumber: 126
-phone: "+1-905-503-8600"
-opening_hours: "Mo 10:00-17:00, Tu 09:30-19:00, We 09:30-19:00, Th 09:30-19:00, Fr 09:30-19:00, Sa 08:00-17:00, Su 08:00-17:00"
-website: "https://www.glamandbeautylounge.com/"
+street: Wellington Street West
+housenumber: "126"
+phone: +1-905-503-8600
+opening_hours: Mo 10:00-17:00, Tu 09:30-19:00, We 09:30-19:00, Th 09:30-19:00, Fr
+    09:30-19:00, Sa 08:00-17:00, Su 08:00-17:00
+website: https://www.glamandbeautylounge.com/

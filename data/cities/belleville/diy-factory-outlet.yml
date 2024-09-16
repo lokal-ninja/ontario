@@ -1,11 +1,11 @@
 id: 860107718
-type: way
+type: node
 latitude: 44.20496
 longitude: -77.3955
 postcode: ""
 city: Belleville
-street: "Maitland Drive"
-housenumber: 382
+street: Maitland Drive
+housenumber: "382"
 phone: ""
 opening_hours: ""
 website: ""

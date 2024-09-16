@@ -1,11 +1,11 @@
 id: 34883225
-type: way
+type: node
 latitude: 43.72455
 longitude: -79.78716
-postcode: "L6Z 4N7"
+postcode: L6Z 4N7
 city: Brampton
-street: "Kennedy Road"
-housenumber: 10405
-phone: "+1 905-840-1116"
+street: Kennedy Road
+housenumber: "10405"
+phone: +1 905-840-1116
 opening_hours: ""
-website: "https://indiabazaar.ca/"
+website: https://indiabazaar.ca/

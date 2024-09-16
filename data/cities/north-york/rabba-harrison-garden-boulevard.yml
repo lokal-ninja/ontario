@@ -2,10 +2,10 @@ id: 5379390971
 type: node
 latitude: 43.75778
 longitude: -79.40892
-postcode: "M2N 7G4"
+postcode: M2N 7G4
 city: North York
-street: "Harrison Garden Boulevard"
-housenumber: 12
-phone: "+1-416-250-0005"
-opening_hours: "24/7"
+street: Harrison Garden Boulevard
+housenumber: "12"
+phone: +1-416-250-0005
+opening_hours: 24/7
 website: ""

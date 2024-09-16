@@ -2,10 +2,10 @@ id: 12030604542
 type: node
 latitude: 43.39554
 longitude: -80.35813
-postcode: "N3H3N9"
+postcode: N3H3N9
 city: Cambridge
-street: "King Street East"
-housenumber: 718
+street: King Street East
+housenumber: "718"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-17:00; Su 11:00-16:00; PH off"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-17:00; Su 11:00-16:00; PH off
 website: ""

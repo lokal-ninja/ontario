@@ -2,10 +2,10 @@ id: 938018327
 type: node
 latitude: 43.66897
 longitude: -79.38871
-postcode: "M4W 1A5"
+postcode: M4W 1A5
 city: Toronto
-street: "Bloor Street West"
-housenumber: 55
+street: Bloor Street West
+housenumber: "55"
 phone: ""
-opening_hours: "Su-Th 09:00-22:00; Fr-Sa 09:00-23:00"
-website: "https://www.chapters.indigo.ca/"
+opening_hours: Su-Th 09:00-22:00; Fr-Sa 09:00-23:00
+website: https://www.chapters.indigo.ca/

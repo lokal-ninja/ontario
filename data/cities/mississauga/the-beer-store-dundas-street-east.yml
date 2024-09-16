@@ -4,8 +4,8 @@ latitude: 43.6124
 longitude: -79.57895
 postcode: ""
 city: Mississauga
-street: "Dundas Street East"
-housenumber: 1550
+street: Dundas Street East
+housenumber: "1550"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.thebeerstore.ca/locations/mississauga-dixie-dundas"
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.thebeerstore.ca/locations/mississauga-dixie-dundas

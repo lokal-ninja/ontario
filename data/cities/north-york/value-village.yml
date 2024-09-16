@@ -1,11 +1,11 @@
 id: 696803993
-type: way
+type: node
 latitude: 43.72845
 longitude: -79.47853
 postcode: ""
 city: North York
-street: "Wilson Avenue"
-housenumber: 1030
+street: Wilson Avenue
+housenumber: "1030"
 phone: ""
 opening_hours: ""
 website: ""

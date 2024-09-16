@@ -1,11 +1,11 @@
 id: 1008726589
-type: way
+type: node
 latitude: 47.98846
 longitude: -84.7789
-postcode: "P0S 1K0"
+postcode: P0S 1K0
 city: Wawa
-street: "Churchill Avenue"
-housenumber: 140
-phone: "+1-705-856-7340"
+street: Churchill Avenue
+housenumber: "140"
+phone: +1-705-856-7340
 opening_hours: ""
 website: ""

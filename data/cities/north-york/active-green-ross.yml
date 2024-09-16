@@ -1,11 +1,11 @@
 id: 59146409
-type: way
+type: node
 latitude: 43.77511
 longitude: -79.33372
 postcode: ""
 city: North York
-street: "Sheppard Avenue East"
-housenumber: 2115
+street: Sheppard Avenue East
+housenumber: "2115"
 phone: ""
 opening_hours: ""
 website: ""

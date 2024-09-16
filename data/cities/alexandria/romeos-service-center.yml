@@ -1,11 +1,11 @@
 id: 671951508
-type: way
+type: node
 latitude: 45.31832
 longitude: -74.64114
-postcode: "K0C"
+postcode: K0C
 city: Alexandria
-street: "Linsley Street East"
-housenumber: 17
-phone: "+1-613-525-4984"
+street: Linsley Street East
+housenumber: "17"
+phone: +1-613-525-4984
 opening_hours: ""
 website: ""

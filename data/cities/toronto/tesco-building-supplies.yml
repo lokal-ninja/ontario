@@ -1,11 +1,11 @@
 id: 58924961
-type: way
+type: node
 latitude: 43.81246
 longitude: -79.2998
 postcode: ""
 city: Toronto
-street: "Kennedy Road"
-housenumber: 3115
+street: Kennedy Road
+housenumber: "3115"
 phone: ""
 opening_hours: ""
 website: ""

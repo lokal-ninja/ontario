@@ -1,11 +1,11 @@
 id: 522456796
-type: way
+type: node
 latitude: 45.03211
 longitude: -75.29359
-postcode: "K0C 2L0"
+postcode: K0C 2L0
 city: Winchester Springs
-street: "County Road 31"
-housenumber: 3310
-phone: "+1-613-774-3323"
+street: County Road 31
+housenumber: "3310"
+phone: +1-613-774-3323
 opening_hours: ""
 website: ""

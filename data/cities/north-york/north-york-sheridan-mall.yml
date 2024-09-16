@@ -1,11 +1,11 @@
 id: 34971728
-type: way
+type: node
 latitude: 43.72193
 longitude: -79.51221
 postcode: ""
 city: North York
-street: "Wilson Avenue"
-housenumber: 1700
+street: Wilson Avenue
+housenumber: "1700"
 phone: ""
 opening_hours: ""
-website: "https://www.northyorksheridanmall.com/"
+website: https://www.northyorksheridanmall.com/

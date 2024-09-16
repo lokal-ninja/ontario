@@ -1,11 +1,11 @@
 id: 647465694
-type: way
+type: node
 latitude: 43.63931
 longitude: -79.42185
 postcode: ""
 city: Toronto
-street: "Jefferson Avenue"
-housenumber: 119
+street: Jefferson Avenue
+housenumber: "119"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00"
+opening_hours: Mo-Fr 09:00-17:00
 website: ""

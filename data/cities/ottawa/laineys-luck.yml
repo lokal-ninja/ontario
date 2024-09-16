@@ -4,8 +4,8 @@ latitude: 45.40974
 longitude: -75.69205
 postcode: ""
 city: Ottawa
-street: "Bank Street"
-housenumber: 523
-phone: "+1 613-481-5246"
-opening_hours: "We-Sa 11:30-18:30, Su-Mo 11:30-17:00"
-website: "http://laineysluck.ca"
+street: Bank Street
+housenumber: "523"
+phone: +1 613-481-5246
+opening_hours: We-Sa 11:30-18:30, Su-Mo 11:30-17:00
+website: http://laineysluck.ca

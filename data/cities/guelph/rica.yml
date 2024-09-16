@@ -4,8 +4,8 @@ latitude: 43.54185
 longitude: -80.24836
 postcode: ""
 city: Guelph
-street: "Gordon Street"
-housenumber: 5
+street: Gordon Street
+housenumber: "5"
 phone: ""
-opening_hours: ""
+opening_hours: Mo-Th,Sa 09:30-18:00; Fr 09:30-19:00; Su 10:00-15:00
 website: ""

@@ -2,10 +2,11 @@ id: 2253802131
 type: node
 latitude: 43.63626
 longitude: -79.40185
-postcode: "M5V 1B3"
+postcode: M5V 1B3
 city: Toronto
-street: "Fleet Street"
-housenumber: 614
-phone: "+1-416-360-7791"
-opening_hours: "Mo-We 08:00-18:00; Th 08:00-20:00; Fr 08:00-20:00; Sa 08:00-16:00; Su closed"
-website: "https://www.tdcanadatrust.com/"
+street: Fleet Street
+housenumber: "614"
+phone: +1-416-360-7791
+opening_hours: Mo-We 08:00-18:00; Th 08:00-20:00; Fr 08:00-20:00; Sa 08:00-16:00;
+    Su closed
+website: https://www.tdcanadatrust.com/

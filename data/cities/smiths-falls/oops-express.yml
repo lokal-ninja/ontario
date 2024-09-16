@@ -1,11 +1,11 @@
 id: 521285769
-type: way
+type: node
 latitude: 44.91041
 longitude: -76.0213
-postcode: "K7A 2G1"
+postcode: K7A 2G1
 city: Smiths Falls
-street: "Union Street"
-housenumber: 12
+street: Union Street
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

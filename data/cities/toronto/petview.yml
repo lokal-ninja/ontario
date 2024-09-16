@@ -4,8 +4,8 @@ latitude: 43.64934
 longitude: -79.39449
 postcode: ""
 city: Toronto
-street: "Queen Street West"
-housenumber: 322
-phone: "+1-416-738-8439"
+street: Queen Street West
+housenumber: "322"
+phone: +1-416-738-8439
 opening_hours: ""
-website: "http://petviewto.com/"
+website: http://petviewto.com/

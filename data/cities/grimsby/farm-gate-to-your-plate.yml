@@ -2,10 +2,10 @@ id: 9963200808
 type: node
 latitude: 43.19266
 longitude: -79.56091
-postcode: "L3M 3G5"
+postcode: L3M 3G5
 city: Grimsby
-street: "Elm Street"
-housenumber: 33
-phone: "+1-289-527-1860"
-opening_hours: "Th 10:00-19:00; Fr 10:00-17:00; Sa,Su 10:00-16:00"
+street: Elm Street
+housenumber: "33"
+phone: +1-289-527-1860
+opening_hours: Th 10:00-19:00; Fr 10:00-17:00; Sa,Su 10:00-16:00
 website: ""

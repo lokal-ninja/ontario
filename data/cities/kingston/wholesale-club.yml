@@ -1,11 +1,11 @@
 id: 657475613
-type: way
+type: node
 latitude: 44.25579
 longitude: -76.49445
 postcode: ""
 city: Kingston
-street: "Elliott Avenue"
-housenumber: 314
+street: Elliott Avenue
+housenumber: "314"
 phone: ""
 opening_hours: ""
 website: ""

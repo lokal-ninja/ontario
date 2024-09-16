@@ -1,11 +1,11 @@
 id: 43804374
-type: way
+type: node
 latitude: 43.72206
 longitude: -79.46489
 postcode: ""
 city: North York
-street: "Cartwright Avenue"
-housenumber: 109
+street: Cartwright Avenue
+housenumber: "109"
 phone: ""
 opening_hours: ""
 website: ""

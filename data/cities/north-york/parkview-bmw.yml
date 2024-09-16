@@ -1,11 +1,11 @@
 id: 43805430
-type: way
+type: node
 latitude: 43.72692
 longitude: -79.34971
 postcode: ""
 city: North York
-street: "Leslie Street"
-housenumber: 1155
+street: Leslie Street
+housenumber: "1155"
 phone: ""
 opening_hours: ""
 website: ""

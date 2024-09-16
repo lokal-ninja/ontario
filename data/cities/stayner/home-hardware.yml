@@ -1,11 +1,11 @@
 id: 1101638985
-type: way
+type: node
 latitude: 44.41977
 longitude: -80.08915
 postcode: ""
 city: Stayner
-street: "Main Street East"
-housenumber: 7275
-phone: "+1-705-428-2648"
+street: Main Street East
+housenumber: "7275"
+phone: +1-705-428-2648
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 35836949
-type: way
+type: node
 latitude: 43.64931
 longitude: -79.90039
 postcode: ""
 city: Georgetown
-street: "Guelph Street"
-housenumber: 280
+street: Guelph Street
+housenumber: "280"
 phone: ""
 opening_hours: ""
-website: "https://www.georgetownmarketplace.com/"
+website: https://www.georgetownmarketplace.com/

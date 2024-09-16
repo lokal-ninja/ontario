@@ -1,11 +1,11 @@
 id: 1003286388
-type: way
+type: node
 latitude: 42.03696
 longitude: -82.60043
-postcode: "N8H 3C5"
+postcode: N8H 3C5
 city: Leamington
-street: "Erie Street South"
-housenumber: 286
-phone: "+1 519-326-2626"
+street: Erie Street South
+housenumber: "286"
+phone: +1 519-326-2626
 opening_hours: ""
-website: "https://lakesidebakery.com/"
+website: https://lakesidebakery.com/

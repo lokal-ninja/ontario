@@ -1,11 +1,11 @@
 id: 657936335
-type: way
+type: node
 latitude: 43.63634
 longitude: -79.53259
 postcode: ""
 city: Toronto
-street: "Kipling Avenue"
-housenumber: 887
-phone: "+1-416-232-0003"
+street: Kipling Avenue
+housenumber: "887"
+phone: +1-416-232-0003
 opening_hours: ""
-website: "https://jencocanada.ca/"
+website: https://jencocanada.ca/

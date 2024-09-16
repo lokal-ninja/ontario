@@ -2,10 +2,11 @@ id: 4650710351
 type: node
 latitude: 43.74039
 longitude: -79.75977
-postcode: "L6R 1T4"
+postcode: L6R 1T4
 city: Brampton
-street: "Peter Robertson Boulevard"
-housenumber: 630
-phone: "+1-905-799-9240"
-opening_hours: "Mo-Tu 09:00-19:00; We 07:00-19:00; Th-Fr 09:00-20:00; Sa 09:00-17:00; Su closed"
+street: Peter Robertson Boulevard
+housenumber: "630"
+phone: +1-905-799-9240
+opening_hours: Mo-Tu 09:00-19:00; We 07:00-19:00; Th-Fr 09:00-20:00; Sa 09:00-17:00;
+    Su closed
 website: ""

@@ -1,11 +1,11 @@
 id: 170242111
-type: way
+type: node
 latitude: 43.82967
 longitude: -79.09393
 postcode: ""
 city: Pickering
-street: "Kingston Road"
-housenumber: 1105
+street: Kingston Road
+housenumber: "1105"
 phone: ""
 opening_hours: ""
-website: "http://www.homedepot.ca/"
+website: http://www.homedepot.ca/

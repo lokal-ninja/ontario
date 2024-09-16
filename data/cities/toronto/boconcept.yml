@@ -2,10 +2,10 @@ id: 4327305062
 type: node
 latitude: 43.65165
 longitude: -79.37188
-postcode: "M5A 1M9"
+postcode: M5A 1M9
 city: Toronto
-street: "Adelaide Street East"
-housenumber: 230
-phone: "+1-647-352-8802"
+street: Adelaide Street East
+housenumber: "230"
+phone: +1-647-352-8802
 opening_hours: ""
-website: "http://www.boconcept-toronto.com/"
+website: http://www.boconcept-toronto.com/

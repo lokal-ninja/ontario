@@ -1,11 +1,11 @@
 id: 487227863
-type: way
+type: node
 latitude: 44.38961
 longitude: -79.68725
 postcode: ""
 city: Barrie
-street: "Dunlop Street East"
-housenumber: 76
-phone: "+1 705-722-3772"
-opening_hours: "Mo-Fr 10:00-17:30; Sa 10:00-15:00"
-website: "https://www.metzgerjewellery.com"
+street: Dunlop Street East
+housenumber: "76"
+phone: +1 705-722-3772
+opening_hours: Mo-Fr 10:00-17:30; Sa 10:00-15:00
+website: https://www.metzgerjewellery.com

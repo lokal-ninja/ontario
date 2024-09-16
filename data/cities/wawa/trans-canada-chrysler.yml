@@ -1,11 +1,11 @@
 id: 999295111
-type: way
+type: node
 latitude: 47.96621
 longitude: -84.79027
-postcode: "P0S 1K0"
+postcode: P0S 1K0
 city: Wawa
-street: "Mills Drive"
-housenumber: 74
-phone: "+1-705-856-7110"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.transcanadachrysler.ca/"
+street: Mills Drive
+housenumber: "74"
+phone: +1-705-856-7110
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.transcanadachrysler.ca/

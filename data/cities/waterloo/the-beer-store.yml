@@ -1,11 +1,11 @@
 id: 467842066
-type: way
+type: node
 latitude: 43.48615
 longitude: -80.53951
-postcode: "N2L 3V4"
+postcode: N2L 3V4
 city: Waterloo
-street: "Albert Street"
-housenumber: 462
+street: Albert Street
+housenumber: "462"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00, Su 12:00-17:00"
-website: "https://thebeerstore.ca/locations/parkdalealbert"
+opening_hours: Mo-Sa 10:00-21:00, Su 12:00-17:00
+website: https://thebeerstore.ca/locations/parkdalealbert

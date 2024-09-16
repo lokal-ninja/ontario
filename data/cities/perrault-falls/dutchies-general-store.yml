@@ -1,11 +1,11 @@
 id: 518812464
-type: way
+type: node
 latitude: 50.34251
 longitude: -93.1547
-postcode: "P0V 2K0"
+postcode: P0V 2K0
 city: Perrault Falls
-street: "Highway 105"
-housenumber: 59
-phone: "+1-807-529-6556"
+street: Highway 105
+housenumber: "59"
+phone: +1-807-529-6556
 opening_hours: ""
 website: ""

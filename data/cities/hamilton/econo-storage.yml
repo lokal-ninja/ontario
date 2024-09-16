@@ -1,11 +1,11 @@
 id: 176865497
-type: way
+type: node
 latitude: 43.27192
 longitude: -79.85713
 postcode: ""
 city: Hamilton
-street: "Catharine Street North"
-housenumber: 562
+street: Catharine Street North
+housenumber: "562"
 phone: ""
 opening_hours: ""
 website: ""

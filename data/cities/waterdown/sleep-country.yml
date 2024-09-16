@@ -1,11 +1,11 @@
 id: 209554875
-type: way
+type: node
 latitude: 43.31785
 longitude: -79.91044
 postcode: ""
 city: Waterdown
-street: "Dundas Street East"
-housenumber: 86
+street: Dundas Street East
+housenumber: "86"
 phone: ""
 opening_hours: ""
 website: ""

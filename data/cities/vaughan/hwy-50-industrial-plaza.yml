@@ -1,11 +1,11 @@
 id: 93832232
-type: way
+type: node
 latitude: 43.76959
 longitude: -79.64931
-postcode: "L4L 1A5"
+postcode: L4L 1A5
 city: Vaughan
-street: "Highway 50"
-housenumber: 7835
+street: Highway 50
+housenumber: "7835"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.virta.ca/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.virta.ca/

@@ -1,11 +1,11 @@
 id: 49041735
-type: way
+type: node
 latitude: 44.61392
 longitude: -75.68955
-postcode: "K6V 7N4"
+postcode: K6V 7N4
 city: Brockville
-street: "Parkedale Avenue"
-housenumber: 1972
-phone: "+1 613-498-0994"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.realcanadiansuperstore.ca/store-locator/details/1017"
+street: Parkedale Avenue
+housenumber: "1972"
+phone: +1 613-498-0994
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.realcanadiansuperstore.ca/store-locator/details/1017

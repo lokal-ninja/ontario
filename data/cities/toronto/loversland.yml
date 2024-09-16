@@ -4,8 +4,8 @@ latitude: 43.64879
 longitude: -79.42039
 postcode: ""
 city: Toronto
-street: "Ossington Avenue"
-housenumber: 215
-phone: "+1-416-551-3321"
-opening_hours: "Tu-Sa 12:00-19:00, Su 12:00-17:00"
-website: "https://www.loversland.com/"
+street: Ossington Avenue
+housenumber: "215"
+phone: +1-416-551-3321
+opening_hours: Tu-Sa 12:00-19:00, Su 12:00-17:00
+website: https://www.loversland.com/

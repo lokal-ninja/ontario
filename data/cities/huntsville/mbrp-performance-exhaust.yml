@@ -1,11 +1,11 @@
 id: 650302750
-type: way
+type: node
 latitude: 45.29899
 longitude: -79.26227
-postcode: "P1H"
+postcode: P1H
 city: Huntsville
-street: "Old Ferguson Road"
-housenumber: 315
+street: Old Ferguson Road
+housenumber: "315"
 phone: ""
 opening_hours: ""
 website: ""

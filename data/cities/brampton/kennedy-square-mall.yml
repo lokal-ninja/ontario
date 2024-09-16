@@ -1,11 +1,11 @@
 id: 33300669
-type: way
+type: node
 latitude: 43.69035
 longitude: -79.7392
-postcode: "M4S 1C6"
+postcode: M4S 1C6
 city: Brampton
-street: "Kennedy Road South"
-housenumber: 50
+street: Kennedy Road South
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

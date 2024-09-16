@@ -1,11 +1,11 @@
 id: 809012245
-type: way
+type: node
 latitude: 43.18428
 longitude: -79.51336
-postcode: "L3M 5N9"
+postcode: L3M 5N9
 city: Grimsby
-street: "Main Street East"
-housenumber: 337
-phone: "+1 905-309-3356"
+street: Main Street East
+housenumber: "337"
+phone: +1 905-309-3356
 opening_hours: ""
-website: "https://www.willschev.com/"
+website: https://www.willschev.com/

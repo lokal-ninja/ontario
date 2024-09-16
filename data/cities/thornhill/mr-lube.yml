@@ -1,11 +1,11 @@
 id: 185570933
-type: way
+type: node
 latitude: 43.8119
 longitude: -79.42423
-postcode: "L4J 1V9"
+postcode: L4J 1V9
 city: Thornhill
-street: "Yonge Street"
-housenumber: 7562
-phone: "+1-905-731-4164"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 09:00-17:00; PH Contact Store"
-website: "https://www.mrlube.com/"
+street: Yonge Street
+housenumber: "7562"
+phone: +1-905-731-4164
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 09:00-17:00; PH "Contact Store"
+website: https://www.mrlube.com/

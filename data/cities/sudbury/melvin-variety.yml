@@ -1,11 +1,11 @@
 id: 220247711
-type: way
+type: node
 latitude: 46.50227
 longitude: -80.99783
-postcode: "P3C 4X3"
+postcode: P3C 4X3
 city: Sudbury
-street: "Melvin Avenue"
-housenumber: 400
+street: Melvin Avenue
+housenumber: "400"
 phone: ""
 opening_hours: ""
 website: ""

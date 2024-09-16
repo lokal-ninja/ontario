@@ -1,11 +1,11 @@
 id: 127689632
-type: way
+type: node
 latitude: 43.64782
 longitude: -79.51093
 postcode: ""
 city: Toronto
-street: "Bloor Street West"
-housenumber: 3008
+street: Bloor Street West
+housenumber: "3008"
 phone: ""
 opening_hours: ""
 website: ""

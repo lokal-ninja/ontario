@@ -1,11 +1,11 @@
 id: 527326535
-type: way
+type: node
 latitude: 42.98451
 longitude: -82.33131
-postcode: "N7W 1B2"
+postcode: N7W 1B2
 city: Sarnia
-street: "London Line"
-housenumber: 1670
+street: London Line
+housenumber: "1670"
 phone: ""
 opening_hours: ""
 website: ""

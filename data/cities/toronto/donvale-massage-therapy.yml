@@ -2,10 +2,10 @@ id: 5784682454
 type: node
 latitude: 43.66783
 longitude: -79.3692
-postcode: "M4X 1W3"
+postcode: M4X 1W3
 city: Toronto
-street: "Parliament Street"
-housenumber: 597
-phone: "+1-416-966-2410"
+street: Parliament Street
+housenumber: "597"
+phone: +1-416-966-2410
 opening_hours: ""
 website: ""

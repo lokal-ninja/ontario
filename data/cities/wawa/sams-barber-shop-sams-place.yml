@@ -1,11 +1,11 @@
 id: 1005064259
-type: way
+type: node
 latitude: 47.99328
 longitude: -84.77271
-postcode: "P0S 1K0"
+postcode: P0S 1K0
 city: Wawa
-street: "McKinley Avenue"
-housenumber: 84
-phone: "+1-705-856-2513"
-opening_hours: "Mo-Tu 10:00-12:30,14:30-16:30; Th-Fr 10:00-12:30,14:30-16:30"
+street: McKinley Avenue
+housenumber: "84"
+phone: +1-705-856-2513
+opening_hours: Mo-Tu 10:00-12:30,14:30-16:30; Th-Fr 10:00-12:30,14:30-16:30
 website: ""

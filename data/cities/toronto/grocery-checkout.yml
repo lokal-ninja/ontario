@@ -2,10 +2,10 @@ id: 1111981805
 type: node
 latitude: 43.77422
 longitude: -79.50165
-postcode: "M3J 1P3"
+postcode: M3J 1P3
 city: Toronto
-street: "York Boulevard"
-housenumber: 80
-phone: "+1 343-884-5255"
+street: York Boulevard
+housenumber: "80"
+phone: +1 343-884-5255
 opening_hours: ""
 website: ""

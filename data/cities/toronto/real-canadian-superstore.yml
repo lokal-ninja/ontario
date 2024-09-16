@@ -1,11 +1,11 @@
 id: 661330555
-type: way
+type: node
 latitude: 43.77883
 longitude: -79.26298
-postcode: "M1P 0A3"
+postcode: M1P 0A3
 city: Toronto
-street: "Brimley Road"
-housenumber: 1755
-phone: "+1 416-279-0802"
-opening_hours: "Su-Mo 07:00-23:00"
-website: "https://www.realcanadiansuperstore.ca/store-locator/details/2809"
+street: Brimley Road
+housenumber: "1755"
+phone: +1 416-279-0802
+opening_hours: Su-Mo 07:00-23:00
+website: https://www.realcanadiansuperstore.ca/store-locator/details/2809

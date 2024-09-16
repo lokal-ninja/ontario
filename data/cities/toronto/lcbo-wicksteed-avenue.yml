@@ -1,11 +1,11 @@
 id: 249069192
-type: way
+type: node
 latitude: 43.71088
 longitude: -79.36061
 postcode: ""
 city: Toronto
-street: "Wicksteed Avenue"
-housenumber: 65
+street: Wicksteed Avenue
+housenumber: "65"
 phone: ""
 opening_hours: ""
-website: "https://www.lcbo.com/"
+website: https://www.lcbo.com/

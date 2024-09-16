@@ -1,11 +1,11 @@
 id: 1030246376
-type: way
+type: node
 latitude: 44.25822
 longitude: -76.45579
 postcode: ""
 city: Kingston
-street: "Gore Road"
-housenumber: 235
+street: Gore Road
+housenumber: "235"
 phone: ""
 opening_hours: ""
 website: ""

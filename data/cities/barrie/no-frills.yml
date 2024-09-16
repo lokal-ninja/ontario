@@ -1,11 +1,11 @@
 id: 110068782
-type: way
+type: node
 latitude: 44.38778
 longitude: -79.70417
 postcode: ""
 city: Barrie
-street: "Wellington Street West"
-housenumber: 
+street: Wellington Street West
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.nofrills.ca/"
+website: https://www.nofrills.ca/

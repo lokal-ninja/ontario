@@ -1,11 +1,11 @@
 id: 65412305
-type: way
+type: node
 latitude: 44.23765
 longitude: -76.55751
 postcode: ""
 city: Kingston
-street: "Bath Road"
-housenumber: 1504
+street: Bath Road
+housenumber: "1504"
 phone: ""
 opening_hours: ""
-website: "https://www.wardsmarine.ca/"
+website: https://www.wardsmarine.ca/

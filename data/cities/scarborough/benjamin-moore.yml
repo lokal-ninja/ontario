@@ -1,11 +1,11 @@
 id: 67141805
-type: way
+type: node
 latitude: 43.76371
 longitude: -79.2925
 postcode: ""
 city: Scarborough
-street: "Ellesmere Road"
-housenumber: 590
+street: Ellesmere Road
+housenumber: "590"
 phone: ""
 opening_hours: ""
 website: ""

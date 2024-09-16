@@ -1,11 +1,11 @@
 id: 75703210
-type: way
+type: node
 latitude: 44.87912
 longitude: -76.03863
-postcode: "K7A 5B8"
+postcode: K7A 5B8
 city: Smiths Falls
-street: "Highway 15"
-housenumber: 260
-phone: "+1-613-283-1020"
-opening_hours: "Mo-Su 09:00-17:00"
-website: "https://www.gallery-15.ca/"
+street: Highway 15
+housenumber: "260"
+phone: +1-613-283-1020
+opening_hours: Mo-Su 09:00-17:00
+website: https://www.gallery-15.ca/

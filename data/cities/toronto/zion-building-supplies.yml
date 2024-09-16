@@ -1,11 +1,11 @@
 id: 58931899
-type: way
+type: node
 latitude: 43.80824
 longitude: -79.30067
 postcode: ""
 city: Toronto
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 08:00-19:00"
-website: "https://zionbuildingsupplies.com/"
+opening_hours: Mo-Su 08:00-19:00
+website: https://zionbuildingsupplies.com/

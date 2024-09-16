@@ -2,10 +2,10 @@ id: 7082273084
 type: node
 latitude: 43.65499
 longitude: -79.40017
-postcode: "M5T3K7"
+postcode: M5T3K7
 city: Toronto
-street: "Baldwin Street"
-housenumber: 160
-phone: "+1 416 597 6222"
-opening_hours: "Mo-Su 10:00-18:00"
-website: "http://wilbebloomin.ca/"
+street: Baldwin Street
+housenumber: "160"
+phone: +1 416 597 6222
+opening_hours: Mo-Su 10:00-18:00
+website: http://wilbebloomin.ca/

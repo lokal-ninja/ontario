@@ -2,10 +2,10 @@ id: 498680874
 type: node
 latitude: 43.65535
 longitude: -79.38496
-postcode: "M5G 1P7"
+postcode: M5G 1P7
 city: Toronto
-street: "Elizabeth Street"
-housenumber: 111
-phone: "+1 4165979005"
-opening_hours: "Mo-Fr 08:00-21:00; Sa-Su 08:00-20:00"
-website: "https://www.longos.com/store-details/Longos%20Elizabeth%20Pickup"
+street: Elizabeth Street
+housenumber: "111"
+phone: +1 4165979005
+opening_hours: Mo-Fr 08:00-21:00; Sa-Su 08:00-20:00
+website: https://www.longos.com/store-details/Longos%20Elizabeth%20Pickup

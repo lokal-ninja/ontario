@@ -1,11 +1,11 @@
 id: 367324514
-type: way
+type: node
 latitude: 44.01788
 longitude: -78.92512
 postcode: ""
 city: Oshawa
-street: "Raglan Road East"
-housenumber: 15
+street: Raglan Road East
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 10682199694
 type: node
 latitude: 43.69418
 longitude: -79.77168
-postcode: "L6X 1N6"
+postcode: L6X 1N6
 city: Brampton
-street: "Main Street North"
-housenumber: 367
-phone: "+1 905-451-2444"
+street: Main Street North
+housenumber: "367"
+phone: +1 905-451-2444
 opening_hours: ""
-website: "https://www.thewaterstorebrampton.ca/"
+website: https://www.thewaterstorebrampton.ca/

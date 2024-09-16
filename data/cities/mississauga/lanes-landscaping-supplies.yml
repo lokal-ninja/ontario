@@ -1,11 +1,11 @@
 id: 371927116
-type: way
+type: node
 latitude: 43.57475
 longitude: -79.64896
 postcode: ""
 city: Mississauga
-street: "Mavis Road"
-housenumber: 3500
-phone: "+1-905-279-1945"
+street: Mavis Road
+housenumber: "3500"
+phone: +1-905-279-1945
 opening_hours: ""
-website: "https://www.laneslandscaping.ca/"
+website: https://www.laneslandscaping.ca/

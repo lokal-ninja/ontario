@@ -4,8 +4,8 @@ latitude: 43.64623
 longitude: -79.40821
 postcode: ""
 city: Toronto
-street: "Queen Street West"
-housenumber: 781
+street: Queen Street West
+housenumber: "781"
 phone: ""
 opening_hours: ""
-website: "https://deluxeboutique.ca/"
+website: https://deluxeboutique.ca/

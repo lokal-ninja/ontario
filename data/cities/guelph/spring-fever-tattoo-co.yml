@@ -1,11 +1,11 @@
 id: 1311420269
-type: way
+type: node
 latitude: 43.54369
 longitude: -80.24926
 postcode: ""
 city: Guelph
-street: "Carden Street"
-housenumber: 10
+street: Carden Street
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://www.springfevertattoo.com/"
+website: https://www.springfevertattoo.com/

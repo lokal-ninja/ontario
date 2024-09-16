@@ -1,11 +1,11 @@
 id: 657936551
-type: way
+type: node
 latitude: 43.64049
 longitude: -79.53984
 postcode: ""
 city: Toronto
-street: "Bloor Street West"
-housenumber: 3855
-phone: "+1-416-234-1347"
+street: Bloor Street West
+housenumber: "3855"
+phone: +1-416-234-1347
 opening_hours: ""
 website: ""

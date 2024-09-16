@@ -1,11 +1,11 @@
 id: 818926666
-type: way
+type: node
 latitude: 44.88241
 longitude: -76.03651
-postcode: "K7A 5B8"
+postcode: K7A 5B8
 city: Smiths Falls
-street: "Lombard Street"
-housenumber: 236
-phone: "+1-613-284-2422"
-opening_hours: "Mo-Fr 08:00-17:00; Sa-Su closed"
-website: "https://www.rclautomotive.ca/"
+street: Lombard Street
+housenumber: "236"
+phone: +1-613-284-2422
+opening_hours: Mo-Fr 08:00-17:00; Sa-Su closed
+website: https://www.rclautomotive.ca/

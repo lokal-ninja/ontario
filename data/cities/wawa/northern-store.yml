@@ -1,11 +1,11 @@
 id: 998957023
-type: way
+type: node
 latitude: 47.99349
 longitude: -84.77066
-postcode: "P0S 1K0"
+postcode: P0S 1K0
 city: Wawa
-street: "Broadway Avenue"
-housenumber: 77
+street: Broadway Avenue
+housenumber: "77"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 366054049
-type: way
+type: node
 latitude: 43.65324
 longitude: -79.40653
-postcode: "M5T 2S6"
+postcode: M5T 2S6
 city: Toronto
-street: "Bathurst Street"
-housenumber: 366
+street: Bathurst Street
+housenumber: "366"
 phone: ""
 opening_hours: ""
 website: ""

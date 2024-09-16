@@ -2,10 +2,10 @@ id: 7237741005
 type: node
 latitude: 43.21283
 longitude: -79.88749
-postcode: "L8N 1B7"
+postcode: L8N 1B7
 city: Hamilton
-street: "King Street East"
-housenumber: 284
-phone: "+1-905-528-8468"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 08:00-18:00, Su 10:00-17:00"
+street: King Street East
+housenumber: "284"
+phone: +1-905-528-8468
+opening_hours: Mo-Fr 09:00-18:00, Sa 08:00-18:00, Su 10:00-17:00
 website: ""

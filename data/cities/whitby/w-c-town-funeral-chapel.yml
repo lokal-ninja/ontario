@@ -1,11 +1,11 @@
 id: 292814978
-type: way
+type: node
 latitude: 43.88049
 longitude: -78.94174
 postcode: ""
 city: Whitby
-street: "Dundas Street East"
-housenumber: 110
+street: Dundas Street East
+housenumber: "110"
 phone: ""
 opening_hours: ""
 website: ""

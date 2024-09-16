@@ -2,10 +2,10 @@ id: 5443328122
 type: node
 latitude: 43.65114
 longitude: -79.41229
-postcode: "M6J 1W1"
+postcode: M6J 1W1
 city: Toronto
-street: "Dundas Street West"
-housenumber: 904
-phone: "+1-416-368-7285"
+street: Dundas Street West
+housenumber: "904"
+phone: +1-416-368-7285
 opening_hours: ""
-website: "https://www.saulsbeautyshop.ca/"
+website: https://www.saulsbeautyshop.ca/

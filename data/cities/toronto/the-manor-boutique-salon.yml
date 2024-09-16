@@ -4,8 +4,8 @@ latitude: 43.7055
 longitude: -79.38882
 postcode: ""
 city: Toronto
-street: "Mount Pleasant Road"
-housenumber: 659
-phone: "+1-416-901-1412"
+street: Mount Pleasant Road
+housenumber: "659"
+phone: +1-416-901-1412
 opening_hours: ""
-website: "https://www.themanorsalon.com/"
+website: https://www.themanorsalon.com/

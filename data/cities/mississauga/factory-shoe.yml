@@ -1,11 +1,11 @@
 id: 32999895
-type: way
+type: node
 latitude: 43.51077
 longitude: -79.66075
-postcode: "L5J 2M4"
+postcode: L5J 2M4
 city: Mississauga
-street: "South Sheridan Way"
-housenumber: 2640
-phone: "+1-905-855-7817"
+street: South Sheridan Way
+housenumber: "2640"
+phone: +1-905-855-7817
 opening_hours: ""
-website: "https://www.factoryshoe.ca/"
+website: https://www.factoryshoe.ca/

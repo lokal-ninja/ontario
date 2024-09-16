@@ -1,11 +1,11 @@
 id: 519983078
-type: way
+type: node
 latitude: 45.56195
 longitude: -77.41793
-postcode: "K0J 2A0"
+postcode: K0J 2A0
 city: Killaloe
-street: "Queen Street"
-housenumber: 89
-phone: "+1-613-757-2610"
+street: Queen Street
+housenumber: "89"
+phone: +1-613-757-2610
 opening_hours: ""
 website: ""

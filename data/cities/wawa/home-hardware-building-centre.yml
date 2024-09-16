@@ -1,11 +1,11 @@
 id: 505143761
-type: way
+type: node
 latitude: 47.98507
 longitude: -84.77974
-postcode: "P0S 1K0"
+postcode: P0S 1K0
 city: Wawa
-street: "Mission Road"
-housenumber: 109
-phone: "+1-705-856-2218"
-opening_hours: "Mo-Fr 08:00-17:30; Sa 08:00-16:30"
-website: "https://www.homehardware.ca/en/store/17081"
+street: Mission Road
+housenumber: "109"
+phone: +1-705-856-2218
+opening_hours: Mo-Fr 08:00-17:30; Sa 08:00-16:30
+website: https://www.homehardware.ca/en/store/17081

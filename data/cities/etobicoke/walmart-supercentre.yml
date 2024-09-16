@@ -1,11 +1,11 @@
 id: 33459330
-type: way
+type: node
 latitude: 43.61888
 longitude: -79.55494
-postcode: "M9C 1A7"
+postcode: M9C 1A7
 city: Etobicoke
-street: "North Queen Street"
-housenumber: 165
-phone: "+1-416-239-7090"
-opening_hours: "7:00-23:00"
-website: "https://www.walmart.ca/en/stores-near-me/etobicoke-ontario-3031"
+street: North Queen Street
+housenumber: "165"
+phone: +1-416-239-7090
+opening_hours: 7:00-23:00
+website: https://www.walmart.ca/en/stores-near-me/etobicoke-ontario-3031

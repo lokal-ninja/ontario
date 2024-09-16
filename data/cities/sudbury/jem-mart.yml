@@ -1,11 +1,11 @@
 id: 181157776
-type: way
+type: node
 latitude: 46.48568
 longitude: -81.00767
-postcode: "P3C 1H2"
+postcode: P3C 1H2
 city: Sudbury
-street: "Douglas Street"
-housenumber: 325
+street: Douglas Street
+housenumber: "325"
 phone: ""
 opening_hours: ""
 website: ""

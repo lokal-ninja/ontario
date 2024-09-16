@@ -1,11 +1,11 @@
 id: 230514671
-type: way
+type: node
 latitude: 43.71353
 longitude: -79.45431
-postcode: "M6B 3T8"
+postcode: M6B 3T8
 city: North York
-street: "Dufferin Street"
-housenumber: 3041
-phone: "+1-416-781-9145"
+street: Dufferin Street
+housenumber: "3041"
+phone: +1-416-781-9145
 opening_hours: ""
 website: ""

@@ -1,11 +1,12 @@
 id: 243112576
-type: way
+type: node
 latitude: 46.49344
 longitude: -80.89574
-postcode: "P3B 2G5"
+postcode: P3B 2G5
 city: Sudbury
-street: "Kingsway"
-housenumber: 3085
-phone: "+1-705-566-8111"
-opening_hours: "Mo-We 09:00-18:00; Th 09:00-20:00; Fr 09:00-21:00; Sa 09:00-17:00; Su 10:00-16:00"
+street: Kingsway
+housenumber: "3085"
+phone: +1-705-566-8111
+opening_hours: Mo-We 09:00-18:00; Th 09:00-20:00; Fr 09:00-21:00; Sa 09:00-17:00;
+    Su 10:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 570474311
-type: way
+type: node
 latitude: 43.65195
 longitude: -79.44605
 postcode: ""
 city: Toronto
-street: "Dundas Street West"
-housenumber: 2006
-phone: "+1-416-537-9919"
+street: Dundas Street West
+housenumber: "2006"
+phone: +1-416-537-9919
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 496791040
-type: way
+type: node
 latitude: 43.18616
 longitude: -79.51723
-postcode: "L3M 1R1"
+postcode: L3M 1R1
 city: Grimsby
-street: "Main Street East"
-housenumber: 321
-phone: "+1-905-309-5576"
-opening_hours: "Mo-Fr 08:00-21:00; Sa,Su 08:00-18:00"
+street: Main Street East
+housenumber: "321"
+phone: +1-905-309-5576
+opening_hours: Mo-Fr 08:00-21:00; Sa,Su 08:00-18:00
 website: ""

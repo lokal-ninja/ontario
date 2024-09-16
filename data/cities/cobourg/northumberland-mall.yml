@@ -1,11 +1,11 @@
 id: 339165744
-type: way
+type: node
 latitude: 43.96914
 longitude: -78.2017
 postcode: ""
 city: Cobourg
-street: "Elgin Street West"
-housenumber: 1111
+street: Elgin Street West
+housenumber: "1111"
 phone: ""
 opening_hours: ""
 website: ""

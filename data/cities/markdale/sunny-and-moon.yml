@@ -1,11 +1,11 @@
 id: 362421120
-type: way
+type: node
 latitude: 44.32164
 longitude: -80.65374
-postcode: "N0C 1H0"
+postcode: N0C 1H0
 city: Markdale
-street: "Toronto Street North"
-housenumber: 188
+street: Toronto Street North
+housenumber: "188"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 547155903
-type: way
+type: node
 latitude: 42.90634
 longitude: -79.6178
 postcode: ""
 city: Dunnville
-street: "Cedar Street"
-housenumber: 424
+street: Cedar Street
+housenumber: "424"
 phone: ""
 opening_hours: ""
 website: ""

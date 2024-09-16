@@ -1,11 +1,11 @@
 id: 787820301
-type: way
+type: node
 latitude: 42.31174
 longitude: -83.04316
-postcode: "N9A 3J1"
+postcode: N9A 3J1
 city: Windsor
-street: "Wyandotte Street West"
-housenumber: 565
+street: Wyandotte Street West
+housenumber: "565"
 phone: ""
 opening_hours: ""
 website: ""

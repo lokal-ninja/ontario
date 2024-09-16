@@ -1,11 +1,11 @@
 id: 529270208
-type: way
+type: node
 latitude: 43.22989
 longitude: -80.14513
-postcode: "L0R 1T0"
+postcode: L0R 1T0
 city: Lynden
-street: "Lynden Road"
-housenumber: 23
-phone: "+1-519-647-3428"
+street: Lynden Road
+housenumber: "23"
+phone: +1-519-647-3428
 opening_hours: ""
 website: ""

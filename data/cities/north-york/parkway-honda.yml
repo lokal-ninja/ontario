@@ -1,11 +1,11 @@
 id: 43805436
-type: way
+type: node
 latitude: 43.72594
 longitude: -79.31605
 postcode: ""
 city: North York
-street: "Eglinton Avenue East"
-housenumber: 1681
+street: Eglinton Avenue East
+housenumber: "1681"
 phone: ""
 opening_hours: ""
 website: ""

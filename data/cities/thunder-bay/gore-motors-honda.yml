@@ -1,11 +1,11 @@
 id: 1301167191
-type: way
+type: node
 latitude: 48.42551
 longitude: -89.23468
-postcode: "P7B 3Y4"
+postcode: P7B 3Y4
 city: Thunder Bay
-street: "Memorial Avenue"
-housenumber: 361
-phone: "+1-807-345-0902"
-opening_hours: "Mo-Th 08:30-19:00; Fr 08:30-18:00; Sa 10:00-16:00"
-website: "https://goremotorshonda.com"
+street: Memorial Avenue
+housenumber: "361"
+phone: +1-807-345-0902
+opening_hours: Mo-Th 08:30-19:00; Fr 08:30-18:00; Sa 10:00-16:00
+website: https://goremotorshonda.com

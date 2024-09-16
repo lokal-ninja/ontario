@@ -1,11 +1,11 @@
 id: 524834101
-type: way
+type: node
 latitude: 44.30802
 longitude: -77.79788
 postcode: ""
 city: Campbellford
-street: "Front Street South"
-housenumber: 13
+street: Front Street South
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

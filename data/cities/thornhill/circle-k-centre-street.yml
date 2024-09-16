@@ -1,11 +1,11 @@
 id: 79156807
-type: way
+type: node
 latitude: 43.80928
 longitude: -79.45934
-postcode: "L4J 3M8"
+postcode: L4J 3M8
 city: Thornhill
-street: "Centre Street"
-housenumber: 1030
-phone: "+1-905-597-0345"
-opening_hours: "24/7"
+street: Centre Street
+housenumber: "1030"
+phone: +1-905-597-0345
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 479507242
-type: way
+type: node
 latitude: 45.40584
 longitude: -75.70233
-postcode: "K1R 6K2"
+postcode: K1R 6K2
 city: Ottawa
-street: "Bronson Avenue"
-housenumber: 565
-phone: "+1 613-563-8040"
-opening_hours: "Mo-Su 10:00-22:00"
-website: "https://www.twist-cannabis.ca/"
+street: Bronson Avenue
+housenumber: "565"
+phone: +1 613-563-8040
+opening_hours: Mo-Su 10:00-22:00
+website: https://www.twist-cannabis.ca/

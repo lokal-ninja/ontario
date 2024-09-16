@@ -1,11 +1,11 @@
 id: 608472521
-type: way
+type: node
 latitude: 44.90355
 longitude: -76.02067
-postcode: "K7A 1J1"
+postcode: K7A 1J1
 city: Smiths Falls
-street: "Daniel Street"
-housenumber: 12
+street: Daniel Street
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

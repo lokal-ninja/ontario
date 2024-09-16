@@ -1,11 +1,11 @@
 id: 467842063
-type: way
+type: node
 latitude: 43.48653
 longitude: -80.53992
-postcode: "N2L 3V4"
+postcode: N2L 3V4
 city: Waterloo
-street: "Albert Street"
-housenumber: 476
+street: Albert Street
+housenumber: "476"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-17:00, Su 11:00-16:00"
-website: "http://waterdepotwaterloo.com"
+opening_hours: Mo-Fr 09:00-19:00, Sa 09:00-17:00, Su 11:00-16:00
+website: http://waterdepotwaterloo.com

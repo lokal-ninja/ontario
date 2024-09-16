@@ -1,11 +1,11 @@
 id: 116640875
-type: way
+type: node
 latitude: 44.61179
 longitude: -75.69061
 postcode: ""
 city: Brockville
-street: "Parkedale Avenue"
-housenumber: 2120
+street: Parkedale Avenue
+housenumber: "2120"
 phone: ""
 opening_hours: ""
-website: "http://www.homedepot.ca/"
+website: http://www.homedepot.ca/

@@ -1,11 +1,11 @@
 id: 787827904
-type: way
+type: node
 latitude: 42.31631
 longitude: -83.03615
-postcode: "N9A 1H1"
+postcode: N9A 1H1
 city: Windsor
-street: "Goyeau Street"
-housenumber: 465
-phone: "+1-519-252-2713"
+street: Goyeau Street
+housenumber: "465"
+phone: +1-519-252-2713
 opening_hours: ""
-website: "https://www.tunneldutyfree.com/"
+website: https://www.tunneldutyfree.com/

@@ -4,8 +4,8 @@ latitude: 43.52835
 longitude: -80.22653
 postcode: ""
 city: Guelph
-street: "Gordon Street"
-housenumber: 620
-phone: "+1-519-824-4120x52585"
-opening_hours: "Mo,We 15:00-18:30; Tu,Th 11:00-15:00"
-website: "https://csaonline.ca/bike-centre"
+street: Gordon Street
+housenumber: "620"
+phone: +1-519-824-4120x52585
+opening_hours: Mo,We 15:00-18:30; Tu,Th 11:00-15:00
+website: https://csaonline.ca/bike-centre

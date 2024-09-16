@@ -1,11 +1,11 @@
 id: 525631280
-type: way
+type: node
 latitude: 44.31981
 longitude: -80.64904
-postcode: "N0C 1H0"
+postcode: N0C 1H0
 city: Markdale
-street: "Toronto Street North"
-housenumber: 45
-phone: "+1-519-986-3080"
+street: Toronto Street North
+housenumber: "45"
+phone: +1-519-986-3080
 opening_hours: ""
-website: "http://www.allansgarage.ca/"
+website: http://www.allansgarage.ca/

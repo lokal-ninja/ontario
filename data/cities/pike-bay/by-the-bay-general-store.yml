@@ -1,11 +1,11 @@
 id: 523801799
-type: way
+type: node
 latitude: 44.86935
 longitude: -81.32195
-postcode: "N0H 1X0"
+postcode: N0H 1X0
 city: Pike Bay
-street: "Pike Bay Road"
-housenumber: 819
-phone: "+1-519-793-3317"
+street: Pike Bay Road
+housenumber: "819"
+phone: +1-519-793-3317
 opening_hours: ""
 website: ""

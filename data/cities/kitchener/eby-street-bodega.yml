@@ -1,11 +1,11 @@
 id: 191170535
-type: way
+type: node
 latitude: 43.44832
 longitude: -80.48421
 postcode: ""
 city: Kitchener
-street: "Eby Street North"
-housenumber: 16
+street: Eby Street North
+housenumber: "16"
 phone: ""
 opening_hours: ""
-website: "https://ebybodega.ca"
+website: https://ebybodega.ca

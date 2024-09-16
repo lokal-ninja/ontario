@@ -2,10 +2,10 @@ id: 5720720022
 type: node
 latitude: 43.65602
 longitude: -79.37873
-postcode: "M5B 1C6"
+postcode: M5B 1C6
 city: Toronto
-street: "Dundas Street East"
-housenumber: 55
-phone: "+1-416-979-5550"
+street: Dundas Street East
+housenumber: "55"
+phone: +1-416-979-5550
 opening_hours: ""
 website: ""

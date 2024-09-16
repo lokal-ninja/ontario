@@ -2,10 +2,10 @@ id: 12091012782
 type: node
 latitude: 44.53382
 longitude: -78.14401
-postcode: "K0L 2H0"
+postcode: K0L 2H0
 city: Douro-Dummer
-street: "McCracken's Landing Road"
-housenumber: 2281
-phone: "1-705 652-6101"
-opening_hours: "Jul-Aug: Mo-Th 08:00-20:00; Fri 09:00-21:00; Sa 09:00-21:00; Su 08:00-20:00"
-website: "https://www.harbourtown.ca/general-store"
+street: McCracken's Landing Road
+housenumber: "2281"
+phone: 1-705 652-6101
+opening_hours: 'Jul-Aug: Mo-Th 08:00-20:00; Fri 09:00-21:00; Sa 09:00-21:00; Su 08:00-20:00'
+website: https://www.harbourtown.ca/general-store

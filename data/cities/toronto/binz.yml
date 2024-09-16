@@ -4,8 +4,8 @@ latitude: 43.65055
 longitude: -79.47985
 postcode: ""
 city: Toronto
-street: "Bloor Street West"
-housenumber: 2314
+street: Bloor Street West
+housenumber: "2314"
 phone: ""
 opening_hours: ""
-website: "https://binz.ca/"
+website: https://binz.ca/

@@ -1,11 +1,11 @@
 id: 62365021
-type: way
+type: node
 latitude: 43.79652
 longitude: -79.53424
-postcode: "L4K 3Y8"
+postcode: L4K 3Y8
 city: Vaughan
-street: "Edgeley Boulevard"
-housenumber: 100
-phone: "+1-905-532-5630"
+street: Edgeley Boulevard
+housenumber: "100"
+phone: +1-905-532-5630
 opening_hours: ""
 website: ""

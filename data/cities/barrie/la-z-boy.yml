@@ -1,11 +1,12 @@
 id: 110097062
-type: way
+type: node
 latitude: 44.33574
 longitude: -79.68919
-postcode: "L4N8V4"
+postcode: L4N8V4
 city: Barrie
-street: "Barrie View Drive"
-housenumber: 76
-phone: "+1 7057353337"
-opening_hours: "Mo 10:00-19:00; Tu 10:00-19:00; We 10:00-19:00; Th 10:00-19:00; Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-17:00"
+street: Barrie View Drive
+housenumber: "76"
+phone: +1 7057353337
+opening_hours: Mo 10:00-19:00; Tu 10:00-19:00; We 10:00-19:00; Th 10:00-19:00; Fr
+    10:00-19:00; Sa 10:00-18:00; Su 11:00-17:00
 website: ""

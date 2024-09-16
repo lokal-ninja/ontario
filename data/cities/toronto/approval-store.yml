@@ -1,11 +1,11 @@
 id: 659094344
-type: way
+type: node
 latitude: 43.69098
 longitude: -79.50046
 postcode: ""
 city: Toronto
-street: "Jane Street"
-housenumber: 1239
+street: Jane Street
+housenumber: "1239"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 157345676
-type: way
+type: node
 latitude: 43.46958
 longitude: -80.48457
-postcode: "N2H 4V4"
+postcode: N2H 4V4
 city: Kitchener
-street: "Lancaster Street West"
-housenumber: 331
-phone: "+1-226-647-8273"
-opening_hours: "Mo-Sa 11:00-19:00"
+street: Lancaster Street West
+housenumber: "331"
+phone: +1-226-647-8273
+opening_hours: Mo-Sa 11:00-19:00
 website: ""

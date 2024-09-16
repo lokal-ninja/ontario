@@ -1,11 +1,11 @@
 id: 902495443
-type: way
+type: node
 latitude: 42.96755
 longitude: -81.23219
 postcode: ""
 city: London
-street: "Wellington Road"
-housenumber: 244
-phone: "+1 2267215882"
+street: Wellington Road
+housenumber: "244"
+phone: +1 2267215882
 opening_hours: ""
-website: "https://brassanchorsbarbershop.resurva.com/"
+website: https://brassanchorsbarbershop.resurva.com/

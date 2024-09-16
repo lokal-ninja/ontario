@@ -1,11 +1,11 @@
 id: 527810465
-type: way
+type: node
 latitude: 42.95672
 longitude: -81.62171
-postcode: "N7G 1N9"
+postcode: N7G 1N9
 city: Strathroy
-street: "Metcalfe Street East"
-housenumber: 7
-phone: "+1-519-245-2462"
+street: Metcalfe Street East
+housenumber: "7"
+phone: +1-519-245-2462
 opening_hours: ""
 website: ""

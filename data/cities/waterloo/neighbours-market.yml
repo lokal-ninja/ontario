@@ -1,11 +1,11 @@
 id: 118409047
-type: way
+type: node
 latitude: 43.47802
 longitude: -80.52501
 postcode: ""
 city: Waterloo
-street: "King Street North"
-housenumber: 278
+street: King Street North
+housenumber: "278"
 phone: ""
-opening_hours: "Mo-Su 07:00-24:00"
+opening_hours: Mo-Su 07:00-24:00
 website: ""

@@ -1,11 +1,11 @@
 id: 175765699
-type: way
+type: node
 latitude: 43.76582
 longitude: -79.27944
 postcode: ""
 city: Scarborough
-street: "Ellesmere Road"
-housenumber: 925
+street: Ellesmere Road
+housenumber: "925"
 phone: ""
 opening_hours: ""
-website: "https://www.activegreenross.com/"
+website: https://www.activegreenross.com/

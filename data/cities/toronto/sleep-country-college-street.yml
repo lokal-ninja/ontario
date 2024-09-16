@@ -1,11 +1,11 @@
 id: 680916220
-type: way
+type: node
 latitude: 43.65516
 longitude: -79.41963
-postcode: "M6G 1C5"
+postcode: M6G 1C5
 city: Toronto
-street: "College Street"
-housenumber: 750
-phone: "+1-416-645-1881"
+street: College Street
+housenumber: "750"
+phone: +1-416-645-1881
 opening_hours: ""
 website: ""

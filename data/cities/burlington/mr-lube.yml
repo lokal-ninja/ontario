@@ -1,11 +1,11 @@
 id: 257021636
-type: way
+type: node
 latitude: 43.35914
 longitude: -79.77973
 postcode: ""
 city: Burlington
-street: "Fairview Street"
-housenumber: 3520
-phone: "+1-905-639-3118"
+street: Fairview Street
+housenumber: "3520"
+phone: +1-905-639-3118
 opening_hours: ""
 website: ""

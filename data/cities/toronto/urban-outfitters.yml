@@ -4,8 +4,8 @@ latitude: 43.65432
 longitude: -79.37989
 postcode: ""
 city: Toronto
-street: "Yonge Street"
-housenumber: 235
+street: Yonge Street
+housenumber: "235"
 phone: ""
-opening_hours: "Mo-Sa 09:00-23:00; Su 10:00-20:00"
+opening_hours: Mo-Sa 09:00-23:00; Su 10:00-20:00
 website: ""

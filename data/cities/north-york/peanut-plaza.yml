@@ -1,11 +1,11 @@
 id: 27029286
-type: way
+type: node
 latitude: 43.78593
 longitude: -79.35271
 postcode: ""
 city: North York
-street: "Don Mills Road East"
-housenumber: 3030
+street: Don Mills Road East
+housenumber: "3030"
 phone: ""
 opening_hours: ""
-website: "https://www.peanutplaza.ca/"
+website: https://www.peanutplaza.ca/

@@ -1,11 +1,11 @@
 id: 255346195
-type: way
+type: node
 latitude: 43.2362
 longitude: -79.8777
-postcode: "L9C 5R8"
+postcode: L9C 5R8
 city: Hamilton
-street: "Upper James Street"
-housenumber: 659
+street: Upper James Street
+housenumber: "659"
 phone: ""
 opening_hours: ""
 website: ""

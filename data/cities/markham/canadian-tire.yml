@@ -1,11 +1,11 @@
 id: 33551192
-type: way
+type: node
 latitude: 43.85224
 longitude: -79.25654
 postcode: ""
 city: Markham
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.canadiantire.ca/"
+website: https://www.canadiantire.ca/

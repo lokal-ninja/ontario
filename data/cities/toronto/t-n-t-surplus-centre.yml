@@ -1,11 +1,11 @@
 id: 175615968
-type: way
+type: node
 latitude: 43.60083
 longitude: -79.50559
 postcode: ""
 city: Toronto
-street: "Lake Shore Boulevard West"
-housenumber: 2938
-phone: "+1-416-251-3821"
+street: Lake Shore Boulevard West
+housenumber: "2938"
+phone: +1-416-251-3821
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 233699163
-type: way
+type: node
 latitude: 43.47261
 longitude: -80.43985
-postcode: "N2B 3E4"
+postcode: N2B 3E4
 city: Kitchener
-street: "Victoria Street North"
-housenumber: 1502
+street: Victoria Street North
+housenumber: "1502"
 phone: ""
 opening_hours: ""
 website: ""

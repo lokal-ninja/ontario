@@ -1,11 +1,11 @@
 id: 902772502
-type: way
+type: node
 latitude: 46.44793
 longitude: -81.15081
 postcode: ""
 city: LIvely
-street: "Municipal Road 24"
-housenumber: 760
+street: Municipal Road 24
+housenumber: "760"
 phone: ""
 opening_hours: ""
 website: ""

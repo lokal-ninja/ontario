@@ -1,11 +1,11 @@
 id: 145438895
-type: way
+type: node
 latitude: 43.44008
 longitude: -80.50895
-postcode: "N2M 3C5"
+postcode: N2M 3C5
 city: Kitchener
-street: "Highland Road West"
-housenumber: 274
+street: Highland Road West
+housenumber: "274"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.sobeys.com/stores/sobeys-highland/"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.sobeys.com/stores/sobeys-highland/

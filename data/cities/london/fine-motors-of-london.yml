@@ -1,11 +1,11 @@
 id: 135789028
-type: way
+type: node
 latitude: 42.98064
 longitude: -81.21352
 postcode: ""
 city: London
-street: "Hamilton Road"
-housenumber: 562
-phone: "+1-519-672-2277"
+street: Hamilton Road
+housenumber: "562"
+phone: +1-519-672-2277
 opening_hours: ""
-website: "https://finemotors.ca/"
+website: https://finemotors.ca/

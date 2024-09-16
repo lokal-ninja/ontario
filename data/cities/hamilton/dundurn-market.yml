@@ -1,11 +1,11 @@
 id: 799354564
-type: way
+type: node
 latitude: 43.25127
 longitude: -79.89281
-postcode: "L8P 4L6"
+postcode: L8P 4L6
 city: Hamilton
-street: "Dundurn Street South"
-housenumber: 346
-phone: "+1-905-518-1433"
-opening_hours: "Mo-Sa 08:00-18:00, Su 09:00-17:00"
+street: Dundurn Street South
+housenumber: "346"
+phone: +1-905-518-1433
+opening_hours: Mo-Sa 08:00-18:00, Su 09:00-17:00
 website: ""

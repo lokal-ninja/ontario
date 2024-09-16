@@ -1,11 +1,11 @@
 id: 33713064
-type: way
+type: node
 latitude: 43.59496
 longitude: -79.78912
 postcode: ""
 city: Mississauga
-street: "Argentia Road"
-housenumber: 3155
-phone: "+1-905-821-8150"
+street: Argentia Road
+housenumber: "3155"
+phone: +1-905-821-8150
 opening_hours: ""
-website: "https://www.walmart.ca/en/stores-near-me/meadowvale-ontario-3054"
+website: https://www.walmart.ca/en/stores-near-me/meadowvale-ontario-3054

@@ -2,10 +2,10 @@ id: 5781846572
 type: node
 latitude: 43.66366
 longitude: -79.37009
-postcode: "M5A 2K9"
+postcode: M5A 2K9
 city: Toronto
-street: "Carlton Street"
-housenumber: 203
-phone: "+1-416-925-9052"
+street: Carlton Street
+housenumber: "203"
+phone: +1-416-925-9052
 opening_hours: ""
-website: "https://www.basisdesignbuild.com/"
+website: https://www.basisdesignbuild.com/

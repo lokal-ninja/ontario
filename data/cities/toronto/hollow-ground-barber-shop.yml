@@ -4,8 +4,8 @@ latitude: 43.66045
 longitude: -79.43211
 postcode: ""
 city: Toronto
-street: "Bloor Street West"
-housenumber: 1053
-phone: "+1-416-551-8929"
-opening_hours: "Mo-Tu 10:00-22:00; We-Fr 10:00-21:00; Sa 10:00-19:00"
-website: "https://www.hollowgroundbarbershop.com/"
+street: Bloor Street West
+housenumber: "1053"
+phone: +1-416-551-8929
+opening_hours: Mo-Tu 10:00-22:00; We-Fr 10:00-21:00; Sa 10:00-19:00
+website: https://www.hollowgroundbarbershop.com/

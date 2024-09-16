@@ -1,11 +1,11 @@
 id: 243505836
-type: way
+type: node
 latitude: 43.86537
 longitude: -79.71223
 postcode: ""
 city: Caledon
-street: "McEwan Drive"
-housenumber: 150
+street: McEwan Drive
+housenumber: "150"
 phone: ""
 opening_hours: ""
-website: "https://www.walmart.ca/en/stores-near-me/bolton-ont-5742"
+website: https://www.walmart.ca/en/stores-near-me/bolton-ont-5742

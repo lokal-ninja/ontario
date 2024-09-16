@@ -4,8 +4,8 @@ latitude: 43.66673
 longitude: -79.46852
 postcode: ""
 city: Toronto
-street: "Vine Avenue"
-housenumber: 108
-phone: "+1-416-762-4848"
-opening_hours: "Mo-Sa 09:00-21:00, Su 10:00-20:00"
-website: "https://thesweetpotato.ca"
+street: Vine Avenue
+housenumber: "108"
+phone: +1-416-762-4848
+opening_hours: Mo-Sa 09:00-21:00, Su 10:00-20:00
+website: https://thesweetpotato.ca

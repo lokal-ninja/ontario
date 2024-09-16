@@ -1,11 +1,11 @@
 id: 240064974
-type: way
+type: node
 latitude: 49.41985
 longitude: -82.41937
 postcode: ""
 city: Kapuskasing
-street: "Brunetville Road"
-housenumber: 55
+street: Brunetville Road
+housenumber: "55"
 phone: ""
 opening_hours: ""
 website: ""

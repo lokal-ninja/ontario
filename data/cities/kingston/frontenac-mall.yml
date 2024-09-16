@@ -1,11 +1,11 @@
 id: 657098745
-type: way
+type: node
 latitude: 44.23969
 longitude: -76.54579
 postcode: ""
 city: Kingston
-street: "Bath Road"
-housenumber: 1300
+street: Bath Road
+housenumber: "1300"
 phone: ""
 opening_hours: ""
 website: ""

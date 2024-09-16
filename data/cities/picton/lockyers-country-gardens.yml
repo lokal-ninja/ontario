@@ -1,11 +1,11 @@
 id: 80309834
-type: way
+type: node
 latitude: 43.9936
 longitude: -77.17478
 postcode: ""
 city: Picton
-street: "County Road #1"
-housenumber: 332
-phone: "+1 (613) 476-5757"
+street: 'County Road #1'
+housenumber: "332"
+phone: +1 (613) 476-5757
 opening_hours: ""
-website: "https://www.lockyers.com/"
+website: https://www.lockyers.com/

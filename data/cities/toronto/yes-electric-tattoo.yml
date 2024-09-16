@@ -4,8 +4,8 @@ latitude: 43.64819
 longitude: -79.39845
 postcode: ""
 city: Toronto
-street: "Queen Street West"
-housenumber: 499
-phone: "+1-416-364-8545"
+street: Queen Street West
+housenumber: "499"
+phone: +1-416-364-8545
 opening_hours: ""
-website: "https://yeselectric.ink/"
+website: https://yeselectric.ink/

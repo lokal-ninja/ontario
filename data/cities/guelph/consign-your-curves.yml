@@ -1,11 +1,11 @@
 id: 389312021
-type: way
+type: node
 latitude: 43.54937
 longitude: -80.24045
-postcode: "N1E2X2"
+postcode: N1E2X2
 city: Guelph
-street: "Elizabeth Street"
-housenumber: 54
+street: Elizabeth Street
+housenumber: "54"
 phone: ""
 opening_hours: ""
-website: "https://www.consignyourcurves.com/"
+website: https://www.consignyourcurves.com/

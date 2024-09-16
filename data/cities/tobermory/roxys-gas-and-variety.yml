@@ -1,11 +1,11 @@
 id: 375278118
-type: way
+type: node
 latitude: 45.1914
 longitude: -81.55417
 postcode: ""
 city: Tobermory
-street: "Highway 6"
-housenumber: 6313
-phone: "+1-519-596-8300"
+street: Highway 6
+housenumber: "6313"
+phone: +1-519-596-8300
 opening_hours: ""
-website: "https://www.roxysgasandvariety.com/"
+website: https://www.roxysgasandvariety.com/

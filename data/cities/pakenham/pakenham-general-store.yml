@@ -1,11 +1,11 @@
 id: 256342511
-type: way
+type: node
 latitude: 45.33372
 longitude: -76.28986
 postcode: ""
 city: Pakenham
-street: "County Road 29 North"
-housenumber: 2524
+street: County Road 29 North
+housenumber: "2524"
 phone: ""
 opening_hours: ""
-website: "https://pakenhamgeneralstore.ca/"
+website: https://pakenhamgeneralstore.ca/

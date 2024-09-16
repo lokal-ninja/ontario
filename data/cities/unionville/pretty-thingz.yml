@@ -2,10 +2,10 @@ id: 5465041921
 type: node
 latitude: 43.86729
 longitude: -79.31235
-postcode: "L3R 2G9"
+postcode: L3R 2G9
 city: Unionville
-street: "Main Street"
-housenumber: 178
-phone: "+1-905-604-0527"
+street: Main Street
+housenumber: "178"
+phone: +1-905-604-0527
 opening_hours: ""
-website: "https://www.prettythingz.ca/"
+website: https://www.prettythingz.ca/

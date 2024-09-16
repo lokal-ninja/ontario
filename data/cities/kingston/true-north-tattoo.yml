@@ -4,8 +4,8 @@ latitude: 44.23306
 longitude: -76.48542
 postcode: ""
 city: Kingston
-street: "Queen Street"
-housenumber: 159
-phone: "+1-613-507-8783"
-opening_hours: "Tu-Sa 12:00-20:00"
+street: Queen Street
+housenumber: "159"
+phone: +1-613-507-8783
+opening_hours: Tu-Sa 12:00-20:00
 website: ""

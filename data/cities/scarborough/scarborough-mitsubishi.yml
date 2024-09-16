@@ -1,11 +1,11 @@
 id: 43810068
-type: way
+type: node
 latitude: 43.72788
 longitude: -79.29138
 postcode: ""
 city: Scarborough
-street: "Eglinton Avenue East"
-housenumber: 1910
+street: Eglinton Avenue East
+housenumber: "1910"
 phone: ""
 opening_hours: ""
 website: ""

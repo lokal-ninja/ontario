@@ -1,11 +1,11 @@
 id: 31900601
-type: way
+type: node
 latitude: 43.80245
 longitude: -79.19641
 postcode: ""
 city: Toronto
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "http://www.homedepot.ca/"
+website: http://www.homedepot.ca/

@@ -1,11 +1,11 @@
 id: 170002825
-type: way
+type: node
 latitude: 43.45565
 longitude: -79.68555
 postcode: ""
 city: Oakville
-street: "Cross Avenue"
-housenumber: 157
+street: Cross Avenue
+housenumber: "157"
 phone: ""
 opening_hours: ""
 website: ""

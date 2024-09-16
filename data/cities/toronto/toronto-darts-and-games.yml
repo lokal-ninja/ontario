@@ -4,8 +4,8 @@ latitude: 43.66224
 longitude: -79.42393
 postcode: ""
 city: Toronto
-street: "Bloor Street West"
-housenumber: 835
+street: Bloor Street West
+housenumber: "835"
 phone: ""
-opening_hours: "Mo 12:00-18:00; Tu-Sa 11:00-19:00; Su 12:00-18:00"
+opening_hours: Mo 12:00-18:00; Tu-Sa 11:00-19:00; Su 12:00-18:00
 website: ""

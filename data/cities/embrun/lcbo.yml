@@ -1,11 +1,11 @@
 id: 605276176
-type: way
+type: node
 latitude: 45.2686
 longitude: -75.30228
 postcode: ""
 city: Embrun
-street: "Notre Dame Street"
-housenumber: 757
+street: Notre Dame Street
+housenumber: "757"
 phone: ""
 opening_hours: ""
 website: ""

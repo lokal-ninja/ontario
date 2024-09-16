@@ -1,11 +1,11 @@
 id: 647465674
-type: way
+type: node
 latitude: 43.63936
 longitude: -79.42135
 postcode: ""
 city: Toronto
-street: "Atlantic Avenue"
-housenumber: 110
+street: Atlantic Avenue
+housenumber: "110"
 phone: ""
 opening_hours: ""
 website: ""

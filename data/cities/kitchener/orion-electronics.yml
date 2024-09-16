@@ -1,11 +1,11 @@
 id: 67792408
-type: way
+type: node
 latitude: 43.46007
 longitude: -80.48272
-postcode: "N2H 4S9"
+postcode: N2H 4S9
 city: Kitchener
-street: "Lancaster Street West"
-housenumber: 40
+street: Lancaster Street West
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

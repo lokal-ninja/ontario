@@ -1,11 +1,11 @@
 id: 97927950
-type: way
+type: node
 latitude: 43.23538
 longitude: -79.76152
 postcode: ""
 city: Hamilton
-street: "Centennial Parkway North"
-housenumber: 191
+street: Centennial Parkway North
+housenumber: "191"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 135223824
-type: way
+type: node
 latitude: 42.97806
 longitude: -81.24209
 postcode: ""
 city: London
-street: "Wellington Street"
-housenumber: 175
-phone: "+1 5194345842"
+street: Wellington Street
+housenumber: "175"
+phone: +1 5194345842
 opening_hours: ""
-website: "http://jimsspeed.com/"
+website: http://jimsspeed.com/

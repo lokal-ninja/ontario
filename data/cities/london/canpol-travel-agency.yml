@@ -4,8 +4,8 @@ latitude: 42.97813
 longitude: -81.19218
 postcode: ""
 city: London
-street: "Hamilton Road"
-housenumber: 972
-phone: "+1-519-659-8228"
-opening_hours: "Mo-Th 09:00-18:00; Fr 09:00-17:00; Sa 10:00-14:00; Su off; PH off"
-website: "http://canpoltravel.com"
+street: Hamilton Road
+housenumber: "972"
+phone: +1-519-659-8228
+opening_hours: Mo-Th 09:00-18:00; Fr 09:00-17:00; Sa 10:00-14:00; Su off; PH off
+website: http://canpoltravel.com

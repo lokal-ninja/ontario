@@ -1,11 +1,11 @@
 id: 221112763
-type: way
+type: node
 latitude: 43.66857
 longitude: -79.37016
 postcode: ""
 city: Toronto
-street: "Parliament Street"
-housenumber: 600
-phone: "+1-416-934-9797"
+street: Parliament Street
+housenumber: "600"
+phone: +1-416-934-9797
 opening_hours: ""
 website: ""

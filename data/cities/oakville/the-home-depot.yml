@@ -1,11 +1,11 @@
 id: 170354905
-type: way
+type: node
 latitude: 43.40035
 longitude: -79.74933
 postcode: ""
 city: Oakville
-street: "South Service Road West"
-housenumber: 3300
+street: South Service Road West
+housenumber: "3300"
 phone: ""
 opening_hours: ""
-website: "http://www.homedepot.ca/"
+website: http://www.homedepot.ca/

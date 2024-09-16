@@ -1,11 +1,11 @@
 id: 527130426
-type: way
+type: node
 latitude: 42.7794
 longitude: -80.68084
-postcode: "N0J 1H0"
+postcode: N0J 1H0
 city: Mabee's Corners
-street: "Mabee Road"
-housenumber: 2
+street: Mabee Road
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

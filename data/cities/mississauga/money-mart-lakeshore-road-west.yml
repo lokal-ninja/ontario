@@ -4,8 +4,8 @@ latitude: 43.51342
 longitude: -79.62667
 postcode: ""
 city: Mississauga
-street: "Lakeshore Road West"
-housenumber: 1900
+street: Lakeshore Road West
+housenumber: "1900"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Th-Fr 09:00-21:00; Sa 09:00-18:00; Su 11:00-15:00"
-website: "https://moneymart.ca/"
+opening_hours: Mo-Fr 09:00-20:00; Th-Fr 09:00-21:00; Sa 09:00-18:00; Su 11:00-15:00
+website: https://moneymart.ca/

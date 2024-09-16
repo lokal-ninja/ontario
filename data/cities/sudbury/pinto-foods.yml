@@ -1,11 +1,11 @@
 id: 180152606
-type: way
+type: node
 latitude: 46.49161
 longitude: -81.00877
-postcode: "P3C 4A6"
+postcode: P3C 4A6
 city: Sudbury
-street: "Eyre Street"
-housenumber: 59
+street: Eyre Street
+housenumber: "59"
 phone: ""
-opening_hours: "Mo-Fr 07:00-23:59; Sa-Su 08:00-23:59"
+opening_hours: Mo-Fr 07:00-23:59; Sa-Su 08:00-23:59
 website: ""

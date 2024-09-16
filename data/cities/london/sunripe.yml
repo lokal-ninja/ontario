@@ -1,11 +1,11 @@
 id: 142431943
-type: way
+type: node
 latitude: 42.99977
 longitude: -81.23675
-postcode: "N5Y 2L6"
+postcode: N5Y 2L6
 city: London
-street: "Adelaide Street North"
-housenumber: 744
+street: Adelaide Street North
+housenumber: "744"
 phone: ""
 opening_hours: ""
-website: "https://www.sunripe.ca/"
+website: https://www.sunripe.ca/

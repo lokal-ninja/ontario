@@ -1,11 +1,11 @@
 id: 459259673
-type: way
+type: node
 latitude: 43.49173
 longitude: -80.53544
-postcode: "N2L 4E8"
+postcode: N2L 4E8
 city: Waterloo
-street: "Weber Street North"
-housenumber: 496
-phone: "+1-519-725-2888"
-opening_hours: "Mo-Fr 07:00-17:00"
-website: "https://www.battlefieldequipment.ca/locations/waterloo"
+street: Weber Street North
+housenumber: "496"
+phone: +1-519-725-2888
+opening_hours: Mo-Fr 07:00-17:00
+website: https://www.battlefieldequipment.ca/locations/waterloo

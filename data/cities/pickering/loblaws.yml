@@ -1,11 +1,11 @@
 id: 33384938
-type: way
+type: node
 latitude: 43.83258
 longitude: -79.09248
 postcode: ""
 city: Pickering
-street: "Liverpool Road"
-housenumber: 1792
+street: Liverpool Road
+housenumber: "1792"
 phone: ""
 opening_hours: ""
 website: ""

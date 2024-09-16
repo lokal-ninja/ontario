@@ -4,8 +4,8 @@ latitude: 43.64681
 longitude: -79.40533
 postcode: ""
 city: Toronto
-street: "Queen Street West"
-housenumber: 695
-phone: "+1-416-223-4400"
-opening_hours: "Su-Mo 12:00-18:00; Tu-Sa 11:00-19:00"
-website: "https://www.hayleyelsaesser.com/"
+street: Queen Street West
+housenumber: "695"
+phone: +1-416-223-4400
+opening_hours: Su-Mo 12:00-18:00; Tu-Sa 11:00-19:00
+website: https://www.hayleyelsaesser.com/

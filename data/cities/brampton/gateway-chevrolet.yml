@@ -1,11 +1,11 @@
 id: 56009689
-type: way
+type: node
 latitude: 43.73907
 longitude: -79.69951
 postcode: ""
 city: Brampton
-street: "Gateway Boulevard"
-housenumber: 2
+street: Gateway Boulevard
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

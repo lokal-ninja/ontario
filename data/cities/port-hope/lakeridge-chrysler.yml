@@ -1,11 +1,11 @@
 id: 237884734
-type: way
+type: node
 latitude: 43.95119
 longitude: -78.2806
-postcode: "L1A 1C6"
+postcode: L1A 1C6
 city: Port Hope
-street: "Peter Street"
-housenumber: 152
+street: Peter Street
+housenumber: "152"
 phone: ""
 opening_hours: ""
 website: ""

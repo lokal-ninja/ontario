@@ -1,11 +1,11 @@
 id: 379958176
-type: way
+type: node
 latitude: 43.67963
 longitude: -79.84332
 postcode: ""
 city: Brampton
-street: "Dufay Road"
-housenumber: 65
+street: Dufay Road
+housenumber: "65"
 phone: ""
 opening_hours: ""
 website: ""

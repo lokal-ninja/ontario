@@ -1,11 +1,11 @@
 id: 56236436
-type: way
+type: node
 latitude: 43.86736
 longitude: -78.91768
-postcode: "L1N 6K9"
+postcode: L1N 6K9
 city: Whitby
-street: "Champlain Court"
-housenumber: 1100
-phone: "+1-866-475-7111"
-opening_hours: "Mo,Tu,Fr 09:30-18:00; We,Th 09:30-20:00; Sa 09:30-17:00; Su,PH off"
-website: "https://www.gpbikespowersports.com"
+street: Champlain Court
+housenumber: "1100"
+phone: +1-866-475-7111
+opening_hours: Mo,Tu,Fr 09:30-18:00; We,Th 09:30-20:00; Sa 09:30-17:00; Su,PH off
+website: https://www.gpbikespowersports.com

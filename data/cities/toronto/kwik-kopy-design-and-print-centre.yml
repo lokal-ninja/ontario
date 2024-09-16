@@ -4,8 +4,8 @@ latitude: 43.64776
 longitude: -79.38961
 postcode: ""
 city: Toronto
-street: "Adelaide Street West"
-housenumber: 263
+street: Adelaide Street West
+housenumber: "263"
 phone: ""
-opening_hours: "08:30-17:00"
-website: "http://www.kkdpc.ca/"
+opening_hours: 08:30-17:00
+website: http://www.kkdpc.ca/

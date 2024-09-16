@@ -1,11 +1,11 @@
 id: 214991261
-type: way
+type: node
 latitude: 44.33968
 longitude: -79.68666
-postcode: "L4N 6A7"
+postcode: L4N 6A7
 city: Barrie
-street: "Barrie View Drive"
-housenumber: 10
-phone: "+1-705-733-2800"
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00"
-website: "http://www.homedepot.ca/"
+street: Barrie View Drive
+housenumber: "10"
+phone: +1-705-733-2800
+opening_hours: Mo-Fr 07:00-21:00; Sa 07:00-20:00
+website: http://www.homedepot.ca/

@@ -1,11 +1,11 @@
 id: 161690652
-type: way
+type: node
 latitude: 43.33977
 longitude: -79.78683
-postcode: "L7R 3M2"
+postcode: L7R 3M2
 city: Burlington
-street: "Guelph Line"
-housenumber: 489
+street: Guelph Line
+housenumber: "489"
 phone: ""
-opening_hours: "Tu-Fr 09:00-17:00; Sa 10:00-16:00"
-website: "https://burlingtoncamera.com/"
+opening_hours: Tu-Fr 09:00-17:00; Sa 10:00-16:00
+website: https://burlingtoncamera.com/

@@ -1,11 +1,11 @@
 id: 1087367724
-type: way
+type: node
 latitude: 43.19354
 longitude: -79.56054
 postcode: ""
 city: Grimsby
-street: "Ontario Street"
-housenumber: 3
+street: Ontario Street
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.grimsbymassage.com/"
+website: https://www.grimsbymassage.com/

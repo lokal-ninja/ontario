@@ -1,11 +1,11 @@
 id: 208800070
-type: way
+type: node
 latitude: 43.14582
 longitude: -80.73868
-postcode: "N4S 5S1"
+postcode: N4S 5S1
 city: Woodstock
-street: "Devonshire Avenue"
-housenumber: 951
-phone: "+1-519-537-2696"
+street: Devonshire Avenue
+housenumber: "951"
+phone: +1-519-537-2696
 opening_hours: ""
 website: ""

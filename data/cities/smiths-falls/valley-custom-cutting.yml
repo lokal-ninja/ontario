@@ -1,11 +1,11 @@
 id: 817368888
-type: way
+type: node
 latitude: 44.88827
 longitude: -76.0325
-postcode: "K7A 5B8"
+postcode: K7A 5B8
 city: Smiths Falls
-street: "Lombard Street"
-housenumber: 159
-phone: "+1-613-205-1111"
+street: Lombard Street
+housenumber: "159"
+phone: +1-613-205-1111
 opening_hours: ""
 website: ""

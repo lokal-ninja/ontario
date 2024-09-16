@@ -1,11 +1,11 @@
 id: 33042628
-type: way
+type: node
 latitude: 43.53068
 longitude: -79.6776
 postcode: ""
 city: Mississauga
-street: "Motorway Boulevard"
-housenumber: 2420
+street: Motorway Boulevard
+housenumber: "2420"
 phone: ""
 opening_hours: ""
 website: ""

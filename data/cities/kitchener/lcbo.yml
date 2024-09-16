@@ -1,11 +1,11 @@
 id: 43250541
-type: way
+type: node
 latitude: 43.43912
 longitude: -80.50974
-postcode: "N2M 5G2"
+postcode: N2M 5G2
 city: Kitchener
-street: "Highland Road West"
-housenumber: 324
+street: Highland Road West
+housenumber: "324"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 10:00-20:00"
+opening_hours: Mo-Sa 10:00-21:00; Su 10:00-20:00
 website: ""

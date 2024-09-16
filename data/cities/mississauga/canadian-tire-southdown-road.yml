@@ -1,11 +1,11 @@
 id: 33302111
-type: way
+type: node
 latitude: 43.50935
 longitude: -79.62877
-postcode: "L5J 2Y4"
+postcode: L5J 2Y4
 city: Mississauga
-street: "Southdown Road"
-housenumber: 900
-phone: "+1-905-822-6234;+1-905-822-7180"
-opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-18:00; Su 09:00-18:00"
-website: "https://www.canadiantire.ca/en/store-locator/on/mississauga-southdown-on.store.html"
+street: Southdown Road
+housenumber: "900"
+phone: +1-905-822-6234;+1-905-822-7180
+opening_hours: Mo-Fr 08:00-21:00; Sa 08:00-18:00; Su 09:00-18:00
+website: https://www.canadiantire.ca/en/store-locator/on/mississauga-southdown-on.store.html

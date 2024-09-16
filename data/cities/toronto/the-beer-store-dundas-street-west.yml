@@ -1,11 +1,11 @@
 id: 440271843
-type: way
+type: node
 latitude: 43.65246
 longitude: -79.44974
 postcode: ""
 city: Toronto
-street: "Dundas Street West"
-housenumber: 2135
+street: Dundas Street West
+housenumber: "2135"
 phone: ""
 opening_hours: ""
 website: ""

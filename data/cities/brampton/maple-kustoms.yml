@@ -1,11 +1,11 @@
 id: 660848411
-type: way
+type: node
 latitude: 43.65663
 longitude: -79.74654
-postcode: "l6y 2m5"
+postcode: l6y 2m5
 city: Brampton
-street: "Pickard Lane"
-housenumber: 12
-phone: "+1-647-621-7985"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: Pickard Lane
+housenumber: "12"
+phone: +1-647-621-7985
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

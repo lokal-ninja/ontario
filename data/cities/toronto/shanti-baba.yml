@@ -2,10 +2,10 @@ id: 5300198816
 type: node
 latitude: 43.64755
 longitude: -79.40286
-postcode: "M5V 2B5"
+postcode: M5V 2B5
 city: Toronto
-street: "Queen Street West"
-housenumber: 546
-phone: "+1-416-504-5034"
+street: Queen Street West
+housenumber: "546"
+phone: +1-416-504-5034
 opening_hours: ""
-website: "http://shantibaba.ca/"
+website: http://shantibaba.ca/

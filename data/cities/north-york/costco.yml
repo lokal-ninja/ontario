@@ -1,11 +1,11 @@
 id: 32706576
-type: way
+type: node
 latitude: 43.73153
 longitude: -79.45671
-postcode: "M3K 2C8"
+postcode: M3K 2C8
 city: North York
-street: "Billy Bishop Way"
-housenumber: 100
+street: Billy Bishop Way
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:30; Sa, Su 09:00-18:00"
-website: "https://www.costco.ca/warehouse-locations/downsview-north-york-on-535.html"
+opening_hours: Mo-Fr 09:00-20:30; Sa, Su 09:00-18:00
+website: https://www.costco.ca/warehouse-locations/downsview-north-york-on-535.html

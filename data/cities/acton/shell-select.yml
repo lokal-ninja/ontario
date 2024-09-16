@@ -1,11 +1,11 @@
 id: 202621405
-type: way
+type: node
 latitude: 43.63592
 longitude: -80.02899
-postcode: "L7J 1R2"
+postcode: L7J 1R2
 city: Acton
-street: "Queen Street"
-housenumber: 318
-phone: "+1 519-853-4515"
-opening_hours: "24/7"
-website: "https://find.shell.com/ca/fuel/10053616-queen-st-e/en_CA"
+street: Queen Street
+housenumber: "318"
+phone: +1 519-853-4515
+opening_hours: 24/7
+website: https://find.shell.com/ca/fuel/10053616-queen-st-e/en_CA

@@ -1,11 +1,11 @@
 id: 303680362
-type: way
+type: node
 latitude: 45.22259
 longitude: -77.9341
 postcode: ""
 city: Maynooth
-street: "Old Hastings Road"
-housenumber: 200
-phone: "+1-613-338-3259"
+street: Old Hastings Road
+housenumber: "200"
+phone: +1-613-338-3259
 opening_hours: ""
-website: "https://www.mgdalyfuneralhome.com/"
+website: https://www.mgdalyfuneralhome.com/

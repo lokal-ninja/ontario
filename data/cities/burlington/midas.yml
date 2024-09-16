@@ -1,11 +1,11 @@
 id: 161690636
-type: way
+type: node
 latitude: 43.339
 longitude: -79.78411
-postcode: "L7N 1M5"
+postcode: L7N 1M5
 city: Burlington
-street: "New Street"
-housenumber: 3030
+street: New Street
+housenumber: "3030"
 phone: ""
 opening_hours: ""
 website: ""

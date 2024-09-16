@@ -2,10 +2,10 @@ id: 11529633181
 type: node
 latitude: 42.43219
 longitude: -82.22047
-postcode: "N7M 5J7"
+postcode: N7M 5J7
 city: Chatham
-street: "St. Clair Street"
-housenumber: 815
-phone: "+1 519-358-7603"
-opening_hours: "Mo-Sa 08:00-21:00; Su 10:00-18:00"
-website: "https://www.dollarama.com/en-CA/locations/on/chatham-815-st-clair-st/"
+street: St. Clair Street
+housenumber: "815"
+phone: +1 519-358-7603
+opening_hours: Mo-Sa 08:00-21:00; Su 10:00-18:00
+website: https://www.dollarama.com/en-CA/locations/on/chatham-815-st-clair-st/

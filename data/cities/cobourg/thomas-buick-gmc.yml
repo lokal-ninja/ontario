@@ -1,11 +1,11 @@
 id: 308733116
-type: way
+type: node
 latitude: 43.96408
 longitude: -78.17248
-postcode: "K9A 4L1"
+postcode: K9A 4L1
 city: Cobourg
-street: "University Avenue West"
-housenumber: 100
+street: University Avenue West
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

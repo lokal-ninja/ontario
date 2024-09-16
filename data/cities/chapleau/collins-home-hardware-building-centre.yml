@@ -1,11 +1,11 @@
 id: 555475831
-type: way
+type: node
 latitude: 47.84254
 longitude: -83.40228
-postcode: "P0M 1K0"
+postcode: P0M 1K0
 city: Chapleau
-street: "Birch Street East"
-housenumber: 7
+street: Birch Street East
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.homehardware.ca/en/store/12293"
+website: https://www.homehardware.ca/en/store/12293

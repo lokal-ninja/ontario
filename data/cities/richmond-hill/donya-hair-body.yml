@@ -1,11 +1,11 @@
 id: 1255760868
-type: way
+type: node
 latitude: 43.87969
 longitude: -79.4384
-postcode: "L4C 3C1"
+postcode: L4C 3C1
 city: Richmond Hill
-street: "Yonge Street"
-housenumber: 10341
-phone: "+1-905-233-1172"
-opening_hours: "Mo, We, Th, Fr, Sa 10:00-18:00"
-website: "https://donyahairbody.com/"
+street: Yonge Street
+housenumber: "10341"
+phone: +1-905-233-1172
+opening_hours: Mo, We, Th, Fr, Sa 10:00-18:00
+website: https://donyahairbody.com/

@@ -1,11 +1,11 @@
 id: 260313665
-type: way
+type: node
 latitude: 49.06113
 longitude: -81.02668
-postcode: "P0L 1C0"
+postcode: P0L 1C0
 city: Cochrane
-street: "Railway Street"
-housenumber: 136
+street: Railway Street
+housenumber: "136"
 phone: ""
 opening_hours: ""
-website: "https://www.angelsminimart.ca/"
+website: https://www.angelsminimart.ca/

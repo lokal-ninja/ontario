@@ -1,11 +1,11 @@
 id: 525201446
-type: way
+type: node
 latitude: 42.66777
 longitude: -80.65875
-postcode: "N0E 1G0"
+postcode: N0E 1G0
 city: Langton
-street: "Norfolk County Road 28"
-housenumber: 960
-phone: "+1-519-875-3321"
+street: Norfolk County Road 28
+housenumber: "960"
+phone: +1-519-875-3321
 opening_hours: ""
 website: ""

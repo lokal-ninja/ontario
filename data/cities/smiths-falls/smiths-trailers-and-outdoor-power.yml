@@ -1,11 +1,11 @@
 id: 819645778
-type: way
+type: node
 latitude: 44.87147
 longitude: -76.04288
-postcode: "K7A 5B8"
+postcode: K7A 5B8
 city: Smiths Falls
-street: "Progress Road"
-housenumber: 2
-phone: "+1-613-283-4466"
-opening_hours: "Mo-Fr 09:00-16:00; Sa-Su closed"
-website: "https://www.smithsequip.com"
+street: Progress Road
+housenumber: "2"
+phone: +1-613-283-4466
+opening_hours: Mo-Fr 09:00-16:00; Sa-Su closed
+website: https://www.smithsequip.com

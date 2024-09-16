@@ -1,11 +1,11 @@
 id: 167229325
-type: way
+type: node
 latitude: 46.49417
 longitude: -81.00376
-postcode: "P3C 1X5"
+postcode: P3C 1X5
 city: Sudbury
-street: "Pine Street"
-housenumber: 214
+street: Pine Street
+housenumber: "214"
 phone: ""
 opening_hours: ""
-website: "https://skinscienceme.ca/"
+website: https://skinscienceme.ca/

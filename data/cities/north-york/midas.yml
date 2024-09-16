@@ -1,11 +1,11 @@
 id: 229920810
-type: way
+type: node
 latitude: 43.75859
 longitude: -79.48895
 postcode: ""
 city: North York
-street: "Keele Street"
-housenumber: 3771
+street: Keele Street
+housenumber: "3771"
 phone: ""
 opening_hours: ""
 website: ""

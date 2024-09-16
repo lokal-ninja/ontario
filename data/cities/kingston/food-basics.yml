@@ -4,8 +4,8 @@ latitude: 44.24989
 longitude: -76.56593
 postcode: ""
 city: Kingston
-street: "Gardiners Road"
-housenumber: 770
-phone: "+1-613-544-9317"
-opening_hours: "Mo-Fr 08:00-21:00, Sa-Su 08:00-20:00"
-website: "https://www.foodbasics.ca/find-a-grocery/100671"
+street: Gardiners Road
+housenumber: "770"
+phone: +1-613-544-9317
+opening_hours: Mo-Fr 08:00-21:00, Sa-Su 08:00-20:00
+website: https://www.foodbasics.ca/find-a-grocery/100671

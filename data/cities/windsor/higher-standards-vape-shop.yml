@@ -4,8 +4,8 @@ latitude: 42.31563
 longitude: -83.01441
 postcode: ""
 city: Windsor
-street: "Erie Street"
-housenumber: 1405
-phone: "+1-226-802-1988"
-opening_hours: "Mo-Su 10:00-22:00"
+street: Erie Street
+housenumber: "1405"
+phone: +1-226-802-1988
+opening_hours: Mo-Su 10:00-22:00
 website: ""

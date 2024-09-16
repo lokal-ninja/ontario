@@ -4,8 +4,8 @@ latitude: 43.66235
 longitude: -79.40499
 postcode: ""
 city: Toronto
-street: "Harbord Street"
-housenumber: 121
-phone: "+1-416-537-8334"
+street: Harbord Street
+housenumber: "121"
+phone: +1-416-537-8334
 opening_hours: ""
-website: "https://parentbooks.ca/"
+website: https://parentbooks.ca/

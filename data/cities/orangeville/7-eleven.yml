@@ -1,11 +1,11 @@
 id: 244788142
-type: way
+type: node
 latitude: 43.91736
 longitude: -80.10357
-postcode: "L9W 1K9"
+postcode: L9W 1K9
 city: Orangeville
-street: "Broadway"
-housenumber: 268
-phone: "+1-519-938-8687"
+street: Broadway
+housenumber: "268"
+phone: +1-519-938-8687
 opening_hours: ""
-website: "https://stores.7-eleven.ca/store/32682"
+website: https://stores.7-eleven.ca/store/32682

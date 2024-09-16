@@ -1,11 +1,11 @@
 id: 1115000317
-type: way
+type: node
 latitude: 44.15379
 longitude: -79.87133
-postcode: "L9R 1S6"
+postcode: L9R 1S6
 city: Alliston
-street: "Victoria Street West"
-housenumber: 60
-phone: "+1-705-391-6828"
-opening_hours: "Tu-Sa 10:00-18:00"
-website: "https://beauhomedecor.ca/"
+street: Victoria Street West
+housenumber: "60"
+phone: +1-705-391-6828
+opening_hours: Tu-Sa 10:00-18:00
+website: https://beauhomedecor.ca/

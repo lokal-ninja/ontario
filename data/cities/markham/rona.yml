@@ -2,10 +2,10 @@ id: 1365430873
 type: node
 latitude: 43.87163
 longitude: -79.28417
-postcode: "L3P 4H1"
+postcode: L3P 4H1
 city: Markham
-street: "McCowan Road"
-housenumber: 8651
-phone: "+1 905 294 5200"
-opening_hours: "Mo-Fr 07:00-20:00, Sa-Su 07:00-18:00"
-website: "https://www.rona.ca"
+street: McCowan Road
+housenumber: "8651"
+phone: +1 905 294 5200
+opening_hours: Mo-Fr 07:00-20:00, Sa-Su 07:00-18:00
+website: https://www.rona.ca

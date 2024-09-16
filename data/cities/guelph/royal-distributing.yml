@@ -1,11 +1,11 @@
 id: 234346930
-type: way
+type: node
 latitude: 43.53587
 longitude: -80.31859
 postcode: ""
 city: Guelph
-street: "Woodlawn Road West"
-housenumber: 925
+street: Woodlawn Road West
+housenumber: "925"
 phone: ""
 opening_hours: ""
 website: ""

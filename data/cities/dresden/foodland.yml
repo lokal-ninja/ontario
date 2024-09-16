@@ -1,11 +1,11 @@
 id: 466745377
-type: way
+type: node
 latitude: 42.59231
 longitude: -82.18024
 postcode: ""
 city: Dresden
-street: "St. George Street South"
-housenumber: 256
+street: St. George Street South
+housenumber: "256"
 phone: ""
 opening_hours: ""
 website: ""

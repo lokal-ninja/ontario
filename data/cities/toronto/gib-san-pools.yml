@@ -1,11 +1,11 @@
 id: 657979248
-type: way
+type: node
 latitude: 43.62528
 longitude: -79.52779
 postcode: ""
 city: Toronto
-street: "Kipling Avenue"
-housenumber: 711
-phone: "+1-416-749-4361"
+street: Kipling Avenue
+housenumber: "711"
+phone: +1-416-749-4361
 opening_hours: ""
-website: "https://gibsanpools.com/"
+website: https://gibsanpools.com/

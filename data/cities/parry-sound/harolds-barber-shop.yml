@@ -1,11 +1,11 @@
 id: 1267736872
-type: way
+type: node
 latitude: 45.34381
 longitude: -80.03342
 postcode: ""
 city: Parry Sound
-street: "James Street"
-housenumber: 29
+street: James Street
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

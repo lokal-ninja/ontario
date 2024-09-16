@@ -1,11 +1,11 @@
 id: 662774497
-type: way
+type: node
 latitude: 43.72035
 longitude: -79.28938
 postcode: ""
 city: Scarborough
-street: "Comstock Road"
-housenumber: 53
-phone: "+1 416-759-5656"
+street: Comstock Road
+housenumber: "53"
+phone: +1 416-759-5656
 opening_hours: ""
-website: "http://villaccis.ca/"
+website: http://villaccis.ca/

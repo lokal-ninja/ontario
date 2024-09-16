@@ -1,11 +1,11 @@
 id: 296332014
-type: way
+type: node
 latitude: 43.98411
 longitude: -80.73778
 postcode: ""
 city: Mount Forest
-street: "Main Street North"
-housenumber: 260
-phone: "+1-519-323-1530"
+street: Main Street North
+housenumber: "260"
+phone: +1-519-323-1530
 opening_hours: ""
-website: "https://www.idealsupply.com/"
+website: https://www.idealsupply.com/

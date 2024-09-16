@@ -1,11 +1,11 @@
 id: 97928424
-type: way
+type: node
 latitude: 43.25002
 longitude: -79.78723
-postcode: "L8H 5Y4"
+postcode: L8H 5Y4
 city: Hamilton
-street: "Parkdale Avenue North"
-housenumber: 475
-phone: "+1-905-549-4454"
+street: Parkdale Avenue North
+housenumber: "475"
+phone: +1-905-549-4454
 opening_hours: ""
-website: "https://gnbsystems.com/contact-gnb-hamilton.php"
+website: https://gnbsystems.com/contact-gnb-hamilton.php

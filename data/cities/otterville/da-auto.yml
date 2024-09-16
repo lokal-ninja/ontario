@@ -1,11 +1,11 @@
 id: 527346554
-type: way
+type: node
 latitude: 42.92676
 longitude: -80.59868
-postcode: "N0J 1R0"
+postcode: N0J 1R0
 city: Otterville
-street: "Main Street East"
-housenumber: 253
-phone: "+1-519-879-6507"
+street: Main Street East
+housenumber: "253"
+phone: +1-519-879-6507
 opening_hours: ""
 website: ""

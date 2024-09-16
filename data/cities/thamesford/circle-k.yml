@@ -1,11 +1,11 @@
 id: 529265293
-type: way
+type: node
 latitude: 43.05527
 longitude: -81.00639
-postcode: "N0M 2M0"
+postcode: N0M 2M0
 city: Thamesford
-street: "Road 68"
-housenumber: 682824
-phone: "+1-519-285-2584"
-opening_hours: "24/7"
+street: Road 68
+housenumber: "682824"
+phone: +1-519-285-2584
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 271838529
-type: way
+type: node
 latitude: 43.86191
 longitude: -79.48869
-postcode: "L6A 0A9"
+postcode: L6A 0A9
 city: Maple
-street: "Major MacKenzie Drive West"
-housenumber: 1500
-phone: "+1-905-879-9224"
-opening_hours: "24/7"
+street: Major MacKenzie Drive West
+housenumber: "1500"
+phone: +1-905-879-9224
+opening_hours: 24/7
 website: ""

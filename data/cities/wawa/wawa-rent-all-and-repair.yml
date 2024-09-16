@@ -1,11 +1,11 @@
 id: 1001895082
-type: way
+type: node
 latitude: 47.98693
 longitude: -84.77738
-postcode: "P0S 1K0"
+postcode: P0S 1K0
 city: Wawa
-street: "Winston Road"
-housenumber: 58
-phone: "+1-705-856-2927"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00"
-website: "https://wawa-rent-all-repair-inc.square.site/"
+street: Winston Road
+housenumber: "58"
+phone: +1-705-856-2927
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00
+website: https://wawa-rent-all-repair-inc.square.site/

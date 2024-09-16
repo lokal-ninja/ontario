@@ -1,11 +1,11 @@
 id: 243014263
-type: way
+type: node
 latitude: 42.88665
 longitude: -79.25404
-postcode: "L3K 3G2"
+postcode: L3K 3G2
 city: Port Colborne
-street: "Clearence Street West"
-housenumber: 111
-phone: "+1-905-835-5156"
+street: Clearence Street West
+housenumber: "111"
+phone: +1-905-835-5156
 opening_hours: ""
-website: "https://stores.7-eleven.ca/store/29146"
+website: https://stores.7-eleven.ca/store/29146

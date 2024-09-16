@@ -1,11 +1,11 @@
 id: 369606845
-type: way
+type: node
 latitude: 44.00311
 longitude: -77.15137
 postcode: ""
 city: Picton
-street: "Lake Street"
-housenumber: 2
+street: Lake Street
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-18:00"
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-18:00
 website: ""

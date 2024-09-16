@@ -1,11 +1,11 @@
 id: 172973111
-type: way
+type: node
 latitude: 43.43753
 longitude: -80.56571
-postcode: "N2T 0A6"
+postcode: N2T 0A6
 city: Waterloo
-street: "The Boardwalk"
-housenumber: 345
+street: The Boardwalk
+housenumber: "345"
 phone: ""
 opening_hours: ""
 website: ""

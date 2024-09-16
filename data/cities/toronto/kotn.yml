@@ -2,10 +2,10 @@ id: 5508835322
 type: node
 latitude: 43.64603
 longitude: -79.41032
-postcode: "M6J 1E9"
+postcode: M6J 1E9
 city: Toronto
-street: "Queen Street West"
-housenumber: 754
-phone: "+1-416-363-5656"
+street: Queen Street West
+housenumber: "754"
+phone: +1-416-363-5656
 opening_hours: ""
-website: "https://kotn.com/"
+website: https://kotn.com/

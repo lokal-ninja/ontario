@@ -1,11 +1,11 @@
 id: 32254537
-type: way
+type: node
 latitude: 43.6706
 longitude: -79.46713
-postcode: "M6N 3E2"
+postcode: M6N 3E2
 city: Toronto
-street: "Keele Street"
-housenumber: 542
-phone: "+1-416-762-2816"
+street: Keele Street
+housenumber: "542"
+phone: +1-416-762-2816
 opening_hours: ""
-website: "https://stores.staples.ca/on/toronto/office-supplies-ca-86.html"
+website: https://stores.staples.ca/on/toronto/office-supplies-ca-86.html

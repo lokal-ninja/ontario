@@ -1,11 +1,11 @@
 id: 69013082
-type: way
+type: node
 latitude: 43.47926
 longitude: -80.52003
-postcode: "N2J 3H6"
+postcode: N2J 3H6
 city: Waterloo
-street: "Weber Street North"
-housenumber: 262
-phone: "+1-519-886-2950"
+street: Weber Street North
+housenumber: "262"
+phone: +1-519-886-2950
 opening_hours: ""
-website: "https://www.homehardware.ca/en/store/11255"
+website: https://www.homehardware.ca/en/store/11255

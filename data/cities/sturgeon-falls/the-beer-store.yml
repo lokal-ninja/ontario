@@ -1,11 +1,11 @@
 id: 179123551
-type: way
+type: node
 latitude: 46.36586
 longitude: -79.92659
 postcode: ""
 city: Sturgeon Falls
-street: "Front Street"
-housenumber: 
+street: Front Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00; Su 12:00-16:00"
-website: "https://www.thebeerstore.ca/locations/sturgeon-falls"
+opening_hours: Mo-Sa 10:00-18:00; Su 12:00-16:00
+website: https://www.thebeerstore.ca/locations/sturgeon-falls

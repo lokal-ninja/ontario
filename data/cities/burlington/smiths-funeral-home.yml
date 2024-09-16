@@ -1,11 +1,11 @@
 id: 167277587
-type: way
+type: node
 latitude: 43.35672
 longitude: -79.80918
 postcode: ""
 city: Burlington
-street: "Guelph Line"
-housenumber: 1167
-phone: "+1-905-632-3333"
+street: Guelph Line
+housenumber: "1167"
+phone: +1-905-632-3333
 opening_hours: ""
 website: ""

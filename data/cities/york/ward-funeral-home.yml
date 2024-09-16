@@ -1,11 +1,11 @@
 id: 385775449
-type: way
+type: node
 latitude: 43.70167
 longitude: -79.52126
 postcode: ""
 city: York
-street: "Weston Road"
-housenumber: 2035
+street: Weston Road
+housenumber: "2035"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.40439
 longitude: -80.66398
 postcode: ""
 city: Baden
-street: "Snyder's Road E"
-housenumber: 125
-phone: "+1-519-772-4570"
-opening_hours: "Mo-Fr 11:00-17:00; Sa on appointment; Su off"
-website: "http://www.seamcrafts.com/"
+street: Snyder's Road E
+housenumber: "125"
+phone: +1-519-772-4570
+opening_hours: Mo-Fr 11:00-17:00; Sa "on appointment"; Su off
+website: http://www.seamcrafts.com/

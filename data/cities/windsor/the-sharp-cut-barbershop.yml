@@ -1,11 +1,11 @@
 id: 1089306611
-type: way
+type: node
 latitude: 42.31636
 longitude: -83.04445
-postcode: "N9A5P8"
+postcode: N9A5P8
 city: Windsor
-street: "University Avenue West"
-housenumber: 474
+street: University Avenue West
+housenumber: "474"
 phone: "+15199991730"
-opening_hours: "Tu-Fr 11:00-20:00; Sa 11:00-19:00; Su 12:00-18:00"
-website: "https://www.facebook.com/TheSharpCutBarbershop/?tsid=0.3867778882108811&source=result"
+opening_hours: Tu-Fr 11:00-20:00; Sa 11:00-19:00; Su 12:00-18:00
+website: https://www.facebook.com/TheSharpCutBarbershop/?tsid=0.3867778882108811&source=result

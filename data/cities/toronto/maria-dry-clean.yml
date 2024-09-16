@@ -4,8 +4,8 @@ latitude: 43.65407
 longitude: -79.45167
 postcode: ""
 city: Toronto
-street: "Dundas Street West"
-housenumber: 2226
-phone: "+1-647-350-5520"
-opening_hours: "Mo-Th 09:30-19:00; Fr 09:30-17:00; Sa 11:00-16:00; Su closed"
+street: Dundas Street West
+housenumber: "2226"
+phone: +1-647-350-5520
+opening_hours: Mo-Th 09:30-19:00; Fr 09:30-17:00; Sa 11:00-16:00; Su closed
 website: ""

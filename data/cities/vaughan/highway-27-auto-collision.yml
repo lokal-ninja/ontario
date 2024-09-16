@@ -1,11 +1,11 @@
 id: 377752676
-type: way
+type: node
 latitude: 43.78715
 longitude: -79.62595
 postcode: ""
 city: Vaughan
-street: "Highway 27"
-housenumber: 8336
-phone: "+1-905-851-3967"
+street: Highway 27
+housenumber: "8336"
+phone: +1-905-851-3967
 opening_hours: ""
-website: "http://www.hwy27auto.com/"
+website: http://www.hwy27auto.com/

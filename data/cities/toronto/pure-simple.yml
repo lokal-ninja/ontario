@@ -2,10 +2,10 @@ id: 5219075057
 type: node
 latitude: 43.64333
 longitude: -79.40457
-postcode: "M5V 2W9"
+postcode: M5V 2W9
 city: Toronto
-street: "King Street West"
-housenumber: 725
-phone: "+1-416-366-8558"
+street: King Street West
+housenumber: "725"
+phone: +1-416-366-8558
 opening_hours: ""
-website: "https://pureandsimple.ca/"
+website: https://pureandsimple.ca/

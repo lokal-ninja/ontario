@@ -1,11 +1,11 @@
 id: 662098193
-type: way
+type: node
 latitude: 43.66644
 longitude: -79.48504
 postcode: ""
 city: York
-street: "Dundas Street West"
-housenumber: 3400
+street: Dundas Street West
+housenumber: "3400"
 phone: ""
 opening_hours: ""
 website: ""

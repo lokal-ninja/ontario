@@ -1,11 +1,11 @@
 id: 796666543
-type: way
+type: node
 latitude: 43.65743
 longitude: -79.34389
 postcode: ""
 city: Toronto
-street: "Eastern Avenue"
-housenumber: 410
+street: Eastern Avenue
+housenumber: "410"
 phone: ""
 opening_hours: ""
 website: ""

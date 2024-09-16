@@ -1,11 +1,11 @@
 id: 264689744
-type: way
+type: node
 latitude: 43.86152
 longitude: -79.71874
-postcode: "L7E 4G1"
+postcode: L7E 4G1
 city: Caledon
-street: "Highway 50"
-housenumber: 12760
-phone: "+1-905-951-4100"
+street: Highway 50
+housenumber: "12760"
+phone: +1-905-951-4100
 opening_hours: ""
-website: "http://www.homedepot.ca/"
+website: http://www.homedepot.ca/

@@ -1,11 +1,11 @@
 id: 713737257
-type: way
+type: node
 latitude: 43.65463
 longitude: -79.38119
-postcode: "M5B 1C8"
+postcode: M5B 1C8
 city: Toronto
-street: "Yonge Street"
-housenumber: 290
+street: Yonge Street
+housenumber: "290"
 phone: ""
 opening_hours: ""
 website: ""

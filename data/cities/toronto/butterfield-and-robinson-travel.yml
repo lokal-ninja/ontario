@@ -2,10 +2,10 @@ id: 5709317674
 type: node
 latitude: 43.65534
 longitude: -79.37816
-postcode: "M5B 1X3"
+postcode: M5B 1X3
 city: Toronto
-street: "Bond Street"
-housenumber: 70
-phone: "+1-416-864-1354"
+street: Bond Street
+housenumber: "70"
+phone: +1-416-864-1354
 opening_hours: ""
 website: ""

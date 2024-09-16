@@ -1,11 +1,11 @@
 id: 110105618
-type: way
+type: node
 latitude: 44.33355
 longitude: -79.69186
-postcode: "L4N 9H7"
+postcode: L4N 9H7
 city: Barrie
-street: "Mapleview Drive West"
-housenumber: 71
-phone: "+1-705-735-0621"
-opening_hours: "Mo-Th 10:00-21:00; Fr-Sa 10:00-23:00; Su 11:00-17:00"
-website: "https://www.thebeerstore.ca/locations/barrie"
+street: Mapleview Drive West
+housenumber: "71"
+phone: +1-705-735-0621
+opening_hours: Mo-Th 10:00-21:00; Fr-Sa 10:00-23:00; Su 11:00-17:00
+website: https://www.thebeerstore.ca/locations/barrie

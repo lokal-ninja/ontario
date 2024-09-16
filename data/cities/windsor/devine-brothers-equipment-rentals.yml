@@ -1,11 +1,11 @@
 id: 480066551
-type: way
+type: node
 latitude: 42.32091
 longitude: -83.03076
-postcode: "N9A 1S9"
+postcode: N9A 1S9
 city: Windsor
-street: "Aylmer Avenue"
-housenumber: 172
+street: Aylmer Avenue
+housenumber: "172"
 phone: ""
 opening_hours: ""
 website: ""

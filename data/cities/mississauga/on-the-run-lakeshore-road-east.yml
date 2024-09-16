@@ -1,11 +1,11 @@
 id: 116296169
-type: way
+type: node
 latitude: 43.55638
 longitude: -79.58145
 postcode: ""
 city: Mississauga
-street: "Lakeshore Road East"
-housenumber: 150
+street: Lakeshore Road East
+housenumber: "150"
 phone: ""
 opening_hours: ""
 website: ""

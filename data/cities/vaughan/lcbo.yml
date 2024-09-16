@@ -1,11 +1,11 @@
 id: 172666301
-type: way
+type: node
 latitude: 43.84512
 longitude: -79.55549
 postcode: ""
 city: Vaughan
-street: "Major Mackenzie Drive"
-housenumber: 3631
+street: Major Mackenzie Drive
+housenumber: "3631"
 phone: ""
 opening_hours: ""
 website: ""

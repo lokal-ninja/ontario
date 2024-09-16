@@ -1,11 +1,11 @@
 id: 29043226
-type: way
+type: node
 latitude: 43.3305
 longitude: -79.8258
-postcode: "L7S 2K2"
+postcode: L7S 2K2
 city: Burlington
-street: "Plains Road East"
-housenumber: 1197
-phone: "+1-905-637-8085"
+street: Plains Road East
+housenumber: "1197"
+phone: +1-905-637-8085
 opening_hours: ""
-website: "http://www.burlingtonstoragebarn.ca/"
+website: http://www.burlingtonstoragebarn.ca/

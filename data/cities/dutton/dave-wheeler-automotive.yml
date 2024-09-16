@@ -1,11 +1,11 @@
 id: 1013446590
-type: way
+type: node
 latitude: 42.66832
 longitude: -81.50713
 postcode: ""
 city: Dutton
-street: "Currie Road"
-housenumber: 267
-phone: "+1-519-762-3561"
+street: Currie Road
+housenumber: "267"
+phone: +1-519-762-3561
 opening_hours: ""
 website: ""

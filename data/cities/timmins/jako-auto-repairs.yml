@@ -1,11 +1,11 @@
 id: 915531537
-type: way
+type: node
 latitude: 48.47084
 longitude: -81.32448
-postcode: "P4N 2P6"
+postcode: P4N 2P6
 city: Timmins
-street: "Railway Street"
-housenumber: 352
-phone: "+1 705 267 5256"
+street: Railway Street
+housenumber: "352"
+phone: +1 705 267 5256
 opening_hours: ""
 website: ""

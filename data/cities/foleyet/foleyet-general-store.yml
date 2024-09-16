@@ -1,11 +1,11 @@
 id: 518581337
-type: way
+type: node
 latitude: 48.24484
 longitude: -82.44074
-postcode: "P0M 1T0"
+postcode: P0M 1T0
 city: Foleyet
-street: "Young Street"
-housenumber: 45
-phone: "+1-705-899-2332"
+street: Young Street
+housenumber: "45"
+phone: +1-705-899-2332
 opening_hours: ""
 website: ""

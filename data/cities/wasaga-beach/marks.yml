@@ -1,11 +1,11 @@
 id: 1218426965
-type: way
+type: node
 latitude: 44.47157
 longitude: -80.07402
 postcode: ""
 city: Wasaga Beach
-street: "45th Street South"
-housenumber: 75
-phone: "+1 705 429 5868"
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-20:00; Su 09:00-18:00"
-website: "https://www.marks.com/en/store-details/on/wasaga-beach-566.html"
+street: 45th Street South
+housenumber: "75"
+phone: +1 705 429 5868
+opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-20:00; Su 09:00-18:00
+website: https://www.marks.com/en/store-details/on/wasaga-beach-566.html

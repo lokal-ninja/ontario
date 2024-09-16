@@ -1,11 +1,11 @@
 id: 175653565
-type: way
+type: node
 latitude: 46.49088
 longitude: -80.9888
-postcode: "P3B 1M2"
+postcode: P3B 1M2
 city: Sudbury
-street: "Larch Street"
-housenumber: 233
+street: Larch Street
+housenumber: "233"
 phone: ""
 opening_hours: ""
 website: ""

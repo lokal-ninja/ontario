@@ -1,11 +1,11 @@
 id: 673020499
-type: way
+type: node
 latitude: 43.64064
 longitude: -79.53862
-postcode: "M9B 1A8"
+postcode: M9B 1A8
 city: Etobicoke
-street: "Dundas Street West"
-housenumber: 5230
-phone: "+1-416-236-1020"
+street: Dundas Street West
+housenumber: "5230"
+phone: +1-416-236-1020
 opening_hours: ""
 website: ""

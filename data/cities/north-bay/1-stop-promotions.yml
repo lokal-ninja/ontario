@@ -1,11 +1,11 @@
 id: 350891368
-type: way
+type: node
 latitude: 46.29182
 longitude: -79.4513
-postcode: "P1A 2K2"
+postcode: P1A 2K2
 city: North Bay
-street: "Lee Avenue"
-housenumber: 112
+street: Lee Avenue
+housenumber: "112"
 phone: ""
 opening_hours: ""
 website: ""

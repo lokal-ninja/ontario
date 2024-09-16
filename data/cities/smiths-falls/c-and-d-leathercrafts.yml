@@ -1,11 +1,11 @@
 id: 823113901
-type: way
+type: node
 latitude: 44.9095
 longitude: -76.05118
-postcode: "K7A 4S4"
+postcode: K7A 4S4
 city: Smiths Falls
-street: "Saumure Circle"
-housenumber: 106
-phone: "+1 613-283-2530"
-opening_hours: "By appointment"
+street: Saumure Circle
+housenumber: "106"
+phone: +1 613-283-2530
+opening_hours: '"By appointment"'
 website: ""

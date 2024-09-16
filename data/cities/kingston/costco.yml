@@ -1,11 +1,11 @@
 id: 25333208
-type: way
+type: node
 latitude: 44.26077
 longitude: -76.56003
 postcode: ""
 city: Kingston
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.costco.ca/warehouse-locations/kingston-on-533.html"
+website: https://www.costco.ca/warehouse-locations/kingston-on-533.html

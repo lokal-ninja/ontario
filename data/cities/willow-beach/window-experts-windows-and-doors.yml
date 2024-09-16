@@ -1,11 +1,11 @@
 id: 661434851
-type: way
+type: node
 latitude: 44.3168
 longitude: -79.40923
-postcode: "L0E 1S0"
+postcode: L0E 1S0
 city: Willow Beach
-street: "Farley Cir"
-housenumber: 22
-phone: "+1 705-481-0858"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 10:00-14:00"
-website: "https://thewindowexperts.ca/"
+street: Farley Cir
+housenumber: "22"
+phone: +1 705-481-0858
+opening_hours: Mo-Fr 09:00-17:00; Sa 10:00-14:00
+website: https://thewindowexperts.ca/

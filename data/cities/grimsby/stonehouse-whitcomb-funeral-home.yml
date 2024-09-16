@@ -1,11 +1,11 @@
 id: 1087410402
-type: way
+type: node
 latitude: 43.19327
 longitude: -79.56263
 postcode: ""
 city: Grimsby
-street: "Mountain Street"
-housenumber: 11
-phone: "+1-905-945-2755"
+street: Mountain Street
+housenumber: "11"
+phone: +1-905-945-2755
 opening_hours: ""
 website: ""

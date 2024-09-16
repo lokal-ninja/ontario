@@ -2,10 +2,10 @@ id: 9263729452
 type: node
 latitude: 42.0378
 longitude: -82.6018
-postcode: "N8H 3C4"
+postcode: N8H 3C4
 city: Leamington
-street: "Erie Street South"
-housenumber: 275
-phone: "+1 519-326-3331"
-opening_hours: "Mo-We,Fr 09:00-17:00; Th 09:00-20:00; Sa 09:00-14:00"
-website: "https://www.lavenderspa.ca/"
+street: Erie Street South
+housenumber: "275"
+phone: +1 519-326-3331
+opening_hours: Mo-We,Fr 09:00-17:00; Th 09:00-20:00; Sa 09:00-14:00
+website: https://www.lavenderspa.ca/

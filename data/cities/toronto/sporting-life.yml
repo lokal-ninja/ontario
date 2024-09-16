@@ -1,11 +1,11 @@
 id: 105142981
-type: way
+type: node
 latitude: 43.71659
 longitude: -79.40023
 postcode: ""
 city: Toronto
-street: "Yonge Street"
-housenumber: 2665
+street: Yonge Street
+housenumber: "2665"
 phone: ""
 opening_hours: ""
 website: ""

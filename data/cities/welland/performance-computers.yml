@@ -4,8 +4,9 @@ latitude: 42.98387
 longitude: -79.24062
 postcode: ""
 city: Welland
-street: "Lincoln Street"
-housenumber: 289
-phone: "+1-905-732-0006"
-opening_hours: "Mo 10:00-16:00; Tu-We 10:00-18:00; Th 13:00-21:00; Fr 10:00-18:00; Sa 10:00-17:00"
+street: Lincoln Street
+housenumber: "289"
+phone: +1-905-732-0006
+opening_hours: Mo 10:00-16:00; Tu-We 10:00-18:00; Th 13:00-21:00; Fr 10:00-18:00;
+    Sa 10:00-17:00
 website: ""

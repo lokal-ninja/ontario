@@ -1,11 +1,11 @@
 id: 634864429
-type: way
+type: node
 latitude: 42.17464
 longitude: -82.82214
-postcode: "N8M 1A2"
+postcode: N8M 1A2
 city: Essex
-street: "Talbot St. N"
-housenumber: 46
+street: Talbot St. N
+housenumber: "46"
 phone: "+12263455174"
-opening_hours: "We 10:00-15:00; Th-Sa 10:00-16:00; Su 11:00-15:00"
+opening_hours: We 10:00-15:00; Th-Sa 10:00-16:00; Su 11:00-15:00
 website: ""

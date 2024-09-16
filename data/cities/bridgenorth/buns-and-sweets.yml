@@ -1,11 +1,11 @@
 id: 1011287612
-type: way
+type: node
 latitude: 44.37893
 longitude: -78.38525
-postcode: "K0L 1H0"
+postcode: K0L 1H0
 city: Bridgenorth
-street: "Hunter Street"
-housenumber: 818
+street: Hunter Street
+housenumber: "818"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 43352719
-type: way
+type: node
 latitude: 43.45614
 longitude: -80.47289
-postcode: "N2H 2P2"
+postcode: N2H 2P2
 city: Kitchener
-street: "Frederick Street"
-housenumber: 385
+street: Frederick Street
+housenumber: "385"
 phone: ""
 opening_hours: ""
 website: ""

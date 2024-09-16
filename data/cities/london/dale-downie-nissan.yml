@@ -1,11 +1,11 @@
 id: 142570787
-type: way
+type: node
 latitude: 43.00581
 longitude: -81.21679
-postcode: "N5Y 3L7"
+postcode: N5Y 3L7
 city: London
-street: "Oxford Street East"
-housenumber: 1111
+street: Oxford Street East
+housenumber: "1111"
 phone: ""
 opening_hours: ""
 website: ""

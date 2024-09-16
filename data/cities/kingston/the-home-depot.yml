@@ -1,11 +1,11 @@
 id: 13411142
-type: way
+type: node
 latitude: 44.24338
 longitude: -76.56561
-postcode: "K7M 4X2"
+postcode: K7M 4X2
 city: Kingston
-street: "Gardiners Road"
-housenumber: 606
+street: Gardiners Road
+housenumber: "606"
 phone: ""
 opening_hours: ""
-website: "http://www.homedepot.ca/"
+website: http://www.homedepot.ca/

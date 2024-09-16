@@ -1,11 +1,11 @@
 id: 220497416
-type: way
+type: node
 latitude: 46.50239
 longitude: -80.9861
-postcode: "P3B 2R6"
+postcode: P3B 2R6
 city: Sudbury
-street: "Murray Street"
-housenumber: 405
+street: Murray Street
+housenumber: "405"
 phone: ""
 opening_hours: ""
 website: ""

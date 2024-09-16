@@ -2,10 +2,10 @@ id: 1294005832
 type: node
 latitude: 43.68874
 longitude: -79.3918
-postcode: "M4T 1M9"
+postcode: M4T 1M9
 city: Toronto
-street: "St. Clair Avenue East"
-housenumber: 50
-phone: "+1-416-925-1135"
+street: St. Clair Avenue East
+housenumber: "50"
+phone: +1-416-925-1135
 opening_hours: ""
 website: ""

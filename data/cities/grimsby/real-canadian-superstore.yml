@@ -1,11 +1,11 @@
 id: 178328603
-type: way
+type: node
 latitude: 43.2042
 longitude: -79.59154
-postcode: "L3M 4E8"
+postcode: L3M 4E8
 city: Grimsby
-street: "South Service Road"
-housenumber: 361
-phone: "+1 905-309-3911"
-opening_hours: "Su-Mo 07:00-22:00"
-website: "https://www.realcanadiansuperstore.ca/store-locator/details/2806"
+street: South Service Road
+housenumber: "361"
+phone: +1 905-309-3911
+opening_hours: Su-Mo 07:00-22:00
+website: https://www.realcanadiansuperstore.ca/store-locator/details/2806

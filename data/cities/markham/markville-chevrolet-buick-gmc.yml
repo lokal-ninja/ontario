@@ -1,11 +1,11 @@
 id: 67138747
-type: way
+type: node
 latitude: 43.86871
 longitude: -79.28056
-postcode: "L3P 1B9"
+postcode: L3P 1B9
 city: Markham
-street: "Highway 7"
-housenumber: 5336
-phone: "+1 905 294 1140"
-opening_hours: "Mo-Th 09:00-19:00, Fr-Sa 09:00-17:00"
-website: "https://www.markvillechevrolet.com/"
+street: Highway 7
+housenumber: "5336"
+phone: +1 905 294 1140
+opening_hours: Mo-Th 09:00-19:00, Fr-Sa 09:00-17:00
+website: https://www.markvillechevrolet.com/

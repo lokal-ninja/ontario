@@ -1,11 +1,12 @@
 id: 394764991
-type: way
+type: node
 latitude: 43.89836
 longitude: -79.52297
 postcode: ""
 city: Vaughan (Maple)
-street: "Keele Street"
-housenumber: 11800
-phone: "+1-905-832-6955"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:00-18:00; Su 10:00-17:00; Dec 25-Feb Su[3] off"
-website: "https://www.terragreenhouses.com/terra-vaughan-garden-centre/"
+street: Keele Street
+housenumber: "11800"
+phone: +1-905-832-6955
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:00-18:00; Su 10:00-17:00; Dec 25-Feb Su[3]
+    off
+website: https://www.terragreenhouses.com/terra-vaughan-garden-centre/

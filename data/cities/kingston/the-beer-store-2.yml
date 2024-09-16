@@ -1,11 +1,11 @@
 id: 656547144
-type: way
+type: node
 latitude: 44.2636
 longitude: -76.57322
 postcode: ""
 city: Kingston
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.thebeerstore.ca/locations/kingston-nw-walmart"
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.thebeerstore.ca/locations/kingston-nw-walmart

@@ -1,11 +1,11 @@
 id: 388724432
-type: way
+type: node
 latitude: 44.54389
 longitude: -78.33256
 postcode: ""
 city: Buckhorn
-street: "Buckhorn Road"
-housenumber: 3192
-phone: "+1-705-657-8742"
+street: Buckhorn Road
+housenumber: "3192"
+phone: +1-705-657-8742
 opening_hours: ""
 website: ""

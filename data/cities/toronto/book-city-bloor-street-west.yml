@@ -4,8 +4,8 @@ latitude: 43.65019
 longitude: -79.48129
 postcode: ""
 city: Toronto
-street: "Bloor Street West"
-housenumber: 2354
+street: Bloor Street West
+housenumber: "2354"
 phone: ""
 opening_hours: ""
-website: "https://www.bookcity.ca/"
+website: https://www.bookcity.ca/

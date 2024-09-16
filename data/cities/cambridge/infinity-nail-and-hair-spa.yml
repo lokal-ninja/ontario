@@ -1,11 +1,11 @@
 id: 1147861982
-type: way
+type: node
 latitude: 43.38193
 longitude: -80.30563
-postcode: "N1R 7H5"
+postcode: N1R 7H5
 city: Cambridge
-street: "Glamis Road"
-housenumber: 30
-phone: "+1-519-620-9496"
-opening_hours: "Mo-Fr 09:30-19:00, Sa 09:30-17:00, Su 11:00-15:00"
+street: Glamis Road
+housenumber: "30"
+phone: +1-519-620-9496
+opening_hours: Mo-Fr 09:30-19:00, Sa 09:30-17:00, Su 11:00-15:00
 website: ""

@@ -1,11 +1,11 @@
 id: 122318290
-type: way
+type: node
 latitude: 43.78044
 longitude: -79.28627
 postcode: ""
 city: Scarborough
-street: "Cowdray Court"
-housenumber: 20
+street: Cowdray Court
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

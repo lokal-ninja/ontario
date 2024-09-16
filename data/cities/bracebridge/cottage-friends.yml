@@ -4,8 +4,8 @@ latitude: 45.04044
 longitude: -79.30922
 postcode: ""
 city: Bracebridge
-street: "Manitoba Street"
-housenumber: 14
-phone: "+1-705-645-6700"
-opening_hours: "Mo-Fr 11:00-16:00; Sa 10:30-16:30"
-website: "https://www.cottagefriends.ca/"
+street: Manitoba Street
+housenumber: "14"
+phone: +1-705-645-6700
+opening_hours: Mo-Fr 11:00-16:00; Sa 10:30-16:30
+website: https://www.cottagefriends.ca/

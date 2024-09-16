@@ -1,11 +1,11 @@
 id: 524220438
-type: way
+type: node
 latitude: 41.81182
 longitude: -82.65808
-postcode: "N0R 1M0"
+postcode: N0R 1M0
 city: Pelee Island
-street: "North Shore Road"
-housenumber: 347
-phone: "+1-519-724-2910"
+street: North Shore Road
+housenumber: "347"
+phone: +1-519-724-2910
 opening_hours: ""
 website: ""

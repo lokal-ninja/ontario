@@ -1,11 +1,11 @@
 id: 156968894
-type: way
+type: node
 latitude: 43.46479
 longitude: -80.46149
-postcode: "N2B 3C7"
+postcode: N2B 3C7
 city: Waterloo
-street: "Victoria Street North"
-housenumber: 991
+street: Victoria Street North
+housenumber: "991"
 phone: ""
 opening_hours: ""
 website: ""

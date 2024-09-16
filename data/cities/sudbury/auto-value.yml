@@ -1,11 +1,11 @@
 id: 211274101
-type: way
+type: node
 latitude: 46.47481
 longitude: -81.02443
-postcode: "P3C 4S3"
+postcode: P3C 4S3
 city: Sudbury
-street: "Lorne Street"
-housenumber: 1005
-phone: "+1-705-675-1818"
+street: Lorne Street
+housenumber: "1005"
+phone: +1-705-675-1818
 opening_hours: ""
 website: ""

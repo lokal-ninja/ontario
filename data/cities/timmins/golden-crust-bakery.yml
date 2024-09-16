@@ -1,11 +1,11 @@
 id: 699152864
-type: way
+type: node
 latitude: 48.47504
 longitude: -81.33877
-postcode: "P4N 2S8"
+postcode: P4N 2S8
 city: Timmins
-street: "Wilson Avenue"
-housenumber: 119
-phone: "+1 705 264 6567"
+street: Wilson Avenue
+housenumber: "119"
+phone: +1 705 264 6567
 opening_hours: ""
-website: "https://goldencrustbakery.ca/"
+website: https://goldencrustbakery.ca/

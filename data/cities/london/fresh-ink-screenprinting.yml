@@ -1,11 +1,11 @@
 id: 135223839
-type: way
+type: node
 latitude: 42.97828
 longitude: -81.24222
 postcode: ""
 city: London
-street: "Wellington Street"
-housenumber: 185
-phone: "+1 5192048465"
+street: Wellington Street
+housenumber: "185"
+phone: +1 5192048465
 opening_hours: ""
-website: "http://www.freshinkapparel.com/"
+website: http://www.freshinkapparel.com/

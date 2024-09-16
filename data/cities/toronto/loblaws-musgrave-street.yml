@@ -1,11 +1,11 @@
 id: 25636424
-type: way
+type: node
 latitude: 43.68891
 longitude: -79.28763
-postcode: "M4E 3W2"
+postcode: M4E 3W2
 city: Toronto
-street: "Musgrave Street"
-housenumber: 50
+street: Musgrave Street
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

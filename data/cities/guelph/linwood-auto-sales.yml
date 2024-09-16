@@ -1,11 +1,11 @@
 id: 1004638443
-type: way
+type: node
 latitude: 43.54379
 longitude: -80.2662
 postcode: ""
 city: Guelph
-street: "Edinburgh Road North"
-housenumber: 239
+street: Edinburgh Road North
+housenumber: "239"
 phone: ""
 opening_hours: ""
 website: ""

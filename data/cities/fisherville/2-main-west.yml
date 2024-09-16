@@ -1,11 +1,11 @@
 id: 527114193
-type: way
+type: node
 latitude: 42.88169
 longitude: -79.9041
-postcode: "N0A 1G0"
+postcode: N0A 1G0
 city: Fisherville
-street: "Main Street West"
-housenumber: 2
-phone: "+1-905-779-7777"
+street: Main Street West
+housenumber: "2"
+phone: +1-905-779-7777
 opening_hours: ""
 website: ""

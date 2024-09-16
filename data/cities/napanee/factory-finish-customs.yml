@@ -1,11 +1,11 @@
 id: 388152420
-type: way
+type: node
 latitude: 44.26057
 longitude: -76.96009
-postcode: "K7R 4A2"
+postcode: K7R 4A2
 city: Napanee
-street: "Commercial Court"
-housenumber: 25
-phone: "+1-855-382-3828"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.ffcustoms.com"
+street: Commercial Court
+housenumber: "25"
+phone: +1-855-382-3828
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.ffcustoms.com

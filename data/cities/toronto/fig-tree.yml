@@ -4,8 +4,8 @@ latitude: 43.65167
 longitude: -79.47466
 postcode: ""
 city: Toronto
-street: "Bloor Street West"
-housenumber: 2184
-phone: "+1-416-767-0777"
+street: Bloor Street West
+housenumber: "2184"
+phone: +1-416-767-0777
 opening_hours: ""
-website: "https://www.figtreetoronto.com/"
+website: https://www.figtreetoronto.com/

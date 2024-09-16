@@ -1,11 +1,11 @@
 id: 150432571
-type: way
+type: node
 latitude: 43.64609
 longitude: -79.40211
 postcode: ""
 city: Toronto
-street: "Adelaide Street West"
-housenumber: 
+street: Adelaide Street West
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

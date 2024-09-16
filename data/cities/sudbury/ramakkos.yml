@@ -1,11 +1,11 @@
 id: 947559371
-type: way
+type: node
 latitude: 46.44621
 longitude: -80.98997
-postcode: "P3E 6K7"
+postcode: P3E 6K7
 city: Sudbury
-street: "Regent Street"
-housenumber: 2345
-phone: "+1-705-522-8889"
+street: Regent Street
+housenumber: "2345"
+phone: +1-705-522-8889
 opening_hours: ""
 website: ""

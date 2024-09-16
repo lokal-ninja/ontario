@@ -4,8 +4,8 @@ latitude: 43.67116
 longitude: -79.47207
 postcode: ""
 city: Toronto
-street: "St. Clair Avenue West"
-housenumber: 2129
+street: St. Clair Avenue West
+housenumber: "2129"
 phone: ""
 opening_hours: ""
-website: "https://www.canadiantire.ca/"
+website: https://www.canadiantire.ca/

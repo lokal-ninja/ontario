@@ -1,11 +1,11 @@
 id: 266168996
-type: way
+type: node
 latitude: 43.23733
 longitude: -79.86751
-postcode: "L9A 3P9"
+postcode: L9A 3P9
 city: Hamilton
-street: "Upper Wellington Street"
-housenumber: 616
-phone: "+1-905-574-6166"
-opening_hours: "08:00-17:30"
-website: "https://towerservicestation.com/"
+street: Upper Wellington Street
+housenumber: "616"
+phone: +1-905-574-6166
+opening_hours: 08:00-17:30
+website: https://towerservicestation.com/

@@ -1,11 +1,11 @@
 id: 454736266
-type: way
+type: node
 latitude: 45.33116
 longitude: -75.34662
-postcode: "K0A 3H0"
+postcode: K0A 3H0
 city: Vars
-street: "Burton Road"
-housenumber: 992
-phone: "+1-613-443-2853"
+street: Burton Road
+housenumber: "992"
+phone: +1-613-443-2853
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 234507389
-type: way
+type: node
 latitude: 43.70065
 longitude: -79.46062
-postcode: "M6B 4B3"
+postcode: M6B 4B3
 city: York
-street: "Castlefield Avenue"
-housenumber: 1300
-phone: "+1-416-780-2770"
+street: Castlefield Avenue
+housenumber: "1300"
+phone: +1-416-780-2770
 opening_hours: ""
-website: "https://www.lowes.ca/"
+website: https://www.lowes.ca/

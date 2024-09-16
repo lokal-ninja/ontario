@@ -1,11 +1,11 @@
 id: 67928885
-type: way
+type: node
 latitude: 42.98811
 longitude: -79.25969
-postcode: "L3C 5G7"
+postcode: L3C 5G7
 city: Welland
-street: "Maple Avenue"
-housenumber: 195
+street: Maple Avenue
+housenumber: "195"
 phone: ""
-opening_hours: "Mo-We 09:00-18:00; Th,Fr 09:00-21:00; Sa 08:00-18:00; Su 10:00-17:00"
+opening_hours: Mo-We 09:00-18:00; Th,Fr 09:00-21:00; Sa 08:00-18:00; Su 10:00-17:00
 website: ""

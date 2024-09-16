@@ -1,11 +1,11 @@
 id: 66908296
-type: way
+type: node
 latitude: 42.9039
 longitude: -79.59786
 postcode: ""
 city: Dunnville
-street: "Broad Street East"
-housenumber: 1051
+street: Broad Street East
+housenumber: "1051"
 phone: ""
 opening_hours: ""
-website: "https://www.homehardware.ca/en/store/11051"
+website: https://www.homehardware.ca/en/store/11051

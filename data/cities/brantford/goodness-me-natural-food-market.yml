@@ -1,11 +1,11 @@
 id: 322863247
-type: way
+type: node
 latitude: 43.17058
 longitude: -80.24709
-postcode: "N3R 7C5"
+postcode: N3R 7C5
 city: Brantford
-street: "West Street"
-housenumber: 605
-phone: "+1-519-758-8404"
+street: West Street
+housenumber: "605"
+phone: +1-519-758-8404
 opening_hours: ""
-website: "https://goodnessme.ca/"
+website: https://goodnessme.ca/

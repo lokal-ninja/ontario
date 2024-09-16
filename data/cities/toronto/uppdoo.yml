@@ -4,8 +4,8 @@ latitude: 43.6619
 longitude: -79.42661
 postcode: ""
 city: Toronto
-street: "Bloor Street West"
-housenumber: 916
+street: Bloor Street West
+housenumber: "916"
 phone: ""
-opening_hours: "Tu-Sa 11:00-19:00; Su 12:00-18:00"
-website: "https://uppdoo.com/"
+opening_hours: Tu-Sa 11:00-19:00; Su 12:00-18:00
+website: https://uppdoo.com/

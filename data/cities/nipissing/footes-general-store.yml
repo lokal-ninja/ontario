@@ -1,11 +1,11 @@
 id: 519172440
-type: way
+type: node
 latitude: 46.08851
 longitude: -79.51231
-postcode: "P0H 1W0"
+postcode: P0H 1W0
 city: Nipissing
-street: "Highway 534"
-housenumber: 2633
-phone: "+1-705-724-5684"
+street: Highway 534
+housenumber: "2633"
+phone: +1-705-724-5684
 opening_hours: ""
 website: ""

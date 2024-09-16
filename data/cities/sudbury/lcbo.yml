@@ -1,11 +1,11 @@
 id: 170610467
-type: way
+type: node
 latitude: 46.49256
 longitude: -80.99104
-postcode: "P3E 1B4"
+postcode: P3E 1B4
 city: Sudbury
-street: "Cedar Street"
-housenumber: 190
+street: Cedar Street
+housenumber: "190"
 phone: ""
 opening_hours: ""
 website: ""

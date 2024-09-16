@@ -1,11 +1,11 @@
 id: 525057382
-type: way
+type: node
 latitude: 44.28009
 longitude: -76.71456
-postcode: "K0H 2H0"
+postcode: K0H 2H0
 city: Odessa
-street: "County Road 6"
-housenumber: 1141
+street: County Road 6
+housenumber: "1141"
 phone: ""
 opening_hours: ""
 website: ""

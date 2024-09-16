@@ -1,11 +1,11 @@
 id: 831062043
-type: way
+type: node
 latitude: 43.05996
 longitude: -80.99408
-postcode: "N0M2M0"
+postcode: N0M2M0
 city: Thamesford
-street: "Milton Street"
-housenumber: 105
-phone: "+1-519-285-2132"
+street: Milton Street
+housenumber: "105"
+phone: +1-519-285-2132
 opening_hours: ""
 website: ""

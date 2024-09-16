@@ -1,11 +1,11 @@
 id: 56117488
-type: way
+type: node
 latitude: 44.24179
 longitude: -76.49444
 postcode: ""
 city: Kingston
-street: "Division Street"
-housenumber: 451
+street: Division Street
+housenumber: "451"
 phone: ""
 opening_hours: ""
 website: ""

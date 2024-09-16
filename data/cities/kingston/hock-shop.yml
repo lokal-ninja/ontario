@@ -2,10 +2,10 @@ id: 469662411
 type: node
 latitude: 44.23922
 longitude: -76.54564
-postcode: "K7M 4X4"
+postcode: K7M 4X4
 city: Kingston
-street: "Bath Road"
-housenumber: 1300
-phone: "+1 613-549-2274"
-opening_hours: "Mo-Th 09:30-17:00; Fr 09:30-18:00; Sa 9:30-17:00"
-website: "https://hockshop.com/kingston"
+street: Bath Road
+housenumber: "1300"
+phone: +1 613-549-2274
+opening_hours: Mo-Th 09:30-17:00; Fr 09:30-18:00; Sa 9:30-17:00
+website: https://hockshop.com/kingston

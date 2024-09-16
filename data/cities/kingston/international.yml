@@ -1,11 +1,11 @@
 id: 656304202
-type: way
+type: node
 latitude: 44.26981
 longitude: -76.52654
 postcode: ""
 city: Kingston
-street: "Dalton Avenue"
-housenumber: 750
+street: Dalton Avenue
+housenumber: "750"
 phone: ""
 opening_hours: ""
 website: ""

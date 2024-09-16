@@ -1,11 +1,11 @@
 id: 419861622
-type: way
+type: node
 latitude: 43.59037
 longitude: -81.08061
-postcode: "N0K 1P0"
+postcode: N0K 1P0
 city: Monkton
-street: "Mill Street"
-housenumber: 190
+street: Mill Street
+housenumber: "190"
 phone: ""
 opening_hours: ""
 website: ""

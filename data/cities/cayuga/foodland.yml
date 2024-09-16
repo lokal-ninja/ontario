@@ -2,10 +2,10 @@ id: 1862992778
 type: node
 latitude: 42.95133
 longitude: -79.85352
-postcode: "N0A 1E0"
+postcode: N0A 1E0
 city: Cayuga
-street: "Talbot Street East"
-housenumber: 18
-phone: "+1-905-772-5771"
-opening_hours: "24/7"
-website: "https://ontario.foodland.ca/stores/cayuga/"
+street: Talbot Street East
+housenumber: "18"
+phone: +1-905-772-5771
+opening_hours: 24/7
+website: https://ontario.foodland.ca/stores/cayuga/

@@ -1,11 +1,11 @@
 id: 672180368
-type: way
+type: node
 latitude: 42.31642
 longitude: -83.04469
-postcode: "N9A5P8"
+postcode: N9A5P8
 city: Windsor
-street: "University Avenue West"
-housenumber: 480
+street: University Avenue West
+housenumber: "480"
 phone: "+15192533831"
-opening_hours: "Mo-Fr 06:00-23:00; Sa 08:00-23:00; Su 08:00-22:00"
-website: "https://www.facebook.com/windsortheservicemarket"
+opening_hours: Mo-Fr 06:00-23:00; Sa 08:00-23:00; Su 08:00-22:00
+website: https://www.facebook.com/windsortheservicemarket

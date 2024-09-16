@@ -1,11 +1,11 @@
 id: 529548053
-type: way
+type: node
 latitude: 44.1478
 longitude: -79.88306
-postcode: "L9R 0E9"
+postcode: L9R 0E9
 city: Alliston
-street: "Young Street"
-housenumber: 95
-phone: "+1-705-435-6599"
+street: Young Street
+housenumber: "95"
+phone: +1-705-435-6599
 opening_hours: ""
 website: ""

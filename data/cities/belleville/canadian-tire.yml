@@ -1,11 +1,11 @@
 id: 110354368
-type: way
+type: node
 latitude: 44.18611
 longitude: -77.40071
-postcode: "K8P 4V2"
+postcode: K8P 4V2
 city: Belleville
-street: "Bell Boulevard"
-housenumber: 101
-phone: "+1-613-968-6701"
-opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-18:00; Su 09:00-17:00"
-website: "https://www.canadiantire.ca/"
+street: Bell Boulevard
+housenumber: "101"
+phone: +1-613-968-6701
+opening_hours: Mo-Fr 08:00-21:00; Sa 08:00-18:00; Su 09:00-17:00
+website: https://www.canadiantire.ca/

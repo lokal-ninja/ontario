@@ -1,11 +1,11 @@
 id: 524236774
-type: way
+type: node
 latitude: 44.07193
 longitude: -81.57902
-postcode: "N0G 2R0"
+postcode: N0G 2R0
 city: Ripley
-street: "Queen Street"
-housenumber: 37
-phone: "+1-519-395-2985"
+street: Queen Street
+housenumber: "37"
+phone: +1-519-395-2985
 opening_hours: ""
 website: ""

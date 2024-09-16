@@ -1,11 +1,11 @@
 id: 256342510
-type: way
+type: node
 latitude: 45.3333
 longitude: -76.29059
-postcode: "K0A 2X0"
+postcode: K0A 2X0
 city: Pakenham
-street: "County Road 29 North"
-housenumber: 2535
-phone: "+1-613-624-5260"
+street: County Road 29 North
+housenumber: "2535"
+phone: +1-613-624-5260
 opening_hours: ""
 website: ""

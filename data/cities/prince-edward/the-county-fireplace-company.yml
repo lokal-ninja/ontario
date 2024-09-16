@@ -1,11 +1,11 @@
 id: 1065969146
-type: way
+type: node
 latitude: 44.00587
 longitude: -77.14442
-postcode: "K0K 2T0"
+postcode: K0K 2T0
 city: Prince Edward
-street: "Picton Main Street"
-housenumber: 124
-phone: "+1 6134769259"
-opening_hours: "Mo-Fr 09:00-16:30; Sa 10:00-14:00; Su off"
-website: "http://countyfireplace.ca/"
+street: Picton Main Street
+housenumber: "124"
+phone: +1 6134769259
+opening_hours: Mo-Fr 09:00-16:30; Sa 10:00-14:00; Su off
+website: http://countyfireplace.ca/

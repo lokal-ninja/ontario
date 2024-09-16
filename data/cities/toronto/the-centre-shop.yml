@@ -1,11 +1,11 @@
 id: 146040705
-type: way
+type: node
 latitude: 43.6392
 longitude: -79.38273
-postcode: "M5J"
+postcode: M5J
 city: Toronto
-street: "Queens Quay West"
-housenumber: 235
-phone: "+1-416-973-4993"
+street: Queens Quay West
+housenumber: "235"
+phone: +1-416-973-4993
 opening_hours: ""
 website: ""

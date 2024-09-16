@@ -1,11 +1,11 @@
 id: 354655777
-type: way
+type: node
 latitude: 44.59819
 longitude: -79.41026
-postcode: "L3V 5H3"
+postcode: L3V 5H3
 city: Orillia
-street: "West Street South"
-housenumber: 388
+street: West Street South
+housenumber: "388"
 phone: ""
 opening_hours: ""
 website: ""

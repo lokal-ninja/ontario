@@ -1,11 +1,11 @@
 id: 647465691
-type: way
+type: node
 latitude: 43.63994
 longitude: -79.42158
 postcode: ""
 city: Toronto
-street: "Atlantic Avenue"
-housenumber: 132
+street: Atlantic Avenue
+housenumber: "132"
 phone: ""
 opening_hours: ""
-website: "https://www.bsuite.ca/"
+website: https://www.bsuite.ca/

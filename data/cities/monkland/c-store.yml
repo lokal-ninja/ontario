@@ -1,11 +1,11 @@
 id: 373534495
-type: way
+type: node
 latitude: 45.19392
 longitude: -74.88256
-postcode: "K0C 1V0"
+postcode: K0C 1V0
 city: Monkland
-street: "Highway 138"
-housenumber: 3456
-phone: "+1-613-346-0456"
+street: Highway 138
+housenumber: "3456"
+phone: +1-613-346-0456
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 58560475
-type: way
+type: node
 latitude: 43.61845
 longitude: -79.57215
 postcode: ""
 city: Mississauga
-street: "Wharton Glen Avenue"
-housenumber: 2580
+street: Wharton Glen Avenue
+housenumber: "2580"
 phone: ""
 opening_hours: ""
 website: ""

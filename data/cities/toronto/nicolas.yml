@@ -4,8 +4,8 @@ latitude: 43.66974
 longitude: -79.39294
 postcode: ""
 city: Toronto
-street: "Cumberland Street"
-housenumber: 153
-phone: "+1-416-966-2064"
-opening_hours: "Mo-We 10:00-18:00; Th,Fr 10:00-19:00; Sa 10:00-18:00"
+street: Cumberland Street
+housenumber: "153"
+phone: +1-416-966-2064
+opening_hours: Mo-We 10:00-18:00; Th,Fr 10:00-19:00; Sa 10:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 397262714
-type: way
+type: node
 latitude: 43.72099
 longitude: -79.25752
-postcode: "M1K 1G5"
+postcode: M1K 1G5
 city: Toronto
-street: "Danforth Road"
-housenumber: 750
+street: Danforth Road
+housenumber: "750"
 phone: ""
-opening_hours: "08:00-19:00"
+opening_hours: 08:00-19:00
 website: ""

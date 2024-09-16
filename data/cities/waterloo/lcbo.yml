@@ -1,11 +1,11 @@
 id: 421346185
-type: way
+type: node
 latitude: 43.50117
 longitude: -80.53408
 postcode: ""
 city: Waterloo
-street: "KIng Street North"
-housenumber: 571
+street: KIng Street North
+housenumber: "571"
 phone: ""
 opening_hours: ""
 website: ""

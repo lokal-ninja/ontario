@@ -2,10 +2,10 @@ id: 11558197634
 type: node
 latitude: 42.38213
 longitude: -82.21222
-postcode: "N7L1C5"
+postcode: N7L1C5
 city: Chatham
-street: "Richmond Street"
-housenumber: 940
+street: Richmond Street
+housenumber: "940"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 233129906
-type: way
+type: node
 latitude: 43.64021
 longitude: -79.54116
 postcode: ""
 city: Etobicoke
-street: "Bloor Street West"
-housenumber: 3875
-phone: "+1-416-234-2886"
+street: Bloor Street West
+housenumber: "3875"
+phone: +1-416-234-2886
 opening_hours: ""
-website: "http://kiplingauto.com/"
+website: http://kiplingauto.com/

@@ -1,11 +1,11 @@
 id: 797144718
-type: way
+type: node
 latitude: 43.67075
 longitude: -79.41397
 postcode: ""
 city: Toronto
-street: "Bathurst Street"
-housenumber: 1014
-phone: "+1 416-350-1678"
-opening_hours: "Mo-Su 08:00-20:00"
-website: "https://www.summerhillmarket.com/"
+street: Bathurst Street
+housenumber: "1014"
+phone: +1 416-350-1678
+opening_hours: Mo-Su 08:00-20:00
+website: https://www.summerhillmarket.com/

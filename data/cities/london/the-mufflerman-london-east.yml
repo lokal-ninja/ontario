@@ -1,11 +1,11 @@
 id: 138809701
-type: way
+type: node
 latitude: 42.99767
 longitude: -81.20028
-postcode: "N5W 3B7"
+postcode: N5W 3B7
 city: London
-street: "Dundas Street"
-housenumber: 1407
-phone: "+1-519-659-1155"
-opening_hours: "Mo-Fr 08:00-17:30; Sa 08:00-13:00; Su closed"
-website: "https://www.themufflerman.com/"
+street: Dundas Street
+housenumber: "1407"
+phone: +1-519-659-1155
+opening_hours: Mo-Fr 08:00-17:30; Sa 08:00-13:00; Su closed
+website: https://www.themufflerman.com/

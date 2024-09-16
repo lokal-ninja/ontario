@@ -1,11 +1,11 @@
 id: 701142402
-type: way
+type: node
 latitude: 43.86793
 longitude: -79.29123
-postcode: "L3R 1N3"
+postcode: L3R 1N3
 city: Unionville
-street: "Highway 7"
-housenumber: 5000
+street: Highway 7
+housenumber: "5000"
 phone: ""
-opening_hours: "Mo-Fr 11:00-20:00, Sa-Su 11:00-18:00"
+opening_hours: Mo-Fr 11:00-20:00, Sa-Su 11:00-18:00
 website: ""

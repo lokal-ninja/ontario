@@ -2,10 +2,10 @@ id: 3427697073
 type: node
 latitude: 44.0116
 longitude: -79.4175
-postcode: "L4G 7B7"
+postcode: L4G 7B7
 city: Aurora
-street: "Wellington Street East"
-housenumber: 1540
-phone: "+1-905-727-1313"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 09:00-17:00"
+street: Wellington Street East
+housenumber: "1540"
+phone: +1-905-727-1313
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 09:00-17:00
 website: ""

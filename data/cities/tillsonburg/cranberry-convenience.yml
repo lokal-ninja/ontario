@@ -1,11 +1,11 @@
 id: 341013131
-type: way
+type: node
 latitude: 42.88124
 longitude: -80.72785
-postcode: "N4G 1B5"
+postcode: N4G 1B5
 city: Tillsonburg
-street: "North Street East"
-housenumber: 150
+street: North Street East
+housenumber: "150"
 phone: ""
 opening_hours: ""
 website: ""

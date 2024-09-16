@@ -1,11 +1,11 @@
 id: 275766470
-type: way
+type: node
 latitude: 45.04533
 longitude: -78.53751
-postcode: "K0M 1S0"
+postcode: K0M 1S0
 city: Haliburton
-street: "County Road 21"
-housenumber: 5065
-phone: "+1-877-832-3011"
+street: County Road 21
+housenumber: "5065"
+phone: +1-877-832-3011
 opening_hours: ""
-website: "https://www.currychevrolet.ca/"
+website: https://www.currychevrolet.ca/

@@ -1,11 +1,11 @@
 id: 1306604339
-type: way
+type: node
 latitude: 44.1805
 longitude: -80.90959
 postcode: ""
 city: Hanover
-street: "Mulock Road"
-housenumber: 173480
-phone: "519-369-1710"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "http://www.theoldbarngranite.ca"
+street: Mulock Road
+housenumber: "173480"
+phone: 519-369-1710
+opening_hours: Mo-Fr 09:00-17:00
+website: http://www.theoldbarngranite.ca

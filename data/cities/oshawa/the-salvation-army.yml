@@ -1,11 +1,11 @@
 id: 367315017
-type: way
+type: node
 latitude: 43.89755
 longitude: -78.86179
 postcode: ""
 city: Oshawa
-street: "King Street East"
-housenumber: 45
+street: King Street East
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

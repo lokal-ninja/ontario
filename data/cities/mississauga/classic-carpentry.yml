@@ -1,11 +1,11 @@
 id: 159117107
-type: way
+type: node
 latitude: 43.56557
 longitude: -79.57767
-postcode: "L5G 1T1"
+postcode: L5G 1T1
 city: Mississauga
-street: "Marf Avenue"
-housenumber: 346
+street: Marf Avenue
+housenumber: "346"
 phone: ""
 opening_hours: ""
-website: "http://www.classiccarpentry.ca/"
+website: http://www.classiccarpentry.ca/

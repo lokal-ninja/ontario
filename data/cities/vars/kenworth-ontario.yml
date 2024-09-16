@@ -1,11 +1,11 @@
 id: 683751622
-type: way
+type: node
 latitude: 45.32507
 longitude: -75.35688
-postcode: "K0A 3H0"
+postcode: K0A 3H0
 city: Vars
-street: "Corduroy Road"
-housenumber: 432
+street: Corduroy Road
+housenumber: "432"
 phone: ""
-opening_hours: "Mo-Fr 09:00-24:00"
+opening_hours: Mo-Fr 09:00-24:00
 website: ""

@@ -2,10 +2,10 @@ id: 4650141077
 type: node
 latitude: 43.25495
 longitude: -79.86341
-postcode: "L8N 1B7"
+postcode: L8N 1B7
 city: Hamilton
-street: "King Street East"
-housenumber: 201
-phone: "+1-905-522-4650"
-opening_hours: "10:00-19:00"
-website: "https://letterboxgames.com/"
+street: King Street East
+housenumber: "201"
+phone: +1-905-522-4650
+opening_hours: 10:00-19:00
+website: https://letterboxgames.com/

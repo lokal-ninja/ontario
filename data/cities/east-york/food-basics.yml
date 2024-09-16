@@ -1,11 +1,11 @@
 id: 700576251
-type: way
+type: node
 latitude: 43.70541
 longitude: -79.34708
 postcode: ""
 city: East York
-street: "Overlea Boulevard"
-housenumber: 45
-phone: "+1-416-421-1732"
+street: Overlea Boulevard
+housenumber: "45"
+phone: +1-416-421-1732
 opening_hours: ""
 website: ""

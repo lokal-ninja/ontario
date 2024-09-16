@@ -1,11 +1,11 @@
 id: 67780947
-type: way
+type: node
 latitude: 43.39234
 longitude: -80.32401
-postcode: "N1R 6J6"
+postcode: N1R 6J6
 city: Cambridge
-street: "Hespeler Road"
-housenumber: 372
-phone: "+1 519-623-6440"
-opening_hours: "Mo-Fr 08:00-17:30, Sa 08:00-13:00"
-website: "https://www.themufflerman.com/"
+street: Hespeler Road
+housenumber: "372"
+phone: +1 519-623-6440
+opening_hours: Mo-Fr 08:00-17:30, Sa 08:00-13:00
+website: https://www.themufflerman.com/

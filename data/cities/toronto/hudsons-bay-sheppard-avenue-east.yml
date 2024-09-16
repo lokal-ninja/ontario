@@ -1,11 +1,11 @@
 id: 698703046
-type: way
+type: node
 latitude: 43.77749
 longitude: -79.34343
-postcode: "M2J 5A7"
+postcode: M2J 5A7
 city: Toronto
-street: "Sheppard Avenue East"
-housenumber: 1800
-phone: "+1-416-491-2010"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
-website: "https://locations.thebay.com/en-ca/hudsons-bay-fairview"
+street: Sheppard Avenue East
+housenumber: "1800"
+phone: +1-416-491-2010
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
+website: https://locations.thebay.com/en-ca/hudsons-bay-fairview

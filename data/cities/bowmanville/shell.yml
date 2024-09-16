@@ -1,11 +1,11 @@
 id: 285262833
-type: way
+type: node
 latitude: 43.89749
 longitude: -78.68963
-postcode: "L1C 3L1"
+postcode: L1C 3L1
 city: Bowmanville
-street: "Waverley Road South"
-housenumber: 355
-phone: "+1-905-623-6422"
+street: Waverley Road South
+housenumber: "355"
+phone: +1-905-623-6422
 opening_hours: ""
 website: ""

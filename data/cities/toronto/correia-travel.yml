@@ -4,8 +4,8 @@ latitude: 43.65111
 longitude: -79.41244
 postcode: ""
 city: Toronto
-street: "Dundas Street West"
-housenumber: 912
-phone: "+1-416-603-0869"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-13:00"
-website: "https://www.correiatravel.ca/"
+street: Dundas Street West
+housenumber: "912"
+phone: +1-416-603-0869
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-13:00
+website: https://www.correiatravel.ca/

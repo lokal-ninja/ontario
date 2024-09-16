@@ -1,11 +1,11 @@
 id: 156269969
-type: way
+type: node
 latitude: 43.43964
 longitude: -80.52164
-postcode: "N2M 3B4"
+postcode: N2M 3B4
 city: Kitchener
-street: "Victoria Street South"
-housenumber: 720
-phone: "+1-519-741-1026"
+street: Victoria Street South
+housenumber: "720"
+phone: +1-519-741-1026
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 659241865
-type: way
+type: node
 latitude: 43.86999
 longitude: -79.27716
-postcode: "L3P 1B7"
+postcode: L3P 1B7
 city: Markham
-street: "Highway 7"
-housenumber: 5426
-phone: "+1 905 294 1210"
-opening_hours: "Mo-Th 09:00-18:00, Fr-Sa 09:00-17:00"
-website: "https://markhammazda.ca"
+street: Highway 7
+housenumber: "5426"
+phone: +1 905 294 1210
+opening_hours: Mo-Th 09:00-18:00, Fr-Sa 09:00-17:00
+website: https://markhammazda.ca

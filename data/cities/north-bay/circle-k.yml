@@ -1,11 +1,11 @@
 id: 359906366
-type: way
+type: node
 latitude: 46.31492
 longitude: -79.46285
 postcode: ""
 city: North Bay
-street: "Cassells Street"
-housenumber: 621
+street: Cassells Street
+housenumber: "621"
 phone: ""
 opening_hours: ""
 website: ""

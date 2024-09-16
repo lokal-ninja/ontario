@@ -2,10 +2,10 @@ id: 2111219870
 type: node
 latitude: 43.65099
 longitude: -79.3978
-postcode: "M5T 3B3"
+postcode: M5T 3B3
 city: Toronto
-street: "Spadina Avenue"
-housenumber: 222
-phone: "+1-416-977-0080"
+street: Spadina Avenue
+housenumber: "222"
+phone: +1-416-977-0080
 opening_hours: ""
-website: "http://storelocator.bell.ca/bellca/en/ON/Toronto/Bell-Chinatown-Centre/53G88"
+website: http://storelocator.bell.ca/bellca/en/ON/Toronto/Bell-Chinatown-Centre/53G88

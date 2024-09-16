@@ -1,11 +1,11 @@
 id: 497779805
-type: way
+type: node
 latitude: 43.71407
 longitude: -80.38067
-postcode: "N1M 1G7"
+postcode: N1M 1G7
 city: Fergus
-street: "Victoria Terrace"
-housenumber: 650
+street: Victoria Terrace
+housenumber: "650"
 phone: "+15198432510"
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

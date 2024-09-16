@@ -2,10 +2,10 @@ id: 10005255512
 type: node
 latitude: 44.89976
 longitude: -76.02179
-postcode: "K7A 1M5"
+postcode: K7A 1M5
 city: Smiths Falls
-street: "Main Street West"
-housenumber: 8
-phone: "+1-613-283-3600"
+street: Main Street West
+housenumber: "8"
+phone: +1-613-283-3600
 opening_hours: ""
 website: ""

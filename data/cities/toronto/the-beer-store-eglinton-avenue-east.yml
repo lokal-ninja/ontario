@@ -1,11 +1,11 @@
 id: 43804299
-type: way
+type: node
 latitude: 43.73603
 longitude: -79.24877
 postcode: ""
 city: Toronto
-street: "Eglinton Avenue East"
-housenumber: 2727
+street: Eglinton Avenue East
+housenumber: "2727"
 phone: ""
-opening_hours: "Mo-Th 10:00-21:00; Fr-Sa 10:00-23:00; Su 11:00-18:00"
-website: "https://www.thebeerstore.ca/locations/brimley-eglinton"
+opening_hours: Mo-Th 10:00-21:00; Fr-Sa 10:00-23:00; Su 11:00-18:00
+website: https://www.thebeerstore.ca/locations/brimley-eglinton

@@ -1,11 +1,11 @@
 id: 603997821
-type: way
+type: node
 latitude: 44.89948
 longitude: -76.02154
-postcode: "K7A 1M4"
+postcode: K7A 1M4
 city: Smiths Falls
-street: "Main Street West"
-housenumber: 3
+street: Main Street West
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

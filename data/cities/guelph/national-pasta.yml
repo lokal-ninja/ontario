@@ -2,10 +2,10 @@ id: 9018889927
 type: node
 latitude: 43.52183
 longitude: -80.26822
-postcode: "N1H 8L8"
+postcode: N1H 8L8
 city: Guelph
-street: "Wellington Street West"
-housenumber: 715
+street: Wellington Street West
+housenumber: "715"
 phone: ""
-opening_hours: "Mo-Su 09:00-19:00, Sa 09:00-18:00, Su 10:00-17:00"
-website: "https://nationalpasta.com/"
+opening_hours: Mo-Su 09:00-19:00, Sa 09:00-18:00, Su 10:00-17:00
+website: https://nationalpasta.com/

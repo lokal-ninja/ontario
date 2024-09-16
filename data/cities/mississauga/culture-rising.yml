@@ -1,11 +1,11 @@
 id: 245212034
-type: way
+type: node
 latitude: 43.58326
 longitude: -79.71568
 postcode: ""
 city: Mississauga
-street: "Queen Street South"
-housenumber: 139
+street: Queen Street South
+housenumber: "139"
 phone: ""
-opening_hours: "Mo-Sa 11:00-21:00; Su 12:00-17:00"
+opening_hours: Mo-Sa 11:00-21:00; Su 12:00-17:00
 website: ""

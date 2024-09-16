@@ -1,11 +1,11 @@
 id: 116509489
-type: way
+type: node
 latitude: 44.3344
 longitude: -79.68033
-postcode: "L4N 9H5"
+postcode: L4N 9H5
 city: Barrie
-street: "Mapleview Drive East"
-housenumber: 61
-phone: "+1-705-792-6670"
-opening_hours: "Mo-Fr 06:00-21:00; Sa 07:00-21:00; Su 07:00-20:00"
-website: "https://www.rona.ca/en/Home-garden-rona-barrie-barrie"
+street: Mapleview Drive East
+housenumber: "61"
+phone: +1-705-792-6670
+opening_hours: Mo-Fr 06:00-21:00; Sa 07:00-21:00; Su 07:00-20:00
+website: https://www.rona.ca/en/Home-garden-rona-barrie-barrie

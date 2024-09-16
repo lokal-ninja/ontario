@@ -1,11 +1,11 @@
 id: 1233853525
-type: way
+type: node
 latitude: 44.42656
 longitude: -78.26949
-postcode: "K0L 2H0"
+postcode: K0L 2H0
 city: Lakefield
-street: "Stanley Street"
-housenumber: 7
-phone: "+1-705-652-6872"
+street: Stanley Street
+housenumber: "7"
+phone: +1-705-652-6872
 opening_hours: ""
 website: ""

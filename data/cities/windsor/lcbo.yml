@@ -1,11 +1,11 @@
 id: 506482044
-type: way
+type: node
 latitude: 42.31675
 longitude: -83.04336
-postcode: "N9A5P8"
+postcode: N9A5P8
 city: Windsor
-street: "University Avenue West"
-housenumber: 400
+street: University Avenue West
+housenumber: "400"
 phone: "+15192532221"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-18:00"
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-18:00
 website: ""

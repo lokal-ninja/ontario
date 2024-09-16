@@ -1,11 +1,11 @@
 id: 109829660
-type: way
+type: node
 latitude: 43.4652
 longitude: -80.52634
-postcode: "N2L 2Y5"
+postcode: N2L 2Y5
 city: Waterloo
-street: "Caroline Street North"
-housenumber: 25
-phone: "+1-519-746-1882"
+street: Caroline Street North
+housenumber: "25"
+phone: +1-519-746-1882
 opening_hours: ""
-website: "https://www.theclayandglass.ca/"
+website: https://www.theclayandglass.ca/

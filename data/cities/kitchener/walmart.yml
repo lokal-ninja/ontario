@@ -1,11 +1,11 @@
 id: 172999869
-type: way
+type: node
 latitude: 43.43287
 longitude: -80.55938
-postcode: "N2N 0B1"
+postcode: N2N 0B1
 city: Kitchener
-street: "The Boardwalk"
-housenumber: 100
-phone: "+1-519-745-1800"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.walmart.ca/en/stores-near-me/waterloo-west-on-1111"
+street: The Boardwalk
+housenumber: "100"
+phone: +1-519-745-1800
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.walmart.ca/en/stores-near-me/waterloo-west-on-1111

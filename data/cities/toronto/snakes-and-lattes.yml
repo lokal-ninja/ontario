@@ -2,10 +2,11 @@ id: 5721127452
 type: node
 latitude: 43.65598
 longitude: -79.40934
-postcode: "M6G 1A5"
+postcode: M6G 1A5
 city: Toronto
-street: "College Street"
-housenumber: 489
-phone: "+1-647-342-9229"
-opening_hours: "Mo-We 16:00-23:00; Th 13:00-23:00; Fr 13:00-01:00; Sa 11:00-01:00; Su 11:00-23:00"
-website: "https://www.snakesandlattes.com/college"
+street: College Street
+housenumber: "489"
+phone: +1-647-342-9229
+opening_hours: Mo-We 16:00-23:00; Th 13:00-23:00; Fr 13:00-01:00; Sa 11:00-01:00;
+    Su 11:00-23:00
+website: https://www.snakesandlattes.com/college

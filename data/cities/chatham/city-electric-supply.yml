@@ -2,10 +2,10 @@ id: 11558450525
 type: node
 latitude: 42.39859
 longitude: -82.18801
-postcode: "N7M 1N9"
+postcode: N7M 1N9
 city: Chatham
-street: "Richmond Street"
-housenumber: 129
-phone: "+1 519-351-3420"
-opening_hours: "7:30-4:30"
-website: "https://www.cityelectricsupply.ca/"
+street: Richmond Street
+housenumber: "129"
+phone: +1 519-351-3420
+opening_hours: 7:30-4:30
+website: https://www.cityelectricsupply.ca/

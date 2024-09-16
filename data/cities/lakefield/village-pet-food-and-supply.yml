@@ -1,11 +1,11 @@
 id: 1311368322
-type: way
+type: node
 latitude: 44.41782
 longitude: -78.28742
-postcode: "K0L 2H0"
+postcode: K0L 2H0
 city: Lakefield
-street: "Lakefield Road"
-housenumber: 3305
-phone: "+1 705-652-9494"
+street: Lakefield Road
+housenumber: "3305"
+phone: +1 705-652-9494
 opening_hours: ""
-website: "https://villagepetfood.ca/"
+website: https://villagepetfood.ca/

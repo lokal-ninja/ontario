@@ -1,11 +1,11 @@
 id: 505143760
-type: way
+type: node
 latitude: 47.98467
 longitude: -84.77983
-postcode: "P0S 1K0"
+postcode: P0S 1K0
 city: Wawa
-street: "Mission Road"
-housenumber: 105
-phone: "+1-705-856-2626"
+street: Mission Road
+housenumber: "105"
+phone: +1-705-856-2626
 opening_hours: ""
-website: "https://youngsgeneralstore.ca/"
+website: https://youngsgeneralstore.ca/

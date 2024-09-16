@@ -1,11 +1,11 @@
 id: 660836371
-type: way
+type: node
 latitude: 43.71993
 longitude: -79.46224
 postcode: ""
 city: Toronto
-street: "Orfus Road"
-housenumber: 66
+street: Orfus Road
+housenumber: "66"
 phone: ""
 opening_hours: ""
-website: "https://lensmill.com"
+website: https://lensmill.com

@@ -1,11 +1,11 @@
 id: 361092586
-type: way
+type: node
 latitude: 43.46849
 longitude: -81.19831
-postcode: "N0K 1N0"
+postcode: N0K 1N0
 city: Mitchell
-street: "Ontario Road"
-housenumber: 11
-phone: "+1-519-348-8652"
+street: Ontario Road
+housenumber: "11"
+phone: +1-519-348-8652
 opening_hours: ""
 website: ""

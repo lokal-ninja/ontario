@@ -1,11 +1,11 @@
 id: 779168029
-type: way
+type: node
 latitude: 42.17512
 longitude: -82.8235
-postcode: "N8M 1M3"
+postcode: N8M 1M3
 city: Essex
-street: "Victoria Avenue"
-housenumber: 14
+street: Victoria Avenue
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 10:00-05:30; Sa 12:00-15:00"
+opening_hours: Mo-Fr 10:00-05:30; Sa 12:00-15:00
 website: ""

@@ -1,11 +1,11 @@
 id: 172084005
-type: way
+type: node
 latitude: 46.49208
 longitude: -81.01464
-postcode: "P3C 1P7"
+postcode: P3C 1P7
 city: Sudbury
-street: "Spruce Street"
-housenumber: 544
+street: Spruce Street
+housenumber: "544"
 phone: ""
 opening_hours: ""
 website: ""

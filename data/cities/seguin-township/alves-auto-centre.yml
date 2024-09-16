@@ -1,11 +1,11 @@
 id: 184504551
-type: way
+type: node
 latitude: 45.28926
 longitude: -79.85091
-postcode: "P2A 2W8"
+postcode: P2A 2W8
 city: Seguin Township
-street: "Highway 69"
-housenumber: 993
-phone: "+1-705-378-2241"
-opening_hours: "Mo-Fr 09:00-17:00"
+street: Highway 69
+housenumber: "993"
+phone: +1-705-378-2241
+opening_hours: Mo-Fr 09:00-17:00
 website: ""

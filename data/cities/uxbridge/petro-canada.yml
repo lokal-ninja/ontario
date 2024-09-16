@@ -1,11 +1,11 @@
 id: 388891231
-type: way
+type: node
 latitude: 44.08299
 longitude: -79.15118
-postcode: "L9P 1R1"
+postcode: L9P 1R1
 city: Uxbridge
-street: "Highway 47"
-housenumber: 545
-phone: "+1-905-852-2004"
+street: Highway 47
+housenumber: "545"
+phone: +1-905-852-2004
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.69967
 longitude: -79.39656
 postcode: ""
 city: Toronto
-street: "Yonge Street"
-housenumber: 1955
-phone: "+1 416 488 1955"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-18:00"
-website: "https://www.lcbo.com/"
+street: Yonge Street
+housenumber: "1955"
+phone: +1 416 488 1955
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-18:00
+website: https://www.lcbo.com/

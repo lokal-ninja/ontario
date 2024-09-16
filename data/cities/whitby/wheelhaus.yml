@@ -4,8 +4,8 @@ latitude: 43.85751
 longitude: -78.89702
 postcode: ""
 city: Whitby
-street: "McEwen Drive"
-housenumber: 1621
-phone: "+1 905-721-9295"
-opening_hours: "By appointment only"
+street: McEwen Drive
+housenumber: "1621"
+phone: +1 905-721-9295
+opening_hours: '"By appointment only"'
 website: ""

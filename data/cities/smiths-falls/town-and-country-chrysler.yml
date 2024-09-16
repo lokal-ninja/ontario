@@ -1,11 +1,11 @@
 id: 75702541
-type: way
+type: node
 latitude: 44.8805
 longitude: -76.03634
-postcode: "K7A 5B8"
+postcode: K7A 5B8
 city: Smiths Falls
-street: "Lombard Street"
-housenumber: 245
-phone: "+1-888-665-6351"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-16:00; Su closed"
-website: "https://townandcountrychryslerdealer.com"
+street: Lombard Street
+housenumber: "245"
+phone: +1-888-665-6351
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-16:00; Su closed
+website: https://townandcountrychryslerdealer.com

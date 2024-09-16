@@ -1,11 +1,11 @@
 id: 1147861985
-type: way
+type: node
 latitude: 43.38169
 longitude: -80.30573
-postcode: "N1R 7H5"
+postcode: N1R 7H5
 city: Cambridge
-street: "Glamis Road"
-housenumber: 30
-phone: "+1-519-622-3023"
-opening_hours: "Mo-We 09:30-16:00, Th-Fr 09:30-18:00, Sa 09:30-17:00"
-website: "https://www.clipandtails.business.site/"
+street: Glamis Road
+housenumber: "30"
+phone: +1-519-622-3023
+opening_hours: Mo-We 09:30-16:00, Th-Fr 09:30-18:00, Sa 09:30-17:00
+website: https://www.clipandtails.business.site/

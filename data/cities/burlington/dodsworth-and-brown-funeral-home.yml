@@ -1,11 +1,11 @@
 id: 43940057
-type: way
+type: node
 latitude: 43.33315
 longitude: -79.79207
-postcode: "L7R 1J2"
+postcode: L7R 1J2
 city: Burlington
-street: "New Street"
-housenumber: 2241
+street: New Street
+housenumber: "2241"
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 5483678480
 type: node
 latitude: 43.64854
 longitude: -79.3979
-postcode: "M5B 2A7"
+postcode: M5B 2A7
 city: Toronto
-street: "Queen Street West"
-housenumber: 418
-phone: "+1-647-250-1500"
-opening_hours: "Mo-Th 10:00-20:00; Fr,Sa 10:00-21:00; Su 11:00-20:00"
-website: "https://www.camouflage.ca/"
+street: Queen Street West
+housenumber: "418"
+phone: +1-647-250-1500
+opening_hours: Mo-Th 10:00-20:00; Fr,Sa 10:00-21:00; Su 11:00-20:00
+website: https://www.camouflage.ca/

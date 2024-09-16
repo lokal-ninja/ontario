@@ -1,11 +1,11 @@
 id: 256644377
-type: way
+type: node
 latitude: 43.71493
 longitude: -79.45632
-postcode: "M6A 2S6"
+postcode: M6A 2S6
 city: North York
-street: "Dufferin Street"
-housenumber: 3080
-phone: "+1-416-780-2345"
-opening_hours: "Mo-Th 09:00-21:00; Fr 09:00-18:00; Sa 09:00-18:00"
+street: Dufferin Street
+housenumber: "3080"
+phone: +1-416-780-2345
+opening_hours: Mo-Th 09:00-21:00; Fr 09:00-18:00; Sa 09:00-18:00
 website: ""

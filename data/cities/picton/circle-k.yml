@@ -1,11 +1,11 @@
 id: 349914251
-type: way
+type: node
 latitude: 44.00938
 longitude: -77.13947
-postcode: "K0K 2T0"
+postcode: K0K 2T0
 city: Picton
-street: "Paul Street"
-housenumber: 3
-phone: "+1-613-476-7794"
-opening_hours: "24/7"
+street: Paul Street
+housenumber: "3"
+phone: +1-613-476-7794
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 160546126
-type: way
+type: node
 latitude: 43.44747
 longitude: -80.57516
-postcode: "N2T 2Z7"
+postcode: N2T 2Z7
 city: Waterloo
-street: "Erb Street West"
-housenumber: 662
+street: Erb Street West
+housenumber: "662"
 phone: ""
 opening_hours: ""
-website: "https://www.marks.com/en/store-details/on/waterloo-west-521.html"
+website: https://www.marks.com/en/store-details/on/waterloo-west-521.html

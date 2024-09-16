@@ -2,10 +2,10 @@ id: 2262123793
 type: node
 latitude: 43.71515
 longitude: -79.80067
-postcode: "L7A 1B5"
+postcode: L7A 1B5
 city: Brampton
-street: "Fisherman Drive"
-housenumber: 2
-phone: "+1 905-452-0543"
+street: Fisherman Drive
+housenumber: "2"
+phone: +1 905-452-0543
 opening_hours: ""
-website: "http://stephensons.ca/"
+website: http://stephensons.ca/

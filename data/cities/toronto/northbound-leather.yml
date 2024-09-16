@@ -1,11 +1,11 @@
 id: 647465693
-type: way
+type: node
 latitude: 43.63926
 longitude: -79.42183
 postcode: ""
 city: Toronto
-street: "Jefferson Avenue"
-housenumber: 117
+street: Jefferson Avenue
+housenumber: "117"
 phone: ""
 opening_hours: ""
-website: "https://northbound.com/"
+website: https://northbound.com/

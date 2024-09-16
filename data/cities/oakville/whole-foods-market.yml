@@ -1,11 +1,11 @@
 id: 159114435
-type: way
+type: node
 latitude: 43.45703
 longitude: -79.67928
-postcode: "L6J 7Z5"
+postcode: L6J 7Z5
 city: Oakville
-street: "Cornwall Road"
-housenumber: 301
-phone: "+1 905-849-8400"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.wholefoodsmarket.com/stores/oakville"
+street: Cornwall Road
+housenumber: "301"
+phone: +1 905-849-8400
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.wholefoodsmarket.com/stores/oakville

@@ -1,11 +1,11 @@
 id: 657979492
-type: way
+type: node
 latitude: 43.62363
 longitude: -79.5387
 postcode: ""
 city: Toronto
-street: "North Queen Street"
-housenumber: 50
-phone: "+1-416-503-3001"
+street: North Queen Street
+housenumber: "50"
+phone: +1-416-503-3001
 opening_hours: ""
 website: ""

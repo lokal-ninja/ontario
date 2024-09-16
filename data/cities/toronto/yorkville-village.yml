@@ -1,11 +1,11 @@
 id: 83785768
-type: way
+type: node
 latitude: 43.67246
 longitude: -79.39449
 postcode: ""
 city: Toronto
-street: "Avenue Road"
-housenumber: 87
-phone: "+1-416-968-8680"
+street: Avenue Road
+housenumber: "87"
+phone: +1-416-968-8680
 opening_hours: ""
-website: "http://www.hazeltonlanes.com/"
+website: http://www.hazeltonlanes.com/

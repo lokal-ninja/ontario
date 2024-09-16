@@ -1,11 +1,11 @@
 id: 439554265
-type: way
+type: node
 latitude: 45.50808
 longitude: -79.91954
-postcode: "P0G 1C0"
+postcode: P0G 1C0
 city: McKellar
-street: "Centre Road"
-housenumber: 1
+street: Centre Road
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

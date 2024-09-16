@@ -1,11 +1,11 @@
 id: 141171435
-type: way
+type: node
 latitude: 43.60073
 longitude: -79.5925
 postcode: ""
 city: Mississauga
-street: "Dundas Street East"
-housenumber: 992
-phone: "+1-905-306-7952"
+street: Dundas Street East
+housenumber: "992"
+phone: +1-905-306-7952
 opening_hours: ""
-website: "https://kudosfurnishing.com/"
+website: https://kudosfurnishing.com/

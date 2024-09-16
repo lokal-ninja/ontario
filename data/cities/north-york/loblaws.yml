@@ -1,11 +1,11 @@
 id: 25795196
-type: way
+type: node
 latitude: 43.73577
 longitude: -79.40392
-postcode: "M4N 2N5"
+postcode: M4N 2N5
 city: North York
-street: "Yonge Street"
-housenumber: 3501
-phone: "+1-416-481-7753"
+street: Yonge Street
+housenumber: "3501"
+phone: +1-416-481-7753
 opening_hours: ""
 website: ""

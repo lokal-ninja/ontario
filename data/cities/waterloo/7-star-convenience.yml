@@ -1,11 +1,11 @@
 id: 255578645
-type: way
+type: node
 latitude: 43.46148
 longitude: -80.53228
 postcode: ""
 city: Waterloo
-street: "Erb Street West"
-housenumber: 156
+street: Erb Street West
+housenumber: "156"
 phone: ""
 opening_hours: ""
 website: ""

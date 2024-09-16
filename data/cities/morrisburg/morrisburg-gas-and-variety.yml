@@ -1,11 +1,11 @@
 id: 531064349
-type: way
+type: node
 latitude: 44.90313
 longitude: -75.17689
-postcode: "K0C 1X0"
+postcode: K0C 1X0
 city: Morrisburg
-street: "County Road 2"
-housenumber: 12456
-phone: "+1-613-543-3337"
+street: County Road 2
+housenumber: "12456"
+phone: +1-613-543-3337
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.64868
 longitude: -79.38576
 postcode: ""
 city: Toronto
-street: "University Avenue"
-housenumber: 170
+street: University Avenue
+housenumber: "170"
 phone: ""
-opening_hours: "10:00-18:30"
+opening_hours: 10:00-18:30
 website: ""

@@ -1,11 +1,11 @@
 id: 312517415
-type: way
+type: node
 latitude: 43.90894
 longitude: -78.79567
 postcode: ""
 city: Courtice
-street: "Regional Highway 2"
-housenumber: 1577
-phone: "+1-905-436-2006"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: Regional Highway 2
+housenumber: "1577"
+phone: +1-905-436-2006
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

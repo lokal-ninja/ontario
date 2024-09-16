@@ -1,11 +1,11 @@
 id: 639206152
-type: way
+type: node
 latitude: 45.47973
 longitude: -76.69896
 postcode: ""
 city: Town Of Renfrew
-street: "Stewart Street"
-housenumber: 456
+street: Stewart Street
+housenumber: "456"
 phone: ""
 opening_hours: ""
 website: ""

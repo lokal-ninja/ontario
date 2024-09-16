@@ -2,10 +2,10 @@ id: 11748382961
 type: node
 latitude: 43.53742
 longitude: -80.26125
-postcode: "N1H2Y6"
+postcode: N1H2Y6
 city: Guelph
-street: "Crimea Street"
-housenumber: 50
-phone: "+1-416-726-7350"
-opening_hours: "by appointment"
-website: "https://stereo-untypical.com"
+street: Crimea Street
+housenumber: "50"
+phone: +1-416-726-7350
+opening_hours: '"by appointment"'
+website: https://stereo-untypical.com

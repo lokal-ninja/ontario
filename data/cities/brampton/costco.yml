@@ -1,11 +1,11 @@
 id: 33189912
-type: way
+type: node
 latitude: 43.68329
 longitude: -79.71316
-postcode: "L6W 4S1"
+postcode: L6W 4S1
 city: Brampton
-street: "Biscayne Crescent"
-housenumber: 100
+street: Biscayne Crescent
+housenumber: "100"
 phone: ""
 opening_hours: ""
-website: "https://www.costco.ca/warehouse-locations/brampton-on-162.html"
+website: https://www.costco.ca/warehouse-locations/brampton-on-162.html

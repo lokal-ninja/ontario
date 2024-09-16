@@ -1,11 +1,11 @@
 id: 773806507
-type: way
+type: node
 latitude: 43.6535
 longitude: -79.38737
-postcode: "M5G 2J5"
+postcode: M5G 2J5
 city: Toronto
-street: "University Avenue"
-housenumber: 375
-phone: "+1-416-598-4818"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 09:00-17:00; Su 12:00-17:00"
-website: "https://stores.staples.ca/on/toronto/office-supplies-ca-25.html"
+street: University Avenue
+housenumber: "375"
+phone: +1-416-598-4818
+opening_hours: Mo-Fr 08:00-19:00; Sa 09:00-17:00; Su 12:00-17:00
+website: https://stores.staples.ca/on/toronto/office-supplies-ca-25.html

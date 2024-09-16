@@ -1,11 +1,11 @@
 id: 610246395
-type: way
+type: node
 latitude: 45.26877
 longitude: -75.3048
 postcode: ""
 city: Embrun
-street: "Bay Street"
-housenumber: 170
+street: Bay Street
+housenumber: "170"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.64954
 longitude: -79.48421
 postcode: ""
 city: Toronto
-street: "Bloor Street West"
-housenumber: 2436
-phone: "+1-416-769-8922"
-opening_hours: "Su-Mo off, Tu 10:30-18:00, We-Th 10:30-16:00, Fr 10:30-18:00, Sa 10:00-15:00"
-website: "https://www.ocularcanada.com/"
+street: Bloor Street West
+housenumber: "2436"
+phone: +1-416-769-8922
+opening_hours: Su-Mo off, Tu 10:30-18:00, We-Th 10:30-16:00, Fr 10:30-18:00, Sa 10:00-15:00
+website: https://www.ocularcanada.com/

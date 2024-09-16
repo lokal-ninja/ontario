@@ -1,11 +1,11 @@
 id: 804956651
-type: way
+type: node
 latitude: 44.36096
 longitude: -79.66921
-postcode: "L4N 8Y7"
+postcode: L4N 8Y7
 city: Barrie
-street: "Truman Road"
-housenumber: 49
+street: Truman Road
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00, Su 09:00-13:00"
+opening_hours: Mo-Fr 08:00-18:00, Su 09:00-13:00
 website: ""

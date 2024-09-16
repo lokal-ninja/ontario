@@ -4,8 +4,8 @@ latitude: 43.65771
 longitude: -79.40227
 postcode: ""
 city: Toronto
-street: "College Street"
-housenumber: 312
-phone: "+1-416-929-5312"
+street: College Street
+housenumber: "312"
+phone: +1-416-929-5312
 opening_hours: ""
 website: ""

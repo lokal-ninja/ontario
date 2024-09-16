@@ -1,11 +1,11 @@
 id: 667982850
-type: way
+type: node
 latitude: 43.94837
 longitude: -78.28764
-postcode: "L1A 1C2"
+postcode: L1A 1C2
 city: Port Hope
-street: "Peter Street"
-housenumber: 55
+street: Peter Street
+housenumber: "55"
 phone: ""
-opening_hours: "Mo-Th 10:00-18:00; Fr 10:00-19:00; Sa 10:00-18:00; Su 12:00-16:00"
-website: "https://www.thebeerstore.ca/locations/port-hope"
+opening_hours: Mo-Th 10:00-18:00; Fr 10:00-19:00; Sa 10:00-18:00; Su 12:00-16:00
+website: https://www.thebeerstore.ca/locations/port-hope

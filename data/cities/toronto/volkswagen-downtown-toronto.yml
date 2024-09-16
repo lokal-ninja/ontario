@@ -1,11 +1,11 @@
 id: 302117977
-type: way
+type: node
 latitude: 43.65344
 longitude: -79.36482
-postcode: "M5A 1N7"
+postcode: M5A 1N7
 city: Toronto
-street: "Adelaide Street East"
-housenumber: 550
+street: Adelaide Street East
+housenumber: "550"
 phone: ""
 opening_hours: ""
-website: "https://www.volkswagendowntowntoronto.ca/"
+website: https://www.volkswagendowntowntoronto.ca/

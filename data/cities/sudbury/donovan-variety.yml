@@ -1,11 +1,11 @@
 id: 172728672
-type: way
+type: node
 latitude: 46.49999
 longitude: -81.00384
-postcode: "P3C 2N1"
+postcode: P3C 2N1
 city: Sudbury
-street: "Kathleen Street"
-housenumber: 533
+street: Kathleen Street
+housenumber: "533"
 phone: ""
-opening_hours: "Mo-Fr 07:00-23:00; Sa-Su 08:00-23:00"
+opening_hours: Mo-Fr 07:00-23:00; Sa-Su 08:00-23:00
 website: ""

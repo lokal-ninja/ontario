@@ -1,11 +1,11 @@
 id: 170269984
-type: way
+type: node
 latitude: 43.65139
 longitude: -79.36091
 postcode: ""
 city: Toronto
-street: "Front Street East"
-housenumber: 321
+street: Front Street East
+housenumber: "321"
 phone: ""
 opening_hours: ""
 website: ""

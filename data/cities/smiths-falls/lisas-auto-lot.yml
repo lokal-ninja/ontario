@@ -1,11 +1,11 @@
 id: 618242249
-type: way
+type: node
 latitude: 44.91045
 longitude: -76.02034
-postcode: "K7A 2R9"
+postcode: K7A 2R9
 city: Smiths Falls
-street: "Union Street"
-housenumber: 5
+street: Union Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

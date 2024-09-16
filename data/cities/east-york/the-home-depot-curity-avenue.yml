@@ -1,11 +1,11 @@
 id: 663551332
-type: way
+type: node
 latitude: 43.70817
 longitude: -79.31469
 postcode: ""
 city: East York
-street: "Curity Avenue"
-housenumber: 7
+street: Curity Avenue
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "http://www.homedepot.ca/"
+website: http://www.homedepot.ca/

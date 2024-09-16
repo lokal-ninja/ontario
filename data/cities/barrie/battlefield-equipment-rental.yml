@@ -1,11 +1,11 @@
 id: 297798669
-type: way
+type: node
 latitude: 44.35076
 longitude: -79.6647
-postcode: "L4N 8Y9"
+postcode: L4N 8Y9
 city: Barrie
-street: "Huronia Road"
-housenumber: 430
-phone: "+1-705-721-1919"
-opening_hours: "Mo-Fr 07:00-17:00; Sa-Su off"
-website: "https://www.battlefieldequipment.ca/locations/barrie"
+street: Huronia Road
+housenumber: "430"
+phone: +1-705-721-1919
+opening_hours: Mo-Fr 07:00-17:00; Sa-Su off
+website: https://www.battlefieldequipment.ca/locations/barrie

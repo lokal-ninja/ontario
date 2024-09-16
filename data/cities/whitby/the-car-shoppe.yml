@@ -1,11 +1,11 @@
 id: 1068624610
-type: way
+type: node
 latitude: 43.87968
 longitude: -78.94383
-postcode: "L1N 2M3"
+postcode: L1N 2M3
 city: Whitby
-street: "Dundas Street West"
-housenumber: 200
-phone: "+1 9056662088"
+street: Dundas Street West
+housenumber: "200"
+phone: +1 9056662088
 opening_hours: ""
-website: "http://www.thecarshoppe.ca"
+website: http://www.thecarshoppe.ca

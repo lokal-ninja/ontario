@@ -1,11 +1,11 @@
 id: 30622894
-type: way
+type: node
 latitude: 43.43129
 longitude: -80.52584
-postcode: "N2N 2Y2"
+postcode: N2N 2Y2
 city: Kitchener
-street: "Fischer-Hallman Road"
-housenumber: 875
+street: Fischer-Hallman Road
+housenumber: "875"
 phone: ""
-opening_hours: "Mo-Fr 10:00-21:00; Sa 09:00-21:00; Su 11:00-18:00"
-website: "https://www.thebeerstore.ca/locations/supercentre-highland-rd"
+opening_hours: Mo-Fr 10:00-21:00; Sa 09:00-21:00; Su 11:00-18:00
+website: https://www.thebeerstore.ca/locations/supercentre-highland-rd

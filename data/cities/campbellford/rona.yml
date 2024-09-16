@@ -1,11 +1,11 @@
 id: 524834140
-type: way
+type: node
 latitude: 44.29037
 longitude: -77.80822
 postcode: ""
 city: Campbellford
-street: "Grand Road"
-housenumber: 509
+street: Grand Road
+housenumber: "509"
 phone: ""
 opening_hours: ""
 website: ""

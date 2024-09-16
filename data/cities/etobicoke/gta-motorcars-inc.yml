@@ -1,11 +1,11 @@
 id: 59248707
-type: way
+type: node
 latitude: 43.61818
 longitude: -79.51589
 postcode: ""
 city: Etobicoke
-street: "Evans Avenue"
-housenumber: 218
+street: Evans Avenue
+housenumber: "218"
 phone: ""
 opening_hours: ""
-website: "https://www.gtamotorcars.com"
+website: https://www.gtamotorcars.com

@@ -1,11 +1,11 @@
 id: 524087034
-type: way
+type: node
 latitude: 44.31432
 longitude: -81.27466
-postcode: "N0G 2N0"
+postcode: N0G 2N0
 city: Paisley
-street: "Queen Street North"
-housenumber: 3416
-phone: "+1-519-353-5668"
+street: Queen Street North
+housenumber: "3416"
+phone: +1-519-353-5668
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 511861943
-type: way
+type: node
 latitude: 43.65119
 longitude: -79.43896
-postcode: "M6H 1C5"
+postcode: M6H 1C5
 city: Toronto
-street: "College Street"
-housenumber: 1257
+street: College Street
+housenumber: "1257"
 phone: ""
 opening_hours: ""
 website: ""

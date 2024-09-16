@@ -1,11 +1,11 @@
 id: 649736496
-type: way
+type: node
 latitude: 43.63896
 longitude: -79.42173
 postcode: ""
 city: Toronto
-street: "Jefferson Avenue"
-housenumber: 107
-phone: "+1 647-748-7558"
+street: Jefferson Avenue
+housenumber: "107"
+phone: +1 647-748-7558
 opening_hours: ""
 website: ""

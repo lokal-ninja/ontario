@@ -1,11 +1,11 @@
 id: 113215324
-type: way
+type: node
 latitude: 44.56977
 longitude: -80.94246
-postcode: "N4K 2H7"
+postcode: N4K 2H7
 city: Owen Sound
-street: "2nd Avenue East"
-housenumber: 1070
-phone: "+1 519-371-0222"
-opening_hours: "Mo-Fr 08:00-21:00; Sa-Su 08:15-20:00"
-website: "https://www.metro.ca/en/find-a-grocery/247"
+street: 2nd Avenue East
+housenumber: "1070"
+phone: +1 519-371-0222
+opening_hours: Mo-Fr 08:00-21:00; Sa-Su 08:15-20:00
+website: https://www.metro.ca/en/find-a-grocery/247

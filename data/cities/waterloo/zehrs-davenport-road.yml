@@ -1,11 +1,11 @@
 id: 707333863
-type: way
+type: node
 latitude: 43.49749
 longitude: -80.5254
-postcode: "N2L 6L2"
+postcode: N2L 6L2
 city: Waterloo
-street: "Davenport Road"
-housenumber: 555
-phone: "+1-519-746-0125"
-opening_hours: "Mo-Su 08:00-22:00"
+street: Davenport Road
+housenumber: "555"
+phone: +1-519-746-0125
+opening_hours: Mo-Su 08:00-22:00
 website: ""

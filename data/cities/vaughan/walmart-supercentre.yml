@@ -1,11 +1,11 @@
 id: 436615544
-type: way
+type: node
 latitude: 43.84862
 longitude: -79.55627
-postcode: "L4H3T6"
+postcode: L4H3T6
 city: Vaughan
-street: "Major MacKenzie Drive West"
-housenumber: 3600
-phone: "+1 905-832-4060"
+street: Major MacKenzie Drive West
+housenumber: "3600"
+phone: +1 905-832-4060
 opening_hours: ""
-website: "https://www.walmart.ca/en/stores-near-me/vaughan-nw-on-1095"
+website: https://www.walmart.ca/en/stores-near-me/vaughan-nw-on-1095

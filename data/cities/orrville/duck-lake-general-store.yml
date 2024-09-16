@@ -1,11 +1,11 @@
 id: 522892122
-type: way
+type: node
 latitude: 45.37807
 longitude: -79.78973
-postcode: "P2A 2W9"
+postcode: P2A 2W9
 city: Orrville
-street: "Highway 518"
-housenumber: 1170
-phone: "+1-705-732-4455"
+street: Highway 518
+housenumber: "1170"
+phone: +1-705-732-4455
 opening_hours: ""
 website: ""

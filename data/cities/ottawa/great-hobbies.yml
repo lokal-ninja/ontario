@@ -1,11 +1,11 @@
 id: 583580931
-type: way
+type: node
 latitude: 45.33293
 longitude: -75.72669
-postcode: "K2G 7B5"
+postcode: K2G 7B5
 city: Ottawa
-street: "West Hunt Club Road"
-housenumber: 540
-phone: "+1 613-244-2701"
-opening_hours: "Mo-Su 10:00-18:00"
-website: "https://www.greathobbies.com"
+street: West Hunt Club Road
+housenumber: "540"
+phone: +1 613-244-2701
+opening_hours: Mo-Su 10:00-18:00
+website: https://www.greathobbies.com

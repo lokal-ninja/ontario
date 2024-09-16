@@ -1,11 +1,11 @@
 id: 1003966457
-type: way
+type: node
 latitude: 42.03344
 longitude: -82.59609
-postcode: "N8H 0C2"
+postcode: N8H 0C2
 city: Leamington
-street: "Seacliff Drive East"
-housenumber: 24
-phone: "+1 519-322-5557"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00"
-website: "https://www.gcoc.ca/"
+street: Seacliff Drive East
+housenumber: "24"
+phone: +1 519-322-5557
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-16:00
+website: https://www.gcoc.ca/

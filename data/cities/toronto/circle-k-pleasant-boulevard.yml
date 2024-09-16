@@ -1,11 +1,11 @@
 id: 124560685
-type: way
+type: node
 latitude: 43.68706
 longitude: -79.39301
-postcode: "M4T 1K2"
+postcode: M4T 1K2
 city: Toronto
-street: "Pleasant Boulevard"
-housenumber: 11
-phone: "+1-416-925-7928"
+street: Pleasant Boulevard
+housenumber: "11"
+phone: +1-416-925-7928
 opening_hours: ""
-website: "http://www.macs.ca/"
+website: http://www.macs.ca/

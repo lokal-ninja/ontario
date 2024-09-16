@@ -1,11 +1,11 @@
 id: 605433046
-type: way
+type: node
 latitude: 44.89998
 longitude: -76.01969
-postcode: "K7A 1A2"
+postcode: K7A 1A2
 city: Smiths Falls
-street: "Main Street East"
-housenumber: 32
+street: Main Street East
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.16499
 longitude: -79.49755
 postcode: ""
 city: Beamsville
-street: "Mountainview Road"
-housenumber: 4282
-phone: "+1-905-563-8585"
-opening_hours: "Mo-Sa 10:00-17:00"
-website: "https://www.mountainviewcycle.ca/"
+street: Mountainview Road
+housenumber: "4282"
+phone: +1-905-563-8585
+opening_hours: Mo-Sa 10:00-17:00
+website: https://www.mountainviewcycle.ca/

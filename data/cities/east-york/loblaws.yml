@@ -1,11 +1,11 @@
 id: 28596077
-type: way
+type: node
 latitude: 43.69658
 longitude: -79.37105
 postcode: ""
 city: East York
-street: "Moore Avenue"
-housenumber: 301
+street: Moore Avenue
+housenumber: "301"
 phone: ""
 opening_hours: ""
 website: ""

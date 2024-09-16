@@ -1,11 +1,11 @@
 id: 33541952
-type: way
+type: node
 latitude: 43.74231
 longitude: -79.21797
 postcode: ""
 city: Toronto
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.thebeerstore.ca/"
+website: https://www.thebeerstore.ca/

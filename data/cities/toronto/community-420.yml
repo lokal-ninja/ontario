@@ -2,10 +2,10 @@ id: 5459531221
 type: node
 latitude: 43.64147
 longitude: -79.43178
-postcode: "M6K1L6"
+postcode: M6K1L6
 city: Toronto
-street: "Queen Street West"
-housenumber: 1275
-phone: "+1-416-588-9333"
+street: Queen Street West
+housenumber: "1275"
+phone: +1-416-588-9333
 opening_hours: ""
-website: "https://community420.ca/"
+website: https://community420.ca/

@@ -1,11 +1,11 @@
 id: 33300767
-type: way
+type: node
 latitude: 43.69775
 longitude: -79.74489
-postcode: "L6V 1B9"
+postcode: L6V 1B9
 city: Brampton
-street: "Hansen Road South"
-housenumber: 7
-phone: "+1-905-455-3311"
+street: Hansen Road South
+housenumber: "7"
+phone: +1-905-455-3311
 opening_hours: ""
-website: "http://www.carsrusbrampton.com/"
+website: http://www.carsrusbrampton.com/

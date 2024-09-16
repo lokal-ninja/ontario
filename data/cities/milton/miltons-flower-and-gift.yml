@@ -4,8 +4,8 @@ latitude: 43.53345
 longitude: -79.8609
 postcode: ""
 city: Milton
-street: "Main Street East"
-housenumber: 1236
+street: Main Street East
+housenumber: "1236"
 phone: ""
 opening_hours: ""
-website: "https://www.miltonsflowersandgifts.com/"
+website: https://www.miltonsflowersandgifts.com/

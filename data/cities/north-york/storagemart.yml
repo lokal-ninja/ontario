@@ -1,11 +1,11 @@
 id: 32624021
-type: way
+type: node
 latitude: 43.72491
 longitude: -79.33764
 postcode: ""
 city: North York
-street: "Gervais Drive"
-housenumber: 30
+street: Gervais Drive
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

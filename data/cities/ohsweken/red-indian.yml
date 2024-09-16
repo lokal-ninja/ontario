@@ -1,11 +1,11 @@
 id: 444345023
-type: way
+type: node
 latitude: 43.07018
 longitude: -80.1167
-postcode: "N0A 1M0"
+postcode: N0A 1M0
 city: Ohsweken
-street: "Chiefwood Road"
-housenumber: 1702
-phone: "+1-519-445-4696"
+street: Chiefwood Road
+housenumber: "1702"
+phone: +1-519-445-4696
 opening_hours: ""
 website: ""

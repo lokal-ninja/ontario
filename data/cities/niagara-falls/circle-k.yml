@@ -1,11 +1,11 @@
 id: 428376600
-type: way
+type: node
 latitude: 43.0893
 longitude: -79.08441
 postcode: ""
 city: Niagara Falls
-street: "Ferry Street"
-housenumber: 5640
+street: Ferry Street
+housenumber: "5640"
 phone: ""
 opening_hours: ""
-website: "https://newyorknews.ca/"
+website: https://newyorknews.ca/

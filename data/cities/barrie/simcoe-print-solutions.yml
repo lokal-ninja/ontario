@@ -1,11 +1,11 @@
 id: 487227844
-type: way
+type: node
 latitude: 44.38953
 longitude: -79.68578
 postcode: ""
 city: Barrie
-street: "Dunlop Street East"
-housenumber: 124
-phone: "+1-705-737-3838"
-opening_hours: "Mo-Fr 08:00-16:00"
-website: "https://simcoeprintsolutions.ca/"
+street: Dunlop Street East
+housenumber: "124"
+phone: +1-705-737-3838
+opening_hours: Mo-Fr 08:00-16:00
+website: https://simcoeprintsolutions.ca/

@@ -1,11 +1,11 @@
 id: 606064684
-type: way
+type: node
 latitude: 44.90119
 longitude: -76.01968
-postcode: "K7A 2E6"
+postcode: K7A 2E6
 city: Smiths Falls
-street: "Market Street North"
-housenumber: 32
+street: Market Street North
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

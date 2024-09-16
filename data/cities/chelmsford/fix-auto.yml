@@ -1,11 +1,11 @@
 id: 361594313
-type: way
+type: node
 latitude: 46.56835
 longitude: -81.18836
-postcode: "P0M 1L0"
+postcode: P0M 1L0
 city: Chelmsford
-street: "Michael Street"
-housenumber: 203
+street: Michael Street
+housenumber: "203"
 phone: ""
 opening_hours: ""
 website: ""

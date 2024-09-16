@@ -1,11 +1,11 @@
 id: 787833726
-type: way
+type: node
 latitude: 42.31487
 longitude: -83.05017
-postcode: "N9A 5S3"
+postcode: N9A 5S3
 city: Windsor
-street: "University Avenue West"
-housenumber: 936
+street: University Avenue West
+housenumber: "936"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

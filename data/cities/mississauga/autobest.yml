@@ -1,11 +1,11 @@
 id: 223938275
-type: way
+type: node
 latitude: 43.57603
 longitude: -79.59242
-postcode: "L5A 1A4"
+postcode: L5A 1A4
 city: Mississauga
-street: "North Service Road"
-housenumber: 329
-phone: "+1-905-281-0202"
+street: North Service Road
+housenumber: "329"
+phone: +1-905-281-0202
 opening_hours: ""
 website: ""

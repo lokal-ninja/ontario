@@ -1,11 +1,11 @@
 id: 34228127
-type: way
+type: node
 latitude: 43.77668
 longitude: -79.61059
 postcode: ""
 city: Woodbridge
-street: "Highway 7"
-housenumber: 5694
+street: Highway 7
+housenumber: "5694"
 phone: ""
 opening_hours: ""
 website: ""

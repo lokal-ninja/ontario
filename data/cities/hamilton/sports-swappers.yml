@@ -1,11 +1,11 @@
 id: 184303902
-type: way
+type: node
 latitude: 43.22978
 longitude: -79.84757
 postcode: ""
 city: Hamilton
-street: "Fennell Avenue East"
-housenumber: 828
+street: Fennell Avenue East
+housenumber: "828"
 phone: ""
 opening_hours: ""
 website: ""

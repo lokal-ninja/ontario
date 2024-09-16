@@ -1,11 +1,11 @@
 id: 163637929
-type: way
+type: node
 latitude: 43.67115
 longitude: -79.47281
 postcode: ""
 city: Toronto
-street: "St. Clair Avenue West"
-housenumber: 2129
-phone: "+1-416-766-8141"
-opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-20:00; Su 09:00-19:00; PH off"
-website: "https://www.canadiantire.ca/"
+street: St. Clair Avenue West
+housenumber: "2129"
+phone: +1-416-766-8141
+opening_hours: Mo-Fr 08:00-21:00; Sa 08:00-20:00; Su 09:00-19:00; PH off
+website: https://www.canadiantire.ca/

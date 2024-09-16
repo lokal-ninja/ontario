@@ -4,8 +4,8 @@ latitude: 43.59638
 longitude: -79.526
 postcode: ""
 city: Toronto
-street: "Lake Shore Boulevard West"
-housenumber: 3344
+street: Lake Shore Boulevard West
+housenumber: "3344"
 phone: ""
 opening_hours: ""
-website: "http://www.atlanticcellularinc.com/"
+website: http://www.atlanticcellularinc.com/

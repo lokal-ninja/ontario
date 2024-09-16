@@ -1,11 +1,11 @@
 id: 58559259
-type: way
+type: node
 latitude: 43.62061
 longitude: -79.54663
-postcode: "M8Z 1V1"
+postcode: M8Z 1V1
 city: Etobicoke
-street: "The Queensway"
-housenumber: 1604
-phone: "+1-416-253-2570"
-opening_hours: "Mo-Fr 6:00-21:00; Sa 7:00-21:00; Su 8:00-20:00"
+street: The Queensway
+housenumber: "1604"
+phone: +1-416-253-2570
+opening_hours: Mo-Fr 6:00-21:00; Sa 7:00-21:00; Su 8:00-20:00
 website: ""

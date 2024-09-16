@@ -1,11 +1,11 @@
 id: 526861511
-type: way
+type: node
 latitude: 42.04029
 longitude: -82.67315
-postcode: "N9Y 2M2"
+postcode: N9Y 2M2
 city: Kingsville
-street: "Seacliff Drive"
-housenumber: 1568
-phone: "+1-519-322-2488"
+street: Seacliff Drive
+housenumber: "1568"
+phone: +1-519-322-2488
 opening_hours: ""
 website: ""

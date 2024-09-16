@@ -1,11 +1,11 @@
 id: 459066610
-type: way
+type: node
 latitude: 42.5871
 longitude: -82.38334
-postcode: "N8A 1R7"
+postcode: N8A 1R7
 city: Wallaceburg
-street: "McNaughton Avenue"
-housenumber: 55
-phone: "+1-519-627-2713"
+street: McNaughton Avenue
+housenumber: "55"
+phone: +1-519-627-2713
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 77376091
-type: way
+type: node
 latitude: 44.38329
 longitude: -79.69491
-postcode: "L4N 6S7"
+postcode: L4N 6S7
 city: Barrie
-street: "Bradford St"
-housenumber: 80
+street: Bradford St
+housenumber: "80"
 phone: ""
 opening_hours: ""
 website: ""

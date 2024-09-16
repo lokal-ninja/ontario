@@ -1,11 +1,11 @@
 id: 318876780
-type: way
+type: node
 latitude: 43.71708
 longitude: -79.42908
 postcode: ""
 city: Toronto
-street: "Bathurst Street"
-housenumber: 2989
+street: Bathurst Street
+housenumber: "2989"
 phone: ""
 opening_hours: ""
 website: ""

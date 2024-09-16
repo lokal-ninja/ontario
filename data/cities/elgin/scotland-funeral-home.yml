@@ -1,11 +1,11 @@
 id: 521357453
-type: way
+type: node
 latitude: 44.60835
 longitude: -76.22071
 postcode: ""
 city: Elgin
-street: "Main Street"
-housenumber: 27
+street: Main Street
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 5801914953
 type: node
 latitude: 43.66386
 longitude: -79.36764
-postcode: "M5A 3A3"
+postcode: M5A 3A3
 city: Toronto
-street: "Parliament Street"
-housenumber: 465
-phone: "+1-416-923-5276"
+street: Parliament Street
+housenumber: "465"
+phone: +1-416-923-5276
 opening_hours: ""
 website: ""

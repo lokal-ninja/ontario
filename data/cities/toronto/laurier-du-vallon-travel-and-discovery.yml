@@ -2,10 +2,10 @@ id: 7815557160
 type: node
 latitude: 43.67756
 longitude: -79.38951
-postcode: "M4W 2K9"
+postcode: M4W 2K9
 city: Toronto
-street: "Yonge Street"
-housenumber: 1027
-phone: "+1 416-966-3351"
-opening_hours: "Mo-Fr 10:00-17:30; Sa-Su off"
-website: "https://www.ldvtravel.ca/"
+street: Yonge Street
+housenumber: "1027"
+phone: +1 416-966-3351
+opening_hours: Mo-Fr 10:00-17:30; Sa-Su off
+website: https://www.ldvtravel.ca/

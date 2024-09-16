@@ -1,11 +1,11 @@
 id: 309136769
-type: way
+type: node
 latitude: 44.17857
 longitude: -80.38061
-postcode: "N0C 1B0"
+postcode: N0C 1B0
 city: Dundalk
-street: "Main Street East"
-housenumber: 601
-phone: "+1-226-256-1561"
+street: Main Street East
+housenumber: "601"
+phone: +1-226-256-1561
 opening_hours: ""
 website: ""

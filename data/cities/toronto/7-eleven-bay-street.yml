@@ -2,10 +2,10 @@ id: 273325240
 type: node
 latitude: 43.65104
 longitude: -79.38141
-postcode: "M5H 2W9"
+postcode: M5H 2W9
 city: Toronto
-street: "Bay Street"
-housenumber: 372
-phone: "+1-416-203-8350"
-opening_hours: "24/7"
-website: "https://stores.7-eleven.ca/store/33491"
+street: Bay Street
+housenumber: "372"
+phone: +1-416-203-8350
+opening_hours: 24/7
+website: https://stores.7-eleven.ca/store/33491

@@ -1,11 +1,11 @@
 id: 207590812
-type: way
+type: node
 latitude: 43.43433
 longitude: -80.45349
-postcode: "N2C 1N7"
+postcode: N2C 1N7
 city: Kitchener
-street: "Third Avenue"
-housenumber: 21
-phone: "+1 519-893-4755"
+street: Third Avenue
+housenumber: "21"
+phone: +1 519-893-4755
 opening_hours: ""
-website: "https://www.kitchener10.minutemanpress.ca/"
+website: https://www.kitchener10.minutemanpress.ca/

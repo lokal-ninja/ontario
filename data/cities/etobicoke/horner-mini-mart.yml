@@ -1,11 +1,11 @@
 id: 101220868
-type: way
+type: node
 latitude: 43.60349
 longitude: -79.53898
 postcode: ""
 city: Etobicoke
-street: "Horner Avenue"
-housenumber: 434
+street: Horner Avenue
+housenumber: "434"
 phone: ""
 opening_hours: ""
 website: ""

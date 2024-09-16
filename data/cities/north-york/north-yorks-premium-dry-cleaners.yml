@@ -2,10 +2,10 @@ id: 5345553369
 type: node
 latitude: 43.75796
 longitude: -79.41045
-postcode: "M2N 5M1"
+postcode: M2N 5M1
 city: North York
-street: "Yonge Street"
-housenumber: 4664
-phone: "+1-416-733-1456"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:30-17:00; Su closed"
+street: Yonge Street
+housenumber: "4664"
+phone: +1-416-733-1456
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:30-17:00; Su closed
 website: ""

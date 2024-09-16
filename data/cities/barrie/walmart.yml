@@ -1,11 +1,11 @@
 id: 109937305
-type: way
+type: node
 latitude: 44.41006
 longitude: -79.71243
 postcode: ""
 city: Barrie
-street: "Bayfield Street"
-housenumber: 450
+street: Bayfield Street
+housenumber: "450"
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.walmart.ca/en/stores-near-me/barrie-north-on-3166"
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.walmart.ca/en/stores-near-me/barrie-north-on-3166
