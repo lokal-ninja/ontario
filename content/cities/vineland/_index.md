@@ -1,6 +1,6 @@
 ---
 title: Vineland
 url: /vineland/
-latitude: 43.149
-longitude: -79.382
+latitude: 43.143
+longitude: -79.405
 ---
