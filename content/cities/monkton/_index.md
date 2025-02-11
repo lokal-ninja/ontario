@@ -1,6 +1,6 @@
 ---
 title: Monkton
 url: /monkton/
-latitude: 43.59
-longitude: -81.081
+latitude: 43.588
+longitude: -81.085
 ---

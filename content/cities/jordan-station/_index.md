@@ -1,6 +1,6 @@
 ---
 title: Jordan Station
 url: /jordan-station/
-latitude: 43.152
-longitude: -79.333
+latitude: 43.13
+longitude: -79.379
 ---
