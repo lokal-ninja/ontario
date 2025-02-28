@@ -1,5 +1,5 @@
 ---
 title: "Access Storage"
-url: /toronto/access-storage-2/
+url: /east-york/access-storage/
 shop: storage rental
 ---
