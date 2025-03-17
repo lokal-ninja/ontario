@@ -1,6 +1,6 @@
 ---
-title: Niagara-On-The-Lake
+title: Niagara-on-the-Lake
 url: /niagara-on-the-lake/
-latitude: 43.206
-longitude: -79.072
+latitude: 43.252
+longitude: -79.126
 ---
