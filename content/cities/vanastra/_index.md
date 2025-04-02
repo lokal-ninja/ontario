@@ -1,6 +1,6 @@
 ---
 title: Vanastra
 url: /vanastra/
-latitude: 43.585
-longitude: -81.529
+latitude: 43.584
+longitude: -81.527
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Penguin PickUp"
+title: "Penguin Pickup"
 url: /toronto/penguin-pickup/
-shop: outpost
+shop: vacant
 ---
