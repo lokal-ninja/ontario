@@ -1,6 +1,6 @@
 ---
 title: Greater Sudbury
 url: /greater-sudbury/
-latitude: 46.522
-longitude: -80.92
+latitude: 46.568
+longitude: -81.197
 ---
