@@ -1,5 +1,5 @@
 ---
 title: "Raza"
 url: /mississauga/raza/
-shop: shop
+shop: mobile phone
 ---

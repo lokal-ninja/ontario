@@ -1,5 +1,5 @@
 ---
 title: "Beauty Supply Outlet"
 url: /toronto/beauty-supply-outlet/
-shop: beauty
+shop: hairdresser supply
 ---
