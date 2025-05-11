@@ -1,5 +1,5 @@
 ---
-title: "Hanji"
+title: "hanji"
 url: /toronto/hanji/
-shop: vacant
+shop: gift
 ---

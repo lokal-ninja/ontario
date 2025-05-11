@@ -1,5 +1,5 @@
 ---
-title: "hanji"
+title: "Hanji"
 url: /toronto/hanji-bloor-street-west/
-shop: gift
+shop: vacant
 ---
