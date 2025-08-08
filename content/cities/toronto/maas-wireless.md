@@ -1,5 +1,5 @@
 ---
 title: "Maas Wireless"
 url: /toronto/maas-wireless/
-shop: electronics
+shop: mobile phone
 ---

@@ -1,6 +1,6 @@
 ---
 title: Muskoka Lakes
 url: /muskoka-lakes/
-latitude: 45.121
-longitude: -79.583
+latitude: 45.107
+longitude: -79.587
 ---

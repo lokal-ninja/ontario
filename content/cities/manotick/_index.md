@@ -1,6 +1,6 @@
 ---
 title: Manotick
 url: /manotick/
-latitude: 45.234
-longitude: -75.678
+latitude: 45.224
+longitude: -75.684
 ---

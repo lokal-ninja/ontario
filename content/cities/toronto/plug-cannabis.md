@@ -1,5 +1,5 @@
 ---
-title: "Plug Cannabis"
+title: "PLUG Cannabis"
 url: /toronto/plug-cannabis/
 shop: cannabis
 ---

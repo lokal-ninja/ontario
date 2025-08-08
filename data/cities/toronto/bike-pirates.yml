@@ -7,5 +7,5 @@ city: Toronto
 street: Bloor Street West
 housenumber: "1564"
 phone: ""
-opening_hours: ""
+opening_hours: Mo,Fr off; Tu-We 18:00-21:00; Th 10:00-14:00; Sa-Su 12:00-16:00
 website: https://bikepirates.com/

@@ -1,6 +1,6 @@
 ---
 title: Atikokan
 url: /atikokan/
-latitude: 48.757
-longitude: -91.622
+latitude: 48.754
+longitude: -91.607
 ---

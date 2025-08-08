@@ -1,5 +1,5 @@
 ---
 title: "Princess Auto"
 url: /mississauga/princess-auto/
-shop: hardware
+shop: doityourself
 ---

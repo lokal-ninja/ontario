@@ -1,6 +1,6 @@
 ---
 title: Belwood
 url: /belwood/
-latitude: 43.77
-longitude: -80.364
+latitude: 43.792
+longitude: -80.321
 ---

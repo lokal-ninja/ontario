@@ -1,5 +1,5 @@
 ---
-title: "Cash for gold"
+title: "Cash for Gold"
 url: /toronto/cash-for-gold/
 shop: pawnbroker
 ---
