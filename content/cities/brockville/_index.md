@@ -1,6 +1,6 @@
 ---
 title: Brockville
 url: /brockville/
-latitude: 44.573
+latitude: 44.574
 longitude: -75.713
 ---
