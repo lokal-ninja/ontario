@@ -1,6 +1,6 @@
 ---
 title: Markdale
 url: /markdale/
-latitude: 44.32
-longitude: -80.646
+latitude: 44.319
+longitude: -80.65
 ---
