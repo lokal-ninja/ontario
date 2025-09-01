@@ -1,6 +1,6 @@
 ---
-title: bobcaygeon
+title: Bobcaygeon
 url: /bobcaygeon/
-latitude: 44.542
-longitude: -78.545
+latitude: 44.541
+longitude: -78.546
 ---

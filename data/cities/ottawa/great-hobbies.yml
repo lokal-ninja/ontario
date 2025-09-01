@@ -7,5 +7,6 @@ city: Ottawa
 street: West Hunt Club Road
 housenumber: "540"
 phone: +1 613-244-2701
-opening_hours: Mo-Su 10:00-18:00
+opening_hours: Mo-We 10:00-18:00; Th 10:00-20:00; Fr 10:00-18:00; Sa 10:00-17:00;
+    Su 11:00-17:00
 website: https://www.greathobbies.com

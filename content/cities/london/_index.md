@@ -1,6 +1,6 @@
 ---
 title: London
 url: /london/
-latitude: 43.004
-longitude: -81.227
+latitude: 42.956
+longitude: -81.289
 ---
