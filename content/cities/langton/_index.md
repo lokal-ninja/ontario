@@ -1,6 +1,6 @@
 ---
 title: Langton
 url: /langton/
-latitude: 42.668
-longitude: -80.659
+latitude: 42.742
+longitude: -80.578
 ---
