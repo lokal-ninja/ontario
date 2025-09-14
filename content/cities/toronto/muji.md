@@ -1,5 +1,5 @@
 ---
-title: "Muji"
+title: "MUJI"
 url: /toronto/muji/
-shop: interior decoration
+shop: variety store
 ---
