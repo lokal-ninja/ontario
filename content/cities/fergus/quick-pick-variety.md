@@ -1,5 +1,5 @@
 ---
-title: "Quick Pick Variety"
+title: "Quick-Pick Variety"
 url: /fergus/quick-pick-variety/
-shop: variety store
+shop: convenience
 ---
