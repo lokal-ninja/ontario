@@ -1,6 +1,6 @@
 ---
 title: Peterborough
 url: /peterborough/
-latitude: 44.288
-longitude: -78.334
+latitude: 44.278
+longitude: -78.326
 ---
