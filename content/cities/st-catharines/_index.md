@@ -1,6 +1,6 @@
 ---
 title: St. Catharines
 url: /st-catharines/
-latitude: 43.133
-longitude: -79.225
+latitude: 43.17
+longitude: -79.247
 ---
