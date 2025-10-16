@@ -1,5 +1,5 @@
 ---
 title: "BSW"
 url: /toronto/bsw/
-shop: vacant
+shop: hairdresser supply
 ---
