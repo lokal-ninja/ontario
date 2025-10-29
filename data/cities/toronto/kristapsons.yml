@@ -1,11 +1,12 @@
 id: 6402291789
 type: node
-latitude: 43.66187
+latitude: 43.66185
 longitude: -79.33598
 postcode: ""
 city: Toronto
 street: Queen Street East
 housenumber: "1095"
-phone: ""
-opening_hours: ""
-website: ""
+phone: +1-416-466-5152
+opening_hours: Mo 9:00-14:00; Tu-We 09:00-16:00; Th-Fr 09:00-18:00; Sa 09:00-16:00;
+    Su 10:00-16:00
+website: https://kristapsons.com/
