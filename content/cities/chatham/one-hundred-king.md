@@ -1,5 +1,5 @@
 ---
-title: "One Hundred KING"
+title: "One Hundred | KING"
 url: /chatham/one-hundred-king/
 shop: mall
 ---
