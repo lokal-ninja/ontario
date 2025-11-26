@@ -1,5 +1,5 @@
 ---
 title: "Staples"
-url: /barrie/staples-barrie-view-drive/
+url: /barrie/staples-bayfield-street/
 shop: office supplies
 ---

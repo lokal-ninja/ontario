@@ -1,5 +1,5 @@
 ---
 title: "Strawberry Farm Shop"
-url: /flordale/strawberry-farm-shop/
+url: /floradale/strawberry-farm-shop/
 shop: farm
 ---
