@@ -7,5 +7,5 @@ city: Toronto
 street: Lansdowne Avenue
 housenumber: "222"
 phone: +1-866-987-6453
-opening_hours: 08:00-21:00
+opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-17:00; Su 10:00-17:00
 website: ""
