@@ -1,5 +1,5 @@
 ---
 title: "Bell"
-url: /hamilton/bell-upper-james-street/
+url: /burlington/bell-maple-avenue/
 shop: mobile phone
 ---
