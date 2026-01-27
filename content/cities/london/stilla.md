@@ -1,5 +1,5 @@
 ---
 title: "Stilla"
 url: /london/stilla/
-shop: shop
+shop: shoes
 ---
