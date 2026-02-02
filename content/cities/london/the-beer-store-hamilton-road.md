@@ -1,5 +1,5 @@
 ---
 title: "The Beer Store"
-url: /beaverton/the-beer-store/
+url: /london/the-beer-store-hamilton-road/
 shop: alcohol
 ---
