@@ -7,6 +7,5 @@ city: Smiths Falls
 street: Chambers Street
 housenumber: "49"
 phone: "+16132831993"
-opening_hours: Mo-Thrus 09:00-18:00 Friday 09:00 - 19:00 Saturday 09:00-18:00 Sun
-    09:00-16:00
+opening_hours: Mo-Th 09:00-18:00; Fr 09:00-19:00; Sa 09:00-18:00 Sun 09:00-16:00
 website: ""
