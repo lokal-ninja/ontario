@@ -1,5 +1,5 @@
 ---
 title: "Canadian Tire"
-url: /guelph/canadian-tire-stone-road-west/
+url: /guelph/canadian-tire-woodlawn-road-east/
 shop: department store
 ---
