@@ -1,6 +1,6 @@
 ---
 title: Blind River
 url: /blind-river/
-latitude: 46.183
-longitude: -82.948
+latitude: 46.184
+longitude: -82.949
 ---

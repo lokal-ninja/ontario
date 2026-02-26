@@ -1,6 +1,6 @@
 ---
 title: Wellington
 url: /wellington/
-latitude: 43.952
-longitude: -77.35
+latitude: 43.94
+longitude: -77.398
 ---
