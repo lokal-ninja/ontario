@@ -1,5 +1,5 @@
 ---
 title: "Bell"
-url: /burlington/bell-maple-avenue/
+url: /burlington/bell-appleby-line/
 shop: mobile phone
 ---

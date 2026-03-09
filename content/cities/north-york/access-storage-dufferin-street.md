@@ -1,5 +1,5 @@
 ---
 title: "Access Storage"
-url: /north-york/access-storage-york-mills-road/
+url: /north-york/access-storage-dufferin-street/
 shop: storage rental
 ---
