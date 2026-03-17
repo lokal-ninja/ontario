@@ -1,6 +1,6 @@
 ---
 title: Neustadt
 url: /neustadt/
-latitude: 44.078
+latitude: 44.077
 longitude: -81.003
 ---

@@ -1,6 +1,6 @@
 ---
 title: Cobourg
 url: /cobourg/
-latitude: 43.965
-longitude: -78.184
+latitude: 43.96
+longitude: -78.167
 ---
