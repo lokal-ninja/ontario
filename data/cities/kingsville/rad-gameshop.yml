@@ -7,5 +7,5 @@ city: Kingsville
 street: Main Street West
 housenumber: "25"
 phone: +1-226-350-5537
-opening_hours: Mo-Sa 11:00-19:00 Su 12:00-17:00
+opening_hours: Mo-Sa 11:00-19:00; Su 12:00-17:00
 website: ""
