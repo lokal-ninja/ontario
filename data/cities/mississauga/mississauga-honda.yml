@@ -7,6 +7,5 @@ city: Mississauga
 street: Motorway Boulevard
 housenumber: "2380"
 phone: +1-905-828-1650
-opening_hours: 'Monday-Thursday: 09:00-20:00, Friday-Saturday: 09:00-18:00, Sunday:
-    Closed'
+opening_hours: Mo-Th 09:00-20:00, Fr-Sa 09:00-18:00
 website: ""
