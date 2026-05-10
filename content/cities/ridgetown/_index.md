@@ -1,6 +1,6 @@
 ---
 title: Ridgetown
 url: /ridgetown/
-latitude: 42.447
-longitude: -81.895
+latitude: 42.438
+longitude: -81.888
 ---
