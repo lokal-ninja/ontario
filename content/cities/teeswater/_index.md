@@ -1,6 +1,6 @@
 ---
 title: Teeswater
 url: /teeswater/
-latitude: 44.007
-longitude: -81.29
+latitude: 43.993
+longitude: -81.285
 ---
