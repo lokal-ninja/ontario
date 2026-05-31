@@ -1,6 +1,6 @@
 ---
 title: Colborne
 url: /colborne/
-latitude: 44.011
-longitude: -77.866
+latitude: 44.006
+longitude: -77.89
 ---
