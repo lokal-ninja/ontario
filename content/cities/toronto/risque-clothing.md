@@ -1,5 +1,5 @@
 ---
-title: "Risque Clothing"
+title: "Risqué Clothing"
 url: /toronto/risque-clothing/
 shop: clothes
 ---
