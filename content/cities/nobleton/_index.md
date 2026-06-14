@@ -1,6 +1,6 @@
 ---
 title: Nobleton
 url: /nobleton/
-latitude: 43.909
+latitude: 43.908
 longitude: -79.653
 ---
