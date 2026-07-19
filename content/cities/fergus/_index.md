@@ -1,6 +1,6 @@
 ---
 title: Fergus
 url: /fergus/
-latitude: 43.696
-longitude: -80.364
+latitude: 43.698
+longitude: -80.369
 ---
