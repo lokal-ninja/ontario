@@ -7,5 +7,5 @@ city: Etobicoke
 street: Judson Street
 housenumber: "53"
 phone: +1-416-629-2622
-opening_hours: by_appointment
+opening_hours: '"by appointment"'
 website: https://bonne-choice.com/

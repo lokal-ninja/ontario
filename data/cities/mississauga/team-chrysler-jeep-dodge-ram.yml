@@ -7,6 +7,5 @@ city: Mississauga
 street: Bancroft Drive
 housenumber: "777"
 phone: +1 905-819-0001
-opening_hours: 'Mon-Thu: 7:30 AM - 7:30 PM; Fri: 7:30 AM - 6:00 PM; Sat: 9:00 AM - 6:00 PM;
-    Sun: Closed'
+opening_hours: Mo-Th 07:30-19:30; Fr 07:30-18:00; Sa 09:00-18:00; Su off
 website: https://www.teamchrysler.ca/

@@ -7,6 +7,6 @@ city: Concord
 street: Steeles Avenue West
 housenumber: "3280"
 phone: +1-416-623-9334
-opening_hours: 'April to October: Mon - Wed: 9AM - 6PM / Thursday: Extended Hours
-    9AM - 8PM / Fri: 9AM - 6PM; November to March (off season), Mon - Fri: 9AM - 5PM'
+opening_hours: Apr-Oct Mo-We,Fr 09:00-18:00; Apr-Oct Th 09:00-20:00; Nov-Mar Mo-Fr
+    09:00-17:00
 website: https://torontopoolsupplies.ca/
