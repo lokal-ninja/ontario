@@ -7,5 +7,5 @@ city: Barrie
 street: Dunlop St E
 housenumber: "123"
 phone: "+17055036633"
-opening_hours: Tu-Th 10:00-16:00 Fr 10:00-17:00 Sa 10:00-16:00
+opening_hours: Tu-Th 10:00-16:00; Fr 10:00-17:00; Sa 10:00-16:00
 website: https://www.jadorefinecheese.com/

@@ -1,5 +1,5 @@
 ---
-title: "Highlife"
+title: "HighLife"
 url: /north-york/highlife/
 shop: cannabis
 ---

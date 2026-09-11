@@ -7,5 +7,8 @@ city: Breslau
 street: Victoria Street
 housenumber: "2615"
 phone: +1 519-648-2608
-opening_hours: Mo-Fr 08:00-19:00; Sa-Su 09:00-17:00
+opening_hours: 'PH off; Jan-Mar: Su-Tu off; We-Fr 09:00-18:00; Sa 09:00-17:00; Apr-Jun:
+    Mo-Fr 08:00-15:00; Sa-Su 09:00-15:00; Jul-Sep: Mo-Fr 09:00-18:00; Sa 09:00-17:00;
+    Su off, Oct-Dec: We-Fr 09:00-18:00; Sa 09:00-17:00; Su-Tu off; Dec 24 09:00-15:00;
+    Dec 31 09:00-15:00'
 website: https://belgian-nursery.com/

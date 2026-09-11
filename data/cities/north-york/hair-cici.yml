@@ -7,5 +7,5 @@ city: North York
 street: Steeles Avenue West
 housenumber: "781"
 phone: +1-416-222-2565
-opening_hours: Mo-Sa 09:30-19:30  Su 09:30-18:30
+opening_hours: Mo-Sa 09:30-19:30;  Su 09:30-18:30
 website: ""

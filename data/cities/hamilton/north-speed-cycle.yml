@@ -7,5 +7,5 @@ city: Hamilton
 street: Wentworth Street North
 housenumber: "201"
 phone: +1-905-519-3218
-opening_hours: by_appointment
+opening_hours: '"by appointment"'
 website: ""

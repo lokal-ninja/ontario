@@ -1,6 +1,6 @@
 ---
 title: Ingersoll
 url: /ingersoll/
-latitude: 43.037
-longitude: -80.868
+latitude: 43.043
+longitude: -80.889
 ---

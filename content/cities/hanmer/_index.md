@@ -1,6 +1,6 @@
 ---
 title: Hanmer
 url: /hanmer/
-latitude: 46.639
-longitude: -81.009
+latitude: 46.651
+longitude: -80.989
 ---
