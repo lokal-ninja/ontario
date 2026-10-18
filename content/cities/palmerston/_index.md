@@ -1,6 +1,6 @@
 ---
 title: Palmerston
 url: /palmerston/
-latitude: 43.833
-longitude: -80.858
+latitude: 43.834
+longitude: -80.85
 ---
