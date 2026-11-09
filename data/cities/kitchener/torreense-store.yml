@@ -7,6 +7,5 @@ city: Kitchener
 street: Mill Street
 housenumber: "223"
 phone: +1-519-742-6551
-opening_hours: Mo-We 08:30 - 18:00; Th 08:30 - 19:00; Fr 08:30 - 18:00; Sa 08:00 -
-    17:00; Su 08:00 -13:00
+opening_hours: Mo-Tu 09:00-17:00; We-Fr 09:00-18:00; Sa 08:00-16:00
 website: https://www.torreensestore.com
