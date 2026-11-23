@@ -1,6 +1,6 @@
 ---
 title: Bradford
 url: /bradford/
-latitude: 44.126
-longitude: -79.567
+latitude: 44.124
+longitude: -79.558
 ---

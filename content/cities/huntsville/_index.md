@@ -1,6 +1,6 @@
 ---
 title: Huntsville
 url: /huntsville/
-latitude: 45.333
-longitude: -79.206
+latitude: 45.326
+longitude: -79.219
 ---

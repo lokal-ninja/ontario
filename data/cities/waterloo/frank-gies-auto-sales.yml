@@ -7,5 +7,5 @@ city: Waterloo
 street: University Avenue East
 housenumber: "24"
 phone: +1-519-888-0800
-opening_hours: Mo-Th 08:00-19:00, Fr 08:00-17:30, Sa 09:00-15:00
+opening_hours: Mo-Th 08:00-19:00; Fr 08:00-17:00; Sa 09:00-15:00
 website: http://www.frankgiesautosales.com/

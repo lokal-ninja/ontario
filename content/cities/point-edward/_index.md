@@ -1,6 +1,6 @@
 ---
 title: Point Edward
 url: /point-edward/
-latitude: 42.997
-longitude: -82.413
+latitude: 42.99
+longitude: -82.401
 ---
